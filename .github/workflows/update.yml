@@ -1,0 +1,31 @@
+name: Update calendar daily
+on:
+  schedule:
+    - cron: "0 5 * * *"   # denne o 5:00 UTC (6:00 Bratislava)
+  workflow_dispatch:       # možnosť spustiť ručne
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper
+        run: python scraper.py
+
+      - name: Commit and push updated ICS
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add events.ics
+          git commit -m "Daily update" || echo "No changes"
+          git push
