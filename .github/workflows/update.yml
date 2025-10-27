@@ -7,7 +7,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
 
 jobs:
   build:
@@ -29,21 +28,17 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install requests beautifulsoup4 lxml selenium ics
+          pip install requests beautifulsoup4 lxml selenium ics pytz html5lib
 
       - name: Run scraper
         env:
           CHROME_BIN: ${{ steps.chrome.outputs.chrome-path }}
         run: python Cike_calendar.py
 
-      - name: Create Pull Request with updated events.ics
-        uses: peter-evans/create-pull-request@v6
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Daily events.ics update"
-          title: "Daily update: events.ics"
-          body: "Automated update of events.ics via scraper"
-          branch: ci/ics-auto-update
-          add-paths: |
-            events.ics
-          delete-branch: true
+      - name: Commit updated ICS
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add events.ics
+          git commit -m "Automated daily update of events.ics" || echo "No changes to commit"
+          git push
