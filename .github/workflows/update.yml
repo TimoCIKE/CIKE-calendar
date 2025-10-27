@@ -2,7 +2,7 @@ name: Build events.ics daily
 
 on:
   schedule:
-    - cron: "15 4 * * *"   # denne o 04:15 UTC
+    - cron: "10 12 * * *"   
   workflow_dispatch:
 
 permissions:
