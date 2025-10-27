@@ -2,7 +2,7 @@ name: Update calendar daily
 
 on:
   schedule:
-    - cron: "7 4 * * *"   # denne ~05:07 CET/CEST (GitHub cron je UTC)
+    - cron: "7 4 * * *"   # denne (UTC)
   workflow_dispatch:
 
 jobs:
@@ -18,12 +18,16 @@ jobs:
         with:
           python-version: "3.13"
 
-      - name: Install system deps (Chromium + chromedriver)
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y chromium-browser chromium-chromedriver
-          which chromium-browser || which chromium || true
-          which chromedriver
+      - name: Install Google Chrome
+        uses: browser-actions/setup-chrome@v1
+        with:
+          chrome-version: stable
+
+      # Voliteľné: ak nechceš spoliehať sa na Selenium Manager
+      - name: Install Chromedriver
+        uses: browser-actions/setup-chromedriver@v1
+        with:
+          chromedriver-version: matching
 
       - name: Install Python deps
         run: |
@@ -33,6 +37,8 @@ jobs:
       - name: Run scraper (only ICS in CI)
         env:
           ONLY_ICS: "1"
+          CHROME_PATH: ${{ env.CHROME_PATH }}           # z setup-chrome
+          CHROMEDRIVER_PATH: ${{ env.CHROMEDRIVER }}   # z setup-chromedriver (ak použiješ)
         run: |
           python Cike_calendar.py
 
