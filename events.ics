@@ -1,0 +1,412 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+BEGIN:VEVENT
+DESCRIPTION:Inšpiratívna diskusia a networking pre budúce líderky\n\nBritské veľvyslanectvo na Slovensku a Košice IT Valley vás pozývajú na podujatie zamerané na podporu mladých žien a dievčat s cieľom povzbudiť ich\, aby sa odvážne vydali cestou kariéry v IT\, vede\, letectve\, energetike a ďalších oblastiach tradične vnímaných ako „mužské“.\n\nhttps://www.kosiceitvalley.sk/events/zeny-mozu-byt-cimkolvek/
+DTEND:20250513T000000Z
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DTSTART:20250512T000000Z
+SUMMARY:Ženy môžu byť čímkoľvek
+UID:b6aeef0f-ced9-41b5-baa8-46b8efd33b11@b6ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Veľmi nás teší\, že naše pozvanie byť večernou lektorkou prijala Viktória Margitová z agentúry Promiseo.\n\nhttps://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-marketing/
+DTEND:20240517T000000Z
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DTSTART:20240516T000000Z
+SUMMARY:WORKSHOP pre ženy: Digitálny marketing
+UID:1df4b8ed-5752-4735-82de-691b3b702010@1df4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Finále Lab IT Creativity – Mladí inovátori predstavia svoje projekty!\n\nPo dvoch semestroch tvrdej práce prichádza veľký moment: 14 stredných škôl z celého Slovenska predstaví 17 technologických projektov na finále LAB IT Creativity — projektoch\, na ktorých intenzívne pracovali počas celého školského roka.\n\nhttps://www.kosiceitvalley.sk/events/finale-projektu-lab-it-creativity-4-rocnik/
+DTEND:20250604T000000Z
+LOCATION:Aula Maxima\, TUKE
+DTSTART:20250603T000000Z
+SUMMARY:Finále projektu LAB IT Creativity – 4.ročník
+UID:0257f575-c77c-49e7-9598-52444b115bb6@0257.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Podujatie Managing Complex Projects: practical experience sa zameria na riadenie veľkých a komplexných projektov. Prednáška prinesie praktické tipy\, riešenia a odporúčania\, doplnené o vtipné príklady a reálne skúsenosti z praxe. Cieľom je ukázať\, ako zvládnuť chaos\, udržať projekt v harmonograme a pritom si zachovať pokoj.\n\nhttps://www.kosiceitvalley.sk/events/managing-complex-projects-practical-experience/
+DTEND:20250926T000000Z
+LOCATION:UVP Technicom\, Němcovej 5
+DTSTART:20250925T000000Z
+SUMMARY:Managing Complex Projects: practical experience
+UID:51b5c4bf-97e6-4fc0-ae2b-8cd36d331206@51b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Štvrtý ročník konferencie bude mať nadnárodný charakter. Pozvali sme hostí z Maďarska a Ukrajiny\, aby sme sa spoločne pozreli na cestu k podnikateľskému úspechu v Karpatskom regióne. Celá konferencia sa bude niesť v anglickom jazyku.\n\nhttps://www.kosiceitvalley.sk/events/region-budunosti-buducnost-regionu/
+DTEND:20250515T000000Z
+LOCATION:DoubleTree by Hilton\, Košice
+DTSTART:20250514T000000Z
+SUMMARY:Región budúnosti – Budúcnosť regiónu 2025
+UID:9b5e09f5-d2fe-437c-8d4b-a0055323aed8@9b5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Komunita UX / Košice\, na ktorej spoluvytváraní sa podieľame\, organizuje svoj tradičný meetup s inšpiratívnymi prednáškami a networkingom. Tentokrát sa zameriame na dôležitú tému prepájajúcu UX dizajn a bezpečnosť.\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-14-ux-a-bezpecnost/
+DTEND:20241016T000000Z
+LOCATION:Fabricafé Tabačka\, Košice
+DTSTART:20241015T000000Z
+SUMMARY:UX / PIVO #14: UX a bezpečnosť
+UID:a293048f-237a-4b4f-8a09-3329e2352b30@a293.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahraničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medzinárodných študentov\, prekážky na trhu práce a prepojenie vzdelávania s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-conference-2025/
+DTEND:20251010T000000Z
+LOCATION:Kongres Hotel ROCA Košice
+DTSTART:20251009T000000Z
+SUMMARY:Magnetize Conference 2025
+UID:416e38c5-2e4a-4344-8996-98adfe16301f@416e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Hľadáte nové kontakty\, praktické rady a nástroje na rozvoj svojho podnikania?\nPríďte sa inšpirovať príbehmi úspešných podnikateliek a získajte cenné know-how na podujatí WOMEN & BUSINESS.\n\nhttps://www.kosiceitvalley.sk/events/women-business/
+DTEND:20250312T000000Z
+LOCATION:UVP Technicom\, Boženy Němcovej 5\, Košice
+DTSTART:20250311T000000Z
+SUMMARY:WOMEN & BUSINESS
+UID:cf8eb0ea-ef9d-47a9-a909-3cf289b8df65@cf8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:5. decembra 2024 sa v priestoroch sály Bukovina uskutoční tradičná Vianočná párty s Košice IT Valley.\n\nhttps://www.kosiceitvalley.sk/events/vianocny-vecierok/
+DTEND:20241206T000000Z
+LOCATION:Sála Bukovina\, Trieda KVP 9
+DTSTART:20241205T000000Z
+SUMMARY:Vianočný večierok
+UID:198839dc-643c-4b23-869e-ac83ab400020@1988.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Obchodné zmýšľanie\, výskum a vývoj ako recept na konkurencieschopné IT.\n\nhttps://www.kosiceitvalley.sk/events/digital-synergies/
+DTEND:20240522T000000Z
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DTSTART:20240521T000000Z
+SUMMARY:Digital Synergies
+UID:7dccc5c5-df69-44aa-a977-e9e8dab54235@7dcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Tretí ročník konferencie Región budúcnosti – Budúcnosť regiónu je za nami!\n\nRekordný počet účastníkov a neuveriteľne nabitý program s kvalitnými rečníkmi.\n\nhttps://www.kosiceitvalley.sk/events/region-buducnosti-buducnost-regionu/
+DTEND:20240529T000000Z
+LOCATION:Kasárne Kulturpark Kukučínova 2 Košice Slovakia
+DTSTART:20240528T000000Z
+SUMMARY:Región budúcnosti – Budúcnosť regiónu 2024
+UID:1ea3f815-cbd4-4e3d-8f16-b82ba28d68b0@1ea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Už tretíkrát vás srdečne pozývame na konferenciu Zborovňa\, zameranú na rozvoj pedagógov prírodovedných predmetov (science\, technology\, engineering\, mathematics) z košického a prešovského regiónu.\n\nhttps://www.kosiceitvalley.sk/events/zborovna-2025-konferencia-pre-stem-pedagogov/
+DTEND:20250214T000000Z
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DTSTART:20250213T000000Z
+SUMMARY:Zborovňa 2025 – Konferencia pre STEM pedagógov
+UID:973139c8-048d-4171-bbb1-b1928f5cb823@9731.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Zažite svet IT naživo!\nChcete vidieť\, ako vyzerá budúcnosť technológií zblízka? Príďte na náš Deň otvorených dverí a ponorte sa do atmosféry našej akadémie!\n\nhttps://www.kosiceitvalley.sk/events/dod-kosicka-akademia-softveroveho-vyvoja/
+DTEND:20250327T000000Z
+LOCATION:Moldavská cesta 8A\, budova BCT -1
+DTSTART:20250326T000000Z
+SUMMARY:DOD – Košická akadémia softvérového vývoja
+UID:71688970-89a1-4048-9a0b-188ce995109b@7168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:„Tvoj tvorivý potenciál – Tvoja budúcnosť“ je hlavnou témou prvej TEDx konferencie v Humennom.\n\nV piatok 15. novembra 2024 sa v Mestskom kultúrnom stredisku uskutoční celodenná konferencia TEDx Humenné.\n\nhttps://www.kosiceitvalley.sk/events/tedxhumenne/
+DTEND:20241116T000000Z
+LOCATION:Mestské kultúrne stredisko Humenné
+DTSTART:20241115T000000Z
+SUMMARY:TEDxHumenné
+UID:c4c361bb-7a32-477a-9570-16fe642ac40b@c4c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Inšpiratívne podujatie pre stredoškoláčky a vysokoškoláčky o odvahe ísť vlastnou cestou\, sebadôvere a kariére vo vede či technológiách.\n\nhttps://www.kosiceitvalley.sk/events/dokazem-cokolvek/
+DTEND:20250919T000000Z
+LOCATION:UVP Technicom\, Boženy Němcovej 5
+DTSTART:20250918T000000Z
+SUMMARY:Dokážem čokoľvek
+UID:f4c2e27b-653e-4338-b52e-ea153bec31dc@f4c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:IVIP Fórum 2025: Praktické riešenia pre mestá a obce\, zapojenie komunít\, prorodinné stratégie a moderné technológie pre lepšie Slovensko.\n\nhttps://www.kosiceitvalley.sk/events/ivip-forum-2025/
+DTEND:20251008T000000Z
+LOCATION:KKC Hviezda Trenčín
+DTSTART:20251007T000000Z
+SUMMARY:IVIP Fórum 2025
+UID:07be5f65-8c14-4924-b6ce-0407fabf0217@07be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Živé IT Projekty je jedinečný vzdelávací koncept organizovaný pod záštitou Katedry počítačov a informatiky FEI TUKE a združenia Košice IT Valley\, v rozsahu a formáte\, ktorý je na Slovensku nezvyčajný.\n\nhttps://www.kosiceitvalley.sk/events/zive-it-projekty-finale/
+DTEND:20250205T000000Z
+LOCATION:Kasárne Kulturpark\, Košice
+DTSTART:20250204T000000Z
+SUMMARY:Živé IT Projekty – Finále
+UID:330c67af-a944-4158-ba4c-fc8d104afeba@330c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:ESG Awards 2025 od Košice IT Valley je ocenenie pre firmy a jednotlivcov\, ktorí robia svet okolo seba lepším miestom.\n\nhttps://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni/
+DTEND:20250613T000000Z
+LOCATION:Resort Barca Hotel & Restaurant\, Košice
+DTSTART:20250612T000000Z
+SUMMARY:ESG Awards – udeľovanie ocenení
+UID:a9dd9274-ce43-4711-906d-e14f81cec64b@a9dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Menej klikov\, viac automatizácie: Spoznajte SAP EBS. Zaujíma vás\, ako automatizovať a zjednodušiť bankové procesy v SAP?\n\nhttps://www.kosiceitvalley.sk/events/accenture-sap-meetup/
+DTEND:20250605T000000Z
+LOCATION:Bratislava\, online
+DTSTART:20250604T000000Z
+SUMMARY:Accenture SAP Meetup
+UID:033eacbd-5719-4359-bee1-9c4ca3a70f77@033e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu na spoľahlivý a efektívny prvok komplexných riešení.\nO svoje skúsenosti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-spravovat-ai-systemy/
+DTEND:20251023T000000Z
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DTSTART:20251022T000000Z
+SUMMARY:PROMPT TO PRODUCTION\, Ako stavať a spravovať AI systémy
+UID:69f280cb-7dbc-482d-b084-6663ee079ea4@69f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:UX / Košice pozýva na ďalšie stretnutie komunity s témou Budovanie UX tímu. Ivana Molnárová z Lighting Beetle* a Ján Višňovský z RBI Design Competence Center ukážu\, ako fungujú úspešné tímy\, akú rolu zohráva agilita\, autonómia a dobrá tímová kultúra.\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu/
+DTEND:20251015T000000Z
+LOCATION:Tabačka Kulturfabrik
+DTSTART:20251014T000000Z
+SUMMARY:UX / PIVO #16: Budovanie UX tímu
+UID:68252174-8917-4651-8d2d-a1abbc3d0ac0@6825.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť podnikateľské myslenie vo svojej práci a využiť svoje zručnosti na tvorbu inovácií a hodnoty v organizácii. Rečníkom je Ludwig Stendahl\, skúsený konzultant\, podnikateľ a mentor so 40-ročnou praxou v podpore startupov po celej Európe.\n\nhttps://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibility-for-data-analysts/
+DTEND:20251023T000000Z
+LOCATION:Jesenná 566/5\, 040 01 Košice
+DTSTART:20251022T000000Z
+SUMMARY:DAM: Entrepreneurship as a possibility for Data Analysts
+UID:61acb82f-3ce2-445d-9c08-93344fa32da7@61ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých dopady pociťujú firmy aj občania vo forme finančných strát.\n\nhttps://www.kosiceitvalley.sk/events/seminar-kyberneticka-bezpecnost/
+DTEND:20250123T000000Z
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DTSTART:20250122T000000Z
+SUMMARY:Seminár Kybernetická bezpečnosť
+UID:a73eb491-f3ab-4c80-8784-0b6fdbf61e54@a73e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – neformálne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events/ux-piknik-4/
+DTEND:20250611T000000Z
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DTSTART:20250610T000000Z
+SUMMARY:UX / PIKNIK #4
+UID:a2ece5ea-236e-4c32-b5d7-4aaddc743981@a2ec.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Predstavujeme konferenciu „Inovácia na dosah – Digitálna (r)evolúcia“!\n\nPridajte sa k nám 18. marca 2025 od 9:00 do 13:00 v Kulturparku v Košiciach na jedinečnú konferenciu\, ktorá vám ukáže\, ako technologické trendy menia podnikanie.\n\nhttps://www.kosiceitvalley.sk/events/inovacie-na-dosah-digitalna-revolucia/
+DTEND:20250319T000000Z
+LOCATION:Kasárne Kulturpark\, Košice
+DTSTART:20250318T000000Z
+SUMMARY:Inovácie na dosah – Digitálna (r)evolúcia
+UID:34f57035-4691-44e1-8416-ffdb0eb61f17@34f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Neformálny večer pre podnikateľov\, freelancerov a startupistov\, kde sa otvorene hovorí o chybách\, pádoch aj úspechoch. Príď sa inšpirovať reálnymi príbehmi\, získať nové pohľady a spojiť sa s ľuďmi\, ktorí sa neboja rásť aj cez zlyhania.\n\nhttps://www.kosiceitvalley.sk/events/fail-fast-grow-smart/
+DTEND:20251028T000000Z
+LOCATION:Meet Up Space\, Kulturpark\, Kukučínova 2\, Košice
+DTSTART:20251027T000000Z
+SUMMARY:Fail Fast\, Grow Smart
+UID:39685595-0ec5-492a-b665-c856aacaef56@3968.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Aj tento rok sa uskutoční najväčší festival pracovných príležitostí Profesia Days. Do Košíc prinesie kariérne poradenstvo\, pracovné ponuky a najnovšie trendy zo sveta práce.\n\nhttps://www.kosiceitvalley.sk/events/profesia-days-kosice-2024/
+DTEND:20241024T000000Z
+LOCATION:Kasárne Kulturpark\, Košice
+DTSTART:20241023T000000Z
+SUMMARY:Profesia days Košice 2024
+UID:a7d3c990-a139-44ab-a660-c26d375019e4@a7d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:AI PROMPT prepája nástroje umelej inteligencie s reálnou prácou efektívnym\, zrozumiteľným a bezpečným spôsobom. A práve týmto odštartujeme náš úplne prvý meetup.\n\nhttps://www.kosiceitvalley.sk/events/ai-a-marketing-spolupraca-alebo-konkurencia/
+DTEND:20250522T000000Z
+LOCATION:Fabrika 48\, Košice
+DTSTART:20250521T000000Z
+SUMMARY:AI a marketing – spolupráca alebo konkurencia?
+UID:11561a5c-af7f-4919-b56b-00b24f332c15@1156.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Valné zhromaždenie je dôležitou príležitosťou na zhodnotenie spoločných aktivít členov klastra\, predstavenie budúcich plánov a diskusiu o strategickom smerovaní združenia.\n\nhttps://www.kosiceitvalley.sk/events/valne-zhromazdenie/
+DTEND:20250625T000000Z
+LOCATION:UVP Technicom\, Boženy Němcovej 5
+DTSTART:20250624T000000Z
+SUMMARY:Valné zhromaždenie
+UID:d7ba2098-52da-43ef-85cf-b5eb4a546dd2@d7ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Stredoškoláci\, pozor!\nViete programovať? Zaujímajú vás dáta ako obrázky\, grafy\, volebné prieskumy a práca s nimi? Baví vás riešiť problémy alebo sa jednoducho chcete naučiť\, ako používať umelú inteligenciu?\nPotom sa pridajte k piatej edícii DataDay\, kde toto všetko a ešte viac môžete zažiť na vlastnej koži!\n\nhttps://www.kosiceitvalley.sk/events/dataday5/
+DTEND:20250216T000000Z
+LOCATION:Jesenná 5\, Košice
+DTSTART:20250215T000000Z
+SUMMARY:DataDay5
+UID:29877865-201f-4e05-bed8-5efd8fb17931@2987.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného partnerstva vás pozýva na podujatie INNOPSIES Entrepreneurs’ Meeting\, venované téme inovácií v kontexte digitálnej transformácie podnikov.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-presov/
+DTEND:20241105T000000Z
+LOCATION:Hlavná 139\, Prešov
+DTSTART:20241104T000000Z
+SUMMARY:INNOPSIES – Prešov
+UID:c8eb4e69-5daf-43e9-91f5-fa2b15af4e85@c8eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Boli sme súčasťou prestížneho Forbes Business Festu\, kde sme predstavili naše aktivity a iniciatívy zamerané na podporu podnikateľského prostredia a inovácií na východnom Slovensku.\n\nhttps://www.kosiceitvalley.sk/events/forbes-business-fest/
+DTEND:20240531T000000Z
+LOCATION:Tyršovo nábrežie\, Bratislava
+DTSTART:20240530T000000Z
+SUMMARY:FORBES BUSINESS FEST
+UID:0ba1fdc7-0166-4c64-8132-e7b009c0f563@0ba1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pozývame vás na Business Breakfast Innomeets: AI for Industry and Business (6. 11. 2025\, UVP Technicom Košice). Zistite\, ako AI zvyšuje efektivitu a konkurencieschopnosť firiem. Inšpirácie\, diskusia\, networking. Registrácia zdarma.\n\nhttps://www.kosiceitvalley.sk/events/business-breakfast-ai-for-industry-and-business/
+DTEND:20251107T000000Z
+LOCATION:UVP Technicom\, Košice
+DTSTART:20251106T000000Z
+SUMMARY:Business Breakfast – AI for Industry and Business
+UID:5d436904-2b05-4bf8-8139-f8c824cfe540@5d43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Jedinečné podujatie CEO Dinner s pánom Ivanom Miklošom\, bývalým ministrom financií Slovenskej republiky\, sa uskutoční v pondelok 11. novembra 2024. Podujatie je len na pozvánky pre členov klastru a je určené predovšetkým pre CEO a CFO.\n\nhttps://www.kosiceitvalley.sk/events/ceo-dinner-s-ivanom-miklosom/
+DTEND:20241112T000000Z
+LOCATION:Gesto café & brunch\, Námestie L. Novomeského 13\, Košice
+DTSTART:20241111T000000Z
+SUMMARY:CEO Dinner s Ivanom Miklošom
+UID:6ac3d01c-3a7b-4a0f-be05-3b40db3325ba@6ac3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Našou hosťkou vo formáte CEO Coffee and Cake bude prezidentka Slovenskej republiky\, Zuzana Čaputová.\n\nTento formát\, ktorý pravidelne organizujeme v Košice IT Valley\, je navrhnutý tak\, aby prepájal lídrov na úrovni C-level\, odborníkov z ekonomiky\, verejného sektora a akademickej obce.\n\nhttps://www.kosiceitvalley.sk/events/ceo-coffee-cake-so-zuzanou-caputovou/
+DTEND:20250607T000000Z
+LOCATION:Kaviareň PAPA\, Kasárne Kulturpark
+DTSTART:20250606T000000Z
+SUMMARY:CEO Coffee & Cake so Zuzanou Čaputovou
+UID:19219cd5-daa1-4f5a-83d0-16be644c532c@1921.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:BUSINESS KOŠICE\, n.o.\, v spolupráci s Medzinárodnou organizáciou pre migráciu (IOM) a v partnerstve s klastrom Košice IT Valley vás srdečne pozýva na konferenciu „Magnetize Slovakia / Magnetize Košice – Zahraničné talenty na Slovensku a v regióne“\, ktorá sa uskutoční 7. novembra 2024 v UVP TECHNICOM\, Boženy Nemcovej 5\, Košice.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-slovakia-magnetize-kosice-zahranicny-talent-na-slovensku-a-v-regione/
+DTEND:20241108T000000Z
+LOCATION:UVP Technicom
+DTSTART:20241107T000000Z
+SUMMARY:Magnetize Slovakia / Magnetize Košice – Zahraničný talent na Slovensku a v regióne
+UID:2034c67e-2a9a-4284-a115-a80d1c43e69d@2034.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI a digitalizácia pomáhajú malým a stredným firmám rásť a byť konkurencieschopné. Večer doplní networking a konzultácie so špecialistami EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad/
+DTEND:20251010T000000Z
+LOCATION:Coworking Poprad
+DTSTART:20251009T000000Z
+SUMMARY:INNOPSIES Poprad
+UID:ad9eeb43-f5a2-44a6-8d9b-daac0528a8a0@ad9e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Festival inovácií\, ktorý sa tento rok uskutoční už po šiestykrát\, organizuje združenie INOVATO v spolupráci so svojimi členmi a partnermi. Táto jedinečná platforma spája popredných odborníkov\, akademikov\, podnikateľov\, neziskové organizácie\, študentov\, zástupcov verejnej správy a inovátorov naprieč rôznymi sektormi.\n\nhttps://www.kosiceitvalley.sk/events/inofest-2025/
+DTEND:20250924T000000Z
+LOCATION:Materiálovotechnologická faktulta STU\, Trnava
+DTSTART:20250923T000000Z
+SUMMARY:INOFEST 2025
+UID:1f031856-03f1-4225-87ad-30f4c4e17a8e@1f03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ako vyzerá aktuálny trh práce v ICT sektore v Košiciach? Aké sú najnovšie trendy v odmeňovaní v IT? Zistite viac na Data Breakfast — čakajú vás dva odborné príspevky\, panelová diskusia a jedinečná príležitosť na networking s profesionálmi z odvetvia.\n\nhttps://www.kosiceitvalley.sk/events/data-a-it-trh-prace-v-pohybe/
+DTEND:20250326T000000Z
+LOCATION:UVP Technicom\, Košice
+DTSTART:20250325T000000Z
+SUMMARY:Dáta a IT – Trh práce v pohybe
+UID:b547aabc-c4c6-4a93-9411-f3315f1bef67@b547.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pridaj sa k 10. CASSINI Hackathonu v Košiciach (7.–9. 11. 2025)! Vytváraj inovatívne riešenia s využitím satelitných dát pre gaming\, šport a cestovný ruch. Najlepšie tímy postúpia do európskeho finále. Registrácia a viac info na stránke hackathonu a platforme TAIKAI.\n\nhttps://www.kosiceitvalley.sk/events/10th-cassini-hackathon/
+DTEND:20251108T000000Z
+LOCATION:UVP TECHNICOM\, Košice
+DTSTART:20251107T000000Z
+SUMMARY:10th CASSINI Hackathon
+UID:5a378e97-0c62-4a78-91a8-79cf6a4a0f87@5a37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Vážení nadšenci projektového manažmentu!\n\nPartneri 2BCognitus\, DT IT Solutions Slovakia\, IPMA Slovakia\, IT Valley Košice a PMI Slovakia Chapter vás pozývajú na\n\n7. ročník Konferencie projektového manažmentu v Košiciach.\n\nhttps://www.kosiceitvalley.sk/events/konferencia-projektoveho-manazmentu/
+DTEND:20250430T000000Z
+LOCATION:DT IT Solutions Slovakia\, BCT1 - Moldavská cesta 8/A
+DTSTART:20250429T000000Z
+SUMMARY:Konferencia projektového manažmentu
+UID:e35ef9dc-0785-4285-acd6-3be6e59f9ef6@e35e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Komunita UX / Košice\, na ktorej spoluvytváraní sa podieľame\, organizuje svoj tradičný meetup s inšpiratívnymi prednáškami a networkingom s témou - UX pre občana\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-15-ux-pre-obcana/
+DTEND:20250212T000000Z
+LOCATION:Fabrik Space Tabačka\, Košice
+DTSTART:20250211T000000Z
+SUMMARY:UX / PIVO #15: UX pre občana
+UID:50699b74-1dec-49d7-bd30-749b0c18f8de@5069.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Spoločnosť MATHISON legal vás pozýva na Business Breakfast. Téma tohto stretnutia je AI a právo: Ako umelá inteligencia mení pravidlá podnikania.\n\nhttps://www.kosiceitvalley.sk/events/ai-a-pravo-ako-ai-meni-pravidla-podnikania-business-breakfast/
+DTEND:20250227T000000Z
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DTSTART:20250226T000000Z
+SUMMARY:AI a právo: Ako AI mení pravidlá podnikania – Business Breakfast
+UID:02626095-6d76-49de-b000-db6c7aaed3e9@0262.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného partnerstva vás pozýva na podujatie INNOPSIES Entrepreneurs’ Meeting\, zamerané na tému inovácií v kontexte digitálnej transformácie podnikania.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-michalovce/
+DTEND:20241107T000000Z
+LOCATION:Hotel Mousson\, Michalovce
+DTSTART:20241106T000000Z
+SUMMARY:INNOPSIES – Michalovce
+UID:02b0e5f6-c41f-428f-b6a3-badfeb609509@02b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Košický IT ekosystém hľadá odborníkov\, ktorí dokážu odhaliť skryté vzorce v dátach a ovládajú strojové učenie!\n\nhttps://www.kosiceitvalley.sk/events/kosice-data-school/
+DTEND:20250527T000000Z
+LOCATION:Košice
+DTSTART:20250526T000000Z
+SUMMARY:Košice  Data School
+UID:8a818b7f-437a-4d49-a914-ff890610bd7b@8a81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s organizáciou Business Lounge Vás pozýva na Biznis raňajky: Nástroje pomoci pri digitálnej transformácii malých a stredných podnikov.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-spisska-nova-ves/
+DTEND:20250911T000000Z
+LOCATION:Villa Nova Bar\, Spišská Nová Ves
+DTSTART:20250910T000000Z
+SUMMARY:INNOPSIES Spišská Nová Ves
+UID:09ae3766-9b0d-4845-abc7-a817ac707978@09ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Interaktívny workshop zameraný na kybernetickú bezpečnosť pre pedagógov\, organizovaný v spolupráci so spoločnosťou ESET a Košickým samosprávnym krajom\, predstaví aktuálne kybernetické hrozby a nástroje na ochranu v online prostredí.\n\nhttps://www.kosiceitvalley.sk/events/cybersecurity-den-pre-pedagogov/
+DTEND:20250328T000000Z
+LOCATION:UVP Technicom
+DTSTART:20250327T000000Z
+SUMMARY:Cybersecurity – Deň pre pedagógov
+UID:b5dab2d5-f4ac-41f8-9e69-99643a547099@b5da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Ak vás zaujíma\, ako veci fungujú „pod kapotou“\, ak by ste radi diskutovali o technológiách a ak vás lákajú výzvy\, ktorým čelia developerské tímy pri výbere a používaní konkrétnych technológií\, pripravili sme meetup práve pre vás – zameraný na backendové technológie – kde každý riadok kódu otvára cestu k technologickej excelentnosti budúcnosti.\n\nhttps://www.kosiceitvalley.sk/events/backend-meetup/
+DTEND:20250228T000000Z
+LOCATION:Štúrova 27\, Kosice\, Slovakia
+DTSTART:20250227T000000Z
+SUMMARY:Backend Meetup
+UID:7462a1df-0ad6-44fe-b9cf-a3c45f28a47f@7462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania?\n10\\. júna sa v Tabačke Kulturfabrik stretnú zakladatelia\, investori\, inovátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice/
+DTEND:20250611T000000Z
+LOCATION:Tabačka\, Kulturfabrik
+DTSTART:20250610T000000Z
+SUMMARY:Startup Awards Meet-up: Košice
+UID:ec39a3b7-580a-40e5-874d-77b66aa72c50@ec39.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pomáhať iným je prirodzenou súčasťou života úspešných lídrov a podnikateľov.\nPreto vás v mene Nadácie Pontis\, v spolupráci so spoločnosťou EY\, srdečne pozývame na špeciálny filantropický večer\, ktorý ponúka priestor na zdieľanie inšpiratívnych príbehov a skúseností.\n\nhttps://www.kosiceitvalley.sk/events/filantropicky-vecer-s-nadaciou-pontis-a-ey/
+DTEND:20241121T000000Z
+LOCATION:Východoslovenská galéria\, Košice
+DTSTART:20241120T000000Z
+SUMMARY:Filantropický večer s Nadáciou Pontis a EY
+UID:3a0aa5c3-2a0f-41ef-8544-fa6e0e7ebe74@3a0a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Pozývame vás na konferenciu\, na ktorej predstavíme zaujímavé témy zo sveta Microsoftu.\n\nhttps://www.kosiceitvalley.sk/events/microsoft-day-2025/
+DTEND:20250206T000000Z
+LOCATION:Microsoft Slovakia s.r.o.\, Bratislava
+DTSTART:20250205T000000Z
+SUMMARY:Microsoft Day 2025
+UID:3d1f68c9-68dd-4e74-8148-dae88f419084@3d1f.org
+END:VEVENT
+END:VCALENDAR
