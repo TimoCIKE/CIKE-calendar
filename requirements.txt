@@ -1,0 +1,6 @@
+requests
+beautifulsoup4
+lxml
+ics
+pytz
+html5lib
