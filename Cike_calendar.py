@@ -19,7 +19,7 @@ from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 from selenium.common.exceptions import TimeoutException
-
+import os
 
 # ====== Nastavenia ======
 SERVICE_ACCOUNT_FILE = "service_account.json"
@@ -156,7 +156,22 @@ def scrape_amcham_events():
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
 
-    driver = webdriver.Chrome(options=options)
+    # Dôležité: nájdi chrome binary z env (GitHub Actions nastaví CHROME_PATH)
+    chrome_path = os.getenv("CHROME_PATH") or "/usr/bin/google-chrome"  # fallback
+    options.binary_location = chrome_path
+
+    # Ak chceš explicitne použiť chromedriver z env:
+    driver = None
+    try:
+        chromedriver_path = os.getenv("CHROMEDRIVER")
+        if chromedriver_path and os.path.exists(chromedriver_path):
+            driver = webdriver.Chrome(options=options)
+        else:
+            # Selenium Manager si stiahne správny driver, keď je Chrome nainštalovaný
+            driver = webdriver.Chrome(options=options)
+    except Exception:
+        # posledný pokus – ešte raz nech Selenium Manager vyrieši driver
+        driver = webdriver.Chrome(options=options)
     driver.get(url)
     wait = WebDriverWait(driver, 12)
 
