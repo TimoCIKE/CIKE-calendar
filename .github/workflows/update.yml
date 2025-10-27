@@ -2,7 +2,7 @@ name: Build events.ics daily
 
 on:
   schedule:
-    - cron: "*/2 * * * *"       # dočasne každé 2 min pre test
+    - cron: "*/5 * * * *"       # dočasne každé 2 min pre test
   workflow_dispatch:
 
 permissions:
