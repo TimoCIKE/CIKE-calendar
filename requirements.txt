@@ -1,6 +1,8 @@
 requests
 beautifulsoup4
-lxml
-ics
+google-api-python-client
+google-auth
 pytz
-html5lib
+ics
+selenium
+urllib3
