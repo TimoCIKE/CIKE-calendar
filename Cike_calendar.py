@@ -37,6 +37,12 @@ def get_event_blocks(url):
     soup = BeautifulSoup(r.text, "html.parser")
     return soup.find_all("div", class_="e-loop-item")
 
+def normalize_source(src: str) -> str:
+    s = (src or "").strip().upper()
+    if s in ("ITVALLEY", "AMCHAM", "SOPK", "ICKK"):
+        return s
+    return "OTHER"
+
 # ====== 1️⃣ Košice IT Valley ======
 def scrape_itvalley_events():
     BASE_URL = "https://www.kosiceitvalley.sk/podujatia/"
@@ -552,13 +558,20 @@ def export_events_to_ics(events, filename="events.ics"):
             unique.append(ev)
 
     cal = Calendar()
-    for ev in unique:
+    for ev in events:
         e = Event()
         e.name = ev["summary"]
         e.begin = ev["start"]
+        # all-day štýl: koniec = nasledujúci deň
         e.end = ev["end"] + timedelta(days=1)
-        e.location = ev["location"]
-        e.description = ev["description"]
+        e.location = ev.get("location", "")
+        e.description = ev.get("description", "")
+
+        # nastav kategóriu podľa zdroja
+        src = normalize_source(ev.get("source", "OTHER"))
+        # ics knihovňa používa množinu pre categories
+        e.categories = {src}
+
         cal.events.add(e)
 
     with open(filename, "w", encoding="utf-8") as f:
