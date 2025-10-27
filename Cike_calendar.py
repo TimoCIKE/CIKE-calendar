@@ -18,7 +18,6 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 from urllib.parse import urljoin
 from bs4 import BeautifulSoup
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
-from selenium.common.exceptions import TimeoutException
 import os
 
 # ====== Nastavenia ======
@@ -151,125 +150,135 @@ def scrape_itvalley_events():
 
 def scrape_amcham_events():
     url = "https://amcham.sk/events"
+
+    # --- Chrome / Selenium nastavenia pre CI/servery ---
     options = Options()
     options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
+    options.add_argument("--window-size=1920,1080")
 
-    # Dôležité: nájdi chrome binary z env (GitHub Actions nastaví CHROME_PATH)
-    chrome_path = os.getenv("CHROME_PATH") or "/usr/bin/google-chrome"  # fallback
-    options.binary_location = chrome_path
+    # z workflowu (setup-chrome) príde CHROME_PATH; ak nie, skús bežné cesty
+    chrome_path = os.getenv("CHROME_PATH")
+    if chrome_path and os.path.exists(chrome_path):
+        options.binary_location = chrome_path
+    else:
+        for p in ("/usr/bin/google-chrome", "/usr/bin/chromium", "/usr/bin/chromium-browser"):
+            if os.path.exists(p):
+                options.binary_location = p
+                break
 
-    # Ak chceš explicitne použiť chromedriver z env:
-    driver = None
+    # Selenium Manager automaticky stiahne kompatibilný chromedriver
     try:
-        chromedriver_path = os.getenv("CHROMEDRIVER")
-        if chromedriver_path and os.path.exists(chromedriver_path):
-            driver = webdriver.Chrome(options=options)
-        else:
-            # Selenium Manager si stiahne správny driver, keď je Chrome nainštalovaný
-            driver = webdriver.Chrome(options=options)
-    except Exception:
-        # posledný pokus – ešte raz nech Selenium Manager vyrieši driver
         driver = webdriver.Chrome(options=options)
-    driver.get(url)
-    wait = WebDriverWait(driver, 12)
+    except Exception as e:
+        print(f"⚠️ Nepodarilo sa spustiť Chrome/Selenium: {e}")
+        print("   Skontroluj, či máš nainštalovaný Chrome a/alebo nastav CHROME_PATH.")
+        raise
 
+    wait = WebDriverWait(driver, 12)
     events = []
     seen = set()
 
-    # ---------- UPCOMING ----------
-    while True:
-        try:
-            load_more = wait.until(EC.element_to_be_clickable((By.ID, "data-load-more")))
-            driver.execute_script("arguments[0].scrollIntoView({block:'center'});", load_more)
-            driver.execute_script("arguments[0].click();", load_more)
-            time.sleep(1.0)
-        except Exception:
-            break
-
-    soup = BeautifulSoup(driver.page_source, "html.parser")
-    up_cont = soup.select_one("#event-list-upcoming--24")
-    events += extract_amcham_events_from_soup([up_cont] if up_cont else [], seen)
-    print(f"✅ AmCham Upcoming: {len(events)}")
-
-    # ---------- PAST (LAST YEAR) ----------
     try:
-        driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
-        time.sleep(0.8)
+        driver.get(url)
 
-        # otvoriť tabu
-        try:
-            past_tab = wait.until(EC.element_to_be_clickable(
-                (By.CSS_SELECTOR, "#select-past-year, [data-bs-target='#tab-event-list-past-year']")))
-            driver.execute_script("arguments[0].click();", past_tab)
-            time.sleep(0.8)
-        except TimeoutException:
-            pass
-
-        # zisti ID kontajnera (je dynamické)
-        cont_el = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "[id^='event-list-past-year-']")))
-        cont_id = cont_el.get_attribute("id")
-
-        # helper: nájdi tlačidlo Load more priamo pre tento kontajner
-        def find_load_more_for_container():
-            css = (
-                f"#tab-event-list-past-year #data-load-more[data-target='{cont_id}'], "
-                f"[id^='tab-event-list-past-year'] #data-load-more[data-target='{cont_id}']"
-            )
-            btns = driver.find_elements(By.CSS_SELECTOR, css)
-            if not btns:
-                return None
-            return btns[0]
-
-        # klikať do vyčerpania
-        last_count = 0
-        stall_hits = 0
-        MAX_STALLS = 3
-        for _ in range(60):  # safe cap
-            curr_count = len(driver.find_elements(By.CSS_SELECTOR, f"#{cont_id} .event-item"))
-            if curr_count == last_count:
-                stall_hits += 1
-            else:
-                stall_hits = 0
-            last_count = curr_count
-
-            btn = find_load_more_for_container()
-            if not btn:
-                break
-            style = btn.get_attribute("style") or ""
-            if "display: none" in style.replace(" ", "").lower():
-                break
-
+        # ---------- UPCOMING ----------
+        while True:
             try:
-                driver.execute_script("arguments[0].scrollIntoView({block:'center'});", btn)
-                driver.execute_script("arguments[0].click();", btn)
-            except StaleElementReferenceException:
+                load_more = wait.until(EC.element_to_be_clickable((By.ID, "data-load-more")))
+                driver.execute_script("arguments[0].scrollIntoView({block:'center'});", load_more)
+                driver.execute_script("arguments[0].click();", load_more)
+                time.sleep(1.0)
+            except Exception:
+                break
+
+        soup = BeautifulSoup(driver.page_source, "html.parser")
+        up_cont = soup.select_one("#event-list-upcoming--24")
+        events += extract_amcham_events_from_soup([up_cont] if up_cont else [], seen)
+        print(f"✅ AmCham Upcoming: {len(events)}")
+
+        # ---------- PAST (LAST YEAR) ----------
+        try:
+            driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+            time.sleep(0.8)
+
+            # otvoriť tabu
+            try:
+                past_tab = wait.until(EC.element_to_be_clickable(
+                    (By.CSS_SELECTOR, "#select-past-year, [data-bs-target='#tab-event-list-past-year']")))
+                driver.execute_script("arguments[0].click();", past_tab)
+                time.sleep(0.8)
+            except TimeoutException:
+                pass
+
+            # zisti ID kontajnera (je dynamické)
+            cont_el = wait.until(EC.presence_of_element_located((By.CSS_SELECTOR, "[id^='event-list-past-year-']")))
+            cont_id = cont_el.get_attribute("id")
+
+            # helper: nájdi tlačidlo Load more priamo pre tento kontajner
+            def find_load_more_for_container():
+                css = (
+                    f"#tab-event-list-past-year #data-load-more[data-target='{cont_id}'], "
+                    f"[id^='tab-event-list-past-year'] #data-load-more[data-target='{cont_id}']"
+                )
+                btns = driver.find_elements(By.CSS_SELECTOR, css)
+                return btns[0] if btns else None
+
+            # klikať do vyčerpania
+            last_count = 0
+            stall_hits = 0
+            MAX_STALLS = 3
+            for _ in range(60):  # bezpečnostný limit
+                curr_count = len(driver.find_elements(By.CSS_SELECTOR, f"#{cont_id} .event-item"))
+                if curr_count == last_count:
+                    stall_hits += 1
+                else:
+                    stall_hits = 0
+                last_count = curr_count
+
                 btn = find_load_more_for_container()
                 if not btn:
                     break
-                driver.execute_script("arguments[0].scrollIntoView({block:'center'});", btn)
-                driver.execute_script("arguments[0].click();", btn)
-
-            try:
-                wait.until(lambda d: len(d.find_elements(By.CSS_SELECTOR, f"#{cont_id} .event-item")) > curr_count)
-            except TimeoutException:
-                if stall_hits >= MAX_STALLS:
+                style = (btn.get_attribute("style") or "").replace(" ", "").lower()
+                if "display:none" in style:
                     break
-            time.sleep(0.8)
 
-        soup_past = BeautifulSoup(driver.page_source, "html.parser")
-        past_container = soup_past.select_one(f"#{cont_id}")
-        new_events = extract_amcham_events_from_soup([past_container] if past_container else [], seen)
-        events += new_events
-        print(f"✅ AmCham Past (Last Year): {len(new_events)}")
+                try:
+                    driver.execute_script("arguments[0].scrollIntoView({block:'center'});", btn)
+                    driver.execute_script("arguments[0].click();", btn)
+                except StaleElementReferenceException:
+                    btn = find_load_more_for_container()
+                    if not btn:
+                        break
+                    driver.execute_script("arguments[0].scrollIntoView({block:'center'});", btn)
+                    driver.execute_script("arguments[0].click();", btn)
 
-    except Exception:
-        pass
+                try:
+                    wait.until(lambda d: len(d.find_elements(By.CSS_SELECTOR, f"#{cont_id} .event-item")) > curr_count)
+                except TimeoutException:
+                    if stall_hits >= MAX_STALLS:
+                        break
+                time.sleep(0.8)
 
-    driver.quit()
-    print(f"✅ AmCham spolu: {len(events)} podujatí")
-    return events
+            soup_past = BeautifulSoup(driver.page_source, "html.parser")
+            past_container = soup_past.select_one(f"#{cont_id}")
+            new_events = extract_amcham_events_from_soup([past_container] if past_container else [], seen)
+            events += new_events
+            print(f"✅ AmCham Past (Last Year): {len(new_events)}")
+
+        except Exception:
+            pass
+
+        print(f"✅ AmCham spolu: {len(events)} podujatí")
+        return events
+
+    finally:
+        # vždy zatvor prehliadač
+        try:
+            driver.quit()
+        except Exception:
+            pass
 
 def extract_amcham_events_from_soup(containers, seen):
     """containers = list[Tag] alebo list[None]; spracuje len vybrané časti stránky (napr. #event-list-...),
