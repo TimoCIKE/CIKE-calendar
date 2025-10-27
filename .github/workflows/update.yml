@@ -1,55 +1,36 @@
-name: Update calendar daily
+name: Build events.ics daily
 
 on:
   schedule:
-    - cron: "7 4 * * *"     # denne (UTC)
+    - cron: "15 4 * * *"   # denne ~06:15 CET (uprav podľa potreby)
   workflow_dispatch:
 
 jobs:
-  build:
+  scrape:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.13"
 
-      - name: Install Google Chrome
-        uses: browser-actions/setup-chrome@v1
-        with:
-          chrome-version: stable
-      # Táto akcia nastaví env premennú CHROME_PATH
-
-      - name: Install Python deps
+      - name: Install deps
         run: |
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run scraper (generate ICS)
-        env:
-          ONLY_ICS: "1"
-          CHROME_PATH: ${{ env.CHROME_PATH }}   # z setup-chrome
-        run: |
-          python Cike_calendar.py
+      - name: Setup Chrome (for Selenium)
+        uses: browser-actions/setup-chrome@v1
 
-      - name: Commit ICS if changed
+      - name: Run scraper
+        run: python Cike_calendar.py
+
+      - name: Commit events.ics
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add -A
-          if ! git diff --cached --quiet; then
-            git commit -m "chore(ci): update ICS"
-            git push
-          else
-            echo "No changes to commit."
-          fi
-
-      - name: Upload ICS artifact (optional)
-        uses: actions/upload-artifact@v4
-        with:
-          name: cike_events.ics
-          path: cike_events.ics
+          git add events.ics
+          git commit -m "Daily events.ics update" || echo "No changes to commit"
+          git push
