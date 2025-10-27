@@ -2,15 +2,19 @@ name: Build events.ics daily
 
 on:
   schedule:
-    - cron: "15 4 * * *"   # denne ~06:15 CET (uprav podľa potreby)
+    - cron: "15 4 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write    # na vytvorenie branch a PR
 
 jobs:
   scrape:
     runs-on: ubuntu-latest
-
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: actions/setup-python@v5
         with:
@@ -27,10 +31,19 @@ jobs:
       - name: Run scraper
         run: python Cike_calendar.py
 
-      - name: Commit events.ics
+      - name: Prepare commit
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
+          git checkout -b update/events-ics
           git add events.ics
-          git commit -m "Daily events.ics update" || echo "No changes to commit"
-          git push
+          git commit -m "Update events.ics" || echo "No changes to commit"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v6
+        with:
+          branch: update/events-ics
+          title: "Daily update: events.ics"
+          commit-message: "Update events.ics"
+          body: "Automated update of events.ics"
+          token: ${{ secrets.GITHUB_TOKEN }}
