@@ -662,7 +662,7 @@ if __name__ == "__main__":
     print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Spúšťam scraper...\n")
     events = []
     events += scrape_itvalley_events()
-    events += scrape_amcham_events()
+    #events += scrape_amcham_events()
     events += scrape_sopk_events()
     events += scrape_ickk_events()
     if events:
