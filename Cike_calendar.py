@@ -593,28 +593,6 @@ def _stable_uid(ev):
     base = f"{title}|{part}|{src}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
-def _inclusive_end_date_for_all_day(ev):
-    """Vráti inkluzívny koniec (date) pre all-day/fake-all-day, ignoruje čas."""
-    s, e = ev["start"], ev["end"]
-    start_date = s.date()
-    end_date = e.date()
-    same_time = (s.hour == e.hour and s.minute == e.minute)
-    likely_fake_hour = s.minute == 0 and s.hour in (0, 1)
-    raw_days = (end_date - start_date).days
-
-    # Ak je to vzor "rovnaký čas" (00:00 alebo 01:00) a rozdiel >= 1,
-    # považujeme koniec zo zdroja za EXKLUZÍVNY => zmeníme na INKLUZÍVNY odpočítaním 1 dňa.
-    if raw_days >= 1 and same_time and likely_fake_hour:
-        inclusive_end = start_date + timedelta(days=raw_days - 1)
-    else:
-        inclusive_end = end_date
-
-    # bezpečnostná poistka
-    if inclusive_end < start_date:
-        inclusive_end = start_date
-
-    return inclusive_end
-
 def export_events_to_ics(events, filename="events.ics"):
     # 1) dedupe (podľa čisteného názvu + dátumu/času)
     seen, unique = set(), []
@@ -624,7 +602,7 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
-    # 2) zápis
+    # 2) zapis
     cal = Calendar()
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
@@ -639,16 +617,18 @@ def export_events_to_ics(events, filename="events.ics"):
         s, t = ev["start"], ev["end"]
 
         if _is_all_day_00(ev) or _looks_fake_all_day(ev):
-            # ➜ skutočné all-day s EXKLUZÍVNYM koncom, ale počítané len z dátumov
+            # ➜ skutočné all-day s exkluzívnym koncom
             start_date = s.date()
-            inclusive_end = _inclusive_end_date_for_all_day(ev)
-            exclusive_end = inclusive_end + timedelta(days=1)
-
+            # dĺžka v dňoch = rozdiel dátumov; exkluzívny koniec je priamo end.date()
+            exclusive_end = t.date()
+            # ochrana pri prípadnom nesprávnom rozsahu
+            if exclusive_end <= start_date:
+                exclusive_end = start_date + timedelta(days=1)
             e.begin = start_date
             e.end   = exclusive_end
-            e.make_all_day()  # vygeneruje VALUE=DATE (bez časov)
+            e.make_all_day()  # vygeneruje VALUE=DATE
         else:
-            # ⏰ reálne časované udalosti (bez zmeny)
+            # ⏰ reálne časované udalosti
             if s.tzinfo is None:
                 s = TZ.localize(s)
             if t.tzinfo is None:
@@ -663,6 +643,7 @@ def export_events_to_ics(events, filename="events.ics"):
 
     print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (po dedupe).")
     return filename
+
 
 
 
