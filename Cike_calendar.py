@@ -552,8 +552,17 @@ def _stable_uid(ev):
     base = f"{ev['summary'].strip().lower()}|{ev['start'].date()}|{normalize_source(ev.get('source','OTHER'))}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
+# voliteľne si vieš upraviť zobrazený prefix (napr. pridať emoji)
+PREFIX_LABEL = {
+    "ITVALLEY": "[ITVALLEY]",
+    "AMCHAM":   "[AMCHAM]",
+    "SOPK":     "[SOPK]",
+    "ICKK":     "[ICKK]",
+    "OTHER":    "[OTHER]",
+}
+
 def export_events_to_ics(events, filename="events.ics"):
-    # dedupe cez (názov, dátum) naprieč všetkými zdrojmi
+    # dedupe cez (názov, dátum)
     seen = set()
     unique = []
     for ev in events:
@@ -563,20 +572,23 @@ def export_events_to_ics(events, filename="events.ics"):
             unique.append(ev)
 
     cal = Calendar()
+
     for ev in unique:
+        src = normalize_source(ev.get("source", "OTHER"))
+        prefix = PREFIX_LABEL.get(src, f"[{src}]")
+
         e = Event()
-        e.name = ev["summary"]
-        # celodenné: end = nasledujúci deň
+        # názov s prefixom pre „automatické farbenie podľa názvu“
+        e.name = f"{prefix} {ev['summary']}"
         e.begin = ev["start"]
-        e.end = ev["end"] + timedelta(days=1)
+        e.end = ev["end"] + timedelta(days=1)   # all-day štýl
         e.location = ev.get("location", "")
         e.description = ev.get("description", "")
 
-        # kategórie pre Outlook farbenie
-        src = normalize_source(ev.get("source", "OTHER"))
+        # necháme aj CATEGORIES (neprekáža to; pri importe do klasického kalendára sa zobrazí)
         e.categories = {src}
 
-        # stabilné UID (dôležité pri subscription, aby sa aktualizovalo namiesto duplikovania)
+        # stabilné UID kvôli aktualizáciám bez duplikátov
         e.uid = _stable_uid(ev)
 
         cal.events.add(e)
@@ -584,7 +596,7 @@ def export_events_to_ics(events, filename="events.ics"):
     with open(filename, "w", encoding="utf-8") as f:
         f.writelines(cal.serialize_iter())
 
-    print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (z pôvodných {len(events)}).")
+    print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí.")
     return filename
 
 # ====== Spustenie ======
