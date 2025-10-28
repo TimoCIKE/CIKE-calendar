@@ -547,22 +547,33 @@ def scrape_ickk_events():
 # ====== Export do ICS ======
 from ics import Calendar, Event
 import hashlib
+import re
+from datetime import timedelta
+
+EMOJI_MAP = {
+    "ITVALLEY": "🔵",   # modrá
+    "AMCHAM":   "🟢",   # zelená
+    "SOPK":     "🟧",   # oranžová
+    "ICKK":     "🟣",   # fialová
+    "OTHER":    "⚪",   # neutrál
+}
 
 def _stable_uid(ev):
     base = f"{ev['summary'].strip().lower()}|{ev['start'].date()}|{normalize_source(ev.get('source','OTHER'))}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
-# voliteľne si vieš upraviť zobrazený prefix (napr. pridať emoji)
-PREFIX_LABEL = {
-    "ITVALLEY": "[ITVALLEY]",
-    "AMCHAM":   "[AMCHAM]",
-    "SOPK":     "[SOPK]",
-    "ICKK":     "[ICKK]",
-    "OTHER":    "[OTHER]",
-}
+# odstráni starý prefix typu "🟢 [AMCHAM] " alebo len "[AMCHAM] "
+_PREFIX_RE = re.compile(r"^(?:[\u2600-\u27BF\U0001F300-\U0001FAFF]\s*)?\[(ITVALLEY|AMCHAM|SOPK|ICKK|OTHER)\]\s*", re.IGNORECASE)
+
+def _with_emoji_prefix(title: str, source: str) -> str:
+    """Vráti názov s jediným správnym prefixom a vyčistí prípadné staré prefixy."""
+    cleaned = _PREFIX_RE.sub("", (title or "").strip())
+    src = normalize_source(source)
+    emoji = EMOJI_MAP.get(src, EMOJI_MAP["OTHER"])
+    return f"{emoji} [{src}] {cleaned}"
 
 def export_events_to_ics(events, filename="events.ics"):
-    # dedupe cez (názov, dátum)
+    # 1) dedupe: názov + dátum (podľa pôvodného titulu bez prefixu)
     seen = set()
     unique = []
     for ev in events:
@@ -571,24 +582,26 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
+    # 2) zostav kalendár
     cal = Calendar()
-
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
-        prefix = PREFIX_LABEL.get(src, f"[{src}]")
 
         e = Event()
-        # názov s prefixom pre „automatické farbenie podľa názvu“
-        e.name = f"{prefix} {ev['summary']}"
+        # celodenné: end = nasledujúci deň
         e.begin = ev["start"]
-        e.end = ev["end"] + timedelta(days=1)   # all-day štýl
+        e.end = ev["end"] + timedelta(days=1)
+
+        # názov s emoji + prefixom (bez reťazenia starých prefixov)
+        e.name = _with_emoji_prefix(ev["summary"], src)
+
         e.location = ev.get("location", "")
         e.description = ev.get("description", "")
 
-        # necháme aj CATEGORIES (neprekáža to; pri importe do klasického kalendára sa zobrazí)
+        # CATEGORIES si necháme (desktop Outlook ich vie), web Outlook ich ignoruje
         e.categories = {src}
 
-        # stabilné UID kvôli aktualizáciám bez duplikátov
+        # stabilné UID — dôležité pri subscription, aby sa udalosti nezdvojovali
         e.uid = _stable_uid(ev)
 
         cal.events.add(e)
@@ -596,7 +609,7 @@ def export_events_to_ics(events, filename="events.ics"):
     with open(filename, "w", encoding="utf-8") as f:
         f.writelines(cal.serialize_iter())
 
-    print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí.")
+    print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (po dedupe).")
     return filename
 
 # ====== Spustenie ======
