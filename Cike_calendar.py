@@ -546,6 +546,11 @@ def scrape_ickk_events():
 
 # ====== Export do ICS ======
 from ics import Calendar, Event
+import hashlib
+
+def _stable_uid(ev):
+    base = f"{ev['summary'].strip().lower()}|{ev['start'].date()}|{normalize_source(ev.get('source','OTHER'))}"
+    return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
 def export_events_to_ics(events, filename="events.ics"):
     # dedupe cez (názov, dátum) naprieč všetkými zdrojmi
@@ -579,7 +584,7 @@ def export_events_to_ics(events, filename="events.ics"):
     with open(filename, "w", encoding="utf-8") as f:
         f.writelines(cal.serialize_iter())
 
-    print(f"✅ ICS súbor '{filename}' vytvorený – importuj ho v Outlooku / alebo ho čítaj ako internetový kalendár (ak ho niekde hostuješ).")
+    print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (z pôvodných {len(events)}).")
     return filename
 
 # ====== Spustenie ======
