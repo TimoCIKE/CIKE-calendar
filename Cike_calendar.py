@@ -545,11 +545,12 @@ def scrape_ickk_events():
     return events
 
 # ====== Export do ICS ======
-from ics import Calendar, Event
+from datetime import timedelta
 import hashlib
 import re
-from datetime import timedelta
 import pytz
+
+TZ = pytz.timezone("Europe/Bratislava")
 
 EMOJI_MAP = {
     "ITVALLEY": "🔵",
@@ -559,44 +560,37 @@ EMOJI_MAP = {
     "OTHER":    "⚪",
 }
 
-# rovnaký regex ako máš – odstraňuje staré prefixy, aby sa nereťazili
 _PREFIX_RE = re.compile(
     r"^(?:[\u2600-\u27BF\U0001F300-\U0001FAFF]\s*)?\[(ITVALLEY|AMCHAM|SOPK|ICKK|OTHER)\]\s*",
     re.IGNORECASE
 )
-
-# zjednotený zdroj (máš ju už vyššie v kóde)
-# def normalize_source(...): ...
-
-TZ = pytz.timezone("Europe/Bratislava")
 
 def _with_emoji_prefix(title: str, source: str) -> str:
     cleaned = _PREFIX_RE.sub("", (title or "").strip())
     src = normalize_source(source)
     return f"{EMOJI_MAP.get(src, EMOJI_MAP['OTHER'])} [{src}] {cleaned}"
 
-def _is_all_day(ev) -> bool:
-    s, e = ev["start"], ev["end"]
-    return (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
-
 def _dedupe_key(ev):
-    """Na dedupe používame (čistený titul, dátum) alebo (čistený titul, dátum+čas), ak je čas známy."""
     base_title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
-    if _is_all_day(ev):
-        return (base_title, ev["start"].strftime("%Y-%m-%d"))
-    else:
-        return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
+    s = ev["start"]; e = ev["end"]
+    is_all_day = (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
+    return (base_title, s.strftime("%Y-%m-%d") if is_all_day
+            else s.strftime("%Y-%m-%d %H:%M"))
 
 def _stable_uid(ev):
-    """UID je stabilné; pre časové eventy berie do úvahy aj čas, pre all-day len dátum."""
     src = normalize_source(ev.get("source", "OTHER"))
     title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
-    part = ev["start"].strftime("%Y-%m-%d %H:%M") if not _is_all_day(ev) else ev["start"].strftime("%Y-%m-%d")
+    s = ev["start"]; e = ev["end"]
+    is_all_day = (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
+    part = s.strftime("%Y-%m-%d") if is_all_day else s.strftime("%Y-%m-%d %H:%M")
     base = f"{title}|{part}|{src}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
+def _ics_escape(text: str) -> str:
+    return (text or "").replace("\\", "\\\\").replace(";", r"\;").replace(",", r"\,").replace("\n", r"\n")
+
 def export_events_to_ics(events, filename="events.ics"):
-    # 1) dedupe
+    # 1) de-dupe
     seen, unique = set(), []
     for ev in events:
         k = _dedupe_key(ev)
@@ -604,39 +598,53 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
-    # 2) zápis do ICS
-    cal = Calendar()
+    # 2) poskladaj ICS ručne (istota správania v Outlook Web)
+    lines = []
+    lines.append("BEGIN:VCALENDAR")
+    lines.append("VERSION:2.0")
+    lines.append("PRODID:-//CIKE//Events//SK")
+    lines.append("CALSCALE:GREGORIAN")
+    lines.append("METHOD:PUBLISH")
+
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
+        name = _with_emoji_prefix(ev["summary"], src)
+        uid  = _stable_uid(ev)
 
-        e = Event()
-        e.name = _with_emoji_prefix(ev["summary"], src)
-        e.location = ev.get("location", "")
-        e.description = ev.get("description", "")
-        e.categories = {src}  # Outlook desktop využije; web ho ignoruje
-        e.uid = _stable_uid(ev)
+        s = ev["start"]; e = ev["end"]
+        # Rozhodni all-day vs časované podľa „nulového“ času na vstupe
+        is_all_day = (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
 
-        if _is_all_day(ev):
-            # all-day: ICS používa exkluzívny DTEND → +1 deň, no bez časovej zložky
-            e.begin = ev["start"].date()
-            e.end   = None
-            e.make_all_day()
+        lines.append("BEGIN:VEVENT")
+        lines.append(f"UID:{uid}")
+        lines.append(f"SUMMARY:{_ics_escape(name)}")
+        if ev.get("location"):
+            lines.append(f"LOCATION:{_ics_escape(ev['location'])}")
+        if ev.get("description"):
+            lines.append(f"DESCRIPTION:{_ics_escape(ev['description'])}")
+        lines.append(f"CATEGORIES:{src}")
+
+        if is_all_day:
+            # >>> JEDEN DEŇ: len dátumy, žiadny čas
+            ds = s.strftime("%Y%m%d")
+            de = (s + timedelta(days=1)).strftime("%Y%m%d")  # exkluzívny koniec = nasledujúci deň
+            lines.append(f"DTSTART;VALUE=DATE:{ds}")
+            lines.append(f"DTEND;VALUE=DATE:{de}")
         else:
-            # časové: zachovaj presný čas (bez +1 dňa)
-            # ak máš naive datetimes, pridáme timezone, aby sa v Outlooke nevznikal posun
-            s = ev["start"]
-            e_dt = ev["end"]
-            if s.tzinfo is None:
-                s = TZ.localize(s)
-            if e_dt.tzinfo is None:
-                e_dt = TZ.localize(e_dt)
-            e.begin = s
-            e.end   = e_dt
+            # >>> ČASOVÉ: lokálny čas s TZID (žiadne Z/UTC)
+            if s.tzinfo is None: s = TZ.localize(s)
+            if e.tzinfo is None: e = TZ.localize(e)
+            ds = s.strftime("%Y%m%dT%H%M%S")
+            de = e.strftime("%Y%m%dT%H%M%S")
+            lines.append(f"DTSTART;TZID=Europe/Bratislava:{ds}")
+            lines.append(f"DTEND;TZID=Europe/Bratislava:{de}")
 
-        cal.events.add(e)
+        lines.append("END:VEVENT")
+
+    lines.append("END:VCALENDAR")
 
     with open(filename, "w", encoding="utf-8") as f:
-        f.writelines(cal.serialize_iter())
+        f.write("\r\n".join(lines) + "\r\n")
 
     print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (po dedupe).")
     return filename
