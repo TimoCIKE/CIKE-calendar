@@ -545,12 +545,10 @@ def scrape_ickk_events():
     return events
 
 # ====== Export do ICS ======
+from ics import Calendar, Event
+import hashlib, re
 from datetime import timedelta
-import hashlib
-import re
 import pytz
-
-TZ = pytz.timezone("Europe/Bratislava")
 
 EMOJI_MAP = {
     "ITVALLEY": "🔵",
@@ -565,32 +563,33 @@ _PREFIX_RE = re.compile(
     re.IGNORECASE
 )
 
+TZ = pytz.timezone("Europe/Bratislava")
+
 def _with_emoji_prefix(title: str, source: str) -> str:
     cleaned = _PREFIX_RE.sub("", (title or "").strip())
     src = normalize_source(source)
     return f"{EMOJI_MAP.get(src, EMOJI_MAP['OTHER'])} [{src}] {cleaned}"
 
+def _is_all_day(ev) -> bool:
+    s, e = ev["start"], ev["end"]
+    return (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
+
 def _dedupe_key(ev):
     base_title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
-    s = ev["start"]; e = ev["end"]
-    is_all_day = (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
-    return (base_title, s.strftime("%Y-%m-%d") if is_all_day
-            else s.strftime("%Y-%m-%d %H:%M"))
+    if _is_all_day(ev):
+        return (base_title, ev["start"].strftime("%Y-%m-%d"))
+    else:
+        return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
 
 def _stable_uid(ev):
     src = normalize_source(ev.get("source", "OTHER"))
     title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
-    s = ev["start"]; e = ev["end"]
-    is_all_day = (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
-    part = s.strftime("%Y-%m-%d") if is_all_day else s.strftime("%Y-%m-%d %H:%M")
+    part = ev["start"].strftime("%Y-%m-%d %H:%M") if not _is_all_day(ev) else ev["start"].strftime("%Y-%m-%d")
     base = f"{title}|{part}|{src}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
-def _ics_escape(text: str) -> str:
-    return (text or "").replace("\\", "\\\\").replace(";", r"\;").replace(",", r"\,").replace("\n", r"\n")
-
 def export_events_to_ics(events, filename="events.ics"):
-    # 1) de-dupe
+    # 1) dedupe
     seen, unique = set(), []
     for ev in events:
         k = _dedupe_key(ev)
@@ -598,56 +597,46 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
-    # 2) poskladaj ICS ručne (istota správania v Outlook Web)
-    lines = []
-    lines.append("BEGIN:VCALENDAR")
-    lines.append("VERSION:2.0")
-    lines.append("PRODID:-//CIKE//Events//SK")
-    lines.append("CALSCALE:GREGORIAN")
-    lines.append("METHOD:PUBLISH")
-
+    # 2) ICS
+    cal = Calendar()
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
-        name = _with_emoji_prefix(ev["summary"], src)
-        uid  = _stable_uid(ev)
 
-        s = ev["start"]; e = ev["end"]
-        # Rozhodni all-day vs časované podľa „nulového“ času na vstupe
-        is_all_day = (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
+        e = Event()
+        e.name = _with_emoji_prefix(ev["summary"], src)
+        e.location = ev.get("location", "")
+        e.description = ev.get("description", "")
+        e.categories = {src}
+        e.uid = _stable_uid(ev)
 
-        lines.append("BEGIN:VEVENT")
-        lines.append(f"UID:{uid}")
-        lines.append(f"SUMMARY:{_ics_escape(name)}")
-        if ev.get("location"):
-            lines.append(f"LOCATION:{_ics_escape(ev['location'])}")
-        if ev.get("description"):
-            lines.append(f"DESCRIPTION:{_ics_escape(ev['description'])}")
-        lines.append(f"CATEGORIES:{src}")
-
-        if is_all_day:
-            # >>> JEDEN DEŇ: len dátumy, žiadny čas
-            ds = s.strftime("%Y%m%d")
-            de = (s + timedelta(days=1)).strftime("%Y%m%d")  # exkluzívny koniec = nasledujúci deň
-            lines.append(f"DTSTART;VALUE=DATE:{ds}")
-            lines.append(f"DTEND;VALUE=DATE:{de}")
+        if _is_all_day(ev):
+            # ✅ Celodenné: použijeme VALUE=DATE s exkluzívnym koncom (koniec + 1 deň)
+            s_date = ev["start"].date()
+            e_date = ev["end"].date()
+            if e_date < s_date:
+                e_date = s_date
+            e.begin = s_date
+            e.end   = e_date + timedelta(days=1)  # exkluzívny koniec = nasledujúci deň
+            e.make_all_day()  # zabezpečí VALUE=DATE v ICS
         else:
-            # >>> ČASOVÉ: lokálny čas s TZID (žiadne Z/UTC)
-            if s.tzinfo is None: s = TZ.localize(s)
-            if e.tzinfo is None: e = TZ.localize(e)
-            ds = s.strftime("%Y%m%dT%H%M%S")
-            de = e.strftime("%Y%m%dT%H%M%S")
-            lines.append(f"DTSTART;TZID=Europe/Bratislava:{ds}")
-            lines.append(f"DTEND;TZID=Europe/Bratislava:{de}")
+            # ⏰ Časované: zachovaj presný čas v Europe/Bratislava
+            s = ev["start"]
+            t = ev["end"]
+            if s.tzinfo is None:
+                s = TZ.localize(s)
+            if t.tzinfo is None:
+                t = TZ.localize(t)
+            e.begin = s
+            e.end   = t
 
-        lines.append("END:VEVENT")
-
-    lines.append("END:VCALENDAR")
+        cal.events.add(e)
 
     with open(filename, "w", encoding="utf-8") as f:
-        f.write("\r\n".join(lines) + "\r\n")
+        f.writelines(cal.serialize_iter())
 
     print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (po dedupe).")
     return filename
+
 
 # ====== Spustenie ======
 if __name__ == "__main__":
