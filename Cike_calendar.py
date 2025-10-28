@@ -516,53 +516,53 @@ def scrape_ickk_events():
     cards = soup.select(".ewpe-inner-wrapper")
     print(f"   • ICKK (upcoming) karty: {len(cards)}")
     for idx, card in enumerate(cards, start=1):
-    try:
-        mo_txt = (card.select_one(".ewpe-ev-mo") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-mo") else ""
-        day_txt = (card.select_one(".ewpe-ev-day") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-day") else ""
-        mon = _SK_MONTHS.get(mo_txt.lower())
-        day = int(day_txt) if day_txt.isdigit() else None
-
-        a = card.select_one("a.event-link") or card.select_one(".ewpe-event-title ~ a")
-        title_el = card.select_one(".ewpe-event-title")
-        title = title_el.get_text(strip=True) if title_el else (a.get_text(strip=True) if a else "").strip()
-        link = a["href"] if a and a.has_attr("href") else ICKK_BASE
-
-        loc_el = card.select_one(".ewpe-event-venue-details .ewpe-add-city")
-        location = loc_el.get_text(strip=True) if loc_el else "Košice"
-
-        desc_el = card.select_one(".ewpe-evt-excerpt")
-        desc = BeautifulSoup((desc_el.get_text(" ", strip=True) if desc_el else ""), "html.parser").get_text(" ", strip=True)
-
-        start_dt = _infer_year(mon, day) if (mon and day) else None
-        end_dt = start_dt
-
-        # 🕒 pokus o načítanie času priamo z textu
-        card_text = " ".join(card.stripped_strings)
-        tm = parse_time_range(card_text)
-
-        if start_dt and tm:
-            h1, m1, h2, m2 = tm
-            start_dt = start_dt.replace(hour=h1, minute=m1)
-            end_dt = end_dt.replace(hour=h2, minute=m2)
-
-        if not (title and start_dt):
-            continue
-
-        key = (re.sub(r"\s+", " ", title.lower()).strip(), start_dt.date())
-        if key in seen:
-            continue
-        seen.add(key)
-
-        events.append({
-            "summary": title,
-            "location": location,
-            "description": (desc + ("\n\n" + link if link else "")).strip(),
-            "start": start_dt,
-            "end": end_dt or start_dt,
-            "source": "ICKK",
-        })
-    except Exception as e:
-        print(f"     - upcoming[{idx:02d}] chyba: {e}")
+        try:
+            mo_txt = (card.select_one(".ewpe-ev-mo") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-mo") else ""
+            day_txt = (card.select_one(".ewpe-ev-day") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-day") else ""
+            mon = _SK_MONTHS.get(mo_txt.lower())
+            day = int(day_txt) if day_txt.isdigit() else None
+    
+            a = card.select_one("a.event-link") or card.select_one(".ewpe-event-title ~ a")
+            title_el = card.select_one(".ewpe-event-title")
+            title = title_el.get_text(strip=True) if title_el else (a.get_text(strip=True) if a else "").strip()
+            link = a["href"] if a and a.has_attr("href") else ICKK_BASE
+    
+            loc_el = card.select_one(".ewpe-event-venue-details .ewpe-add-city")
+            location = loc_el.get_text(strip=True) if loc_el else "Košice"
+    
+            desc_el = card.select_one(".ewpe-evt-excerpt")
+            desc = BeautifulSoup((desc_el.get_text(" ", strip=True) if desc_el else ""), "html.parser").get_text(" ", strip=True)
+    
+            start_dt = _infer_year(mon, day) if (mon and day) else None
+            end_dt = start_dt
+    
+            # 🕒 pokus o načítanie času priamo z textu
+            card_text = " ".join(card.stripped_strings)
+            tm = parse_time_range(card_text)
+    
+            if start_dt and tm:
+                h1, m1, h2, m2 = tm
+                start_dt = start_dt.replace(hour=h1, minute=m1)
+                end_dt = end_dt.replace(hour=h2, minute=m2)
+    
+            if not (title and start_dt):
+                continue
+    
+            key = (re.sub(r"\s+", " ", title.lower()).strip(), start_dt.date())
+            if key in seen:
+                continue
+            seen.add(key)
+    
+            events.append({
+                "summary": title,
+                "location": location,
+                "description": (desc + ("\n\n" + link if link else "")).strip(),
+                "start": start_dt,
+                "end": end_dt or start_dt,
+                "source": "ICKK",
+            })
+        except Exception as e:
+            print(f"     - upcoming[{idx:02d}] chyba: {e}")
 
     past_items = soup.select(".rt-tpg-container .tpg-post-holder")
     print(f"   • ICKK (past) položky: {len(past_items)}")
