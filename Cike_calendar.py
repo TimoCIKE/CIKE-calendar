@@ -551,18 +551,12 @@ from datetime import timedelta
 import pytz
 
 EMOJI_MAP = {
-    "ITVALLEY": "🔵",
-    "AMCHAM":   "🟢",
-    "SOPK":     "🟧",
-    "ICKK":     "🟣",
-    "OTHER":    "⚪",
+    "ITVALLEY": "🔵", "AMCHAM": "🟢", "SOPK": "🟧", "ICKK": "🟣", "OTHER": "⚪",
 }
-
 _PREFIX_RE = re.compile(
     r"^(?:[\u2600-\u27BF\U0001F300-\U0001FAFF]\s*)?\[(ITVALLEY|AMCHAM|SOPK|ICKK|OTHER)\]\s*",
     re.IGNORECASE
 )
-
 TZ = pytz.timezone("Europe/Bratislava")
 
 def _with_emoji_prefix(title: str, source: str) -> str:
@@ -570,13 +564,21 @@ def _with_emoji_prefix(title: str, source: str) -> str:
     src = normalize_source(source)
     return f"{EMOJI_MAP.get(src, EMOJI_MAP['OTHER'])} [{src}] {cleaned}"
 
-def _is_all_day(ev) -> bool:
+def _is_all_day_00(ev) -> bool:
     s, e = ev["start"], ev["end"]
     return (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
 
+def _looks_fake_all_day(ev) -> bool:
+    """Deteguje vzor typu 01:00 -> 01:00 o N dní neskôr (alebo 00:00 -> 00:00)."""
+    s, e = ev["start"], ev["end"]
+    same_time = (s.hour == e.hour and s.minute == e.minute)
+    likely_fake_hour = s.minute == 0 and s.hour in (0, 1)  # najčastejšie hodnoty z webu
+    whole_days = (e.date() - s.date()).days >= 1
+    return same_time and likely_fake_hour and whole_days
+
 def _dedupe_key(ev):
     base_title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
-    if _is_all_day(ev):
+    if _is_all_day_00(ev) or _looks_fake_all_day(ev):
         return (base_title, ev["start"].strftime("%Y-%m-%d"))
     else:
         return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
@@ -584,12 +586,15 @@ def _dedupe_key(ev):
 def _stable_uid(ev):
     src = normalize_source(ev.get("source", "OTHER"))
     title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
-    part = ev["start"].strftime("%Y-%m-%d %H:%M") if not _is_all_day(ev) else ev["start"].strftime("%Y-%m-%d")
+    if _is_all_day_00(ev) or _looks_fake_all_day(ev):
+        part = ev["start"].strftime("%Y-%m-%d")
+    else:
+        part = ev["start"].strftime("%Y-%m-%d %H:%M")
     base = f"{title}|{part}|{src}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
 def export_events_to_ics(events, filename="events.ics"):
-    # 1) dedupe
+    # 1) dedupe (podľa čisteného názvu + dátumu/času)
     seen, unique = set(), []
     for ev in events:
         k = _dedupe_key(ev)
@@ -597,7 +602,7 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
-    # 2) ICS
+    # 2) zapis
     cal = Calendar()
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
@@ -609,19 +614,21 @@ def export_events_to_ics(events, filename="events.ics"):
         e.categories = {src}
         e.uid = _stable_uid(ev)
 
-        if _is_all_day(ev):
-            # ✅ Celodenné: použijeme VALUE=DATE s exkluzívnym koncom (koniec + 1 deň)
-            s_date = ev["start"].date()
-            e_date = ev["end"].date()
-            if e_date < s_date:
-                e_date = s_date
-            e.begin = s_date
-            e.end   = e_date 
-            e.make_all_day()  # zabezpečí VALUE=DATE v ICS
+        s, t = ev["start"], ev["end"]
+
+        if _is_all_day_00(ev) or _looks_fake_all_day(ev):
+            # ➜ skutočné all-day s exkluzívnym koncom
+            start_date = s.date()
+            # dĺžka v dňoch = rozdiel dátumov; exkluzívny koniec je priamo end.date()
+            exclusive_end = t.date()
+            # ochrana pri prípadnom nesprávnom rozsahu
+            if exclusive_end <= start_date:
+                exclusive_end = start_date + timedelta(days=1)
+            e.begin = start_date
+            e.end   = exclusive_end
+            e.make_all_day()  # vygeneruje VALUE=DATE
         else:
-            # ⏰ Časované: zachovaj presný čas v Europe/Bratislava
-            s = ev["start"]
-            t = ev["end"]
+            # ⏰ reálne časované udalosti
             if s.tzinfo is None:
                 s = TZ.localize(s)
             if t.tzinfo is None:
@@ -636,6 +643,7 @@ def export_events_to_ics(events, filename="events.ics"):
 
     print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (po dedupe).")
     return filename
+
 
 
 # ====== Spustenie ======
