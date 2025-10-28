@@ -619,7 +619,7 @@ def export_events_to_ics(events, filename="events.ics"):
         if _is_all_day(ev):
             # all-day: ICS používa exkluzívny DTEND → +1 deň, no bez časovej zložky
             e.begin = ev["start"].date()
-            e.end   = (ev["end"].date()
+            e.end   = None
             e.make_all_day()
         else:
             # časové: zachovaj presný čas (bez +1 dňa)
