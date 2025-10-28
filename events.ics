@@ -436,15 +436,6 @@ SUMMARY:🔵 [ITVALLEY] Digital Synergies
 UID:6ce62c4fc212875ebe42eea18fd8965648cb8d83@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251029
-DTEND;VALUE=DATE:20251031
-CATEGORIES:ICKK
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu podnikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomovaných estetických kliník ENVY a stojí aj za úspešnou značkou profesionálnej kozmetiky ENVY Therapy....\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika/
-LOCATION:Strojárenská 3\, Kosice
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-UID:208711105891b3c68bd23520f6d67e46d492ec6e@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240528
 DTEND;VALUE=DATE:20240530
 CATEGORIES:ITVALLEY
@@ -1085,13 +1076,13 @@ SUMMARY:🟧 [SOPK] Webinár: Aké ponaučenia vyplývajú z útoku na Katastrá
 UID:9a4c955b381eb56019c21f8ada55b11cf71b9574@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-DTEND;VALUE=DATE:20251008
 CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/06/predstavenie-startupov-sweet-salty-group-pocket/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – Group Pocket
-UID:27da35ee9c662e12f78ff031632b768d40aff799@cike-events
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu podnikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomovaných estetických kliník ENVY a stojí aj za úspešnou značkou profesionálnej kozmetiky ENVY Therapy....\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika/
+DTEND:20251029T180000Z
+LOCATION:Strojárenská 3\, Kosice
+DTSTART:20251029T160000Z
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+UID:b480156dfdb5ac9a9f523c987d0907dc3ae0ff2e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241023
@@ -1119,6 +1110,15 @@ LOCATION:Online
 DTSTART:20250304T090000Z
 SUMMARY:🟧 [SOPK] Inovačná polhodinka – Zefektívnenie prevádzky pomocou automatizácie (náhradný termín)
 UID:360d2191846cccc4310d1aec2e813d4b43b1b5c8@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251006
+DTEND;VALUE=DATE:20251008
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/10/06/predstavenie-startupov-sweet-salty-group-pocket/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – Group Pocket
+UID:27da35ee9c662e12f78ff031632b768d40aff799@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
