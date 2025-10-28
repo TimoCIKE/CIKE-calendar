@@ -558,19 +558,21 @@ def export_events_to_ics(events, filename="events.ics"):
             unique.append(ev)
 
     cal = Calendar()
-    for ev in events:
+    for ev in unique:
         e = Event()
         e.name = ev["summary"]
+        # celodenné: end = nasledujúci deň
         e.begin = ev["start"]
-        # all-day štýl: koniec = nasledujúci deň
         e.end = ev["end"] + timedelta(days=1)
         e.location = ev.get("location", "")
         e.description = ev.get("description", "")
 
-        # nastav kategóriu podľa zdroja
+        # kategórie pre Outlook farbenie
         src = normalize_source(ev.get("source", "OTHER"))
-        # ics knihovňa používa množinu pre categories
         e.categories = {src}
+
+        # stabilné UID (dôležité pri subscription, aby sa aktualizovalo namiesto duplikovania)
+        e.uid = _stable_uid(ev)
 
         cal.events.add(e)
 
