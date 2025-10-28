@@ -44,35 +44,6 @@ def normalize_source(src: str) -> str:
     return "OTHER"
 
 
-_TIME_RE = re.compile(
-    r'(?P<h1>\d{1,2})[:\.](?P<m1>\d{2})\s*(?P<ap1>[ap]\.?m\.?)?\s*[–\-—~]\s*'
-    r'(?P<h2>\d{1,2})[:\.](?P<m2>\d{2})\s*(?P<ap2>[ap]\.?m\.?)?',
-    re.IGNORECASE
-)
-
-def parse_time_range(text: str):
-    """
-    Vracia (h1, m1, h2, m2) v 24h, alebo None ak nič nenašla.
-    Podporuje 12h aj 24h zápis, „– - — ~“ ako oddeľovač.
-    """
-    if not text:
-        return None
-    m = _TIME_RE.search(text)
-    if not m:
-        return None
-
-    h1, m1, ap1 = int(m.group('h1')), int(m.group('m1')), (m.group('ap1') or '').lower()
-    h2, m2, ap2 = int(m.group('h2')), int(m.group('m2')), (m.group('ap2') or '').lower()
-
-    def to24(h, ap):
-        if not ap:  # už 24h formát
-            return h
-        ap = ap.replace('.', '')
-        if ap == 'pm' and h != 12: h += 12
-        if ap == 'am' and h == 12: h = 0
-        return h
-
-    return to24(h1, ap1), m1, to24(h2, ap2), m2
 
 # ====== 1️⃣ Košice IT Valley ======
 def scrape_itvalley_events():
@@ -516,53 +487,37 @@ def scrape_ickk_events():
     cards = soup.select(".ewpe-inner-wrapper")
     print(f"   • ICKK (upcoming) karty: {len(cards)}")
     for idx, card in enumerate(cards, start=1):
-        try:
-            mo_txt = (card.select_one(".ewpe-ev-mo") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-mo") else ""
-            day_txt = (card.select_one(".ewpe-ev-day") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-day") else ""
-            mon = _SK_MONTHS.get(mo_txt.lower())
-            day = int(day_txt) if day_txt.isdigit() else None
+        try: 
+            mo_txt = (card.select_one(".ewpe-ev-mo") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-mo") else "" 
+            day_txt = (card.select_one(".ewpe-ev-day") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-day") else "" 
+            mon = _SK_MONTHS.get(mo_txt.lower()); 
+            day = int(day_txt) if day_txt.isdigit() else None 
+            a = card.select_one("a.event-link") or card.select_one(".ewpe-event-title ~ a") 
+            title_el = card.select_one(".ewpe-event-title") 
+            title = title_el.get_text(strip=True) if title_el else (a.get_text(strip=True) if a else "").strip() 
+            link = a["href"] if a and a.has_attr("href") else ICKK_BASE 
+            loc_el = card.select_one(".ewpe-event-venue-details .ewpe-add-city") 
+            location = loc_el.get_text(strip=True) if loc_el else "Košice" 
+            desc_el = card.select_one(".ewpe-evt-excerpt") 
+            desc = BeautifulSoup((desc_el.get_text(" ", strip=True) if desc_el else ""), "html.parser").get_text(" ", strip=True) 
+            start_dt = _infer_year(mon, day) if (mon and day) else None 
+            if not (title and start_dt): 
+                continue 
+            key = (re.sub(r"\s+", " ", title.lower()).strip(), start_dt.date()) 
+            if key in seen: 
+                continue 
+            seen.add(key) 
+            events.append({ 
+                "summary": title, 
+                "location": location, 
+                "description": (desc + ("\n\n" + link if link else "")).strip(), 
+                "start": start_dt, 
+                "end": start_dt, 
+                "source": "ICKK", 
+            }) 
+        except Exception as e: 
+            print(f" - upcoming[{idx:02d}] chyba: {e}")
     
-            a = card.select_one("a.event-link") or card.select_one(".ewpe-event-title ~ a")
-            title_el = card.select_one(".ewpe-event-title")
-            title = title_el.get_text(strip=True) if title_el else (a.get_text(strip=True) if a else "").strip()
-            link = a["href"] if a and a.has_attr("href") else ICKK_BASE
-    
-            loc_el = card.select_one(".ewpe-event-venue-details .ewpe-add-city")
-            location = loc_el.get_text(strip=True) if loc_el else "Košice"
-    
-            desc_el = card.select_one(".ewpe-evt-excerpt")
-            desc = BeautifulSoup((desc_el.get_text(" ", strip=True) if desc_el else ""), "html.parser").get_text(" ", strip=True)
-    
-            start_dt = _infer_year(mon, day) if (mon and day) else None
-            end_dt = start_dt
-    
-            # 🕒 pokus o načítanie času priamo z textu
-            card_text = " ".join(card.stripped_strings)
-            tm = parse_time_range(card_text)
-    
-            if start_dt and tm:
-                h1, m1, h2, m2 = tm
-                start_dt = start_dt.replace(hour=h1, minute=m1)
-                end_dt = end_dt.replace(hour=h2, minute=m2)
-    
-            if not (title and start_dt):
-                continue
-    
-            key = (re.sub(r"\s+", " ", title.lower()).strip(), start_dt.date())
-            if key in seen:
-                continue
-            seen.add(key)
-    
-            events.append({
-                "summary": title,
-                "location": location,
-                "description": (desc + ("\n\n" + link if link else "")).strip(),
-                "start": start_dt,
-                "end": end_dt or start_dt,
-                "source": "ICKK",
-            })
-        except Exception as e:
-            print(f"     - upcoming[{idx:02d}] chyba: {e}")
 
     past_items = soup.select(".rt-tpg-container .tpg-post-holder")
     print(f"   • ICKK (past) položky: {len(past_items)}")
@@ -644,24 +599,6 @@ def _stable_uid(ev):
     base = f"{title}|{part}|{src}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
-def _inclusive_end_date_for_all_day(ev):
-    """Vráti INKLUZÍVNY koniec pre all-day/fake-all-day udalosti."""
-    s, e = ev["start"], ev["end"]
-    start_date = s.date()
-    end_date = e.date()
-    same_time = (s.hour == e.hour and s.minute == e.minute)
-    likely_fake_hour = (s.minute == 0 and s.hour in (0, 1))
-    raw_days = (end_date - start_date).days
-
-    if raw_days >= 1 and same_time and likely_fake_hour:
-        inclusive_end = start_date + timedelta(days=raw_days - 1)
-    else:
-        inclusive_end = end_date
-
-    if inclusive_end < start_date:
-        inclusive_end = start_date
-    return inclusive_end
-
 
 def export_events_to_ics(events, filename="events.ics"):
     # 1) dedupe (podľa čisteného názvu + dátumu/času)
@@ -687,20 +624,24 @@ def export_events_to_ics(events, filename="events.ics"):
         s, t = ev["start"], ev["end"]
 
         if _is_all_day_00(ev) or _looks_fake_all_day(ev):
+            # ➜ skutočné all-day s exkluzívnym koncom
             start_date = s.date()
-            inclusive_end = _inclusive_end_date_for_all_day(ev)
-            exclusive_end = inclusive_end + timedelta(days=1)
+            # dĺžka v dňoch = rozdiel dátumov; exkluzívny koniec je priamo end.date()
+            exclusive_end = t.date()
+            # ochrana pri prípadnom nesprávnom rozsahu
+            if exclusive_end <= start_date:
+                exclusive_end = start_date + timedelta(days=1)
             e.begin = start_date
             e.end = exclusive_end
-            e.make_all_day()  # VALUE=DATE
+            e.make_all_day()  # vygeneruje VALUE=DATE
         else:
+            # ⏰ reálne časované udalosti
             if s.tzinfo is None:
                 s = TZ.localize(s)
             if t.tzinfo is None:
                 t = TZ.localize(t)
             e.begin = s
             e.end = t
-
 
         cal.events.add(e)
 
