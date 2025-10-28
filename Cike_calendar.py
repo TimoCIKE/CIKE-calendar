@@ -565,6 +565,9 @@ _PREFIX_RE = re.compile(
 )
 TZ = pytz.timezone("Europe/Bratislava")
 
+def normalize_source(source: str) -> str:
+    return (source or "OTHER").strip().upper()
+
 def _with_emoji_prefix(title: str, source: str) -> str:
     cleaned = _PREFIX_RE.sub("", (title or "").strip())
     src = normalize_source(source)
@@ -575,10 +578,9 @@ def _is_all_day_00(ev) -> bool:
     return (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
 
 def _looks_fake_all_day(ev) -> bool:
-    """Deteguje vzor typu 01:00 -> 01:00 o N dní neskôr (alebo 00:00 -> 00:00)."""
     s, e = ev["start"], ev["end"]
     same_time = (s.hour == e.hour and s.minute == e.minute)
-    likely_fake_hour = s.minute == 0 and s.hour in (0, 1)  # najčastejšie hodnoty z webu
+    likely_fake_hour = s.minute == 0 and s.hour in (0, 1)
     whole_days = (e.date() - s.date()).days >= 1
     return same_time and likely_fake_hour and whole_days
 
@@ -599,9 +601,8 @@ def _stable_uid(ev):
     base = f"{title}|{part}|{src}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
-
 def export_events_to_ics(events, filename="events.ics"):
-    # 1) dedupe (podľa čisteného názvu + dátumu/času)
+    # 1️⃣ Deduplikácia podľa názvu a dátumu
     seen, unique = set(), []
     for ev in events:
         k = _dedupe_key(ev)
@@ -609,11 +610,10 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
-    # 2) zapis
+    # 2️⃣ Zápis ICS
     cal = Calendar()
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
-
         e = Event()
         e.name = _with_emoji_prefix(ev["summary"], src)
         e.location = ev.get("location", "")
@@ -624,18 +624,22 @@ def export_events_to_ics(events, filename="events.ics"):
         s, t = ev["start"], ev["end"]
 
         if _is_all_day_00(ev) or _looks_fake_all_day(ev):
-            # ➜ skutočné all-day s exkluzívnym koncom
             start_date = s.date()
-            # dĺžka v dňoch = rozdiel dátumov; exkluzívny koniec je priamo end.date()
-            exclusive_end = t.date()
-            # ochrana pri prípadnom nesprávnom rozsahu
-            if exclusive_end <= start_date:
-                exclusive_end = start_date + timedelta(days=1)
-            e.begin = start_date
-            e.end = exclusive_end
-            e.make_all_day()  # vygeneruje VALUE=DATE
+            end_date = t.date()
+            delta = (end_date - start_date).days
+
+            # 🟢 FIX pre Outlook:
+            # jednodňové udalosti nech majú rovnaký begin aj end
+            if delta <= 1:
+                e.begin = start_date
+                e.end = start_date
+            else:
+                e.begin = start_date
+                e.end = start_date + timedelta(days=delta)
+
+            e.make_all_day()  # zapíše VALUE=DATE
         else:
-            # ⏰ reálne časované udalosti
+            # ⏰ časované udalosti
             if s.tzinfo is None:
                 s = TZ.localize(s)
             if t.tzinfo is None:
@@ -650,7 +654,6 @@ def export_events_to_ics(events, filename="events.ics"):
 
     print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (po dedupe).")
     return filename
-
 
 
 
