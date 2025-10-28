@@ -549,60 +549,89 @@ from ics import Calendar, Event
 import hashlib
 import re
 from datetime import timedelta
+import pytz
 
 EMOJI_MAP = {
-    "ITVALLEY": "🔵",   # modrá
-    "AMCHAM":   "🟢",   # zelená
-    "SOPK":     "🟧",   # oranžová
-    "ICKK":     "🟣",   # fialová
-    "OTHER":    "⚪",   # neutrál
+    "ITVALLEY": "🔵",
+    "AMCHAM":   "🟢",
+    "SOPK":     "🟧",
+    "ICKK":     "🟣",
+    "OTHER":    "⚪",
 }
 
-def _stable_uid(ev):
-    base = f"{ev['summary'].strip().lower()}|{ev['start'].date()}|{normalize_source(ev.get('source','OTHER'))}"
-    return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
+# rovnaký regex ako máš – odstraňuje staré prefixy, aby sa nereťazili
+_PREFIX_RE = re.compile(
+    r"^(?:[\u2600-\u27BF\U0001F300-\U0001FAFF]\s*)?\[(ITVALLEY|AMCHAM|SOPK|ICKK|OTHER)\]\s*",
+    re.IGNORECASE
+)
 
-# odstráni starý prefix typu "🟢 [AMCHAM] " alebo len "[AMCHAM] "
-_PREFIX_RE = re.compile(r"^(?:[\u2600-\u27BF\U0001F300-\U0001FAFF]\s*)?\[(ITVALLEY|AMCHAM|SOPK|ICKK|OTHER)\]\s*", re.IGNORECASE)
+# zjednotený zdroj (máš ju už vyššie v kóde)
+# def normalize_source(...): ...
+
+TZ = pytz.timezone("Europe/Bratislava")
 
 def _with_emoji_prefix(title: str, source: str) -> str:
-    """Vráti názov s jediným správnym prefixom a vyčistí prípadné staré prefixy."""
     cleaned = _PREFIX_RE.sub("", (title or "").strip())
     src = normalize_source(source)
-    emoji = EMOJI_MAP.get(src, EMOJI_MAP["OTHER"])
-    return f"{emoji} [{src}] {cleaned}"
+    return f"{EMOJI_MAP.get(src, EMOJI_MAP['OTHER'])} [{src}] {cleaned}"
+
+def _is_all_day(ev) -> bool:
+    s, e = ev["start"], ev["end"]
+    return (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
+
+def _dedupe_key(ev):
+    """Na dedupe používame (čistený titul, dátum) alebo (čistený titul, dátum+čas), ak je čas známy."""
+    base_title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
+    if _is_all_day(ev):
+        return (base_title, ev["start"].strftime("%Y-%m-%d"))
+    else:
+        return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
+
+def _stable_uid(ev):
+    """UID je stabilné; pre časové eventy berie do úvahy aj čas, pre all-day len dátum."""
+    src = normalize_source(ev.get("source", "OTHER"))
+    title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
+    part = ev["start"].strftime("%Y-%m-%d %H:%M") if not _is_all_day(ev) else ev["start"].strftime("%Y-%m-%d")
+    base = f"{title}|{part}|{src}"
+    return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
 def export_events_to_ics(events, filename="events.ics"):
-    # 1) dedupe: názov + dátum (podľa pôvodného titulu bez prefixu)
-    seen = set()
-    unique = []
+    # 1) dedupe
+    seen, unique = set(), []
     for ev in events:
-        k = normalize_key(ev["summary"], ev["start"])
+        k = _dedupe_key(ev)
         if k not in seen:
             seen.add(k)
             unique.append(ev)
 
-    # 2) zostav kalendár
+    # 2) zápis do ICS
     cal = Calendar()
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
 
         e = Event()
-        # celodenné: end = nasledujúci deň
-        e.begin = ev["start"]
-        e.end = ev["end"] + timedelta(days=1)
-
-        # názov s emoji + prefixom (bez reťazenia starých prefixov)
         e.name = _with_emoji_prefix(ev["summary"], src)
-
         e.location = ev.get("location", "")
         e.description = ev.get("description", "")
-
-        # CATEGORIES si necháme (desktop Outlook ich vie), web Outlook ich ignoruje
-        e.categories = {src}
-
-        # stabilné UID — dôležité pri subscription, aby sa udalosti nezdvojovali
+        e.categories = {src}  # Outlook desktop využije; web ho ignoruje
         e.uid = _stable_uid(ev)
+
+        if _is_all_day(ev):
+            # all-day: ICS používa exkluzívny DTEND → +1 deň, no bez časovej zložky
+            e.begin = ev["start"].date()
+            e.end   = (ev["end"].date() + timedelta(days=1))
+            e.make_all_day()
+        else:
+            # časové: zachovaj presný čas (bez +1 dňa)
+            # ak máš naive datetimes, pridáme timezone, aby sa v Outlooke nevznikal posun
+            s = ev["start"]
+            e_dt = ev["end"]
+            if s.tzinfo is None:
+                s = TZ.localize(s)
+            if e_dt.tzinfo is None:
+                e_dt = TZ.localize(e_dt)
+            e.begin = s
+            e.end   = e_dt
 
         cal.events.add(e)
 
