@@ -3,7 +3,6 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
-DTEND;VALUE=DATE:20251030
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop organized by Deloitte\n\nhttps://amcham.sk/events/3567/pay-transparency
 LOCATION:Deloitte Office\, Pribinova 34\, Bratislava
@@ -12,7 +11,6 @@ UID:6b69ae9a4ee7afee0e9e638b7ccefdee0c7f587f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
-DTEND;VALUE=DATE:20251012
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3545/social-dialogue-that-works-law-tactics-practice
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -21,7 +19,6 @@ UID:679386c4a9f313b449a7ed774b5d004ad71e7c04@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250610
-DTEND;VALUE=DATE:20250612
 CATEGORIES:ITVALLEY
 DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania?\n10\\. júna sa v Tabačke Kulturfabrik stretnú zakladatelia\, investori\, inovátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice/
 LOCATION:Tabačka\, Kulturfabrik
@@ -30,7 +27,6 @@ UID:d5ebfd8db4bcd9eaae2b6dbf780e4c18f6a1bfd0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
-DTEND;VALUE=DATE:20251004
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3523/welcome-back-to-work-in-kosice
 LOCATION:Dom umenia - Štátna filharmónia Košice\, Moyzesova 66\, Košice
@@ -39,7 +35,6 @@ UID:c46d38702d5d3b066d1e5cbf35e0c21e8f9fd00b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250930
-DTEND;VALUE=DATE:20251002
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3535/e-invoicing-in-slovakia-from-law-to-practice
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -48,7 +43,6 @@ UID:099786e635e232b3e0440d5823bb815ad72d4a0f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250213
-DTEND;VALUE=DATE:20250215
 CATEGORIES:ITVALLEY
 DESCRIPTION:Už tretíkrát vás srdečne pozývame na konferenciu Zborovňa\, zameranú na rozvoj pedagógov prírodovedných predmetov (science\, technology\, engineering\, mathematics) z košického a prešovského regiónu.\n\nhttps://www.kosiceitvalley.sk/events/zborovna-2025-konferencia-pre-stem-pedagogov/
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
@@ -57,7 +51,6 @@ UID:53b618bb80542979f54618dc93c3e7e318b88cde@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250610
-DTEND;VALUE=DATE:20250612
 CATEGORIES:ITVALLEY
 DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – neformálne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events/ux-piknik-4/
 LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
@@ -91,7 +84,6 @@ UID:efa4c0037ced44393ed6233c7a4b991cb50722cd@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250207
-DTEND;VALUE=DATE:20250209
 CATEGORIES:AMCHAM
 DESCRIPTION:Expression of Our Appreciation\n\nhttps://amcham.sk/events/3441/amcham-patronslunch
 LOCATION:NOX Pradiareň\, Svätoplukova 2a\, Bratislava
@@ -100,7 +92,6 @@ UID:46c497f82aa5afd75347e9c188c4adb5ec7081b0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250205
-DTEND;VALUE=DATE:20250207
 CATEGORIES:ITVALLEY
 DESCRIPTION:Pozývame vás na konferenciu\, na ktorej predstavíme zaujímavé témy zo sveta Microsoftu.\n\nhttps://www.kosiceitvalley.sk/events/microsoft-day-2025/
 LOCATION:Microsoft Slovakia s.r.o.\, Bratislava
@@ -125,7 +116,6 @@ UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250425
-DTEND;VALUE=DATE:20250427
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3481/new-construction-law-its-impacts-on-pending-and-future-projects
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
@@ -143,7 +133,6 @@ UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250227
-DTEND;VALUE=DATE:20250301
 CATEGORIES:ITVALLEY
 DESCRIPTION:Ak vás zaujíma\, ako veci fungujú „pod kapotou“\, ak by ste radi diskutovali o technológiách a ak vás lákajú výzvy\, ktorým čelia developerské tímy pri výbere a používaní konkrétnych technológií\, pripravili sme meetup práve pre vás – zameraný na backendové technológie – kde každý riadok kódu otvára cestu k technologickej excelentnosti budúcnosti.\n\nhttps://www.kosiceitvalley.sk/events/backend-meetup/
 LOCATION:Štúrova 27\, Kosice\, Slovakia
@@ -152,7 +141,6 @@ UID:8bc4c48ce26a47a85ee04e37868115720c74751a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250210
-DTEND;VALUE=DATE:20250212
 CATEGORIES:AMCHAM
 DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3442/speed-business-meeting
 LOCATION:Lindner Hotel Gallery Central\, Metodova 4\, Bratislava
@@ -194,7 +182,6 @@ UID:45fde223b191cc60f22cb7b06109364caf7aedf2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250215
-DTEND;VALUE=DATE:20250217
 CATEGORIES:ITVALLEY
 DESCRIPTION:Stredoškoláci\, pozor!\nViete programovať? Zaujímajú vás dáta ako obrázky\, grafy\, volebné prieskumy a práca s nimi? Baví vás riešiť problémy alebo sa jednoducho chcete naučiť\, ako používať umelú inteligenciu?\nPotom sa pridajte k piatej edícii DataDay\, kde toto všetko a ešte viac môžete zažiť na vlastnej koži!\n\nhttps://www.kosiceitvalley.sk/events/dataday5/
 LOCATION:Jesenná 5\, Košice
@@ -203,7 +190,6 @@ UID:c0f511cfb659070913c0197f70cf2ec467fa90cd@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926
-DTEND;VALUE=DATE:20250928
 CATEGORIES:AMCHAM
 DESCRIPTION:Climate Talks / Online Discussion\n\nhttps://amcham.sk/events/3540/live-from-nyc-actions-for-a-sustainable-future
 LOCATION:online
@@ -212,7 +198,6 @@ UID:e5d8f1b6345d3cc312c0ca79997c99aed6b68285@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
-DTEND;VALUE=DATE:20251011
 CATEGORIES:ITVALLEY
 DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahraničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medzinárodných študentov\, prekážky na trhu práce a prepojenie vzdelávania s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-conference-2025/
 LOCATION:Kongres Hotel ROCA Košice
@@ -221,7 +206,6 @@ UID:a9e4f09828acab2cb47551864745b57bee6b7117@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250922
-DTEND;VALUE=DATE:20250924
 CATEGORIES:AMCHAM
 DESCRIPTION:Topical Workshop\n\nhttps://amcham.sk/events/3541/building-and-or-use-of-ai-systems-for-medical-professionals
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -238,7 +222,6 @@ UID:d54efb379d73892e7f867b155c664249290d970a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
-DTEND;VALUE=DATE:20250927
 CATEGORIES:ITVALLEY
 DESCRIPTION:Podujatie Managing Complex Projects: practical experience sa zameria na riadenie veľkých a komplexných projektov. Prednáška prinesie praktické tipy\, riešenia a odporúčania\, doplnené o vtipné príklady a reálne skúsenosti z praxe. Cieľom je ukázať\, ako zvládnuť chaos\, udržať projekt v harmonograme a pritom si zachovať pokoj.\n\nhttps://www.kosiceitvalley.sk/events/managing-complex-projects-practical-experience/
 LOCATION:UVP Technicom\, Němcovej 5
@@ -247,7 +230,6 @@ UID:ce0de3a0a940ea8bc5b156746f17e7a6dca045dd@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241205
-DTEND;VALUE=DATE:20241207
 CATEGORIES:ITVALLEY
 DESCRIPTION:5. decembra 2024 sa v priestoroch sály Bukovina uskutoční tradičná Vianočná párty s Košice IT Valley.\n\nhttps://www.kosiceitvalley.sk/events/vianocny-vecierok/
 LOCATION:Sála Bukovina\, Trieda KVP 9
@@ -282,7 +264,6 @@ UID:bdecabd9fc06767ee3a8fd1d20502461aac195f1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
-DTEND;VALUE=DATE:20251004
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3528/employment-of-marginalized-and-long-term-unemployed-groups
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Košice
@@ -291,7 +272,6 @@ UID:c4817a0c2319346c79ec001a7d74546753da1d82@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240530
-DTEND;VALUE=DATE:20240601
 CATEGORIES:ITVALLEY
 DESCRIPTION:Boli sme súčasťou prestížneho Forbes Business Festu\, kde sme predstavili naše aktivity a iniciatívy zamerané na podporu podnikateľského prostredia a inovácií na východnom Slovensku.\n\nhttps://www.kosiceitvalley.sk/events/forbes-business-fest/
 LOCATION:Tyršovo nábrežie\, Bratislava
@@ -332,7 +312,6 @@ UID:06ee2229f0eda9f9abe93777a5c92f85d3b92ccf@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
-DTEND;VALUE=DATE:20251018
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3556/branding-attractiveness-of-eastern-slovakia-accessibility-and-visibility
 LOCATION:Holcim European Business Services s.r.o.\, Hlavná 69/111\, Košice
@@ -341,7 +320,6 @@ UID:66f1ac831990611fe987de4115a1d7efb19b4bde@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250512
-DTEND;VALUE=DATE:20250514
 CATEGORIES:ITVALLEY
 DESCRIPTION:Inšpiratívna diskusia a networking pre budúce líderky\n\nBritské veľvyslanectvo na Slovensku a Košice IT Valley vás pozývajú na podujatie zamerané na podporu mladých žien a dievčat s cieľom povzbudiť ich\, aby sa odvážne vydali cestou kariéry v IT\, vede\, letectve\, energetike a ďalších oblastiach tradične vnímaných ako „mužské“.\n\nhttps://www.kosiceitvalley.sk/events/zeny-mozu-byt-cimkolvek/
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
@@ -350,7 +328,6 @@ UID:4d27f32cc8677e0257e8eb2b3eb593671a594ad0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
-DTEND;VALUE=DATE:20251101
 CATEGORIES:AMCHAM
 DESCRIPTION:13th year of a unique event intended especially for women who work in the business environment\n\nhttps://amcham.sk/events/3526/business-ladies-day
 LOCATION:PenatiClub\, Agátová 33\, Bratislava
@@ -375,7 +352,7 @@ UID:111cdb02f89fb7eb4a60ba8f9caca97ee7d83bf6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251130
 CATEGORIES:AMCHAM
 DESCRIPTION:Bloom into Competitiveness / 29th Edition\n\nhttps://amcham.sk/events/3522/thanksgiving-charity-gala-dinner
 LOCATION:Bratislava Castle\, Bratislava
@@ -401,7 +378,6 @@ UID:1a8bbceec43bdcc3da2efae148b69af358de320c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250624
-DTEND;VALUE=DATE:20250626
 CATEGORIES:ITVALLEY
 DESCRIPTION:Valné zhromaždenie je dôležitou príležitosťou na zhodnotenie spoločných aktivít členov klastra\, predstavenie budúcich plánov a diskusiu o strategickom smerovaní združenia.\n\nhttps://www.kosiceitvalley.sk/events/valne-zhromazdenie/
 LOCATION:UVP Technicom\, Boženy Němcovej 5
@@ -410,7 +386,6 @@ UID:60b7912ffde7d98344492c8d78810fedd2f13456@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251001
-DTEND;VALUE=DATE:20251003
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/10/01/predstavenie-startupov-sweet-salty-reman-cloud/
 LOCATION:Košice
@@ -419,7 +394,6 @@ UID:b4ff708509944caacac54642b66e4ba72e0243d1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250318
-DTEND;VALUE=DATE:20250320
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3457/empower-her-women-in-wealth
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -428,7 +402,6 @@ UID:def2448b51d24751d361aa78e217e981d45e31b8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240521
-DTEND;VALUE=DATE:20240523
 CATEGORIES:ITVALLEY
 DESCRIPTION:Obchodné zmýšľanie\, výskum a vývoj ako recept na konkurencieschopné IT.\n\nhttps://www.kosiceitvalley.sk/events/digital-synergies/
 LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
@@ -437,7 +410,6 @@ UID:6ce62c4fc212875ebe42eea18fd8965648cb8d83@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251029
-DTEND;VALUE=DATE:20251031
 CATEGORIES:ICKK
 DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu podnikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomovaných estetických kliník ENVY a stojí aj za úspešnou značkou profesionálnej kozmetiky ENVY Therapy....\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika/
 LOCATION:Strojárenská 3\, Kosice
@@ -446,7 +418,6 @@ UID:208711105891b3c68bd23520f6d67e46d492ec6e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240528
-DTEND;VALUE=DATE:20240530
 CATEGORIES:ITVALLEY
 DESCRIPTION:Tretí ročník konferencie Región budúcnosti – Budúcnosť regiónu je za nami!\n\nRekordný počet účastníkov a neuveriteľne nabitý program s kvalitnými rečníkmi.\n\nhttps://www.kosiceitvalley.sk/events/region-buducnosti-buducnost-regionu/
 LOCATION:Kasárne Kulturpark Kukučínova 2 Košice Slovakia
@@ -480,7 +451,6 @@ UID:482f928108e13d503517264488b68d5d107343f9@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
-DTEND;VALUE=DATE:20250523
 CATEGORIES:ITVALLEY
 DESCRIPTION:AI PROMPT prepája nástroje umelej inteligencie s reálnou prácou efektívnym\, zrozumiteľným a bezpečným spôsobom. A práve týmto odštartujeme náš úplne prvý meetup.\n\nhttps://www.kosiceitvalley.sk/events/ai-a-marketing-spolupraca-alebo-konkurencia/
 LOCATION:Fabrika 48\, Košice
@@ -489,7 +459,6 @@ UID:79f106ffc2451c8f288d1e7506383375647cd14f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250123
-DTEND;VALUE=DATE:20250125
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3436/investing-in-healthcare-and-biotech-in-slovakia-and-cee
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -507,7 +476,6 @@ UID:d85f8db32a4c5ac86e0e5bb61e6f3c4c0c9d2461@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250522
-DTEND;VALUE=DATE:20250524
 CATEGORIES:AMCHAM
 DESCRIPTION:https://amcham.sk/events/3499/ceo-competitiveness-business-cocktail
 LOCATION:Twin City Tower\, Business Lease Slovakia & Colliers (22nd floor)\, Mlynské nivy 10\, Bratislava
@@ -551,7 +519,6 @@ UID:c90b3994a3114c4f39512ed675fe97b5257273c9@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250121
-DTEND;VALUE=DATE:20250123
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3433/dawn-of-the-new-space-age-in-slovakia-lets-talk-legal
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -560,7 +527,6 @@ UID:6687c611883d9ebb8e9bde7cd21c98aa678c605a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250318
-DTEND;VALUE=DATE:20250320
 CATEGORIES:ITVALLEY
 DESCRIPTION:Predstavujeme konferenciu „Inovácia na dosah – Digitálna (r)evolúcia“!\n\nPridajte sa k nám 18. marca 2025 od 9:00 do 13:00 v Kulturparku v Košiciach na jedinečnú konferenciu\, ktorá vám ukáže\, ako technologické trendy menia podnikanie.\n\nhttps://www.kosiceitvalley.sk/events/inovacie-na-dosah-digitalna-revolucia/
 LOCATION:Kasárne Kulturpark\, Košice
@@ -578,7 +544,6 @@ UID:b97c1413f32cde6a3d4443c07e3e1e2de97ecd5e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241107
-DTEND;VALUE=DATE:20241109
 CATEGORIES:ITVALLEY
 DESCRIPTION:BUSINESS KOŠICE\, n.o.\, v spolupráci s Medzinárodnou organizáciou pre migráciu (IOM) a v partnerstve s klastrom Košice IT Valley vás srdečne pozýva na konferenciu „Magnetize Slovakia / Magnetize Košice – Zahraničné talenty na Slovensku a v regióne“\, ktorá sa uskutoční 7. novembra 2024 v UVP TECHNICOM\, Boženy Nemcovej 5\, Košice.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-slovakia-magnetize-kosice-zahranicny-talent-na-slovensku-a-v-regione/
 LOCATION:UVP Technicom
@@ -587,7 +552,6 @@ UID:9af56e4ee0c860b5f3be83b64d8353c1285e836c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250404
-DTEND;VALUE=DATE:20250406
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle in Košice\n\nhttps://amcham.sk/events/3467/trust-corporate-ethics-workplace-investigations-hr-level-up
 LOCATION:Kasárne/Kulturpark\, Kukučínova 2
@@ -612,7 +576,6 @@ UID:5942a0b19dea21a3de58b613644762e31d04df3d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250122
-DTEND;VALUE=DATE:20250124
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3434/healthy-employees-as-a-fundamental-pillar-of-companies-growth
 LOCATION:Lab28\, Mlynské nivy 5\, Bratislava
@@ -629,7 +592,6 @@ UID:cd98e576a7d2afb8880934baac9d0e9e88eb0c67@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251013
-DTEND;VALUE=DATE:20251015
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/10/13/predstavenie-startupov-loopvine/
 LOCATION:Košice
@@ -638,7 +600,6 @@ UID:2d866edad70f97201cf98ace5e631c43839784aa@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
-DTEND;VALUE=DATE:20251108
 CATEGORIES:ITVALLEY
 DESCRIPTION:Pozývame vás na Business Breakfast Innomeets: AI for Industry and Business (6. 11. 2025\, UVP Technicom Košice). Zistite\, ako AI zvyšuje efektivitu a konkurencieschopnosť firiem. Inšpirácie\, diskusia\, networking. Registrácia zdarma.\n\nhttps://www.kosiceitvalley.sk/events/business-breakfast-ai-for-industry-and-business/
 LOCATION:UVP Technicom\, Košice
@@ -647,7 +608,6 @@ UID:6194db4618dd2cba98da682f4fc178d36ef261b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250605
-DTEND;VALUE=DATE:20250607
 CATEGORIES:AMCHAM
 DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3511/valaliky-industrial-park
 LOCATION:Valaliky Industrial Park\, Valaliky
@@ -672,7 +632,6 @@ UID:52538bf457e1b978a3ad15ad57121f487369a2bd@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250902
-DTEND;VALUE=DATE:20250904
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/09/02/druha-polovica-roka-bude-v-znameni-startupovych-programov-a-medzinarodnej-spoluprace/
 LOCATION:Košice
@@ -689,7 +648,6 @@ UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250212
-DTEND;VALUE=DATE:20250214
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps://amcham.sk/events/3446/changes-in-tax-legislation
 LOCATION:Falkensteiner Hotel Bratislava\, Pilárikova 7372\, Bratislava
@@ -698,7 +656,6 @@ UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250131
-DTEND;VALUE=DATE:20250202
 CATEGORIES:AMCHAM
 DESCRIPTION:https://amcham.sk/events/3448/construction-task-force-meeting
 LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
@@ -707,7 +664,6 @@ UID:94d6465d7ef25ab44f68e6f294e899224d2e3265@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250122
-DTEND;VALUE=DATE:20250124
 CATEGORIES:ITVALLEY
 DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých dopady pociťujú firmy aj občania vo forme finančných strát.\n\nhttps://www.kosiceitvalley.sk/events/seminar-kyberneticka-bezpecnost/
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
@@ -725,7 +681,6 @@ UID:9ef7166266d9759e72a06566c947a53b73c6b8df@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
-DTEND;VALUE=DATE:20250313
 CATEGORIES:ITVALLEY
 DESCRIPTION:Hľadáte nové kontakty\, praktické rady a nástroje na rozvoj svojho podnikania?\nPríďte sa inšpirovať príbehmi úspešných podnikateliek a získajte cenné know-how na podujatí WOMEN & BUSINESS.\n\nhttps://www.kosiceitvalley.sk/events/women-business/
 LOCATION:UVP Technicom\, Boženy Němcovej 5\, Košice
@@ -761,7 +716,6 @@ UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250429
-DTEND;VALUE=DATE:20250501
 CATEGORIES:ITVALLEY
 DESCRIPTION:Vážení nadšenci projektového manažmentu!\n\nPartneri 2BCognitus\, DT IT Solutions Slovakia\, IPMA Slovakia\, IT Valley Košice a PMI Slovakia Chapter vás pozývajú na\n\n7. ročník Konferencie projektového manažmentu v Košiciach.\n\nhttps://www.kosiceitvalley.sk/events/konferencia-projektoveho-manazmentu/
 LOCATION:DT IT Solutions Slovakia\, BCT1 - Moldavská cesta 8/A
@@ -787,7 +741,6 @@ UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
-DTEND;VALUE=DATE:20250516
 CATEGORIES:ITVALLEY
 DESCRIPTION:Štvrtý ročník konferencie bude mať nadnárodný charakter. Pozvali sme hostí z Maďarska a Ukrajiny\, aby sme sa spoločne pozreli na cestu k podnikateľskému úspechu v Karpatskom regióne. Celá konferencia sa bude niesť v anglickom jazyku.\n\nhttps://www.kosiceitvalley.sk/events/region-budunosti-buducnost-regionu/
 LOCATION:DoubleTree by Hilton\, Košice
@@ -796,7 +749,6 @@ UID:5e2538d014ca86dad8a8d78fecc4fb5f70f6622c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250523
-DTEND;VALUE=DATE:20250525
 CATEGORIES:AMCHAM
 DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Prosperity\n\nhttps://amcham.sk/events/3494/future-ready-slovakia-lets-talk-competitiveness
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
@@ -814,7 +766,6 @@ UID:f5b75488e3623d3c3fdd220b5820cf6e60ecb83f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250626
-DTEND;VALUE=DATE:20250628
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3514/european-health-data-space
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -823,7 +774,6 @@ UID:46e384282f7742dcb123cfb017217fab542a37b1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250619
-DTEND;VALUE=DATE:20250621
 CATEGORIES:AMCHAM
 DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3463/summer-innovation-business-cocktail
 LOCATION:MINT Pradiareň\, Pradiareň 1900\, Bratislava
@@ -850,7 +800,6 @@ UID:25eb543baeac13d6054981654f715d16b72f88bf@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
-DTEND;VALUE=DATE:20251115
 CATEGORIES:AMCHAM
 DESCRIPTION:The third year of a unique conference focused on trends in the real estate sector in Bratislava.\n\nhttps://amcham.sk/events/3548/real-estate-vision-trends
 LOCATION:Grand Hotel River Park\, Bratislava
@@ -859,7 +808,6 @@ UID:b96353d9ed9ab0724a9042c473a2450195bdc913@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
-DTEND;VALUE=DATE:20251024
 CATEGORIES:ITVALLEY
 DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť podnikateľské myslenie vo svojej práci a využiť svoje zručnosti na tvorbu inovácií a hodnoty v organizácii. Rečníkom je Ludwig Stendahl\, skúsený konzultant\, podnikateľ a mentor so 40-ročnou praxou v podpore startupov po celej Európe.\n\nhttps://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibility-for-data-analysts/
 LOCATION:Jesenná 566/5\, 040 01 Košice
@@ -868,7 +816,6 @@ UID:17a3193450efa327f6b3aceb3f407f61b8210e4c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241015
-DTEND;VALUE=DATE:20241017
 CATEGORIES:ITVALLEY
 DESCRIPTION:Komunita UX / Košice\, na ktorej spoluvytváraní sa podieľame\, organizuje svoj tradičný meetup s inšpiratívnymi prednáškami a networkingom. Tentokrát sa zameriame na dôležitú tému prepájajúcu UX dizajn a bezpečnosť.\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-14-ux-a-bezpecnost/
 LOCATION:Fabricafé Tabačka\, Košice
@@ -877,7 +824,6 @@ UID:5acd35de2bd242dfac26d384300d29c797301831@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20240516
-DTEND;VALUE=DATE:20240518
 CATEGORIES:ITVALLEY
 DESCRIPTION:Veľmi nás teší\, že naše pozvanie byť večernou lektorkou prijala Viktória Margitová z agentúry Promiseo.\n\nhttps://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-marketing/
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
@@ -894,7 +840,6 @@ UID:44505d965ca7745ad14d0cd188a858646a81c683@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250121
-DTEND;VALUE=DATE:20250123
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3435/future-employer
 LOCATION:Kasárne/Kulturpark\, Kukučínova 2\, Košice
@@ -911,7 +856,6 @@ UID:e0d0f43bac15b06d0528aabcdc5d16d1ba30227a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250522
-DTEND;VALUE=DATE:20250524
 CATEGORIES:AMCHAM
 DESCRIPTION:Manufacturing: How to Stay Competitive?\n\nhttps://amcham.sk/events/3495/future-ready-slovakia-lets-talk-competitiveness
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
@@ -920,7 +864,6 @@ UID:0dee325673d58dbc7a9535a91ba1720435751eac@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250910
-DTEND;VALUE=DATE:20250912
 CATEGORIES:ITVALLEY
 DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s organizáciou Business Lounge Vás pozýva na Biznis raňajky: Nástroje pomoci pri digitálnej transformácii malých a stredných podnikov.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-spisska-nova-ves/
 LOCATION:Villa Nova Bar\, Spišská Nová Ves
@@ -937,7 +880,6 @@ UID:0441ef1a452c2033f6e63d90ddac33fcf9433c2e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
-DTEND;VALUE=DATE:20250614
 CATEGORIES:AMCHAM
 DESCRIPTION:11th Annual Richard Dewitt Arbitration Conference\n\nhttps://amcham.sk/events/3487/arbitration-conference
 LOCATION:Faculty of Law\, Comenius University\, Šafárikovo námestie 6\, Bratislava
@@ -946,7 +888,6 @@ UID:f4aef780775f09cee48fe67659d27594d06bc591@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250411
-DTEND;VALUE=DATE:20250413
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3479/a-second-wind-in-your-career-opportunities-and-possibilities-for-50-professionals
 LOCATION:The Spot (HotSpot event space\, 6th floor)\, Bottova 2/A\, Bratislava
@@ -973,7 +914,6 @@ UID:a134688ffa66041ba3e0193748dbbecfcb21acda@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241129
-DTEND;VALUE=DATE:20241201
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3427/authentic-leadership
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -990,7 +930,6 @@ UID:5daa22b736aa4b24904ad3aa054aaaea87b11fc5@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250604
-DTEND;VALUE=DATE:20250606
 CATEGORIES:ITVALLEY
 DESCRIPTION:Menej klikov\, viac automatizácie: Spoznajte SAP EBS. Zaujíma vás\, ako automatizovať a zjednodušiť bankové procesy v SAP?\n\nhttps://www.kosiceitvalley.sk/events/accenture-sap-meetup/
 LOCATION:Bratislava\, online
@@ -1015,7 +954,6 @@ UID:fb8894d936a712f24e86e7a23e53e692b174a22c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
-DTEND;VALUE=DATE:20251011
 CATEGORIES:ITVALLEY
 DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI a digitalizácia pomáhajú malým a stredným firmám rásť a byť konkurencieschopné. Večer doplní networking a konzultácie so špecialistami EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad/
 LOCATION:Coworking Poprad
@@ -1024,7 +962,6 @@ UID:effe49faaf37e74de2828798afb836a08bddf3ac@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251027
-DTEND;VALUE=DATE:20251029
 CATEGORIES:ITVALLEY
 DESCRIPTION:Neformálny večer pre podnikateľov\, freelancerov a startupistov\, kde sa otvorene hovorí o chybách\, pádoch aj úspechoch. Príď sa inšpirovať reálnymi príbehmi\, získať nové pohľady a spojiť sa s ľuďmi\, ktorí sa neboja rásť aj cez zlyhania.\n\nhttps://www.kosiceitvalley.sk/events/fail-fast-grow-smart/
 LOCATION:Meet Up Space\, Kulturpark\, Kukučínova 2\, Košice
@@ -1033,7 +970,6 @@ UID:69bfb925ce0506fc4f0548b0741cd595b82ef78c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250918
-DTEND;VALUE=DATE:20250920
 CATEGORIES:ITVALLEY
 DESCRIPTION:Inšpiratívne podujatie pre stredoškoláčky a vysokoškoláčky o odvahe ísť vlastnou cestou\, sebadôvere a kariére vo vede či technológiách.\n\nhttps://www.kosiceitvalley.sk/events/dokazem-cokolvek/
 LOCATION:UVP Technicom\, Boženy Němcovej 5
@@ -1042,7 +978,6 @@ UID:3fa417069246f680ed1bdecdca37a0866cdfdf4d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250526
-DTEND;VALUE=DATE:20250528
 CATEGORIES:ITVALLEY
 DESCRIPTION:Košický IT ekosystém hľadá odborníkov\, ktorí dokážu odhaliť skryté vzorce v dátach a ovládajú strojové učenie!\n\nhttps://www.kosiceitvalley.sk/events/kosice-data-school/
 LOCATION:Košice
@@ -1060,7 +995,6 @@ UID:d96d7a9eeb717bdeced6f7e15472fd63a6d75805@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250331
-DTEND;VALUE=DATE:20250402
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3476/new-construction-law-its-impacts-on-pending-and-future-projects
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -1086,7 +1020,6 @@ UID:9a4c955b381eb56019c21f8ada55b11cf71b9574@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251006
-DTEND;VALUE=DATE:20251008
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/10/06/predstavenie-startupov-sweet-salty-group-pocket/
 LOCATION:Košice
@@ -1095,7 +1028,6 @@ UID:27da35ee9c662e12f78ff031632b768d40aff799@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241023
-DTEND;VALUE=DATE:20241025
 CATEGORIES:ITVALLEY
 DESCRIPTION:Aj tento rok sa uskutoční najväčší festival pracovných príležitostí Profesia Days. Do Košíc prinesie kariérne poradenstvo\, pracovné ponuky a najnovšie trendy zo sveta práce.\n\nhttps://www.kosiceitvalley.sk/events/profesia-days-kosice-2024/
 LOCATION:Kasárne Kulturpark\, Košice
@@ -1104,7 +1036,6 @@ UID:50a2b9d95385618ebd598ba084d44f85d6ffd143@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250605
-DTEND;VALUE=DATE:20250607
 CATEGORIES:AMCHAM
 DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3464/summer-innovation-business-cocktail
 LOCATION:Botanical Garden UPJŠ\, Mánesova 1889/23
@@ -1131,7 +1062,6 @@ UID:467d8561c0aef9708aeacbdd12d66772e66fe1a6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250326
-DTEND;VALUE=DATE:20250328
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3459/trust-corporate-ethics-workplace-investigations-hr-level-up
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -1140,7 +1070,6 @@ UID:481fba4bdf664e24c4b50f04505508bd9ddb6121@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250606
-DTEND;VALUE=DATE:20250608
 CATEGORIES:ITVALLEY
 DESCRIPTION:Našou hosťkou vo formáte CEO Coffee and Cake bude prezidentka Slovenskej republiky\, Zuzana Čaputová.\n\nTento formát\, ktorý pravidelne organizujeme v Košice IT Valley\, je navrhnutý tak\, aby prepájal lídrov na úrovni C-level\, odborníkov z ekonomiky\, verejného sektora a akademickej obce.\n\nhttps://www.kosiceitvalley.sk/events/ceo-coffee-cake-so-zuzanou-caputovou/
 LOCATION:Kaviareň PAPA\, Kasárne Kulturpark
@@ -1165,7 +1094,6 @@ UID:d5aba7dbe5c1876350e271007eed2eeac2e20138@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241115
-DTEND;VALUE=DATE:20241117
 CATEGORIES:ITVALLEY
 DESCRIPTION:„Tvoj tvorivý potenciál – Tvoja budúcnosť“ je hlavnou témou prvej TEDx konferencie v Humennom.\n\nV piatok 15. novembra 2024 sa v Mestskom kultúrnom stredisku uskutoční celodenná konferencia TEDx Humenné.\n\nhttps://www.kosiceitvalley.sk/events/tedxhumenne/
 LOCATION:Mestské kultúrne stredisko Humenné
@@ -1174,7 +1102,6 @@ UID:781d6eb83517e36fca00cb0fbf8db82607aaf68e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251014
-DTEND;VALUE=DATE:20251016
 CATEGORIES:ITVALLEY
 DESCRIPTION:UX / Košice pozýva na ďalšie stretnutie komunity s témou Budovanie UX tímu. Ivana Molnárová z Lighting Beetle* a Ján Višňovský z RBI Design Competence Center ukážu\, ako fungujú úspešné tímy\, akú rolu zohráva agilita\, autonómia a dobrá tímová kultúra.\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu/
 LOCATION:Tabačka Kulturfabrik
@@ -1199,7 +1126,6 @@ UID:dd9934d9d40f616ad35eb66289ae79fd8306a8ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250516
-DTEND;VALUE=DATE:20250518
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3500/how-to-avoid-discrimination-of-50-and-harness-their-potential
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
@@ -1208,7 +1134,6 @@ UID:53a37e4ddf09cbcfa296532cc8c1258a0947c85b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250402
-DTEND;VALUE=DATE:20250404
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by SOPK in cooperation with EDIH Cassovium and AmCham Slovakia\n\nhttps://amcham.sk/events/3478/current-tax-challenges-and-new-digital-trends-and-solutions
 LOCATION:Boženy Němcovej 7
@@ -1217,7 +1142,6 @@ UID:6613c1313b9f8834054382efcb6aa44f6fc6cdc4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251109
 CATEGORIES:AMCHAM
 DESCRIPTION:conference organiezd by Akčné ženy\n\nhttps://amcham.sk/events/3569/equal-pay-day-2025
 LOCATION:DoubleTree by Hilton\, Bratislava
@@ -1226,7 +1150,6 @@ UID:0e30816bab3c17aafe7015181fed355618f28a5b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250327
-DTEND;VALUE=DATE:20250329
 CATEGORIES:ITVALLEY
 DESCRIPTION:Interaktívny workshop zameraný na kybernetickú bezpečnosť pre pedagógov\, organizovaný v spolupráci so spoločnosťou ESET a Košickým samosprávnym krajom\, predstaví aktuálne kybernetické hrozby a nástroje na ochranu v online prostredí.\n\nhttps://www.kosiceitvalley.sk/events/cybersecurity-den-pre-pedagogov/
 LOCATION:UVP Technicom
@@ -1235,7 +1158,6 @@ UID:d422671af6dd17e719d8f874b33e81d0d840e694@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250325
-DTEND;VALUE=DATE:20250327
 CATEGORIES:ITVALLEY
 DESCRIPTION:Ako vyzerá aktuálny trh práce v ICT sektore v Košiciach? Aké sú najnovšie trendy v odmeňovaní v IT? Zistite viac na Data Breakfast — čakajú vás dva odborné príspevky\, panelová diskusia a jedinečná príležitosť na networking s profesionálmi z odvetvia.\n\nhttps://www.kosiceitvalley.sk/events/data-a-it-trh-prace-v-pohybe/
 LOCATION:UVP Technicom\, Košice
@@ -1244,7 +1166,6 @@ UID:e0423b12296516cc041de558614de8cb96eaec7c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250403
-DTEND;VALUE=DATE:20250405
 CATEGORIES:AMCHAM
 DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3473/speed-business-meeting-in-kosice
 LOCATION:DoubleTree by Hilton Kosice\, Hlavná 1
@@ -1253,7 +1174,6 @@ UID:7cc4436b0e1edade51330faee70cc3eae511b490@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
-DTEND;VALUE=DATE:20251123
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3557/ai-agents-when-efficiency-meets-creativity
 LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
@@ -1262,7 +1182,6 @@ UID:ac1f916e423e5aa649995b455760d6d85037973c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251023
-DTEND;VALUE=DATE:20251025
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/10/23/predstavenie-startupov-sweet-salty-ofrules/
 LOCATION:Košice
@@ -1271,7 +1190,6 @@ UID:ecd5c60b4c7930d5d1e1f8f9e827c920d3824efc@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
-DTEND;VALUE=DATE:20250206
 CATEGORIES:ITVALLEY
 DESCRIPTION:Živé IT Projekty je jedinečný vzdelávací koncept organizovaný pod záštitou Katedry počítačov a informatiky FEI TUKE a združenia Košice IT Valley\, v rozsahu a formáte\, ktorý je na Slovensku nezvyčajný.\n\nhttps://www.kosiceitvalley.sk/events/zive-it-projekty-finale/
 LOCATION:Kasárne Kulturpark\, Košice
@@ -1304,7 +1222,6 @@ UID:dd724d5c010b1621a7bd95a2534842d745f56ef2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250226
-DTEND;VALUE=DATE:20250228
 CATEGORIES:ITVALLEY
 DESCRIPTION:Spoločnosť MATHISON legal vás pozýva na Business Breakfast. Téma tohto stretnutia je AI a právo: Ako umelá inteligencia mení pravidlá podnikania.\n\nhttps://www.kosiceitvalley.sk/events/ai-a-pravo-ako-ai-meni-pravidla-podnikania-business-breakfast/
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
@@ -1313,7 +1230,6 @@ UID:48605ac109af52b6f41b85d6c3ef8554b0066c8b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
-DTEND;VALUE=DATE:20251122
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Forum organized by SARIO (Slovenská agentúra pre rozvoj investícií a obchodu)\n\nhttps://amcham.sk/events/3560/slovak-industry-vision-day-2025
 LOCATION:X-bionic ® sphere\, Samorin\, Slovakia
@@ -1330,7 +1246,6 @@ UID:fc36fb6dfa7ff513cb6d92ea41822cbe254a8c9c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250925
 CATEGORIES:ITVALLEY
 DESCRIPTION:Festival inovácií\, ktorý sa tento rok uskutoční už po šiestykrát\, organizuje združenie INOVATO v spolupráci so svojimi členmi a partnermi. Táto jedinečná platforma spája popredných odborníkov\, akademikov\, podnikateľov\, neziskové organizácie\, študentov\, zástupcov verejnej správy a inovátorov naprieč rôznymi sektormi.\n\nhttps://www.kosiceitvalley.sk/events/inofest-2025/
 LOCATION:Materiálovotechnologická faktulta STU\, Trnava
@@ -1339,7 +1254,6 @@ UID:3cc0a3e2b5be66421a94feeddc51a905ed0092ee@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250925
 CATEGORIES:AMCHAM
 DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3537/social-in-esg-an-experience-that-changes-perspectives
 LOCATION:The Spot Cowork\, 8th floor\, Bottova 2/A\, Bratislava
@@ -1348,7 +1262,6 @@ UID:63c376586aae5ba52718c6a140f1ff09c64247df@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
-DTEND;VALUE=DATE:20250927
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/09/25/predstavenie-startupov-sweet-salty-solarxbox/
 LOCATION:Košice
@@ -1357,7 +1270,6 @@ UID:3f06153e233b20ac89893ea027fd08bc253a61c2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250428
-DTEND;VALUE=DATE:20250430
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3484/navigating-slovakias-new-financial-transaction-tax-practical-insights-business-impacts
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
@@ -1400,7 +1312,6 @@ UID:dd5edc8056e57c345fbf9de9cbc3d265f6d759f7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
-DTEND;VALUE=DATE:20250523
 CATEGORIES:AMCHAM
 DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3501/speed-business-meeting
 LOCATION:Lindner Hotel Gallery Central\, Metodova 4\, Bratislava
@@ -1417,7 +1328,6 @@ UID:c2a67b84dae9a82d84c37a737ab6851d39a897e4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250606
-DTEND;VALUE=DATE:20250608
 CATEGORIES:AMCHAM
 DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3512/valaliky-industrial-park
 LOCATION:Valaliky Industrial Park\, Valaliky
@@ -1444,7 +1354,7 @@ UID:5b7b900c106ae97577c58b5c51b2291d03021672@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251028
-DTEND;VALUE=DATE:20251031
+DTEND;VALUE=DATE:20251030
 CATEGORIES:AMCHAM
 DESCRIPTION:conference organized by International Climate Adaptation Research Institute\n\nhttps://amcham.sk/events/3524/more-climate-resilient-cities
 LOCATION:hotel SAFRON\, Radlinského 27\, Bratislava
@@ -1453,7 +1363,6 @@ UID:3c93ddc0542bc9cc794c3ac547ca9e1acd86e831@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250409
-DTEND;VALUE=DATE:20250411
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3451/4th-annual-restructuring-day
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -1462,7 +1371,6 @@ UID:d374492b551c2c7f97fb003b331822b8905cdf97@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250603
-DTEND;VALUE=DATE:20250605
 CATEGORIES:ITVALLEY
 DESCRIPTION:Finále Lab IT Creativity – Mladí inovátori predstavia svoje projekty!\n\nPo dvoch semestroch tvrdej práce prichádza veľký moment: 14 stredných škôl z celého Slovenska predstaví 17 technologických projektov na finále LAB IT Creativity — projektoch\, na ktorých intenzívne pracovali počas celého školského roka.\n\nhttps://www.kosiceitvalley.sk/events/finale-projektu-lab-it-creativity-4-rocnik/
 LOCATION:Aula Maxima\, TUKE
@@ -1497,7 +1405,6 @@ UID:886d5fa6ab542d1a7a99138fbea0494fb7b3cb63@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251211
-DTEND;VALUE=DATE:20251213
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3529/esg-best-practice-sharing-kosice-edition
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Košice
@@ -1506,7 +1413,6 @@ UID:f3fb305bec3e6d643fa136e693df3a7926f1fc4d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251113
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by BRICHTA & PARTNERS\n\nhttps://amcham.sk/events/3564/protect-grow-2025
 LOCATION:Lab28\, Mlynské nivy 5\, Bratislava
@@ -1523,7 +1429,6 @@ UID:277d01cf3365965f668685a8436809903fdd2b7a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251022
-DTEND;VALUE=DATE:20251024
 CATEGORIES:ITVALLEY
 DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu na spoľahlivý a efektívny prvok komplexných riešení.\nO svoje skúsenosti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-spravovat-ai-systemy/
 LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
@@ -1548,7 +1453,6 @@ UID:77d399e3950469c758c98d6f86a91ed95c7e6d54@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250328
-DTEND;VALUE=DATE:20250330
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3461/cynicism-in-business-risk-or-competitive-advantage
 LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
@@ -1557,7 +1461,6 @@ UID:10e6a15b7965929b9b11ca50cff1e66b506b5ce9@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
-DTEND;VALUE=DATE:20251009
 CATEGORIES:ITVALLEY
 DESCRIPTION:IVIP Fórum 2025: Praktické riešenia pre mestá a obce\, zapojenie komunít\, prorodinné stratégie a moderné technológie pre lepšie Slovensko.\n\nhttps://www.kosiceitvalley.sk/events/ivip-forum-2025/
 LOCATION:KKC Hviezda Trenčín
@@ -1566,7 +1469,6 @@ UID:445fb25b78a5bc3fabbd037f24f3b3e0239a0897@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251113
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events/3532/hiring-non-eu-talent-a-guide-to-immigration-options
 LOCATION:ProRelocation office\, Svätoplukova 31\, 821 09 Bratislava\, Slovakia
@@ -1575,7 +1477,7 @@ UID:2cab44a998fee918e8f744b57af382938bdbd5a8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241129
-DTEND;VALUE=DATE:20241202
+DTEND;VALUE=DATE:20241201
 CATEGORIES:AMCHAM
 DESCRIPTION:Fly me to the moon / 28th Edition\n\nhttps://amcham.sk/events/3325/thanksgiving-charity-gala-dinner
 LOCATION:Bratislava Castle\, Bratislava
@@ -1584,7 +1486,6 @@ UID:c31603b302938d35ba385bf0692d0a9390d4c1bc@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241104
-DTEND;VALUE=DATE:20241106
 CATEGORIES:ITVALLEY
 DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného partnerstva vás pozýva na podujatie INNOPSIES Entrepreneurs’ Meeting\, venované téme inovácií v kontexte digitálnej transformácie podnikov.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-presov/
 LOCATION:Hlavná 139\, Prešov
@@ -1610,7 +1511,6 @@ UID:888f9b7c6973d02646b884a6554bbda15611a9d6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251027
-DTEND;VALUE=DATE:20251029
 CATEGORIES:ICKK
 DESCRIPTION:Dva mesiace nového školského roka za nami. Tretí ročník predmetu Inovuj a podnikaj odštartoval a po...\n\nhttps://ickk.sk/2025/10/27/dva-mesiace-noveho-skolskeho-roka-za-nami/
 LOCATION:Košice
@@ -1619,7 +1519,6 @@ UID:aa43a1b10d1f417e8df26092b7afed4e782bcde7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241029
-DTEND;VALUE=DATE:20241031
 CATEGORIES:AMCHAM
 DESCRIPTION:Equal Pay for Equal Work: What Does This Mean for Organizations in Practice?\n\nhttps://amcham.sk/events/3419/hr-learning-circle-in-kosice
 LOCATION:Kasárne/Kulturpark\, Kukučínova 2\, Košice
@@ -1671,7 +1570,6 @@ UID:83f338e0e053d29737d9a2d4042f81ba15a916c3@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
-DTEND;VALUE=DATE:20250906
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3521/welcome-back-to-work
 LOCATION:Grand Hotel River Park\, a Luxury Collection Hotel\, Dvořákovo nábrežie 6\, Bratislava
@@ -1680,7 +1578,6 @@ UID:7f3e0fdc6fcc5098791be4e7745a9f506289d89e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250515
-DTEND;VALUE=DATE:20250517
 CATEGORIES:AMCHAM
 DESCRIPTION:https://amcham.sk/events/3454/corporate-banking-forum-2025
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -1697,7 +1594,6 @@ UID:bfe6ee5bc05944037e53711a5a7ea3e78ebb3f9d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
-DTEND;VALUE=DATE:20251106
 CATEGORIES:AMCHAM
 DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3562/speed-business-meeting-in-banska-bystrica
 LOCATION:Hotel Arcade\, Jána Cikkera 1
@@ -1714,7 +1610,6 @@ UID:4e9143852b2725b2a7d3ee4ec0290fd52fc000bf@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241111
-DTEND;VALUE=DATE:20241113
 CATEGORIES:ITVALLEY
 DESCRIPTION:Jedinečné podujatie CEO Dinner s pánom Ivanom Miklošom\, bývalým ministrom financií Slovenskej republiky\, sa uskutoční v pondelok 11. novembra 2024. Podujatie je len na pozvánky pre členov klastru a je určené predovšetkým pre CEO a CFO.\n\nhttps://www.kosiceitvalley.sk/events/ceo-dinner-s-ivanom-miklosom/
 LOCATION:Gesto café & brunch\, Námestie L. Novomeského 13\, Košice
@@ -1731,7 +1626,6 @@ UID:a9850701acdaf2a5e368cb4e2c7b6b2f66059540@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250326
-DTEND;VALUE=DATE:20250328
 CATEGORIES:ITVALLEY
 DESCRIPTION:Zažite svet IT naživo!\nChcete vidieť\, ako vyzerá budúcnosť technológií zblízka? Príďte na náš Deň otvorených dverí a ponorte sa do atmosféry našej akadémie!\n\nhttps://www.kosiceitvalley.sk/events/dod-kosicka-akademia-softveroveho-vyvoja/
 LOCATION:Moldavská cesta 8A\, budova BCT -1
@@ -1740,7 +1634,6 @@ UID:d600f2d30e0be90b7e1751a0a5b365c9486328ad@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241120
-DTEND;VALUE=DATE:20241122
 CATEGORIES:ITVALLEY
 DESCRIPTION:Pomáhať iným je prirodzenou súčasťou života úspešných lídrov a podnikateľov.\nPreto vás v mene Nadácie Pontis\, v spolupráci so spoločnosťou EY\, srdečne pozývame na špeciálny filantropický večer\, ktorý ponúka priestor na zdieľanie inšpiratívnych príbehov a skúseností.\n\nhttps://www.kosiceitvalley.sk/events/filantropicky-vecer-s-nadaciou-pontis-a-ey/
 LOCATION:Východoslovenská galéria\, Košice
@@ -1749,7 +1642,6 @@ UID:a45b090ab2f4994314d99cef82684512a266b87a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
-DTEND;VALUE=DATE:20251019
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3534/crisis-compliance-navigating-bribery-sanctions-and-cross-border-risk
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -1774,7 +1666,6 @@ UID:1edae2085a4abcb2fc3a4d48939938a80e2b0c07@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250925
 CATEGORIES:AMCHAM
 DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3536/transform-your-business-sustainability-business-simulation
 LOCATION:The Spot Cowork\, 7th floor\, Bottova 2/A\, Bratislava
@@ -1791,7 +1682,6 @@ UID:37b5acbe878ff8aea74e21f6d0012e5c8a4305f2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250613
-DTEND;VALUE=DATE:20250615
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3497/authentic-leadership-a-key-element-in-building-strong-future-ready-organizations
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
@@ -1808,7 +1698,7 @@ UID:56ee3bc13aa55b60a71812076a6fb0550ce70963@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
-DTEND;VALUE=DATE:20251114
+DTEND;VALUE=DATE:20251113
 CATEGORIES:AMCHAM
 DESCRIPTION:conference organized by Junior Achievement Slovensko\n\nhttps://amcham.sk/events/3563/connecting-education-and-business
 LOCATION:Košice – DoubleTree by Hilton
@@ -1817,7 +1707,6 @@ UID:554e58bc0378a986d7f4cf94ff14f89e9c9e09e0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
-DTEND;VALUE=DATE:20251206
 CATEGORIES:AMCHAM
 DESCRIPTION:Future-Ready Business: Trust\, Talent & Technology\n\nhttps://amcham.sk/events/3542/amcham-bscf-11th-annual-business-centers-conference
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -1826,7 +1715,6 @@ UID:41e40a29cb749cb362ec91703762753be35d90ad@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250211
-DTEND;VALUE=DATE:20250213
 CATEGORIES:ITVALLEY
 DESCRIPTION:Komunita UX / Košice\, na ktorej spoluvytváraní sa podieľame\, organizuje svoj tradičný meetup s inšpiratívnymi prednáškami a networkingom s témou - UX pre občana\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-15-ux-pre-obcana/
 LOCATION:Fabrik Space Tabačka\, Košice
@@ -1835,7 +1723,6 @@ UID:56b01498f426c21c881a887d98787b44da1a3b47@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250619
-DTEND;VALUE=DATE:20250621
 CATEGORIES:AMCHAM
 DESCRIPTION:Be the first to hear about AmCham achievements and activities in 2024.\n\nhttps://amcham.sk/events/3490/general-assembly-2025
 SUMMARY:🟢 [AMCHAM] General Assembly 2025
@@ -1843,7 +1730,6 @@ UID:b8c9ac514178cb9f2ae94f022af1f9bc2b96c2fc@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251109
 CATEGORIES:ITVALLEY
 DESCRIPTION:Pridaj sa k 10. CASSINI Hackathonu v Košiciach (7.–9. 11. 2025)! Vytváraj inovatívne riešenia s využitím satelitných dát pre gaming\, šport a cestovný ruch. Najlepšie tímy postúpia do európskeho finále. Registrácia a viac info na stránke hackathonu a platforme TAIKAI.\n\nhttps://www.kosiceitvalley.sk/events/10th-cassini-hackathon/
 LOCATION:UVP TECHNICOM\, Košice
@@ -1852,7 +1738,6 @@ UID:91de6e32d5b73f114fb4cd5484d994f77a7b909c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
-DTEND;VALUE=DATE:20250410
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3483/streamlining-justice-eu-electronic-evidence
 LOCATION:Jurkovičova Tepláreň (2nd floor) + online\, Bottova 1\, Bratislava
@@ -1877,7 +1762,6 @@ UID:37929373ad9e9a0e196ddbeed53230b1cc739d73@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250307
-DTEND;VALUE=DATE:20250309
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3444/why-agile-fails-using-neuroscience-and-ai-for-progress
 LOCATION:Jurkovičova Tepláreň\,\, Bottova 1\, Bratislava
@@ -1911,7 +1795,6 @@ UID:68a5449d59aa46ef47ba6e52fc3f6390925f66db@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
-DTEND;VALUE=DATE:20250614
 CATEGORIES:ITVALLEY
 DESCRIPTION:ESG Awards 2025 od Košice IT Valley je ocenenie pre firmy a jednotlivcov\, ktorí robia svet okolo seba lepším miestom.\n\nhttps://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni/
 LOCATION:Resort Barca Hotel & Restaurant\, Košice
@@ -1920,7 +1803,6 @@ UID:af568a9c3fbb8912d3564b488f5b0b4d92caf060@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241106
-DTEND;VALUE=DATE:20241108
 CATEGORIES:AMCHAM
 DESCRIPTION:Exclusive Roundtable Discussion\n\nhttps://amcham.sk/events/3420/strengthening-trust-in-governments-and-institutions
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -1929,7 +1811,7 @@ UID:ada47b8d34d8089b4eb47e1f5cbddc37c3e60fdb@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251003
-DTEND;VALUE=DATE:20251102
+DTEND;VALUE=DATE:20251101
 CATEGORIES:SOPK
 DESCRIPTION:Európske malé a stredné podniky majú jedinečnú šancu zúčastniť sa podnikateľskej misie EU Business Hub @ KIMES 2026 v Soule\, ktorá sa uskutoční 18.–22. marca 2026. Misia je určená firmám pôsobiacim […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-podnikatelsku-misiu-eu-business-hub-kimes-2026-v-soule-18-22-marca-2026-prilezitost-pre-europske-firmy-v-zdravotnictve/
 SUMMARY:🟧 [SOPK] Pozvánka na podnikateľskú misiu EU Business Hub @ KIMES 2026 v Soule (18.–22. marca 2026) – Príležitosť pre európske firmy v zdravotníctve
@@ -1946,7 +1828,6 @@ UID:93c62073d74aae906de15b81721e647e70c512e4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241106
-DTEND;VALUE=DATE:20241108
 CATEGORIES:ITVALLEY
 DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného partnerstva vás pozýva na podujatie INNOPSIES Entrepreneurs’ Meeting\, zamerané na tému inovácií v kontexte digitálnej transformácie podnikania.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-michalovce/
 LOCATION:Hotel Mousson\, Michalovce
@@ -1964,7 +1845,6 @@ UID:3ede0f7d9447c04af6d59f96040f867ca4ebe8a8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
-DTEND;VALUE=DATE:20250921
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by the Association Chamber of Chambers (CHAMCHAM)\n\nhttps://amcham.sk/events/3525/golftrophy-2025
 LOCATION:Sedín Golf Resort\, Veľké Úľany
@@ -1973,7 +1853,6 @@ UID:b5ea345dc0701c12f1efd2593ccb4db6207889e4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
-DTEND;VALUE=DATE:20251122
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle in Košice\n\nhttps://amcham.sk/events/3570/social-dialogue-that-works-law-tactics-practice
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Košice
@@ -2014,7 +1893,6 @@ UID:d810b0088fa3d4fc225dabe6a5e6e3ce0ad81cac@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250929
-DTEND;VALUE=DATE:20251001
 CATEGORIES:AMCHAM
 DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3538/speed-business-meeting
 LOCATION:Clarion Congress Hotel Bratislava\, Žabotova 2\, Bratislava
@@ -2023,7 +1901,6 @@ UID:42d67072321dc3f0fad1ee191738e554be723267@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250925
 CATEGORIES:AMCHAM
 DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-staying-ahead-in-a-changing-world
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -2032,7 +1909,6 @@ UID:34fc3578df3468877c65f2662c6a8736a04ced0f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251126
-DTEND;VALUE=DATE:20251128
 CATEGORIES:AMCHAM
 DESCRIPTION:Data Breakfast organized by Alma Career Slovakia\n\nhttps://amcham.sk/events/3566/understand-employees-through-data
 LOCATION:Cinema City\, Pribinova 8\, Bratislava
@@ -2049,7 +1925,6 @@ UID:f2193d9355da2427d2ec769c6bb3890f18e17c03@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250324
-DTEND;VALUE=DATE:20250326
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3474/competitive-slovakia-implications-of-the-transaction-tax-what-it-brings-to-the-business-environment
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
@@ -2092,7 +1967,6 @@ UID:13f7bba5de70c39a5938173310d360f6c732cfe0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241125
-DTEND;VALUE=DATE:20241127
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3428/future-employer
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
