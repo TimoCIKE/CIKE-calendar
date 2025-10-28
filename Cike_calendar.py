@@ -616,7 +616,7 @@ def export_events_to_ics(events, filename="events.ics"):
             if e_date < s_date:
                 e_date = s_date
             e.begin = s_date
-            e.end   = e_date + timedelta(days=1)  # exkluzívny koniec = nasledujúci deň
+            e.end   = e_date 
             e.make_all_day()  # zabezpečí VALUE=DATE v ICS
         else:
             # ⏰ Časované: zachovaj presný čas v Europe/Bratislava
