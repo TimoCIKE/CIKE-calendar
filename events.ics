@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251028
-CATEGORIES:AMCHAM
-DESCRIPTION:Workshop organized by Deloitte\n\nhttps://amcham.sk/events/3567/pay-transparency
-LOCATION:Deloitte Office\, Pribinova 34\, Bratislava
-SUMMARY:🟢 [AMCHAM] Pay Transparency
-UID:6b69ae9a4ee7afee0e9e638b7ccefdee0c7f587f@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3545/social-dialogue-that-works-law-tactics-practice
@@ -870,14 +862,6 @@ SUMMARY:🔵 [ITVALLEY] INNOPSIES Spišská Nová Ves
 UID:b29491a71fb25afd5efa95f91ce030c5eb2be766@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Seminár nadväzuje na seminár – Základy tvorby zmlúv. Cieľom seminára je oboznámiť  účastníkov s úskaliami pri tvorbe zmlúv o dielo používanými v stavebníctve. Medzi najväčšie úskalia patrí vymedzenie predmetu diela a […] \\n\n\nhttps://www.sopk.sk/event/webinar-zmluvne-pravo-v-stavebnictve/
-DTEND:20241120T143000Z
-DTSTART:20241120T130000Z
-SUMMARY:🟧 [SOPK] Webinár: Zmluvné právo v stavebníctve
-UID:0441ef1a452c2033f6e63d90ddac33fcf9433c2e@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
 CATEGORIES:AMCHAM
 DESCRIPTION:11th Annual Richard Dewitt Arbitration Conference\n\nhttps://amcham.sk/events/3487/arbitration-conference
@@ -1175,7 +1159,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3557/ai-agents-when-efficiency-meets-creativity
-LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
+LOCATION:Jurkovičova Tepláreň\, Event Hall (ground floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] AI Agents – When Efficiency Meets Creativity
 UID:ac1f916e423e5aa649995b455760d6d85037973c@cike-events
 END:VEVENT
@@ -1557,15 +1541,6 @@ SUMMARY:🟧 [SOPK] webinár DAŇ Z PRÍJMOV\, ZÁVISLÁ ČINNOSŤ
 UID:7df0af33c2e29d4277cf3ceb86fd2dfc318c622b@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:SARIO pripravilo odborné podujatie spojené s B2B rokovaniami firiem s názvom "Slovak Industry Vision Day 2024".  Miesto: X-bionic sphere\, Šamorín Dátum: 21. november 2024\,  (štvrtok) PROGRAM 9.00—9.30 úvodná diskusia  9.30—11.00 INOVÁCIE & RECYKLÁCIA: […] \\n\n\nhttps://www.sopk.sk/event/slovak-industry-vision-day-2024/
-DTEND:20241121T160000Z
-LOCATION:X-bionic sphere\, Šamorín\, 93101
-DTSTART:20241121T080000Z
-SUMMARY:🟧 [SOPK] Slovak Industry Vision Day 2024
-UID:83f338e0e053d29737d9a2d4042f81ba15a916c3@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3521/welcome-back-to-work
@@ -1851,7 +1826,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle in Košice\n\nhttps://amcham.sk/events/3570/social-dialogue-that-works-law-tactics-practice
-LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Košice
+LOCATION:Univerzitný vedecký park TECHNICOM\, Galéria room\, Boženy Němcovej 5\, Košice
 SUMMARY:🟢 [AMCHAM] Social Dialogue That Works: Law\, Tactics & Practice
 UID:ee690a8c5bc67e832f8be26c127b94df29ee496a@cike-events
 END:VEVENT
