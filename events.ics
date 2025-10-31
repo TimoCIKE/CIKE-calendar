@@ -417,15 +417,6 @@ UID:76156c2c8e1cd755e8463771e512eac5a1e14249@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Téma webinára: V súčasnej konkurencii je výnimočná starostlivosť o zamestnancov kľúčovou výhodou pre firmy. Vytvorením atraktívneho prostredia dokážu spoločnosti prilákať a udržať si top talenty\, znížiť fluktuáciu\, zredukovať náklady na zaškoľovanie […] \\n\n\nhttps://www.sopk.sk/event/wem-employee-motivation-motivacny-zamestnanecky-program/
-DTEND:20241127T090000Z
-LOCATION:Online
-DTSTART:20241127T080000Z
-SUMMARY:🟧 [SOPK] WEM Employee Motivation – Motivačný zamestnanecký program
-UID:cdd07b0ec090f978acd5d37381a2f0d8b9e8d11d@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Dátum konania: 4. alebo 15. decembra 2025 Program: Daňový bonus na deti v daňovom priznaní/ročnom zúčtovaní za rok 2025 a výhľad na rok 2026 SZČO a odvody na sociálne poistenie a […] \\n\n\nhttps://www.sopk.sk/event/webinar-konsolidacny-balicek-a-danovo-odvodova-optimalizacia/
 DTEND:20251204T133000Z
 DTSTART:20251204T080000Z
@@ -643,15 +634,6 @@ DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých 
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
 SUMMARY:🔵 [ITVALLEY] Seminár Kybernetická bezpečnosť
 UID:8b87747acff5492c09c9d84f16495b318b5a3b45@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK pripravila klubové stretnutie členov SOPK. Dátum:                     27. november 2024 (streda) o 16:00 hod. Miesto konania:        Hotel MIKADO - Hollého 11\, Nitra Hostia:    […] \\n\n\nhttps://www.sopk.sk/event/klubove-stretnutie-clenov-sopk-v-nitrianskom-regione/
-DTEND:20241127T170000Z
-LOCATION:Hotel MIKADO\, Hollého 1496/11\, Nitra\, 94901
-DTSTART:20241127T150000Z
-SUMMARY:🟧 [SOPK] Klubové stretnutie členov SOPK v Nitrianskom regióne
-UID:9ef7166266d9759e72a06566c947a53b73c6b8df@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
@@ -1245,20 +1227,20 @@ UID:3bd029f4b7cea1f4258d4ef23f2801ea5d723aa3@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK\,  v spolupráci s Relia s.r.o.  Vás pozýva na webinár Daň z finančných transakcií.   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a […] \\n\n\nhttps://www.sopk.sk/event/dan-z-financnych-transakcii/
+DTEND:20250319T133000Z
+DTSTART:20250319T080000Z
+SUMMARY:🟧 [SOPK] Daň z finančných transakcií
+UID:99c4ae91de83387e238589496d971822e442dd3e@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci so spoločnosťou  CLA SLOVAKIA prináša overený formát krátkeho webináru s následnou možnosťou individuálnej konzultácie s expertami. Organizátor: Bratislavská regionálna komora SOPK Kedy: Každú tretiu stredu […] \\n\n\nhttps://www.sopk.sk/event/danova-a-uctovna-polhodinka-duplicate-1-duplicate-1-duplicate-1-duplicate-1-duplicate-1/
 DTEND:20250219T100000Z
 LOCATION:Online
 DTSTART:20250219T080000Z
 SUMMARY:🟧 [SOPK] Daňová a účtovná polhodinka – február
 UID:3ebf5ec5feb5d034439beb9cebb9fa14acf91c3b@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK\,  v spolupráci s Relia s.r.o.  Vás pozýva na webinár Daň z finančných transakcií.   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a […] \\n\n\nhttps://www.sopk.sk/event/dan-z-financnych-transakcii/
-DTEND:20250319T133000Z
-DTSTART:20250319T080000Z
-SUMMARY:🟧 [SOPK] Daň z finančných transakcií
-UID:99c4ae91de83387e238589496d971822e442dd3e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1612,14 +1594,6 @@ SUMMARY:🟢 [AMCHAM] Authentic Leadership: A key element in building strong\, f
 UID:f92d5bd4dd41e6bf1b04d43b7a6ff42c156f702e@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora Vás pozýva na webinár Zákon o odpadoch – zásadná zmena v evidencii odpadov. SOPK Vám tiež predstaví najnovšiu iniciatívu SYMCRAFT zámernú na spoluprácu podnikov a remeselníkov v oblasti […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-odpadoch-zasadna-zmena-v-evidencii-odpadov-2/
-DTEND:20241126T143000Z
-DTSTART:20241126T080000Z
-SUMMARY:🟧 [SOPK] Webinár: Zákon o odpadoch – zásadná zmena v evidencii odpadov
-UID:56ee3bc13aa55b60a71812076a6fb0550ce70963@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251111
 CATEGORIES:AMCHAM
 DESCRIPTION:conference organized by Junior Achievement Slovensko\n\nhttps://amcham.sk/events/3563/connecting-education-and-business
@@ -1665,14 +1639,6 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3483/streamlining-justice-eu-el
 LOCATION:Jurkovičova Tepláreň (2nd floor) + online\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Streamlining Justice: EU Electronic Evidence
 UID:bb86bae93fbefe2eed08678ec18f6e13154b197b@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trnavská regionálna komora SOPK Vás pozýva na prezenčný odborný   seminár Ako efektívne zorganizovať firmu DÁTUM A ČAS: 30.10.2025 od 10°°-13°°h MIESTO: Regionálne centrum Trnava\, Zavarská 11/G 91701 Trnava\, 1 poschodie. RC […] \\n\n\nhttps://www.sopk.sk/event/ako-efektivne-zorganizovat-firmu/
-DTEND:20251030T130000Z
-DTSTART:20251030T090000Z
-SUMMARY:🟧 [SOPK] Ako efektívne zorganizovať firmu
-UID:b2ed375e2fdd947b52503a26a788277c5c0445a1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1790,10 +1756,10 @@ UID:1a3c5417731dbc419f6ee2f0ecdbfabb513e9ff6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Prešovská regionálna komora SOPK  člen siete Enterprise Europe Network Vás pozýva na podujatie pod záštitou mimoriadnej a splnomocnenej veľvyslankyne Slovenskej republiky v Poľsku Andrey Elschekovej-Matisovej: […] \\n\n\nhttps://www.sopk.sk/event/27-03-2025-business-ranajky-s-polskom/
+DESCRIPTION:Košická regionálna komora SOPK  člen siete Enterprise Europe Network Vás pozýva na podujatie pod záštitou mimoriadnej a splnomocnenej veľvyslankyne Slovenskej republiky v Poľsku […] \\n\n\nhttps://www.sopk.sk/event/business-ranajky-s-polskom/
 DTEND:20250327T110000Z
 DTSTART:20250327T073000Z
-SUMMARY:🟧 [SOPK] BUSINESS raňajky s Poľskom
+SUMMARY:🟧 [SOPK] Business raňajky s Poľskom
 UID:295da06426f985bad389b6285e4deae1c609dadc@cike-events
 END:VEVENT
 BEGIN:VEVENT
