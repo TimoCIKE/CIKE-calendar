@@ -189,6 +189,14 @@ SUMMARY:🟢 [AMCHAM] LIVE from NYC: Actions for a Sustainable Future
 UID:e5d8f1b6345d3cc312c0ca79997c99aed6b68285@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Príchod investora môže priniesť významné investície  a vytvoriť pracovné miesta\, ale aj zmeny a výzvy pre miestne podnikanie a komunitu. Tento proces prebieha kontinuálne. Čo všetko chápeme pod pojmom zamestnanecké benefity? Zamestnanecké benefity (alebo […] \\n\n\nhttps://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-vyhoda-zamestnavatela-2/
+DTEND:20251014T093000Z
+DTSTART:20251014T070000Z
+SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda zamestnávateľa
+UID:8a24b7d28af552dd4e886ebbf9402c22ec637b08@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 CATEGORIES:ITVALLEY
 DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahraničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medzinárodných študentov\, prekážky na trhu práce a prepojenie vzdelávania s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-conference-2025/
@@ -596,14 +604,6 @@ SUMMARY:🟧 [SOPK] Pozvánka na klubovú LIGHT aktivitu: Ochutnávka čajov s a
 UID:52538bf457e1b978a3ad15ad57121f487369a2bd@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250902
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/09/02/druha-polovica-roka-bude-v-znameni-startupovych-programov-a-medzinarodnej-spoluprace/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Druhá polovica roka bude v znamení startupových programov a medzinárodnej spolupráce.
-UID:76d0368ea93dcf01db7b0aef36077df454cf4f6b@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme […] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
 DTEND:20251014T160000Z
@@ -634,6 +634,15 @@ DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých 
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
 SUMMARY:🔵 [ITVALLEY] Seminár Kybernetická bezpečnosť
 UID:8b87747acff5492c09c9d84f16495b318b5a3b45@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK pripravila klubové stretnutie členov SOPK. Dátum:                     27. november 2024 (streda) o 16:00 hod. Miesto konania:        Hotel MIKADO - Hollého 11\, Nitra Hostia:    […] \\n\n\nhttps://www.sopk.sk/event/klubove-stretnutie-clenov-sopk-v-nitrianskom-regione/
+DTEND:20241127T170000Z
+LOCATION:Hotel MIKADO\, Hollého 1496/11\, Nitra\, 94901
+DTSTART:20241127T150000Z
+SUMMARY:🟧 [SOPK] Klubové stretnutie členov SOPK v Nitrianskom regióne
+UID:9ef7166266d9759e72a06566c947a53b73c6b8df@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
@@ -694,6 +703,14 @@ DTEND:20250527T100000Z
 DTSTART:20250527T064500Z
 SUMMARY:🟧 [SOPK] Hlavné faktory úspešného riadenia firmy
 UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+CATEGORIES:ICKK
+DESCRIPTION:TuuTap: Hry\, ktoré udržia zákazníkov a zvyšujú angažovanosť TuuTap je zábavná platforma plná...\n\nhttps://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – TuuTap
+UID:bb3f0be30a08b08e8131367358c6113c0314bcc0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
@@ -1434,10 +1451,18 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251027
 CATEGORIES:ICKK
-DESCRIPTION:Dva mesiace nového školského roka za nami. Tretí ročník predmetu Inovuj a podnikaj odštartoval a po...\n\nhttps://ickk.sk/2025/10/27/dva-mesiace-noveho-skolskeho-roka-za-nami/
+DESCRIPTION:https://ickk.sk/2025/10/27/dva-mesiace-noveho-skolskeho-roka-za-nami/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Dva mesiace nového školského roka za nami.
 UID:aa43a1b10d1f417e8df26092b7afed4e782bcde7@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Slovensko – rakúska obchodná komora v spolupráci s regionálnymi komorami SOPK Trnava a Bratislava a ďalšími partnermi Vás pozývajú na podujatie Doing Business in Austria. Podujatie sa uskutoční 29.10.2025 o 9:30 […] \\n\n\nhttps://www.sopk.sk/event/doing-business-in-austria-3/
+DTEND:20251029T110000Z
+DTSTART:20251029T083000Z
+SUMMARY:🟧 [SOPK] Doing Business in Austria
+UID:b71023b1fdc740b863e5dfe88f892e355069e637@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1447,14 +1472,6 @@ LOCATION:Online
 DTSTART:20250828T080000Z
 SUMMARY:🟧 [SOPK] Co-Matching Virtual B2B Event 2025
 UID:f10e7bb85e2343f5188dd3938de431f6e5a854b3@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:POZVÁNKA NA INŠPIRATÍVNU PREDNÁŠKU Téma: 10 hriechov "people" manažmentu Dátum: 25.3.2025 Čas: 9:00 – 10:30 hod. Miesto: UVP TECHNICOM\, B. Němcovej 5\, Košice Ak vás zaujíma človek ako taký – jeho […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-10-hriechov-people-manazmentu/
-DTEND:20250325T093000Z
-DTSTART:20250325T080000Z
-SUMMARY:🟧 [SOPK] Pozvánka: 10 hriechov „people“ manažmentu
-UID:8fd2fc52c93fa7388f72e499630311d6a6ecfcd8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1474,6 +1491,14 @@ SUMMARY:🟧 [SOPK] webinár DAŇ Z PRÍJMOV\, ZÁVISLÁ ČINNOSŤ
 UID:7df0af33c2e29d4277cf3ceb86fd2dfc318c622b@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:POZVÁNKA NA INŠPIRATÍVNU PREDNÁŠKU Téma: 10 hriechov "people" manažmentu Dátum: 25.3.2025 Čas: 9:00 – 10:30 hod. Miesto: UVP TECHNICOM\, B. Němcovej 5\, Košice Ak vás zaujíma človek ako taký – jeho […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-10-hriechov-people-manazmentu/
+DTEND:20250325T093000Z
+DTSTART:20250325T080000Z
+SUMMARY:🟧 [SOPK] Pozvánka: 10 hriechov „people“ manažmentu
+UID:8fd2fc52c93fa7388f72e499630311d6a6ecfcd8@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3521/welcome-back-to-work
@@ -1488,14 +1513,6 @@ DESCRIPTION:https://amcham.sk/events/3454/corporate-banking-forum-2025
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Corporate Banking Forum 2025
 UID:09b7abeca2936c332adae4db72d7814e0a28ae22@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Oznámenie o možnosti predkladania žiadostí o poskytnutie finančného príspevku v rámci národného projektu „Zvyšovanie zručností zamestnancov“ Prijímanie žiadosti je do 31.10.2025. Oznámenie spolu s prílohami je zverejnené na stránke ústredia na nasledovnom linku: NP […] \\n\n\nhttps://www.sopk.sk/event/zvysovanie-zrucnosti-zamestnancov/
-DTEND:20251009T150000Z
-DTSTART:20251009T060000Z
-SUMMARY:🟧 [SOPK] „Zvyšovanie zručností zamestnancov“
-UID:bfe6ee5bc05944037e53711a5a7ea3e78ebb3f9d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
@@ -1706,14 +1723,6 @@ SUMMARY:🟢 [AMCHAM] Strengthening Trust in Governments and Institutions
 UID:ada47b8d34d8089b4eb47e1f5cbddc37c3e60fdb@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251003
-DTEND;VALUE=DATE:20251101
-CATEGORIES:SOPK
-DESCRIPTION:Európske malé a stredné podniky majú jedinečnú šancu zúčastniť sa podnikateľskej misie EU Business Hub @ KIMES 2026 v Soule\, ktorá sa uskutoční 18.–22. marca 2026. Misia je určená firmám pôsobiacim […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-podnikatelsku-misiu-eu-business-hub-kimes-2026-v-soule-18-22-marca-2026-prilezitost-pre-europske-firmy-v-zdravotnictve/
-SUMMARY:🟧 [SOPK] Pozvánka na podnikateľskú misiu EU Business Hub @ KIMES 2026 v Soule (18.–22. marca 2026) – Príležitosť pre európske firmy v zdravotníctve
-UID:7ef83bd6ebe5c434777bd94ae26fdf040cd7001c@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Dovoľujeme si dať do Vašej pozornosti nadchádzajúce Exportné fórum 2025\, ktoré organizuje Ministerstvo zahraničných vecí a európskych záležitostí SR v spolupráci s Banskobystrickou regionálnou komorou SOPK dňa 15. októbra 2025 na […] \\n\n\nhttps://www.sopk.sk/event/exportne-forum-2025-2/
 DTEND:20251015T215959Z
@@ -1756,10 +1765,10 @@ UID:1a3c5417731dbc419f6ee2f0ecdbfabb513e9ff6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Košická regionálna komora SOPK  člen siete Enterprise Europe Network Vás pozýva na podujatie pod záštitou mimoriadnej a splnomocnenej veľvyslankyne Slovenskej republiky v Poľsku […] \\n\n\nhttps://www.sopk.sk/event/business-ranajky-s-polskom/
+DESCRIPTION:Prešovská regionálna komora SOPK  člen siete Enterprise Europe Network Vás pozýva na podujatie pod záštitou mimoriadnej a splnomocnenej veľvyslankyne Slovenskej republiky v Poľsku Andrey Elschekovej-Matisovej: […] \\n\n\nhttps://www.sopk.sk/event/27-03-2025-business-ranajky-s-polskom/
 DTEND:20250327T110000Z
 DTSTART:20250327T073000Z
-SUMMARY:🟧 [SOPK] Business raňajky s Poľskom
+SUMMARY:🟧 [SOPK] BUSINESS raňajky s Poľskom
 UID:295da06426f985bad389b6285e4deae1c609dadc@cike-events
 END:VEVENT
 BEGIN:VEVENT
