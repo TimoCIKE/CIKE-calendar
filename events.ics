@@ -336,14 +336,6 @@ UID:06226358260a7a372b3eabdb12e80f6d76a07a7d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Po dvojročnej pauze vás pozývame na siedme zasadnutie Európskeho parlamentu podnikov (EPP)\, ktoré organizuje Združenie európskych obchodných komôr EUROCHAMBRES a bude sa konať 4. novembra 2025 v priestoroch Európskeho parlamentu v […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-7-zasadnutie-europskeho-parlamentu-podnikov/
-DTEND:20251104T225959Z
-DTSTART:20251103T230000Z
-SUMMARY:🟧 [SOPK] Pozvánka na 7. zasadnutie Európskeho parlamentu podnikov
-UID:f0256e98f49728285db0912bb87c853ad1d196fd@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Podujatie ponúka jedinečnú príležitosť pre firmy\, podnikateľov\, organizácie a záujemcov nadviazať nové kontakty a vymeniť si skúsenosti s potenciálnymi obchodnými partnermi zo Slovinska a zahraničia. RIEŠENÉ TÉMY • Potraviny a nápoje […] \\n\n\nhttps://www.sopk.sk/event/meet4business-agra-2025/
 DTEND:20250827T150000Z
 DTSTART:20250827T060000Z
@@ -695,6 +687,14 @@ LOCATION:Gastrocentrum Trenčín\, Hviezdoslavova 201\, Trenčín
 DTSTART:20241203T080000Z
 SUMMARY:🟧 [SOPK] O kvantových technológiách
 UID:637945d1fc734fabb93736cb23310984a1a9e989@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by SLOVCA – Slovak Venture Capital and Private Equity Association\n\nhttps://amcham.sk/events/3571/flagship-event-slovca-2025
+LOCATION:HOTEL DEVÍN\, 1st floor\, Riečna 4\, Bratislava
+SUMMARY:🟢 [AMCHAM] Flagship event SLOVCA 2025
+UID:144e82859f62772a3620091e1151f108301dd1e4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
