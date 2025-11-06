@@ -409,7 +409,7 @@ UID:76156c2c8e1cd755e8463771e512eac5a1e14249@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Dátum konania: 4. alebo 15. decembra 2025 Program: Daňový bonus na deti v daňovom priznaní/ročnom zúčtovaní za rok 2025 a výhľad na rok 2026 SZČO a odvody na sociálne poistenie a […] \\n\n\nhttps://www.sopk.sk/event/webinar-konsolidacny-balicek-a-danovo-odvodova-optimalizacia/
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webináre\, ktoré sa budú konať: 4. alebo 15. decembra 2025 Program: Daňový bonus na deti v daňovom priznaní/ročnom zúčtovaní za rok 2025 a výhľad […] \\n\n\nhttps://www.sopk.sk/event/webinar-konsolidacny-balicek-a-danovo-odvodova-optimalizacia/
 DTEND:20251204T133000Z
 DTSTART:20251204T080000Z
 SUMMARY:🟧 [SOPK] Webinár: KONSOLIDAČNÝ BALÍČEK A DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA
@@ -588,20 +588,20 @@ SUMMARY:🟧 [SOPK] Pozvánka na klubovú LIGHT aktivitu: Ochutnávka čajov s a
 UID:52538bf457e1b978a3ad15ad57121f487369a2bd@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+CATEGORIES:ITVALLEY
+DESCRIPTION:Konferencia GradeUP a Noc podnikavosti ukážu\, ako verejné vysoké školy na Slovensku podporujú inovácie a startupy. Projekt s rozpočtom 9 mil. € má zvýšiť konkurencieschopnosť škôl\, modernizovať štúdium a pomôcť študentom premeniť nápady na úspešné podnikanie.\n\nhttps://www.kosiceitvalley.sk/events/grade-up-konferencia-a-noc-podnikavosti/
+LOCATION:Aula Maxima - Technická univerzita v Košiciach
+SUMMARY:🔵 [ITVALLEY] GRADE UP konferencia a Noc podnikavosti
+UID:fecddc71af6d4025e6037c01221840bdbfd3f0ca@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme […] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
 DTEND:20251014T160000Z
 DTSTART:20251014T140000Z
 SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionálnej – komory SOPK v UVP Technicom
 UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:ICKK
-DESCRIPTION:VIZI: Rýchle a presné naceňovanie stavebných zákaziek VIZI je online naceňovač pre stavebné firmy...\n\nhttps://ickk.sk/2025/11/03/predstavenie-startupov-sweet-salty-vizi/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – VIZI
-UID:b8f1fe643abc0d407cde5e17e127d56c3cde51c7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250212
@@ -707,7 +707,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
+DESCRIPTION:TuuTap: Hry\, ktoré udržia zákazníkov a zvyšujú angažovanosť TuuTap je zábavná platforma plná...\n\nhttps://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – TuuTap
 UID:bb3f0be30a08b08e8131367358c6113c0314bcc0@cike-events
@@ -1208,6 +1208,14 @@ SUMMARY:🟢 [AMCHAM] Social in ESG: An Experience That Changes Perspectives
 UID:63c376586aae5ba52718c6a140f1ff09c64247df@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250925
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/09/25/predstavenie-startupov-sweet-salty-solarxbox/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – SolarXBOX
+UID:3f06153e233b20ac89893ea027fd08bc253a61c2@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250428
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3484/navigating-slovakias-new-financial-transaction-tax-practical-insights-business-impacts
@@ -1380,14 +1388,6 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3461/cynicism-in-business-risk-
 LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Cynicism In Business: Risk Or Competitive Advantage?
 UID:10e6a15b7965929b9b11ca50cff1e66b506b5ce9@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251120
-CATEGORIES:ICKK
-DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sweet & Saltyprichádza DEŇ D – večer\, na ktorom startupy z Košického kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od...\n\nhttps://ickk.sk/event/sweet-salty-den-d/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
-UID:0cc00358542731f3be1c6d5921117b675b099942@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
@@ -1719,6 +1719,14 @@ LOCATION:Tále
 DTSTART:20251014T220000Z
 SUMMARY:🟧 [SOPK] Exportné fórum 2025
 UID:93c62073d74aae906de15b81721e647e70c512e4@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+CATEGORIES:ITVALLEY
+DESCRIPTION:Finále Startup Awards Slovensko 2025 (27. 11.\, Národné divadlo Košice) prinesie 9 top startupov\, investorov a keynote od Uriho Levina\, zakladateľa Waze a Moovit. Tímy zabojujú o 250 000 € od fondu Seed Starter. Inšpirácia\, networking a energia slovenskej startup scény na jednom mieste.\n\nhttps://www.kosiceitvalley.sk/events/finale-startup-awards-2025/
+LOCATION:Národné divadlo v Košiciach
+SUMMARY:🔵 [ITVALLEY] Finále Startup Awards 2025
+UID:19a0d6c379d54cf4b79b7d9da86c1de6ca746cf6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241106
