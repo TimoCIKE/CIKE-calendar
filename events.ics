@@ -401,14 +401,6 @@ SUMMARY:🔵 [ITVALLEY] Valné zhromaždenie
 UID:60b7912ffde7d98344492c8d78810fedd2f13456@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251001
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/01/predstavenie-startupov-sweet-salty-reman-cloud/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – REMAN.cloud
-UID:b4ff708509944caacac54642b66e4ba72e0243d1@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250318
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3457/empower-her-women-in-wealth
@@ -533,6 +525,14 @@ SUMMARY:🟧 [SOPK] Káva s Eduardom Burašom a Miroslavom Michalkom
 UID:b97c1413f32cde6a3d4443c07e3e1e2de97ecd5e@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251104
+CATEGORIES:ICKK
+DESCRIPTION:OWASmooth: Od víťaza akcelerátora až k investícii s valuáciou 1 milión € OWASmooth\, technologický...\n\nhttps://ickk.sk/2025/11/04/blog-owasmooth/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] OWASmooth: Od víťaza akcelerátora až k investícii s valuáciou 1 milión €
+UID:c12b3dacbdce3f320254f56eb8b69c88aeba5c1f@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241107
 CATEGORIES:ITVALLEY
 DESCRIPTION:BUSINESS KOŠICE\, n.o.\, v spolupráci s Medzinárodnou organizáciou pre migráciu (IOM) a v partnerstve s klastrom Košice IT Valley vás srdečne pozýva na konferenciu „Magnetize Slovakia / Magnetize Košice – Zahraničné talenty na Slovensku a v regióne“\, ktorá sa uskutoční 7. novembra 2024 v UVP TECHNICOM\, Boženy Nemcovej 5\, Košice.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-slovakia-magnetize-kosice-zahranicny-talent-na-slovensku-a-v-regione/
@@ -635,6 +635,14 @@ DTEND:20251014T160000Z
 DTSTART:20251014T140000Z
 SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionálnej – komory SOPK v UVP Technicom
 UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/11/03/predstavenie-startupov-sweet-salty-vizi/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – VIZI
+UID:b8f1fe643abc0d407cde5e17e127d56c3cde51c7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250212
@@ -740,7 +748,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:ICKK
-DESCRIPTION:TuuTap: Hry\, ktoré udržia zákazníkov a zvyšujú angažovanosť TuuTap je zábavná platforma plná...\n\nhttps://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
+DESCRIPTION:https://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – TuuTap
 UID:bb3f0be30a08b08e8131367358c6113c0314bcc0@cike-events
@@ -1145,14 +1153,6 @@ SUMMARY:🟢 [AMCHAM] Current Tax Challenges and New Digital Trends and Solution
 UID:6613c1313b9f8834054382efcb6aa44f6fc6cdc4@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251107
-CATEGORIES:AMCHAM
-DESCRIPTION:onference organized by Akčné ženy\n\nhttps://amcham.sk/events/3569/equal-pay-day-2025
-LOCATION:DoubleTree by Hilton\, Bratislava
-SUMMARY:🟢 [AMCHAM] Equal Pay Day 2025
-UID:0e30816bab3c17aafe7015181fed355618f28a5b@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250327
 CATEGORIES:ITVALLEY
 DESCRIPTION:Interaktívny workshop zameraný na kybernetickú bezpečnosť pre pedagógov\, organizovaný v spolupráci so spoločnosťou ESET a Košickým samosprávnym krajom\, predstaví aktuálne kybernetické hrozby a nástroje na ochranu v online prostredí.\n\nhttps://www.kosiceitvalley.sk/events/cybersecurity-den-pre-pedagogov/
@@ -1271,14 +1271,6 @@ DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3537/social-in-esg
 LOCATION:The Spot Cowork\, 8th floor\, Bottova 2/A\, Bratislava
 SUMMARY:🟢 [AMCHAM] Social in ESG: An Experience That Changes Perspectives
 UID:63c376586aae5ba52718c6a140f1ff09c64247df@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250925
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/09/25/predstavenie-startupov-sweet-salty-solarxbox/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – SolarXBOX
-UID:3f06153e233b20ac89893ea027fd08bc253a61c2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250428
@@ -1461,6 +1453,14 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3461/cynicism-in-business-risk-
 LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Cynicism In Business: Risk Or Competitive Advantage?
 UID:10e6a15b7965929b9b11ca50cff1e66b506b5ce9@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251120
+CATEGORIES:ICKK
+DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sweet & Saltyprichádza DEŇ D – večer\, na ktorom startupy z Košického kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od...\n\nhttps://ickk.sk/event/sweet-salty-den-d/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
+UID:0cc00358542731f3be1c6d5921117b675b099942@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251007
@@ -1902,7 +1902,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250122
 CATEGORIES:AMCHAM
-DESCRIPTION:conference organized by Akadémia daňových poradcov\n\nhttps://amcham.sk/events/3578/expert-symposium-transfer-pricing-from-every-angle
+DESCRIPTION:conference organized by SKDP (Slovenská komora daňových poradcov)\n\nhttps://amcham.sk/events/3578/expert-symposium-transfer-pricing-from-every-angle
 LOCATION:Comenius University in Bratislava\, Faculty of Law\, Šafárikovo nám. č. 6\, Bratislava
 SUMMARY:🟢 [AMCHAM] Expert Symposium: Transfer Pricing - From Every Angle
 UID:2eef28a710aaa0c84d51546a41fd9446c2f8f475@cike-events
