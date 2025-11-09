@@ -172,6 +172,14 @@ SUMMARY:🟧 [SOPK] webinár Dôchodky
 UID:3c3cd167871a4031db9913247de4c879aef181d7@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+CATEGORIES:ICKK
+DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vydavateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o tom\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a...\n\nhttps://ickk.sk/event/odkukaj-to-miroslav-tokarcik/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
+UID:244490b575c4e1d0abfd10342246119e1a5c2ce0@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 15.5.2025 od 09:00 - 14:30 hod pozýva na webinár DOHODY\, SEZÓNNA PRÁCA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. […] \\n\n\nhttps://www.sopk.sk/event/webinar-dohody-sezonna-praca/
 DTEND:20250515T123000Z
@@ -1457,7 +1465,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
 CATEGORIES:ICKK
-DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sweet & Saltyprichádza DEŇ D – večer\, na ktorom startupy z Košického kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od...\n\nhttps://ickk.sk/event/sweet-salty-den-d/
+DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sweet & Salty prichádza DEŇ D – večer\, na ktorom startupy z Košického kraja zabojujú o titul víťaza a finančnú podporu 10.000€...\n\nhttps://ickk.sk/event/sweet-salty-den-d/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
 UID:0cc00358542731f3be1c6d5921117b675b099942@cike-events
@@ -1865,6 +1873,14 @@ DTEND:20250212T225959Z
 DTSTART:20250211T230000Z
 SUMMARY:🟧 [SOPK] Pozvánka: „NIE\, kyberšikane!“
 UID:d810b0088fa3d4fc225dabe6a5e6e3ce0ad81cac@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251113
+CATEGORIES:ICKK
+DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Strojárenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do...\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-mix/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny mix
+UID:bfc9a53884c609aeca3bb011570dc472dfe6ec50@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251129
