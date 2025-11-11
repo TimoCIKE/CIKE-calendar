@@ -82,6 +82,14 @@ SUMMARY:🟧 [SOPK] Balík webinárov – 15.4.\, 23.4.\, 29.4.2025
 UID:b25292740d4949f91b61ea5673ded89eae15c113@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+CATEGORIES:ICKK
+DESCRIPTION:V októbri 2025 mali startupy z košického kraja výnimočnú príležitosť nahliadnuť do srdca americkej...\n\nhttps://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Slovak Startup Bootcamp NYC: Košické startupy v centre svetových inovácií
+UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europe Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním […] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy/
 DTEND:20251028T130000Z
@@ -535,7 +543,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251104
 CATEGORIES:ICKK
-DESCRIPTION:OWASmooth: Od víťaza akcelerátora až k investícii s valuáciou 1 milión € OWASmooth\, technologický...\n\nhttps://ickk.sk/2025/11/04/blog-owasmooth/
+DESCRIPTION:https://ickk.sk/2025/11/04/blog-owasmooth/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] OWASmooth: Od víťaza akcelerátora až k investícii s valuáciou 1 milión €
 UID:c12b3dacbdce3f320254f56eb8b69c88aeba5c1f@cike-events
@@ -675,6 +683,14 @@ DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých 
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
 SUMMARY:🔵 [ITVALLEY] Seminár Kybernetická bezpečnosť
 UID:8b87747acff5492c09c9d84f16495b318b5a3b45@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Cieľ webinára: Odborný lektor Vás prevedie krok za krokom problematikou preferenčného pôvodu tovaru s praktickými príkladmi riešenia prípadov z aplikačnej praxe. Naučí Vás správne vystaviť dôkazy pôvodu v EÚ\, dozviete sa […] \\n\n\nhttps://www.sopk.sk/event/webinar-preferencny-povod-tovaru-v-medzinarodnom-obchode/
+DTEND:20251216T140000Z
+DTSTART:20251216T080000Z
+SUMMARY:🟧 [SOPK] Webinár: Preferenčný pôvod tovaru v medzinárodnom obchode
+UID:8a832e7226c1e98bb48f0e1b7e3aa03ca1232495@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
@@ -1062,14 +1078,6 @@ LOCATION:Online
 DTSTART:20250304T090000Z
 SUMMARY:🟧 [SOPK] Inovačná polhodinka – Zefektívnenie prevádzky pomocou automatizácie (náhradný termín)
 UID:360d2191846cccc4310d1aec2e813d4b43b1b5c8@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251006
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/06/predstavenie-startupov-sweet-salty-group-pocket/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – Group Pocket
-UID:27da35ee9c662e12f78ff031632b768d40aff799@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1878,7 +1886,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
 CATEGORIES:ICKK
 DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Strojárenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do...\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-mix/
-LOCATION:Košice
+LOCATION:Strojárenská 3\, Kosice
 SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny mix
 UID:bfc9a53884c609aeca3bb011570dc472dfe6ec50@cike-events
 END:VEVENT
