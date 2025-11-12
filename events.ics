@@ -124,11 +124,12 @@ UID:19b6514814f7cfc5bf8836aaf2fc205ad681084f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
-DTEND:20250429T123000Z
-DTSTART:20250429T070000Z
-SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
-UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
+DTEND:20250407T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20250407T070000Z
+SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
+UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250425
@@ -140,12 +141,11 @@ UID:6692931d58326b5a2d27b9035a07e53e55c42084@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
-DTEND:20250407T120000Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20250407T070000Z
-SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
-UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
+DTEND:20250429T123000Z
+DTSTART:20250429T070000Z
+SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
+UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250227
@@ -745,15 +745,6 @@ SUMMARY:🔵 [ITVALLEY] Konferencia projektového manažmentu
 UID:b76b7001eb7a1602f76c6de4c4c79c946826987a@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Objavte fascinujúci svet kvantovej fyziky v popularizačno-vedeckých prednáškach. Akým spôsobom kvantové technológie už dnes ovplyvňujú medicínu a materiálové vedy? Ako kvantové senzory zlepšujú presnosť meraní v porovnaní s klasickými senzormi? Aký […] \\n\n\nhttps://www.sopk.sk/event/komorovy-hitech-den-o-kvantovych-technologiach/
-DTEND:20241203T103000Z
-LOCATION:Gastrocentrum Trenčín\, Hviezdoslavova 201\, Trenčín
-DTSTART:20241203T080000Z
-SUMMARY:🟧 [SOPK] O kvantových technológiách
-UID:637945d1fc734fabb93736cb23310984a1a9e989@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by SLOVCA – Slovak Venture Capital and Private Equity Association\n\nhttps://amcham.sk/events/3571/flagship-event-slovca-2025
@@ -825,15 +816,6 @@ DTEND:20251203T133000Z
 DTSTART:20251203T080000Z
 SUMMARY:🟧 [SOPK] webinár Konsolidačný balíček a daňovo-odvodová optimalizácia
 UID:616af853904e0d80c50e2e031d2cf4268dc9cd59@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK v spolupráci s RELIA s.r.o. Vás pozýva na odborný webinár "Daň z príjmov závislá činnosť + pripravované zmeny\," s RNDr. Jozefom Mihálom. Webinár je zameraný na vysvetlenie […] \\n\n\nhttps://www.sopk.sk/event/dan-z-prijmov-zavisla-cinnost-pripravovane-zmeny-webinar/
-DTEND:20241128T133000Z
-LOCATION:Webinár
-DTSTART:20241128T080000Z
-SUMMARY:🟧 [SOPK] Daň z príjmov závislá činnosť + pripravované zmeny\, webinár
-UID:25eb543baeac13d6054981654f715d16b72f88bf@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
@@ -1138,19 +1120,19 @@ UID:111ce0231b0850cb8dd9c36e56c34c1e92e72033@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozvánka na webinár: Rešerš ochranných známok jednoducho dňa: 18.09.2025  o 10:00 - 11:00 hod. Témy: ● praktické informácie\, ako pracovať s databázami\, ● priestor opýtať sa experta na konkrétne otázky k téme […] \\n\n\nhttps://www.sopk.sk/event/webinar-resers-ochrannych-znamok-jednoducho/
-DTEND:20250918T090000Z
-DTSTART:20250918T080000Z
-SUMMARY:🟧 [SOPK] Webinár: Rešerš ochranných známok jednoducho
-UID:dd9934d9d40f616ad35eb66289ae79fd8306a8ae@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.6.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a dve 10 […] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky/
 DTEND:20250619T123000Z
 DTSTART:20250619T070000Z
 SUMMARY:🟧 [SOPK] webinár Dôchodky
 UID:51671d980f1558f75800c321a8886ad369033594@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Pozvánka na webinár: Rešerš ochranných známok jednoducho dňa: 18.09.2025  o 10:00 - 11:00 hod. Témy: ● praktické informácie\, ako pracovať s databázami\, ● priestor opýtať sa experta na konkrétne otázky k téme […] \\n\n\nhttps://www.sopk.sk/event/webinar-resers-ochrannych-znamok-jednoducho/
+DTEND:20250918T090000Z
+DTSTART:20250918T080000Z
+SUMMARY:🟧 [SOPK] Webinár: Rešerš ochranných známok jednoducho
+UID:dd9934d9d40f616ad35eb66289ae79fd8306a8ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250516
@@ -1431,14 +1413,6 @@ SUMMARY:🟢 [AMCHAM] ESG Best Practice Sharing - Košice edition!
 UID:f3fb305bec3e6d643fa136e693df3a7926f1fc4d@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by BRICHTA & PARTNERS\n\nhttps://amcham.sk/events/3564/protect-grow-2025
-LOCATION:Lab28\, Mlynské nivy 5\, Bratislava
-SUMMARY:🟢 [AMCHAM] Protect & Grow 2025
-UID:614534a7cc81bc6f0aa1d0cbd8b10ae2fa0c9725@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Bratislavská regionálna komora SOPK Vás pozýva na XVII. ročník „Stretnutie podnikateľov BRK“ Kedy: 18. júna 2025 (streda) o 15\,00 hod. Kde: Incheba EXPO klub\, Bratislava Program: 1/ Otvorenie 2/ Hlavná téma: […] \\n\n\nhttps://www.sopk.sk/event/22894/
 DTEND:20250618T180000Z
@@ -1485,14 +1459,6 @@ DESCRIPTION:IVIP Fórum 2025: Praktické riešenia pre mestá a obce\, zapojenie
 LOCATION:KKC Hviezda Trenčín
 SUMMARY:🔵 [ITVALLEY] IVIP Fórum 2025
 UID:445fb25b78a5bc3fabbd037f24f3b3e0239a0897@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251111
-CATEGORIES:AMCHAM
-DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events/3532/hiring-non-eu-talent-a-guide-to-immigration-options
-LOCATION:ProRelocation office\, Svätoplukova 31\, 821 09 Bratislava\, Slovakia
-SUMMARY:🟢 [AMCHAM] Hiring Non-EU Talent - A Guide to Immigration Options
-UID:2cab44a998fee918e8f744b57af382938bdbd5a8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241129
@@ -1899,15 +1865,6 @@ SUMMARY:🟢 [AMCHAM] I SEE ME conference
 UID:391aa089e67901c30be78f7d51b4f9f725529137@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Obsah: Úvod do AI – nariadenie o AI a rozdelenie AI Zakázaná AI\, vysokoriziková AI\, AI s miernym rizikom a ostatná AI a s tým súvisiace povinnosti 7 krokov ako správne a bezpečne implementovať AI do firmy AI […] \\n\n\nhttps://www.sopk.sk/event/seminar-ako-spravne-implementovat-ai-do-firmy/
-DTEND:20251111T120000Z
-LOCATION:Žilina\, Hálkova 31\, Hálkova 31\, Žilina\, 01001
-DTSTART:20251111T090000Z
-SUMMARY:🟧 [SOPK] Seminár: AKO SPRÁVNE IMPLEMENTOVAŤ AI DO FIRMY
-UID:fb8cbda4d4fac4fc4ab80d733b60c6c2f82dbdeb@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
 CATEGORIES:AMCHAM
 DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-staying-ahead-in-a-changing-world
@@ -1988,13 +1945,5 @@ DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3428/future-employer
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Future Employer
 UID:44377d1a03b153f55b64db7bbc2b4db224dfe632@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trnavská regionálna komora SOPK Vás pozýva na prezenčný odborný   seminár Ako si naplánovať a dosiahnuť firemné ciele   DÁTUM A ČAS: 11.11.2025  o 10.00 hod. MIESTO: Regionálne centrum Trnava\, Zavarská 11/G 91701 Trnava\, […] \\n\n\nhttps://www.sopk.sk/event/ako-si-naplanovat-a-dosiahnut-firemne-ciele/
-DTEND:20251111T130000Z
-DTSTART:20251111T090000Z
-SUMMARY:🟧 [SOPK] Ako si naplánovať a dosiahnuť firemné ciele
-UID:0ef31f7c7a0025322e2bced69c638801c0dce394@cike-events
 END:VEVENT
 END:VCALENDAR
