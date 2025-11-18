@@ -948,6 +948,14 @@ SUMMARY:🟧 [SOPK] Pozývame Vás na záverečnú konferenciu projektu EAGLE (v
 UID:bfa8106eead11d647960d0634df05fd58fe7d3e8@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Zmeny v automatizovanom systéme pre dovoz“\, ktorý sa bude konať  dňa 2. decembra 2025 od 10:00 do 14:00 hod. v zasadačke Banskobystrickej RK […] \\n\n\nhttps://www.sopk.sk/event/zmeny-v-automatizovanom-systeme-pre-dovoz/
+DTEND:20251202T225959Z
+DTSTART:20251201T230000Z
+SUMMARY:🟧 [SOPK] „Zmeny v automatizovanom systéme pre dovoz“
+UID:f66c851558550c8c9e48a7d231d15b797898f6b4@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 CATEGORIES:ITVALLEY
 DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI a digitalizácia pomáhajú malým a stredným firmám rásť a byť konkurencieschopné. Večer doplní networking a konzultácie so špecialistami EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad/
