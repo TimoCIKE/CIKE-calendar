@@ -1247,6 +1247,14 @@ SUMMARY:🔵 [ITVALLEY] INOFEST 2025
 UID:3cc0a3e2b5be66421a94feeddc51a905ed0092ee@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251204
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3581/navigating-change-coaching-teams-in-an-age-of-technology-and-turbulence
+LOCATION:The Spot Cowork \, 7th floor\, Skypark\, Bottova 2/A\, Bratislava
+SUMMARY:🟢 [AMCHAM] Navigating Change: Coaching Teams in an Age of Technology and Turbulence
+UID:bb8dc1e2c00db03438937d2823593dd7df332794@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných strojov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuvníckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia a s členskou firmou BOZPO\, s.r.o. […] \\n\n\nhttps://www.sopk.sk/event/konferencia-incoboz/
 DTEND:20250530T215959Z
