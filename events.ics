@@ -91,6 +91,14 @@ UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na odborný workshop SPRÁVA KYBERNETICKEJ BEZPEČNOSTI PRE AI PROJEKTY ZOSÚLADENIE VÝVOJA AI\, RIADENIA RIZÍK A PREVÁDZKY S NORMAMI ISO 42001 A 27001 Termín: 9. december […] \\n\n\nhttps://www.sopk.sk/event/sprava-kybernetickej-bezpecnosti-pre-ai-projekty-zosuladenie-vyvoja-ai-riadenia-rizik-a-prevadzky-s-normami-iso-42001-a-27001/
+DTEND:20251209T130000Z
+DTSTART:20251209T083000Z
+SUMMARY:🟧 [SOPK] SPRÁVA KYBERNETICKEJ BEZPEČNOSTI PRE AI PROJEKTY ZOSÚLADENIE VÝVOJA AI\, RIADENIA RIZÍK A PREVÁDZKY S NORMAMI ISO 42001 A 27001
+UID:238e0395f24f0768f517ac059ab4466809bbf23e@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europe Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním […] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy/
 DTEND:20251028T130000Z
 LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
@@ -1411,6 +1419,14 @@ DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3529/esg-best-practi
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Košice
 SUMMARY:🟢 [AMCHAM] ESG Best Practice Sharing - Košice edition!
 UID:f3fb305bec3e6d643fa136e693df3a7926f1fc4d@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Staňte sa súčasťou EU Business Hub @ ENVEX 2026 v Soule! 18. – 22. máj 2026 Chcete rozšíriť svoje podnikanie do Ázie a predstaviť svoje technológie na jednom z najväčších environmentálnych […] \\n\n\nhttps://www.sopk.sk/event/eu-business-hub-envex-2026-v-soule/
+DTEND:20260522T150000Z
+DTSTART:20260518T060000Z
+SUMMARY:🟧 [SOPK] EU Business Hub @ ENVEX 2026 v Soule
+UID:b3740744e5c81d279d04c3385a59c462808381e1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
