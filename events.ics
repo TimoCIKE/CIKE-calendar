@@ -237,6 +237,14 @@ SUMMARY:🟢 [AMCHAM] LIVE from NYC: Actions for a Sustainable Future
 UID:e5d8f1b6345d3cc312c0ca79997c99aed6b68285@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Príchod investora môže priniesť významné investície  a vytvoriť pracovné miesta\, ale aj zmeny a výzvy pre miestne podnikanie a komunitu. Tento proces prebieha kontinuálne. Čo všetko chápeme pod pojmom zamestnanecké benefity? Zamestnanecké benefity (alebo […] \\n\n\nhttps://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-vyhoda-zamestnavatela-2/
+DTEND:20251014T093000Z
+DTSTART:20251014T070000Z
+SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda zamestnávateľa
+UID:8a24b7d28af552dd4e886ebbf9402c22ec637b08@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 CATEGORIES:ITVALLEY
 DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahraničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medzinárodných študentov\, prekážky na trhu práce a prepojenie vzdelávania s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-conference-2025/
@@ -389,6 +397,14 @@ DESCRIPTION:Bloom into Competitiveness / 29th Edition\n\nhttps://amcham.sk/even
 LOCATION:Bratislava Castle\, Bratislava
 SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
 UID:8145450c6453b682b527cf58dd6e89f36b99898c@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webináre: 20. 11. 2025 – ZÁKON O DANI Z PRÍJMOV\, ZÁVISLÁ ČINNOSŤ Webinár je zameraný na vysvetlenie kľúčových pojmov zákona o dani z príjmov z pohľadu […] \\n\n\nhttps://www.sopk.sk/event/webinare-dan-z-prijmov-socialne-poistenie-zdravotne-poistenie/
+DTEND:20251126T133000Z
+DTSTART:20251126T080000Z
+SUMMARY:🟧 [SOPK] Webináre: DAŇ Z PRÍJMOV\, SOCIÁLNE POISTENIE\, ZDRAVOTNÉ POISTENIE
+UID:7f039f12e522de17f91801c225adefc9c0afd5e7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1011,14 +1027,6 @@ UID:baba1edc0fb7edfe0537122c1a0dbcfda9924595@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:14. ročník odborného semináru z cyklu Trendy v plastikárskom priemysle reaguje na aplikácie európskej legislatívy do praxe\, potreby udržateľnosti materiálov\, prináša informácie o nových technológiách\, informácie o riešeniach pre znižovanie nákladov […] \\n\n\nhttps://www.sopk.sk/event/trendy-v-plastikarskom-priemysle/
-DTEND:20251121T225959Z
-DTSTART:20251119T230000Z
-SUMMARY:🟧 [SOPK] Trendy v plastikárskom priemysle
-UID:bb5b2307a182e242342aea090b3e000974124fc1@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slovenským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Bratislave Vás pozývajú odborné podujatie "SWISS DAY 2025 ... vzdelávanie\, inovácie\, spolupráca" Cieľom odborného podujatia […] \\n\n\nhttps://www.sopk.sk/event/swiss-day-2025-vzdelavanie-inovacie-spolupraca/
 DTEND:20251113T140000Z
 LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
@@ -1050,15 +1058,6 @@ LOCATION:Online
 DTSTART:20250304T090000Z
 SUMMARY:🟧 [SOPK] Inovačná polhodinka – Zefektívnenie prevádzky pomocou automatizácie (náhradný termín)
 UID:360d2191846cccc4310d1aec2e813d4b43b1b5c8@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Pripravili sme pre vás koncept vzdelávania a rozvoja\, ktorý zahŕňa tri interaktívne online stretnutia a jedno sumarizačné stretnutie zamerané na kľúčové témy pre profesionálny a podnikateľský rast. Tieto stretnutia budú prebiehať […] \\n\n\nhttps://www.sopk.sk/event/klub-podnikatelov-sumarizacne-stretnutie-k-jesennemu-podnikatelskemu-klubu/
-DTEND:20250220T170000Z
-LOCATION:Online
-DTSTART:20250220T150000Z
-SUMMARY:🟧 [SOPK] Klub podnikateľov: Sumarizačné stretnutie k jesennému podnikateľskému klubu – Tajomstvá úspešných firiem – náhradný termín
-UID:467d8561c0aef9708aeacbdd12d66772e66fe1a6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250326
@@ -1198,14 +1197,6 @@ UID:675b55873c145acee3756bb8a7f3946fa4736668@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webináre: 20. 11. 2025 – ZÁKON O DANI Z PRÍJMOV\, ZÁVISLÁ ČINNOSŤ Webinár je zameraný na vysvetlenie kľúčových pojmov zákona o dani z príjmov z pohľadu […] \\n\n\nhttps://www.sopk.sk/event/webinare-dan-z-prijmov-socialne-poistenie-zdravotne-poistenie/
-DTEND:20251121T133000Z
-DTSTART:20251121T080000Z
-SUMMARY:🟧 [SOPK] Webináre: DAŇ Z PRÍJMOV\, SOCIÁLNE POISTENIE\, ZDRAVOTNÉ POISTENIE
-UID:b8cebdad79264a0c5a2ed5bc29e5bf622fcc2b5f@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.12.2025 (resp. ten istý webinár sa koná aj 18.12.2025)  od 09:00 - 14:30 hod pozýva na webinár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na […] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
 DTEND:20251217T133000Z
 DTSTART:20251217T080000Z
@@ -1221,6 +1212,14 @@ SUMMARY:🟧 [SOPK] Misia slovenských firiem na veľtrh BIEMH 2026 v Bilbau
 UID:afebb6b6d2a52e79f660b617f7e2d4d1010e9385@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Pozývame Vás na konferenciu Digitalizácia a nové trendy v priemysle a vzdelávaní\, ktorej cieľom je podporiť zavádzanie digitalizačných riešení pre malé a stredné podniky. Zároveň sa venuje problematike vzdelávania\, ktoré proces […] \\n\n\nhttps://www.sopk.sk/event/konferencia-a-workshopy-digitalizacia-a-nove-trendy-v-priemysle-a-vzdelavani/
+DTEND:20250927T215959Z
+DTSTART:20250925T220000Z
+SUMMARY:🟧 [SOPK] Konferencia: Digitalizácia a nové trendy v priemysle a vzdelávaní
+UID:dd724d5c010b1621a7bd95a2534842d745f56ef2@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250226
 CATEGORIES:ITVALLEY
 DESCRIPTION:Spoločnosť MATHISON legal vás pozýva na Business Breakfast. Téma tohto stretnutia je AI a právo: Ako umelá inteligencia mení pravidlá podnikania.\n\nhttps://www.kosiceitvalley.sk/events/ai-a-pravo-ako-ai-meni-pravidla-podnikania-business-breakfast/
@@ -1230,19 +1229,19 @@ UID:48605ac109af52b6f41b85d6c3ef8554b0066c8b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozývame Vás na konferenciu Digitalizácia a nové trendy v priemysle a vzdelávaní\, ktorej cieľom je podporiť zavádzanie digitalizačných riešení pre malé a stredné podniky. Zároveň sa venuje problematike vzdelávania\, ktoré proces […] \\n\n\nhttps://www.sopk.sk/event/konferencia-a-workshopy-digitalizacia-a-nove-trendy-v-priemysle-a-vzdelavani/
-DTEND:20250927T215959Z
-DTSTART:20250925T220000Z
-SUMMARY:🟧 [SOPK] Konferencia: Digitalizácia a nové trendy v priemysle a vzdelávaní
-UID:dd724d5c010b1621a7bd95a2534842d745f56ef2@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Regionálna súťaž sa mení na celoslovenskú! „Zelený Merkúr“ rozširuje svoju pôsobnosť z banskobystrického regiónu na celé Slovensko. » Rozvíjate svoje podnikateľské aktivity v súlade s prírodou a cieľmi udržateľného rozvoja? » […] \\n\n\nhttps://www.sopk.sk/event/5-rocnik-sutaze-o-cenu-za-dodrziavanie-principov-obehoveho-hospodarstva-zeleny-merkur/
 DTEND:20251010T215959Z
 DTSTART:20251009T220000Z
 SUMMARY:🟧 [SOPK] 5. ročník súťaže o cenu za dodržiavanie princípov obehového hospodárstva „Zelený Merkúr“
 UID:fc36fb6dfa7ff513cb6d92ea41822cbe254a8c9c@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných strojov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuvníckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia a s členskou firmou BOZPO\, s.r.o. […] \\n\n\nhttps://www.sopk.sk/event/konferencia-incoboz/
+DTEND:20250530T215959Z
+DTSTART:20250527T220000Z
+SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2025
+UID:e8ecc18b0b0cb8c32282e9b6e8b33b152a960bf7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
@@ -1259,14 +1258,6 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3581/navigating-change-coaching
 LOCATION:The Spot Cowork \, 7th floor\, Skypark\, Bottova 2/A\, Bratislava
 SUMMARY:🟢 [AMCHAM] Navigating Change: Coaching Teams in an Age of Technology and Turbulence
 UID:bb8dc1e2c00db03438937d2823593dd7df332794@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných strojov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuvníckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia a s členskou firmou BOZPO\, s.r.o. […] \\n\n\nhttps://www.sopk.sk/event/konferencia-incoboz/
-DTEND:20250530T215959Z
-DTSTART:20250527T220000Z
-SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2025
-UID:e8ecc18b0b0cb8c32282e9b6e8b33b152a960bf7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
@@ -1697,14 +1688,6 @@ DTEND:20250610T150000Z
 DTSTART:20250604T060000Z
 SUMMARY:🟧 [SOPK] SUBCONTRACTING MEETINGS 2025
 UID:37929373ad9e9a0e196ddbeed53230b1cc739d73@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251121
-CATEGORIES:AMCHAM
-DESCRIPTION:free online webinar organized by DEVELOR Slovakia\n\nhttps://amcham.sk/events/3572/story-and-game-based-learning
-LOCATION:Zoom Online
-SUMMARY:🟢 [AMCHAM] Story- and game-based learning
-UID:1df4a745cd4d3b10b8569ac9841c06d612a0d6a4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
