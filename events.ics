@@ -799,6 +799,14 @@ SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
 UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trenčianska regionálna komora SOPK - Sekcia textilného\, odevného\, kožiarskeho a obuvníckeho priemyslu v spolupráci s Veletrhy Brno a.s.\, organizuje účasť slovenských subjektov na 66. B2B veľtrhoch módy\, obuvi a koženého tovaru […] \\n\n\nhttps://www.sopk.sk/event/styl-a-kabo-februar-2026-najvyhodnejsie-ceny-do-30-11-2025/
+DTEND:20260215T225959Z
+DTSTART:20260212T230000Z
+SUMMARY:🟧 [SOPK] STYL a KABO FEBRUÁR 2026\, NAJVÝHODNEJŠIE CENY DO 30.11.2025
+UID:d8f9c74ece5cef43b00fb82840378b02797318b1@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
@@ -1255,7 +1263,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3581/navigating-change-coaching-teams-in-an-age-of-technology-and-turbulence
-LOCATION:The Spot Cowork \, 7th floor\, Skypark\, Bottova 2/A\, Bratislava
+LOCATION:The Spot Cowork \, 8th floor\, Skypark\, Bottova 2/A\, Bratislava
 SUMMARY:🟢 [AMCHAM] Navigating Change: Coaching Teams in an Age of Technology and Turbulence
 UID:bb8dc1e2c00db03438937d2823593dd7df332794@cike-events
 END:VEVENT
@@ -1641,6 +1649,14 @@ DESCRIPTION:Business Košice pozýva na All in One Cocktail – networkingový v
 LOCATION:Dom umenia v Košiciach
 SUMMARY:🔵 [ITVALLEY] All in One Cocktail
 UID:e4f544fb4a4704487af7271fe841580d5923a3ee@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Cocktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom\, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra […] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail/
+DTEND:20251126T210000Z
+DTSTART:20251126T173000Z
+SUMMARY:🟧 [SOPK] All in One Cocktail
+UID:2ee25b91afcfee13c6f59effc2d467f08e990ef2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
