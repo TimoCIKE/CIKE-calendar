@@ -123,20 +123,20 @@ SUMMARY:🔵 [ITVALLEY] Microsoft Day 2025
 UID:83b261887b31b79e97903acc5752954bb4655c75@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241125
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3428/future-employer
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Future Employer
-UID:44377d1a03b153f55b64db7bbc2b4db224dfe632@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semináre "Colné predpisy v praxi" a "Colný sazdobník EÚ a systém TARIC"\, ktoré sa budú konať dňa 23.09. a 24.09. 2025 v čase od […] \\n\n\nhttps://www.sopk.sk/event/colne-predpisy-v-praxi-duplicate-1/
 DTEND:20250924T215959Z
 DTSTART:20250922T220000Z
 SUMMARY:🟧 [SOPK] Colné predpisy v praxi + Colný sadzobník EÚ a systém TARIC
 UID:19b6514814f7cfc5bf8836aaf2fc205ad681084f@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
+DTEND:20250429T123000Z
+DTSTART:20250429T070000Z
+SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
+UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250425
@@ -148,11 +148,12 @@ UID:6692931d58326b5a2d27b9035a07e53e55c42084@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
-DTEND:20250429T123000Z
-DTSTART:20250429T070000Z
-SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
-UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
+DTEND:20250407T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20250407T070000Z
+SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
+UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250227
@@ -169,15 +170,6 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3442/speed-bus
 LOCATION:Lindner Hotel Gallery Central\, Metodova 4\, Bratislava
 SUMMARY:🟢 [AMCHAM] Speed Business Meeting
 UID:a2372d86d772b1735126f6424c19537bae1533ec@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
-DTEND:20250407T120000Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20250407T070000Z
-SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
-UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -235,14 +227,6 @@ DESCRIPTION:Climate Talks / Online Discussion\n\nhttps://amcham.sk/events/3540/l
 LOCATION:online
 SUMMARY:🟢 [AMCHAM] LIVE from NYC: Actions for a Sustainable Future
 UID:e5d8f1b6345d3cc312c0ca79997c99aed6b68285@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Príchod investora môže priniesť významné investície  a vytvoriť pracovné miesta\, ale aj zmeny a výzvy pre miestne podnikanie a komunitu. Tento proces prebieha kontinuálne. Čo všetko chápeme pod pojmom zamestnanecké benefity? Zamestnanecké benefity (alebo […] \\n\n\nhttps://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-vyhoda-zamestnavatela-2/
-DTEND:20251014T093000Z
-DTSTART:20251014T070000Z
-SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda zamestnávateľa
-UID:8a24b7d28af552dd4e886ebbf9402c22ec637b08@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
@@ -522,6 +506,15 @@ UID:83d6c5fc18fba2f423613205165c2f0a62444f74@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Virtuálne B2B podujatie Black Sea MultiSektor 2025\, ktoré organizuje Obchodná a priemyselná komora Trabzon v rámci siete Enterprise Europe Network\, sa uskutoční online od 9. do 11. decembra 2025. Podujatie spája […] \\n\n\nhttps://www.sopk.sk/event/black-sea-multisector-virtual-b2b-event-2025/
+DTEND:20251211T170000Z
+LOCATION:Online
+DTSTART:20251209T090000Z
+SUMMARY:🟧 [SOPK] Black Sea MultiSector Virtual B2B Event 2025
+UID:4ef81902a5ce87f732256f7a2cef396a172e0cc3@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Národné kompetenčné centrá pre vysokovýkonné počítanie (HPC) na Slovensku\, v Rakúsku a v Českej republike vás pozývajú na odbornú prednášku o tom\, ako vysokovýkonné počítanie (HPC) môžu podporiť digitálnu forenziku v […] \\n\n\nhttps://www.sopk.sk/event/webinar-digitalna-forenzika-v-ere-velkych-dat/
 DTEND:20250505T100000Z
 LOCATION:Online
@@ -547,7 +540,7 @@ UID:b56016608c74e6e4ff238fedb5523ca027325f6e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne pozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\, ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom UVP Technicom\, kde sa budeme venovať […] \\n\n\nhttps://www.sopk.sk/event/kava-s-ambasadorom-v-zakarpatskej-oblasti/
+DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne pozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\, ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom UVP Technicom\, kde sa budeme venovať […] \\n\n\nhttps://www.sopk.sk/event/kava-s-eduardom-burasom-a-miroslavom-michalkom/
 DTEND:20251104T100000Z
 LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20251104T080000Z
@@ -776,11 +769,11 @@ UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov organizujú pracovno-priateľské stretnutie lídrov regiónu – primátorov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:00 Miesto:  Mestský úrad Trebišov\, […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu/
-DTEND:20251125T140000Z
-DTSTART:20251125T120000Z
-SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
-UID:312788d08eec648aefd99d1266397ec454cbbfe0@cike-events
+DESCRIPTION:Trenčianska regionálna komora SOPK - Sekcia textilného\, odevného\, kožiarskeho a obuvníckeho priemyslu v spolupráci s Veletrhy Brno a.s.\, organizuje účasť slovenských subjektov na 66. B2B veľtrhoch módy\, obuvi a koženého tovaru […] \\n\n\nhttps://www.sopk.sk/event/styl-a-kabo-februar-2026-najvyhodnejsie-ceny-do-30-11-2025/
+DTEND:20260215T225959Z
+DTSTART:20260212T230000Z
+SUMMARY:🟧 [SOPK] STYL a KABO FEBRUÁR 2026\, NAJVÝHODNEJŠIE CENY DO 30.11.2025
+UID:d8f9c74ece5cef43b00fb82840378b02797318b1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
@@ -800,11 +793,11 @@ UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora SOPK - Sekcia textilného\, odevného\, kožiarskeho a obuvníckeho priemyslu v spolupráci s Veletrhy Brno a.s.\, organizuje účasť slovenských subjektov na 66. B2B veľtrhoch módy\, obuvi a koženého tovaru […] \\n\n\nhttps://www.sopk.sk/event/styl-a-kabo-februar-2026-najvyhodnejsie-ceny-do-30-11-2025/
-DTEND:20260215T225959Z
-DTSTART:20260212T230000Z
-SUMMARY:🟧 [SOPK] STYL a KABO FEBRUÁR 2026\, NAJVÝHODNEJŠIE CENY DO 30.11.2025
-UID:d8f9c74ece5cef43b00fb82840378b02797318b1@cike-events
+DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov organizujú pracovno-priateľské stretnutie lídrov regiónu – primátorov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:00 Miesto:  Mestský úrad Trebišov\, […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu/
+DTEND:20251125T140000Z
+DTSTART:20251125T120000Z
+SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
+UID:312788d08eec648aefd99d1266397ec454cbbfe0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
@@ -1090,14 +1083,6 @@ DTEND:20251120T133000Z
 DTSTART:20251120T080000Z
 SUMMARY:🟧 [SOPK] webinár Zákon o dani z príjmov\, závislá činnosť
 UID:8d819fa5a9a80a200126aa669503c104d7e54a4a@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Valné zhromaždenie KRK SOPK 2025 25.2. 2025 10:00 - 14:00 hod. KONGRES Hotel Roca Južná trieda 117\, KOŠICE Vážený člen Slovenskej obchodnej a priemyselnej komory\, touto cestou si Vás dovoľujeme pozvať na Valné zhromaždenie […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-valne-zhromazdenie-krk-sopk-2025/
-DTEND:20250225T130000Z
-DTSTART:20250225T090000Z
-SUMMARY:🟧 [SOPK] Pozvánka: Valné zhromaždenie KRK SOPK 2025
-UID:d5aba7dbe5c1876350e271007eed2eeac2e20138@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241115
@@ -1806,10 +1791,10 @@ UID:1a3c5417731dbc419f6ee2f0ecdbfabb513e9ff6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Prešovská regionálna komora SOPK  člen siete Enterprise Europe Network Vás pozýva na podujatie pod záštitou mimoriadnej a splnomocnenej veľvyslankyne Slovenskej republiky v Poľsku Andrey Elschekovej-Matisovej: […] \\n\n\nhttps://www.sopk.sk/event/27-03-2025-business-ranajky-s-polskom/
+DESCRIPTION:Košická regionálna komora SOPK  člen siete Enterprise Europe Network Vás pozýva na podujatie pod záštitou mimoriadnej a splnomocnenej veľvyslankyne Slovenskej republiky v Poľsku […] \\n\n\nhttps://www.sopk.sk/event/business-ranajky-s-polskom/
 DTEND:20250327T110000Z
 DTSTART:20250327T073000Z
-SUMMARY:🟧 [SOPK] BUSINESS raňajky s Poľskom
+SUMMARY:🟧 [SOPK] Business raňajky s Poľskom
 UID:295da06426f985bad389b6285e4deae1c609dadc@cike-events
 END:VEVENT
 BEGIN:VEVENT
