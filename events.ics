@@ -132,12 +132,11 @@ UID:19b6514814f7cfc5bf8836aaf2fc205ad681084f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
-DTEND:20250407T120000Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20250407T070000Z
-SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
-UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
+DTEND:20250429T123000Z
+DTSTART:20250429T070000Z
+SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
+UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250425
@@ -149,11 +148,12 @@ UID:6692931d58326b5a2d27b9035a07e53e55c42084@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
-DTEND:20250429T123000Z
-DTSTART:20250429T070000Z
-SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
-UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
+DTEND:20250407T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20250407T070000Z
+SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
+UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250227
@@ -173,27 +173,11 @@ UID:a2372d86d772b1735126f6424c19537bae1533ec@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Príležitosť pre inovačné spoločnosti zúčastniť sa podujatia v čase 1. – 4. 12. 2025 v Tokyu. Uzávierka 28.8.2025. Podujatie organizuje Centrum EU-Japonsko a otvára dvere na potenciálnu spoluprácu s japonskými obchodnými partnermi. Cieľové sektory […] \\n\n\nhttps://www.sopk.sk/event/obchodna-misia-do-japonska-2025/
-DTEND:20251204T225959Z
-DTSTART:20251130T230000Z
-SUMMARY:🟧 [SOPK] Obchodná misia do Japonska 2025
-UID:ad3fc2c641d78d9b5c9d042d6ca961295446d9ca@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 25.9.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky kód:20250925   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky-2/
 DTEND:20250925T123000Z
 DTSTART:20250925T070000Z
 SUMMARY:🟧 [SOPK] webinár Dôchodky
 UID:3c3cd167871a4031db9913247de4c879aef181d7@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by Splash International School\n\nhttps://amcham.sk/events/3582/open-house-splash-school
-LOCATION:Starozagorská 8\, Košice
-SUMMARY:🟢 [AMCHAM] Open House Splash School
-UID:15731117109f2c5daff2e4916de38d924a13f7b1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -245,14 +229,6 @@ SUMMARY:🟢 [AMCHAM] Building and/or Use of AI Systems for Medical Professional
 UID:e173fcfe8a206342cd3b1996b343a34a7cbf9ebe@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trnavská regionálna komora SOPK v spolupráci s Veľvyslanectvom SR v Hanoji a Vietnamskou obchodnou a priemyselnou komorou (VCCI) Vás srdečne pozývajú na obchodnú misiu do Hočiminovho Mesta vo Vietname. Počas misie budete […] \\n\n\nhttps://www.sopk.sk/event/obchodna-misia-do-vietnamu/
-DTEND:20251207T225959Z
-DTSTART:20251201T230000Z
-SUMMARY:🟧 [SOPK] Obchodná misia do Vietnamu
-UID:d54efb379d73892e7f867b155c664249290d970a@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
 CATEGORIES:ITVALLEY
 DESCRIPTION:Podujatie Managing Complex Projects: practical experience sa zameria na riadenie veľkých a komplexných projektov. Prednáška prinesie praktické tipy\, riešenia a odporúčania\, doplnené o vtipné príklady a reálne skúsenosti z praxe. Cieľom je ukázať\, ako zvládnuť chaos\, udržať projekt v harmonograme a pritom si zachovať pokoj.\n\nhttps://www.kosiceitvalley.sk/events/managing-complex-projects-practical-experience/
@@ -267,6 +243,15 @@ DESCRIPTION:5. decembra 2024 sa v priestoroch sály Bukovina uskutoční tradič
 LOCATION:Sála Bukovina\, Trieda KVP 9
 SUMMARY:🔵 [ITVALLEY] Vianočný večierok
 UID:e14cc5af1cb77e3d5dd7122e98c48a52857622df@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Finančná gramotnosť pre pracovníkov vo výskume (R&D) je trojdňové školenie určené pre výskumníkov\, projektových manažérov a administratívnych pracovníkov\, ktorí sa chcú zlepšiť v oblasti prípravy a monitorovania rozpočtov pre medzinárodné projekty […] \\n\n\nhttps://www.sopk.sk/event/financna-gramotnost-pre-pracovnikov-rd/
+DTEND:20251205T225959Z
+LOCATION:Trenčianska univerzita A. Dubčeka\, Študentská 1\, Trenčín
+DTSTART:20251202T230000Z
+SUMMARY:🟧 [SOPK] Finančná gramotnosť pre pracovníkov R&#038\;D
+UID:87b1ed1226bebc6eac13b94e82aad85b87d6bb0c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -630,14 +615,6 @@ UID:b790abc63037b332d3b33f4746a80a2c348b7dc8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:\\n\n\nhttps://www.sopk.sk/event/workshop-oobehove-hospodarstvo-v-oblasti-elektropriemyslu/
-DTEND:20250313T120000Z
-DTSTART:20250313T080000Z
-SUMMARY:🟧 [SOPK] Workshop: Obehové hospodárstvo
-UID:02c71571d159fff82aeb3c8a740749239bb8728a@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Pozvánka na klubovú LIGHT aktivitu: Ochutnávka čajov s ajurvédskou terapeutkou  Dátum: 17. marca 2025 o 14:00 hod. Miesto: UVP TECHNICOM\, B. Němcovej (miestnosť - obývačka)\, Košice Pozývame Vás na jedinečnú ochutnávku […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-klubovu-light-aktivitu-ochutnavka-cajov-s-ajurvedskou-liecitelkou/
 DTEND:20250317T130000Z
 DTSTART:20250317T130000Z
@@ -799,6 +776,14 @@ DESCRIPTION:https://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – TuuTap
 UID:bb3f0be30a08b08e8131367358c6113c0314bcc0@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trnavská regionálna komora SOPK v spolupráci s Veľvyslanectvom SR v Hanoji a Vietnamskou obchodnou a priemyselnou komorou (VCCI) pripravuje obchodnú misiu do Hočiminovho Mesta vo Vietname. Počas misie je plánovaná účasť […] \\n\n\nhttps://www.sopk.sk/event/obchodna-misia-do-vietnamu/
+DTEND:20251208T225959Z
+DTSTART:20251130T230000Z
+SUMMARY:🟧 [SOPK] Obchodná misia do Vietnamu
+UID:1ba5d8067dd2ce0dd9d359adac18dd85a3beb12d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1451,14 +1436,6 @@ SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
 UID:aa28bdec7fd041e488abe00d17a76f8a440d2b14@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:6. ročník Matchmaking Business Meetings (MBM) Tourism Prague počas medzinárodného veľtrhu cestovného ruchu Holiday World & Region World v Prahe: https://holidayworld.cz/  je opäť organizovaný oboma spôsobmi: prvý deň on-line a druhý […] \\n\n\nhttps://www.sopk.sk/event/mbm-tourism-prague-2025/
-DTEND:20250314T143000Z
-DTSTART:20250313T090000Z
-SUMMARY:🟧 [SOPK] MBM TOURISM PRAGUE 2025
-UID:888f9b7c6973d02646b884a6554bbda15611a9d6@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251027
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/10/27/dva-mesiace-noveho-skolskeho-roka-za-nami/
@@ -1673,15 +1650,6 @@ DTEND:20250610T150000Z
 DTSTART:20250604T060000Z
 SUMMARY:🟧 [SOPK] SUBCONTRACTING MEETINGS 2025
 UID:37929373ad9e9a0e196ddbeed53230b1cc739d73@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „POSUDZOVANIE VPLYVOV NA ŽIVOTNÉ PROSTREDIE (EIA)“\, ktorý sa bude konať  dňa 27. novembra 2025 od 9:30 do 13:30 hod. v zasadačke Banskobystrickej RK […] \\n\n\nhttps://www.sopk.sk/event/posudzovanie-vplyvov-na-zivotne-prostredie-eia/2025-11-27/
-DTEND:20251127T225959Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20251126T230000Z
-SUMMARY:🟧 [SOPK] „POSUDZOVANIE VPLYVOV NA ŽIVOTNÉ PROSTREDIE (EIA)“\,
-UID:bd0dbadd782af91658cbd21e0d4acee4808184fd@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250307
