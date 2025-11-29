@@ -132,11 +132,12 @@ UID:19b6514814f7cfc5bf8836aaf2fc205ad681084f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
-DTEND:20250429T123000Z
-DTSTART:20250429T070000Z
-SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
-UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
+DTEND:20250407T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20250407T070000Z
+SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
+UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250425
@@ -148,12 +149,11 @@ UID:6692931d58326b5a2d27b9035a07e53e55c42084@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
-DTEND:20250407T120000Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20250407T070000Z
-SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
-UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 […] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
+DTEND:20250429T123000Z
+DTSTART:20250429T070000Z
+SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
+UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250227
@@ -1436,6 +1436,14 @@ SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
 UID:aa28bdec7fd041e488abe00d17a76f8a440d2b14@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:6. ročník Matchmaking Business Meetings (MBM) Tourism Prague počas medzinárodného veľtrhu cestovného ruchu Holiday World & Region World v Prahe: https://holidayworld.cz/  je opäť organizovaný oboma spôsobmi: prvý deň on-line a druhý […] \\n\n\nhttps://www.sopk.sk/event/mbm-tourism-prague-2025/
+DTEND:20250314T143000Z
+DTSTART:20250313T090000Z
+SUMMARY:🟧 [SOPK] MBM TOURISM PRAGUE 2025
+UID:888f9b7c6973d02646b884a6554bbda15611a9d6@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251027
 CATEGORIES:ICKK
 DESCRIPTION:https://ickk.sk/2025/10/27/dva-mesiace-noveho-skolskeho-roka-za-nami/
@@ -1571,14 +1579,6 @@ DTEND:20260112T143000Z
 DTSTART:20260112T080000Z
 SUMMARY:🟧 [SOPK] Seminár – Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
 UID:14357bae2d0da82dcf199b211f1d650ac6271bfe@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Veľvyslanectvo Kubánskej republiky v Slovenskej republike informuje o portfólii  príležitostí pre zahraničné investície hotelovej skupiny Gran Caribe. Gran Caribe je hotelová skupina pridelená Ministerstvu cestovného ruchu Kubánskej republiky\, ktorá prevádzkuje 4- […] \\n\n\nhttps://www.sopk.sk/event/portfolio-prilezitosti-pre-zahranicne-investicie-na-kubu/
-DTEND:20250904T150000Z
-DTSTART:20250904T060000Z
-SUMMARY:🟧 [SOPK] Portfólio príležitostí pre zahraničné investície na Kube
-UID:37b5acbe878ff8aea74e21f6d0012e5c8a4305f2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250613
