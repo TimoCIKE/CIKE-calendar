@@ -909,14 +909,6 @@ SUMMARY:🟧 [SOPK] Workshop o kybernetickej bezpečnosti
 UID:a134688ffa66041ba3e0193748dbbecfcb21acda@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-CATEGORIES:AMCHAM
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3427/authentic-leadership
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Authentic Leadership
-UID:fd8066f657d6992869129538e12c5527476876ba@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár "Colné predpisy v praxi"\, ktorý sa bude konať dňa 4. júna (streda) 2025 v čase od 09.00 do 16:00 hod. v zasadačke BBRK […] \\n\n\nhttps://www.sopk.sk/event/colne-predpisy-v-praxi/
 DTEND:20250604T140000Z
@@ -1411,14 +1403,6 @@ SUMMARY:🔵 [ITVALLEY] IVIP Fórum 2025
 UID:445fb25b78a5bc3fabbd037f24f3b3e0239a0897@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20241129
-CATEGORIES:AMCHAM
-DESCRIPTION:Fly me to the moon / 28th Edition\n\nhttps://amcham.sk/events/3325/thanksgiving-charity-gala-dinner
-LOCATION:Bratislava Castle\, Bratislava
-SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
-UID:c31603b302938d35ba385bf0692d0a9390d4c1bc@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241104
 CATEGORIES:ITVALLEY
 DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného partnerstva vás pozýva na podujatie INNOPSIES Entrepreneurs’ Meeting\, venované téme inovácií v kontexte digitálnej transformácie podnikov.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-presov/
@@ -1756,14 +1740,6 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3538/speed-bus
 LOCATION:Clarion Congress Hotel Bratislava\, Žabotova 2\, Bratislava
 SUMMARY:🟢 [AMCHAM] Speed Business Meeting
 UID:42d67072321dc3f0fad1ee191738e554be723267@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251129
-CATEGORIES:AMCHAM
-DESCRIPTION:conference organized by Trust Women\n\nhttps://amcham.sk/events/3573/i-see-me-conference
-LOCATION:Primaciálny Palác\, Bratislava
-SUMMARY:🟢 [AMCHAM] I SEE ME conference
-UID:391aa089e67901c30be78f7d51b4f9f725529137@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
