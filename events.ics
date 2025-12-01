@@ -84,7 +84,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
 CATEGORIES:ICKK
-DESCRIPTION:V októbri 2025 mali startupy z košického kraja výnimočnú príležitosť nahliadnuť do srdca americkej...\n\nhttps://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
+DESCRIPTION:https://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Slovak Startup Bootcamp NYC: Košické startupy v centre svetových inovácií
 UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
@@ -588,14 +588,6 @@ DTEND:20250428T090000Z
 DTSTART:20250428T070000Z
 SUMMARY:🟧 [SOPK] Workshop: Transakčná daň na Slovensku: praktické pohľady a dopady na biznis sféru
 UID:cd98e576a7d2afb8880934baac9d0e9e88eb0c67@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251013
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/13/predstavenie-startupov-loopvine/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – LoopVine
-UID:2d866edad70f97201cf98ace5e631c43839784aa@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
@@ -1319,6 +1311,14 @@ DESCRIPTION:Finále Lab IT Creativity – Mladí inovátori predstavia svoje pro
 LOCATION:Aula Maxima\, TUKE
 SUMMARY:🔵 [ITVALLEY] Finále projektu LAB IT Creativity – 4.ročník
 UID:05ab4d5accc835e925ce2d0fcac7974e548054db@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+CATEGORIES:ICKK
+DESCRIPTION:Po nabitom večeri plnom inovatívnych pitch deckov\, skvelej energie a poctivej práce sme spoznali...\n\nhttps://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Sweet & Salty ovládol startup VIZI!
+UID:e2253bc819baba9c8eeef0f4dee6c200c909c292@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
