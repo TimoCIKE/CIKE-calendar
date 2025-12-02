@@ -926,14 +926,6 @@ UID:a5d292761fb146dc7576d3d85f454feda2e13f80@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Zmeny v automatizovanom systéme pre dovoz“\, ktorý sa bude konať  dňa 2. decembra 2025 od 10:00 do 14:00 hod. v zasadačke Banskobystrickej RK […] \\n\n\nhttps://www.sopk.sk/event/zmeny-v-automatizovanom-systeme-pre-dovoz/
-DTEND:20251202T225959Z
-DTSTART:20251201T230000Z
-SUMMARY:🟧 [SOPK] „Zmeny v automatizovanom systéme pre dovoz“
-UID:f66c851558550c8c9e48a7d231d15b797898f6b4@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK v spolupráci s partnermi projektu EAGLE Vás pozývajú na konferenciu „Preklenutie rozdielov v digitálnych zručnostiach: Posilnenie malých a stredných podnikov pre budúcnosť“.   Podujatie predstaví inovatívne stratégie\, […] \\n\n\nhttps://www.sopk.sk/event/pozyvame-vas-na-zaverecnu-konferenciu-projektu-eagle-v-anglickom-jazyku/
 DTEND:20251120T133000Z
 DTSTART:20251120T083000Z
@@ -1531,6 +1523,14 @@ DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3534/crisis-compliance-
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Crisis & Compliance: Navigating Bribery\, Sanctions\, and Cross-Border Risk
 UID:a04fc2693c0fd4c3d305fd0c2915b36dafa2c27c@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:SKRYTÉ POKLADY NAŠICH FIRIEM je unikátne podujatie\, ktoré prepája firmy produkujúce zvyškové materiály s tvorcami\, startupmi\, dizajnérmi a výrobcami\, ktorí dokážu z „odpadu“ vytvoriť nové produkty alebo ich využiť ako vstupný […] \\n\n\nhttps://www.sopk.sk/event/skryte-poklady-nasich-firiem/
+DTEND:20251211T100000Z
+DTSTART:20251211T080000Z
+SUMMARY:🟧 [SOPK] SKRYTÉ POKLADY NAŠICH FIRIEM
+UID:24a183922f5450e0f7e045c62179640a2693f81c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
