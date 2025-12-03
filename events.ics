@@ -965,12 +965,13 @@ SUMMARY:🔵 [ITVALLEY] Košice  Data School
 UID:f8dac6f5d8367e891928ade773ff9dd5e27edba7@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251202
-CATEGORIES:AMCHAM
-DESCRIPTION:business breakfast organized by SUVko Coaching\n\nhttps://amcham.sk/events/3576/company-dna-in-practice-how-to-build-a-corporate-brand-from-logo-to-people
-LOCATION:The Spot\, Bottova 2\, Bratislava
-SUMMARY:🟢 [AMCHAM] Company DNA in Practice – How to Build a Corporate Brand from Logo to People
-UID:34b11b8b5eebb4eb3c56bae20ccb189a6b8d6122@cike-events
+CATEGORIES:SOPK
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slovenským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Bratislave Vás pozývajú odborné podujatie "SWISS DAY 2025 ... vzdelávanie\, inovácie\, spolupráca" Cieľom odborného podujatia […] \\n\n\nhttps://www.sopk.sk/event/swiss-day-2025-vzdelavanie-inovacie-spolupraca/
+DTEND:20251113T140000Z
+LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
+DTSTART:20251113T080000Z
+SUMMARY:🟧 [SOPK] SWISS DAY 2025 …. vzdelávanie\, inovácie\, spolupráca
+UID:d96d7a9eeb717bdeced6f7e15472fd63a6d75805@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250331
@@ -979,15 +980,6 @@ DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3476/new-construction-l
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] New Construction Law & Its Impacts on Pending and Future Projects
 UID:baba1edc0fb7edfe0537122c1a0dbcfda9924595@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slovenským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Bratislave Vás pozývajú odborné podujatie "SWISS DAY 2025 ... vzdelávanie\, inovácie\, spolupráca" Cieľom odborného podujatia […] \\n\n\nhttps://www.sopk.sk/event/swiss-day-2025-vzdelavanie-inovacie-spolupraca/
-DTEND:20251113T140000Z
-LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
-DTSTART:20251113T080000Z
-SUMMARY:🟧 [SOPK] SWISS DAY 2025 …. vzdelávanie\, inovácie\, spolupráca
-UID:d96d7a9eeb717bdeced6f7e15472fd63a6d75805@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241023
@@ -1214,14 +1206,6 @@ SUMMARY:🟢 [AMCHAM] Navigating Slovakia’s New Financial Transaction Tax: Pra
 UID:12c9f4e17cc4d99567227931124bb5eeb305d3da@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251202
-CATEGORIES:AMCHAM
-DESCRIPTION:conference organized by Crowdberry\n\nhttps://amcham.sk/events/3574/women-wealth-how-women-are-changing-the-world-of-investments
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Women & Wealth: How Women are Changing the World of Investments
-UID:1acdeca5b5f84cd54755515b3ec909b43e353c30@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie […] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-dekarbonizacia-malych-a-strednych-podnikov-duplicate-1/
 DTEND:20250522T080000Z
@@ -1287,6 +1271,14 @@ LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20251111T080000Z
 SUMMARY:🟧 [SOPK] Seminár: Intrastat a Colné konanie – EEN
 UID:5b7b900c106ae97577c58b5c51b2291d03021672@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250210
+CATEGORIES:AMCHAM
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3583/health-care-in-transformation-care-data-costs
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Health Care in Transformation: Care – Data – Costs
+UID:6da772309005697940d5cb40ead9dd93cba46c50@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250409
