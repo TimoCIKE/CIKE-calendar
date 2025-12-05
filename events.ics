@@ -91,9 +91,8 @@ UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europe Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním […] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy/
+DESCRIPTION:Pozývame vás na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním v praxi\; vedomosti získané v rámci školenia by mali menovaným zaručiť […] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy-2/
 DTEND:20251028T130000Z
-LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20251028T073000Z
 SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
 UID:efa4c0037ced44393ed6233c7a4b991cb50722cd@cike-events
@@ -598,14 +597,6 @@ SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
 UID:b790abc63037b332d3b33f4746a80a2c348b7dc8@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Pozvánka na klubovú LIGHT aktivitu: Ochutnávka čajov s ajurvédskou terapeutkou  Dátum: 17. marca 2025 o 14:00 hod. Miesto: UVP TECHNICOM\, B. Němcovej (miestnosť - obývačka)\, Košice Pozývame Vás na jedinečnú ochutnávku […] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-klubovu-light-aktivitu-ochutnavka-cajov-s-ajurvedskou-liecitelkou/
-DTEND:20250317T130000Z
-DTSTART:20250317T130000Z
-SUMMARY:🟧 [SOPK] Pozvánka na klubovú LIGHT aktivitu: Ochutnávka čajov s ajurvédskou liečiteľkou
-UID:52538bf457e1b978a3ad15ad57121f487369a2bd@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
 CATEGORIES:ITVALLEY
 DESCRIPTION:Konferencia GradeUP a Noc podnikavosti ukážu\, ako verejné vysoké školy na Slovensku podporujú inovácie a startupy. Projekt s rozpočtom 9 mil. € má zvýšiť konkurencieschopnosť škôl\, modernizovať štúdium a pomôcť študentom premeniť nápady na úspešné podnikanie.\n\nhttps://www.kosiceitvalley.sk/events/grade-up-konferencia-a-noc-podnikavosti/
@@ -1102,14 +1093,6 @@ SUMMARY:🟢 [AMCHAM] AI Agents – When Efficiency Meets Creativity
 UID:ac1f916e423e5aa649995b455760d6d85037973c@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/23/predstavenie-startupov-sweet-salty-ofrules/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – Ofrules
-UID:ecd5c60b4c7930d5d1e1f8f9e827c920d3824efc@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
 CATEGORIES:ITVALLEY
 DESCRIPTION:Živé IT Projekty je jedinečný vzdelávací koncept organizovaný pod záštitou Katedry počítačov a informatiky FEI TUKE a združenia Košice IT Valley\, v rozsahu a formáte\, ktorý je na Slovensku nezvyčajný.\n\nhttps://www.kosiceitvalley.sk/events/zive-it-projekty-finale/
@@ -1291,7 +1274,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
 CATEGORIES:ICKK
-DESCRIPTION:Po nabitom večeri plnom inovatívnych pitch deckov\, skvelej energie a poctivej práce sme spoznali...\n\nhttps://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
+DESCRIPTION:https://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Sweet & Salty ovládol startup VIZI!
 UID:e2253bc819baba9c8eeef0f4dee6c200c909c292@cike-events
@@ -1557,6 +1540,14 @@ SUMMARY:🔵 [ITVALLEY] All in One Cocktail
 UID:e4f544fb4a4704487af7271fe841580d5923a3ee@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251210
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by SUVko\n\nhttps://amcham.sk/events/3584/suvko-business-breakfast-spor
+LOCATION:Košická futbalová aréna\, Košic
+SUMMARY:🟢 [AMCHAM] SUVKO Business Breakfast: Spor
+UID:6af997eee5febfafbf62a01e6c72220cb79cfa34@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Cocktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom\, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra […] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail/
 DTEND:20251126T210000Z
@@ -1651,6 +1642,14 @@ DTEND:20250611T123000Z
 DTSTART:20250611T070000Z
 SUMMARY:🟧 [SOPK] webinár Daňovo-odvodová optimalizácia 2025
 UID:4531c2b28938291c068a2baa59d47cc76ae05738@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251202
+CATEGORIES:ICKK
+DESCRIPTION:Akceleračný program Sweet and Salty vyvrcholil 20. novembra v košickom Kulturparku veľkolepým...\n\nhttps://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-prekonal-ocakavania/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Finále Demo Day: Deň D pre startupy\, ktorý prekonal očakávania
+UID:b7cef24d14499bc62d1f6997edb1b789a87f3321@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
