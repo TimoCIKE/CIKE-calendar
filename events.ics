@@ -91,8 +91,9 @@ UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozývame vás na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním v praxi\; vedomosti získané v rámci školenia by mali menovaným zaručiť [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy-2/
+DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europe Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy/
 DTEND:20251028T130000Z
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20251028T073000Z
 SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
 UID:efa4c0037ced44393ed6233c7a4b991cb50722cd@cike-events
@@ -234,15 +235,6 @@ DESCRIPTION:5. decembra 2024 sa v priestoroch sály Bukovina uskutoční tradič
 LOCATION:Sála Bukovina\, Trieda KVP 9
 SUMMARY:🔵 [ITVALLEY] Vianočný večierok
 UID:e14cc5af1cb77e3d5dd7122e98c48a52857622df@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Určené pre: asistentky\, obchodných zástupcov\, reprezentantov firiem\, manažérov a všetkých\, ktorí si chcú oprášiť pravidlá správnej písomnej komunikácie s obchodnými partnermi ale aj verejnými inštitúciami. TERMÍN:   18. marca 2025 /utorok/    od 14.00 do [...] \\n\n\nhttps://www.sopk.sk/event/obchodna-pisomna-komunikacia-a-netiketa/
-DTEND:20250318T153000Z
-LOCATION:Online
-DTSTART:20250318T130000Z
-SUMMARY:🟧 [SOPK] Obchodná písomná komunikácia a netiketa
-UID:0f784915aa0ce5e91e435d41bd092027da64585f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -634,6 +626,14 @@ DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých 
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
 SUMMARY:🔵 [ITVALLEY] Seminár Kybernetická bezpečnosť
 UID:8b87747acff5492c09c9d84f16495b318b5a3b45@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250303
+CATEGORIES:AMCHAM
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3583/health-care-in-transformation-care-data-costs
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Health Care in Transformation: Care – Data – Costs
+UID:64e9f5b116da6dbd77937e7d93ee63527296eb11@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1229,14 +1229,6 @@ LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20251111T080000Z
 SUMMARY:🟧 [SOPK] Seminár: Intrastat a Colné konanie – EEN
 UID:5b7b900c106ae97577c58b5c51b2291d03021672@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250210
-CATEGORIES:AMCHAM
-DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3583/health-care-in-transformation-care-data-costs
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Health Care in Transformation: Care – Data – Costs
-UID:6da772309005697940d5cb40ead9dd93cba46c50@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250409
