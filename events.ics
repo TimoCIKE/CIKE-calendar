@@ -817,6 +817,15 @@ SUMMARY:🟢 [AMCHAM] Future Employer
 UID:5a3990f9af53426d1612112558fc79d69499aef7@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Ak vás zaujíma súčasný stav a budúci vývoj v oblasti slovenskej a svetovej ekonomiky v roku 2026\, pozývame Vás na ekonomickú konferenciu\, ktorej 29. ročník sa bude konať 27. januára 2026 [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-ocakavany-vyvoj-slovenskej-ekonomiky-v-roku-2026/
+DTEND:20260127T120000Z
+LOCATION:Hotel Lindner\, Bratislava\, Metodova 4\, Bratislava
+DTSTART:20260127T090000Z
+SUMMARY:🟧 [SOPK] Konferencia Očakávaný vývoj slovenskej ekonomiky v roku 2026
+UID:847403bedd8b415fb556af81c1b490ea5abb63c7@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250522
 CATEGORIES:AMCHAM
 DESCRIPTION:Manufacturing: How to Stay Competitive?\n\nhttps://amcham.sk/events/3495/future-ready-slovakia-lets-talk-competitiveness
@@ -1076,6 +1085,14 @@ SUMMARY:🟢 [AMCHAM] AI Agents – When Efficiency Meets Creativity
 UID:ac1f916e423e5aa649995b455760d6d85037973c@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251023
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/10/23/predstavenie-startupov-sweet-salty-ofrules/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – Ofrules
+UID:ecd5c60b4c7930d5d1e1f8f9e827c920d3824efc@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
 CATEGORIES:ITVALLEY
 DESCRIPTION:Živé IT Projekty je jedinečný vzdelávací koncept organizovaný pod záštitou Katedry počítačov a informatiky FEI TUKE a združenia Košice IT Valley\, v rozsahu a formáte\, ktorý je na Slovensku nezvyčajný.\n\nhttps://www.kosiceitvalley.sk/events/zive-it-projekty-finale/
@@ -1249,7 +1266,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
 CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
+DESCRIPTION:Po nabitom večeri plnom inovatívnych pitch deckov\, skvelej energie a poctivej práce sme spoznali...\n\nhttps://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Sweet & Salty ovládol startup VIZI!
 UID:e2253bc819baba9c8eeef0f4dee6c200c909c292@cike-events
@@ -1617,14 +1634,6 @@ DTEND:20250611T123000Z
 DTSTART:20250611T070000Z
 SUMMARY:🟧 [SOPK] webinár Daňovo-odvodová optimalizácia 2025
 UID:4531c2b28938291c068a2baa59d47cc76ae05738@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251202
-CATEGORIES:ICKK
-DESCRIPTION:Akceleračný program Sweet and Salty vyvrcholil 20. novembra v košickom Kulturparku veľkolepým...\n\nhttps://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-prekonal-ocakavania/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Finále Demo Day: Deň D pre startupy\, ktorý prekonal očakávania
-UID:b7cef24d14499bc62d1f6997edb1b789a87f3321@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
