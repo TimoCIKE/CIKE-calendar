@@ -705,11 +705,11 @@ UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora SOPK - Sekcia textilného\, odevného\, kožiarskeho a obuvníckeho priemyslu v spolupráci s Veletrhy Brno a.s.\, organizuje účasť slovenských subjektov na 66. B2B veľtrhoch módy\, obuvi a koženého tovaru [...] \\n\n\nhttps://www.sopk.sk/event/styl-a-kabo-februar-2026-najvyhodnejsie-ceny-do-30-11-2025/
-DTEND:20260215T225959Z
-DTSTART:20260212T230000Z
-SUMMARY:🟧 [SOPK] STYL a KABO FEBRUÁR 2026\, NAJVÝHODNEJŠIE CENY DO 30.11.2025
-UID:d8f9c74ece5cef43b00fb82840378b02797318b1@cike-events
+DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov organizujú pracovno-priateľské stretnutie lídrov regiónu – primátorov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:00 Miesto:  Mestský úrad Trebišov\, [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu/
+DTEND:20251125T140000Z
+DTSTART:20251125T120000Z
+SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
+UID:312788d08eec648aefd99d1266397ec454cbbfe0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250514
@@ -726,14 +726,6 @@ DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Prosper
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
 UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov organizujú pracovno-priateľské stretnutie lídrov regiónu – primátorov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:00 Miesto:  Mestský úrad Trebišov\, [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu/
-DTEND:20251125T140000Z
-DTSTART:20251125T120000Z
-SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
-UID:312788d08eec648aefd99d1266397ec454cbbfe0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
@@ -973,6 +965,15 @@ SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
 UID:185e1172a3a31c7319f33069ed21dd9665a96723@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Pri Slovenskej obchodnej a priemyselnej komore pôsobí 15 odborných sekcií s celoslovenskou pôsobnosťou. Sekcie združujú firmy z rôznych odvetví\, organizujú semináre\, odborné konferencie a pripravujú stanoviská k návrhom právnych predpisov. Jednou [...] \\n\n\nhttps://www.sopk.sk/event/agro-potravinarska-sekcia-sopk-sa-uz-coskoro-stretne-v-trnave/
+DTEND:20251215T110000Z
+LOCATION:Trnava
+DTSTART:20251215T090000Z
+SUMMARY:🟧 [SOPK] Agro potravinárska sekcia SOPK sa už čoskoro stretne v Trnave
+UID:fd8c04c5a14cfcda04ec384a02ccb40cc4a221c5@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250326
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3459/trust-corporate-ethics-workplace-investigations-hr-level-up
@@ -1083,14 +1084,6 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3557/ai-agents-when-efficiency-
 LOCATION:Jurkovičova Tepláreň\, Event Hall (ground floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] AI Agents – When Efficiency Meets Creativity
 UID:ac1f916e423e5aa649995b455760d6d85037973c@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251023
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/23/predstavenie-startupov-sweet-salty-ofrules/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – Ofrules
-UID:ecd5c60b4c7930d5d1e1f8f9e827c920d3824efc@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250204
@@ -1266,7 +1259,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
 CATEGORIES:ICKK
-DESCRIPTION:Po nabitom večeri plnom inovatívnych pitch deckov\, skvelej energie a poctivej práce sme spoznali...\n\nhttps://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
+DESCRIPTION:https://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Sweet & Salty ovládol startup VIZI!
 UID:e2253bc819baba9c8eeef0f4dee6c200c909c292@cike-events
@@ -1532,14 +1525,6 @@ SUMMARY:🔵 [ITVALLEY] All in One Cocktail
 UID:e4f544fb4a4704487af7271fe841580d5923a3ee@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251210
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by SUVko\n\nhttps://amcham.sk/events/3584/suvko-business-breakfast-spor
-LOCATION:Košická futbalová aréna\, Košic
-SUMMARY:🟢 [AMCHAM] SUVKO Business Breakfast: Spor
-UID:6af997eee5febfafbf62a01e6c72220cb79cfa34@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Cocktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom\, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra [...] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail/
 DTEND:20251126T210000Z
@@ -1585,6 +1570,14 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3483/streamlining-justice-eu-el
 LOCATION:Jurkovičova Tepláreň (2nd floor) + online\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Streamlining Justice: EU Electronic Evidence
 UID:bb86bae93fbefe2eed08678ec18f6e13154b197b@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+CATEGORIES:AMCHAM
+DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
+LOCATION:Bratislava Castle\, Bratislava
+SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
+UID:ae15db7d1c0561bb5df4daa4e6a11b5958a4dc83@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1636,6 +1629,14 @@ SUMMARY:🟧 [SOPK] webinár Daňovo-odvodová optimalizácia 2025
 UID:4531c2b28938291c068a2baa59d47cc76ae05738@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251202
+CATEGORIES:ICKK
+DESCRIPTION:Akceleračný program Sweet and Salty vyvrcholil 20. novembra v košickom Kulturparku veľkolepým...\n\nhttps://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-prekonal-ocakavania/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Finále Demo Day: Deň D pre startupy\, ktorý prekonal očakávania
+UID:b7cef24d14499bc62d1f6997edb1b789a87f3321@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
 CATEGORIES:ITVALLEY
 DESCRIPTION:ESG Awards 2025 od Košice IT Valley je ocenenie pre firmy a jednotlivcov\, ktorí robia svet okolo seba lepším miestom.\n\nhttps://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni/
@@ -1651,6 +1652,14 @@ LOCATION:Tále
 DTSTART:20251014T220000Z
 SUMMARY:🟧 [SOPK] Exportné fórum 2025
 UID:93c62073d74aae906de15b81721e647e70c512e4@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trenčianska regionálna komora SOPK - Sekcia textilného\, odevného\, kožiarskeho a obuvníckeho priemyslu v spolupráci s Veletrhy Brno a.s.\, organizuje účasť slovenských subjektov na 66. B2B veľtrhoch módy\, obuvi a koženého tovaru [...] \\n\n\nhttps://www.sopk.sk/event/styl-a-kabo-februar-2026-najvyhodnejsie-ceny-do-30-11-2025/
+DTEND:20260215T225959Z
+DTSTART:20260212T230000Z
+SUMMARY:🟧 [SOPK] STYL a KABO FEBRUÁR 2026
+UID:8fd48f1371eb139a0d1450c50c2f009258374ab4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
