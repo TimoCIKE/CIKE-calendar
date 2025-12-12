@@ -67,19 +67,19 @@ UID:4fa26455faed895081136c7034c47525df6eb2ba@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.5.2025 od 09:00 - 14:30 hod pozýva na webinár MZDA A DOVOLENKA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-mzda-a-dovolenka/
-DTEND:20250519T123000Z
-DTSTART:20250519T070000Z
-SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
-UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vám v spolupráci s RELIA s.r.o. ponúka Balík webinárov – 15.4.\, 23.4.\, 29.4.2025   Trvanie webinára: 9:00 – cca 14:30\, v tom 2 – 3 prestávky podľa potreby. Prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/balik-webinarov-15-4-23-4-29-4-2025/
 DTEND:20250415T123000Z
 DTSTART:20250415T070000Z
 SUMMARY:🟧 [SOPK] Balík webinárov – 15.4.\, 23.4.\, 29.4.2025
 UID:b25292740d4949f91b61ea5673ded89eae15c113@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.5.2025 od 09:00 - 14:30 hod pozýva na webinár MZDA A DOVOLENKA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-mzda-a-dovolenka/
+DTEND:20250519T123000Z
+DTSTART:20250519T070000Z
+SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
+UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
@@ -243,15 +243,6 @@ DTEND:20250423T123000Z
 DTSTART:20250423T070000Z
 SUMMARY:🟧 [SOPK] webinár ZÁKON O SOCIÁLNOM POISTENÍ
 UID:5c5d8b71913326901b37583c3c5709a00b05ac7e@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci so spoločnosťou  CLA SLOVAKIA prináša overený formát krátkeho webináru s následnou možnosťou individuálnej konzultácie s expertami. Organizátor: Bratislavská regionálna komora SOPK Kedy: Každú tretiu stredu [...] \\n\n\nhttps://www.sopk.sk/event/danova-a-uctovna-polhodinka-duplicate-1-duplicate-1-duplicate-1-duplicate-1/
-DTEND:20250319T100000Z
-LOCATION:Online
-DTSTART:20250319T080000Z
-SUMMARY:🟧 [SOPK] Daňová a účtovná polhodinka – marec
-UID:bdecabd9fc06767ee3a8fd1d20502461aac195f1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
@@ -541,11 +532,11 @@ UID:52c3c2447f31822703c8979b27f1225704ca1290@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Slovenská obchodná priemyselná komora a Regionální hospodářská komora Brno Vás pozývajú na 9. ročník medzinárodnej B2B konferencie o digitalizácii výroby a chytrých technológiách pre priemysel BRNO INDUSTRY 4.0 WEEK medzinárodnú konferenciu Brno [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-brno-industry-4-0-2023/
-DTEND:20250410T215959Z
-DTSTART:20250407T220000Z
-SUMMARY:🟧 [SOPK] B2B konferencia – Brno Industry 4.0 week
-UID:5942a0b19dea21a3de58b613644762e31d04df3d@cike-events
+DESCRIPTION:Odborný webinár so zámerom vysvetliť všetky súvislosti nariadenia EP a Rady (EÚ) 2023/956 a vykonávacieho nariadenia Komisie (EÚ) 2023/1773 k mechanizmu uhlíkovej platby na hraniciach (CBAM)\, prevedieme Vás celým mechanizmom prechodného [...] \\n\n\nhttps://www.sopk.sk/event/webinar-uhlikove-clo-a-mechanizmus-cbam-carbon-border-adjustment-mechanism/
+DTEND:20260210T140000Z
+DTSTART:20260210T080000Z
+SUMMARY:🟧 [SOPK] Webinár: Uhlíkové clo a mechanizmus CBAM (Carbon Border Adjustment Mechanism)
+UID:113f6cf45aafa426d11d2e298eae6d963375f28b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250122
@@ -554,6 +545,14 @@ DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3434/healthy-employee
 LOCATION:Lab28\, Mlynské nivy 5\, Bratislava
 SUMMARY:🟢 [AMCHAM] Healthy Employees as a Fundamental Pillar of Companies’ Growth
 UID:d51f610df28d5cea5b8426f8b7abd129bc5ef945@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Slovenská obchodná priemyselná komora a Regionální hospodářská komora Brno Vás pozývajú na 9. ročník medzinárodnej B2B konferencie o digitalizácii výroby a chytrých technológiách pre priemysel BRNO INDUSTRY 4.0 WEEK medzinárodnú konferenciu Brno [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-brno-industry-4-0-2023/
+DTEND:20250410T215959Z
+DTSTART:20250407T220000Z
+SUMMARY:🟧 [SOPK] B2B konferencia – Brno Industry 4.0 week
+UID:5942a0b19dea21a3de58b613644762e31d04df3d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1467,14 +1466,6 @@ DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3534/crisis-compliance-
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Crisis & Compliance: Navigating Bribery\, Sanctions\, and Cross-Border Risk
 UID:a04fc2693c0fd4c3d305fd0c2915b36dafa2c27c@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:SKRYTÉ POKLADY NAŠICH FIRIEM je unikátne podujatie\, ktoré prepája firmy produkujúce zvyškové materiály s tvorcami\, startupmi\, dizajnérmi a výrobcami\, ktorí dokážu z „odpadu“ vytvoriť nové produkty alebo ich využiť ako vstupný [...] \\n\n\nhttps://www.sopk.sk/event/skryte-poklady-nasich-firiem/
-DTEND:20251211T100000Z
-DTSTART:20251211T080000Z
-SUMMARY:🟧 [SOPK] SKRYTÉ POKLADY NAŠICH FIRIEM
-UID:24a183922f5450e0f7e045c62179640a2693f81c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
