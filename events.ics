@@ -67,19 +67,19 @@ UID:cf5091c8edc8cdf7bea72d549bc576ec6575f51c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vám v spolupráci s RELIA s.r.o. ponúka Balík webinárov – 15.4.\, 23.4.\, 29.4.2025   Trvanie webinára: 9:00 – cca 14:30\, v tom 2 – 3 prestávky podľa potreby. Prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/balik-webinarov-15-4-23-4-29-4-2025/
-DTEND:20250415T123000Z
-DTSTART:20250415T070000Z
-SUMMARY:🟧 [SOPK] Balík webinárov – 15.4.\, 23.4.\, 29.4.2025
-UID:b25292740d4949f91b61ea5673ded89eae15c113@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.5.2025 od 09:00 - 14:30 hod pozýva na webinár MZDA A DOVOLENKA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-mzda-a-dovolenka/
 DTEND:20250519T123000Z
 DTSTART:20250519T070000Z
 SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
 UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vám v spolupráci s RELIA s.r.o. ponúka Balík webinárov – 15.4.\, 23.4.\, 29.4.2025   Trvanie webinára: 9:00 – cca 14:30\, v tom 2 – 3 prestávky podľa potreby. Prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/balik-webinarov-15-4-23-4-29-4-2025/
+DTEND:20250415T123000Z
+DTSTART:20250415T070000Z
+SUMMARY:🟧 [SOPK] Balík webinárov – 15.4.\, 23.4.\, 29.4.2025
+UID:b25292740d4949f91b61ea5673ded89eae15c113@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
@@ -488,6 +488,14 @@ DESCRIPTION:https://ickk.sk/2025/11/04/blog-owasmooth/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] OWASmooth: Od víťaza akcelerátora až k investícii s valuáciou 1 milión €
 UID:c12b3dacbdce3f320254f56eb8b69c88aeba5c1f@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251215
+CATEGORIES:ICKK
+DESCRIPTION:Pilotný ročník medziuniverzitného startupového programu YESlab minulý týždeň vyvrcholil veľkým...\n\nhttps://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Pilotný ročník\, ktorý ukázal svoj potenciál. YESlab má za sebou veľké finále!
+UID:6f3fac7ed9d301f8b31cc5328c2c40d6ce76f9c4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241107
@@ -997,19 +1005,19 @@ UID:111ce0231b0850cb8dd9c36e56c34c1e92e72033@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.6.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a dve 10 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky/
-DTEND:20250619T123000Z
-DTSTART:20250619T070000Z
-SUMMARY:🟧 [SOPK] webinár Dôchodky
-UID:51671d980f1558f75800c321a8886ad369033594@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Pozvánka na webinár: Rešerš ochranných známok jednoducho dňa: 18.09.2025  o 10:00 - 11:00 hod. Témy: ● praktické informácie\, ako pracovať s databázami\, ● priestor opýtať sa experta na konkrétne otázky k téme [...] \\n\n\nhttps://www.sopk.sk/event/webinar-resers-ochrannych-znamok-jednoducho/
 DTEND:20250918T090000Z
 DTSTART:20250918T080000Z
 SUMMARY:🟧 [SOPK] Webinár: Rešerš ochranných známok jednoducho
 UID:dd9934d9d40f616ad35eb66289ae79fd8306a8ae@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.6.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a dve 10 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky/
+DTEND:20250619T123000Z
+DTSTART:20250619T070000Z
+SUMMARY:🟧 [SOPK] webinár Dôchodky
+UID:51671d980f1558f75800c321a8886ad369033594@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250516
@@ -1077,19 +1085,19 @@ UID:675b55873c145acee3756bb8a7f3946fa4736668@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.12.2025 (resp. ten istý webinár sa koná aj 18.12.2025)  od 09:00 - 14:30 hod pozýva na webinár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
-DTEND:20251217T133000Z
-DTSTART:20251217T080000Z
-SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
-UID:7a7f41ed5bf72cc71d0ccbe6d509c91bc9ca0549@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Trenčianska regionálna komora SOPK pozýva slovenské podniky na účasť v oficiálnej delegácii na 33. ročník medzinárodného veľtrhu BIEMH – International Machine Tool Exhibition\, ktorý sa uskutoční od 2. do 6. marca [...] \\n\n\nhttps://www.sopk.sk/event/misia-slovenskych-firiem-na-veltrh-biemh-2026-v-bilbau/
 DTEND:20260306T225959Z
 DTSTART:20260303T230000Z
 SUMMARY:🟧 [SOPK] Misia slovenských firiem na veľtrh BIEMH 2026 v Bilbau
 UID:afebb6b6d2a52e79f660b617f7e2d4d1010e9385@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.12.2025 (resp. ten istý webinár sa koná aj 18.12.2025)  od 09:00 - 14:30 hod pozýva na webinár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
+DTEND:20251217T133000Z
+DTSTART:20251217T080000Z
+SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
+UID:7a7f41ed5bf72cc71d0ccbe6d509c91bc9ca0549@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1163,14 +1171,6 @@ LOCATION:Online
 DTSTART:20250522T070000Z
 SUMMARY:🟧 [SOPK] Inovačná polhodinka – Inovácie v energetike
 UID:3bd029f4b7cea1f4258d4ef23f2801ea5d723aa3@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK\,  v spolupráci s Relia s.r.o.  Vás pozýva na webinár Daň z finančných transakcií.   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a [...] \\n\n\nhttps://www.sopk.sk/event/dan-z-financnych-transakcii/
-DTEND:20250319T133000Z
-DTSTART:20250319T080000Z
-SUMMARY:🟧 [SOPK] Daň z finančných transakcií
-UID:99c4ae91de83387e238589496d971822e442dd3e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1337,6 +1337,14 @@ SUMMARY:🔵 [ITVALLEY] INNOPSIES – Prešov
 UID:91335bf5e251a3a86a6dc1c5f85b3b551eaf58c0@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250114
+CATEGORIES:AMCHAM
+DESCRIPTION:Press Conference organized by ManpowerGroup\n\nhttps://amcham.sk/events/3588/employment-outlook-survey
+LOCATION:Landererova 12\, Bratislava / Online via ZOOM
+SUMMARY:🟢 [AMCHAM] Employment Outlook Survey
+UID:b9410d98a9ea0d9ad2af074b17812f98bb3cc770@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Partneri siete Enterprise Europe Network pozývajú organizácie pôsobiace v oblasti gastronómie\, dodávateľov IT riešení a zariadení pre túto oblasť na online matchmaking HORECA - ENOEXPO 2025. Dátum konania: 05. – 20.11.2025 Miesto konania: online Registrácia otvorená do: 31.10.2025 Prihláška: Create an account [...] \\n\n\nhttps://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking/
 DTEND:20251120T150000Z
@@ -1344,14 +1352,6 @@ LOCATION:Online
 DTSTART:20251105T070000Z
 SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
 UID:aa28bdec7fd041e488abe00d17a76f8a440d2b14@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251027
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/27/dva-mesiace-noveho-skolskeho-roka-za-nami/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Dva mesiace nového školského roka za nami.
-UID:aa43a1b10d1f417e8df26092b7afed4e782bcde7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1621,7 +1621,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
 CATEGORIES:ICKK
-DESCRIPTION:Akceleračný program Sweet and Salty vyvrcholil 20. novembra v košickom Kulturparku veľkolepým...\n\nhttps://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-prekonal-ocakavania/
+DESCRIPTION:https://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-prekonal-ocakavania/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Finále Demo Day: Deň D pre startupy\, ktorý prekonal očakávania
 UID:b7cef24d14499bc62d1f6997edb1b789a87f3321@cike-events
@@ -1666,6 +1666,22 @@ DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného partn
 LOCATION:Hotel Mousson\, Michalovce
 SUMMARY:🔵 [ITVALLEY] INNOPSIES – Michalovce
 UID:462c9ef48d8036f1071b70650753a3e3000bd719@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251217
+CATEGORIES:ITVALLEY
+DESCRIPTION:Interaktívny workshop pre študentov technických odborov zameraný na generatívnu AI a digitálnu bezpečnosť. Účastníci sa zoznámia s AI nástrojmi\, kreatívnym využitím umelej inteligencie\, kybernetickými hrozbami a ochranou v online priestore.\n\nhttps://www.kosiceitvalley.sk/events/ai-digitalna-bezpecnost-prakticky-a-zrozumitelne/
+LOCATION:SOŠT Kukučínová
+SUMMARY:🔵 [ITVALLEY] AI & digitálna bezpečnosť – prakticky a zrozumiteľne
+UID:ba2a379ff9a0192e270b3f993b18d03c0502d950@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260129
+CATEGORIES:ITVALLEY
+DESCRIPTION:MedTech Day 2026 je odborná konferencia\, ktorá prepája medicínu\, technológie a inovácie. Spája zdravotníkov\, firmy\, startupy\, výskum a verejný sektor s cieľom rozvíjať moderné zdravotníctvo na východnom Slovensku.\n\nhttps://www.kosiceitvalley.sk/events/medtech-day-2026/
+LOCATION:UVP Technicom
+SUMMARY:🔵 [ITVALLEY] MedTech Day 2026
+UID:db9c23d2ee30d7d3d067830c42e808eea9848b5a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
