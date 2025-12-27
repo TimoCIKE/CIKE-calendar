@@ -498,14 +498,6 @@ SUMMARY:🟣 [ICKK] OWASmooth: Od víťaza akcelerátora až k investícii s val
 UID:c12b3dacbdce3f320254f56eb8b69c88aeba5c1f@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251215
-CATEGORIES:ICKK
-DESCRIPTION:Pilotný ročník medziuniverzitného startupového programu YESlab minulý týždeň vyvrcholil veľkým...\n\nhttps://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Pilotný ročník\, ktorý ukázal svoj potenciál. YESlab má za sebou veľké finále!
-UID:6f3fac7ed9d301f8b31cc5328c2c40d6ce76f9c4@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241107
 CATEGORIES:ITVALLEY
 DESCRIPTION:BUSINESS KOŠICE\, n.o.\, v spolupráci s Medzinárodnou organizáciou pre migráciu (IOM) a v partnerstve s klastrom Košice IT Valley vás srdečne pozýva na konferenciu „Magnetize Slovakia / Magnetize Košice – Zahraničné talenty na Slovensku a v regióne“\, ktorá sa uskutoční 7. novembra 2024 v UVP TECHNICOM\, Boženy Nemcovej 5\, Košice.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-slovakia-magnetize-kosice-zahranicny-talent-na-slovensku-a-v-regione/
@@ -1370,6 +1362,14 @@ SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
 UID:aa28bdec7fd041e488abe00d17a76f8a440d2b14@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251027
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/10/27/dva-mesiace-noveho-skolskeho-roka-za-nami/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Dva mesiace nového školského roka za nami.
+UID:aa43a1b10d1f417e8df26092b7afed4e782bcde7@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovensko – rakúska obchodná komora v spolupráci s regionálnymi komorami SOPK Trnava a Bratislava a ďalšími partnermi Vás pozývajú na podujatie Doing Business in Austria. Podujatie sa uskutoční 29.10.2025 o 9:30 [...] \\n\n\nhttps://www.sopk.sk/event/doing-business-in-austria-3/
 DTEND:20251029T110000Z
@@ -1637,7 +1637,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
 CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-prekonal-ocakavania/
+DESCRIPTION:Akceleračný program Sweet and Salty vyvrcholil 20. novembra v košickom Kulturparku veľkolepým...\n\nhttps://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-prekonal-ocakavania/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Finále Demo Day: Deň D pre startupy\, ktorý prekonal očakávania
 UID:b7cef24d14499bc62d1f6997edb1b789a87f3321@cike-events
