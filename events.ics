@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250225
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by Akčné ženy\n\nhttps://amcham.sk/events/3589/new-year-inspiration
-LOCATION:Kubis the Nook\, Bratislava
-SUMMARY:🟢 [AMCHAM] New Year Inspiration
-UID:237a7206086b94971ae8c619c5bf1f88fa397746@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3545/social-dialogue-that-works-law-tactics-practice
@@ -131,21 +123,20 @@ SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
 UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+CATEGORIES:AMCHAM
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3583/health-care-in-transformation-care-data-costs
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Health Care in Transformation: Care – Data – Costs
+UID:ce3f8c01d6ae57e83a5997bd1c879cf888574805@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250425
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3481/new-construction-law-its-impacts-on-pending-and-future-projects
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
 SUMMARY:🟢 [AMCHAM] New Construction Law & Its Impacts on Pending and Future Projects
 UID:6692931d58326b5a2d27b9035a07e53e55c42084@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
-DTEND:20250407T120000Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20250407T070000Z
-SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
-UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250227
@@ -162,6 +153,15 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3442/speed-bus
 LOCATION:Lindner Hotel Gallery Central\, Metodova 4\, Bratislava
 SUMMARY:🟢 [AMCHAM] Speed Business Meeting
 UID:a2372d86d772b1735126f6424c19537bae1533ec@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
+DTEND:20250407T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20250407T070000Z
+SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
+UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -203,14 +203,6 @@ DESCRIPTION:Climate Talks / Online Discussion\n\nhttps://amcham.sk/events/3540/l
 LOCATION:online
 SUMMARY:🟢 [AMCHAM] LIVE from NYC: Actions for a Sustainable Future
 UID:e5d8f1b6345d3cc312c0ca79997c99aed6b68285@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250423
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3586/5th-annual-restructuring-day
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] 5th Annual Restructuring Day
-UID:c8a920b6ba9027c49ebf911a12f457ca21a4d5a5@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
@@ -325,6 +317,14 @@ SUMMARY:🔵 [ITVALLEY] Ženy môžu byť čímkoľvek
 UID:4d27f32cc8677e0257e8eb2b3eb593671a594ad0@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260122
+CATEGORIES:AMCHAM
+DESCRIPTION:conference organized by SKDP (Slovenská komora daňových poradcov)\n\nhttps://amcham.sk/events/3578/expert-symposium-transfer-pricing-from-every-angle
+LOCATION:Comenius University in Bratislava\, Faculty of Law\, Šafárikovo nám. č. 6\, Bratislava
+SUMMARY:🟢 [AMCHAM] Expert Symposium: Transfer Pricing - From Every Angle
+UID:30ffe3b49960efdf6b48eed0e28bbe830e67ef91@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
 CATEGORIES:AMCHAM
 DESCRIPTION:13th year of a unique event intended especially for women who work in the business environment\n\nhttps://amcham.sk/events/3526/business-ladies-day
@@ -339,6 +339,14 @@ DTEND:20250827T150000Z
 DTSTART:20250827T060000Z
 SUMMARY:🟧 [SOPK] Meet4Business AGRA 2025
 UID:111cdb02f89fb7eb4a60ba8f9caca97ee7d83bf6@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20261127
+CATEGORIES:AMCHAM
+DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
+LOCATION:Bratislava Castle\, Bratislava
+SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
+UID:89bfcb6d3d8f0f9c64dd581b9822d1a3dcbd2e68@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
@@ -579,6 +587,14 @@ SUMMARY:🟧 [SOPK] Workshop: Transakčná daň na Slovensku: praktické pohľad
 UID:cd98e576a7d2afb8880934baac9d0e9e88eb0c67@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+CATEGORIES:AMCHAM
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3586/5th-annual-restructuring-day
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] 5th Annual Restructuring Day
+UID:651f4c420bc796ba37d131d23a7682d62478b50e@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251106
 CATEGORIES:ITVALLEY
 DESCRIPTION:Pozývame vás na Business Breakfast Innomeets: AI for Industry and Business (6. 11. 2025\, UVP Technicom Košice). Zistite\, ako AI zvyšuje efektivitu a konkurencieschopnosť firiem. Inšpirácie\, diskusia\, networking. Registrácia zdarma.\n\nhttps://www.kosiceitvalley.sk/events/business-breakfast-ai-for-industry-and-business/
@@ -593,6 +609,14 @@ DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3511/valaliky-industrial-par
 LOCATION:Valaliky Industrial Park\, Valaliky
 SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
 UID:b790abc63037b332d3b33f4746a80a2c348b7dc8@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260123
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3587/mental-stretching-for-hr
+LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Mental Stretching for HR
+UID:9532052f42472388e304b736ba3f0e190f679b95@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251113
@@ -641,14 +665,6 @@ DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých 
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
 SUMMARY:🔵 [ITVALLEY] Seminár Kybernetická bezpečnosť
 UID:8b87747acff5492c09c9d84f16495b318b5a3b45@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250303
-CATEGORIES:AMCHAM
-DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3583/health-care-in-transformation-care-data-costs
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Health Care in Transformation: Care – Data – Costs
-UID:64e9f5b116da6dbd77937e7d93ee63527296eb11@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
@@ -954,6 +970,14 @@ DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3476/new-construction-l
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] New Construction Law & Its Impacts on Pending and Future Projects
 UID:baba1edc0fb7edfe0537122c1a0dbcfda9924595@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260114
+CATEGORIES:AMCHAM
+DESCRIPTION:Press Conference organized by ManpowerGroup\n\nhttps://amcham.sk/events/3588/employment-outlook-survey
+LOCATION:Landererova 12\, Bratislava / Online via ZOOM
+SUMMARY:🟢 [AMCHAM] Employment Outlook Survey
+UID:80d6c475a968e1d5199e19d0e631612535dc48b5@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241023
@@ -1353,14 +1377,6 @@ SUMMARY:🔵 [ITVALLEY] INNOPSIES – Prešov
 UID:91335bf5e251a3a86a6dc1c5f85b3b551eaf58c0@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250114
-CATEGORIES:AMCHAM
-DESCRIPTION:Press Conference organized by ManpowerGroup\n\nhttps://amcham.sk/events/3588/employment-outlook-survey
-LOCATION:Landererova 12\, Bratislava / Online via ZOOM
-SUMMARY:🟢 [AMCHAM] Employment Outlook Survey
-UID:b9410d98a9ea0d9ad2af074b17812f98bb3cc770@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Partneri siete Enterprise Europe Network pozývajú organizácie pôsobiace v oblasti gastronómie\, dodávateľov IT riešení a zariadení pre túto oblasť na online matchmaking HORECA - ENOEXPO 2025. Dátum konania: 05. – 20.11.2025 Miesto konania: online Registrácia otvorená do: 31.10.2025 Prihláška: Create an account [...] \\n\n\nhttps://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking/
 DTEND:20251120T150000Z
@@ -1433,14 +1449,6 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3562/speed-bus
 LOCATION:Hotel Arcade\, Jána Cikkera 1
 SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Banská Bystrica
 UID:2d94c334dcd3bc468e523fba9ebfeb0e157ba286@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250123
-CATEGORIES:AMCHAM
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3587/mental-stretching-for-hr
-LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Mental Stretching for HR
-UID:20c1e999950a43cac5fee732c57224d82b01d148@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1547,19 +1555,20 @@ SUMMARY:🟢 [AMCHAM] AmCham BSCF 11th Annual Business Centers Conference
 UID:41e40a29cb749cb362ec91703762753be35d90ad@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260225
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Akčné ženy\n\nhttps://amcham.sk/events/3589/new-year-inspiration
+LOCATION:Kubis the Nook\, Bratislava
+SUMMARY:🟢 [AMCHAM] New Year Inspiration
+UID:0f4ab610d23eec31ac983fbed11252dcc3879380@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250211
 CATEGORIES:ITVALLEY
 DESCRIPTION:Komunita UX / Košice\, na ktorej spoluvytváraní sa podieľame\, organizuje svoj tradičný meetup s inšpiratívnymi prednáškami a networkingom s témou - UX pre občana\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-15-ux-pre-obcana/
 LOCATION:Fabrik Space Tabačka\, Košice
 SUMMARY:🔵 [ITVALLEY] UX / PIVO #15: UX pre občana
 UID:56b01498f426c21c881a887d98787b44da1a3b47@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250619
-CATEGORIES:AMCHAM
-DESCRIPTION:Be the first to hear about AmCham achievements and activities in 2024.\n\nhttps://amcham.sk/events/3490/general-assembly-2025
-SUMMARY:🟢 [AMCHAM] General Assembly 2025
-UID:b8c9ac514178cb9f2ae94f022af1f9bc2b96c2fc@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
@@ -1570,20 +1579,19 @@ SUMMARY:🔵 [ITVALLEY] 10th CASSINI Hackathon
 UID:91de6e32d5b73f114fb4cd5484d994f77a7b909c@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250619
+CATEGORIES:AMCHAM
+DESCRIPTION:Be the first to hear about AmCham achievements and activities in 2024.\n\nhttps://amcham.sk/events/3490/general-assembly-2025
+SUMMARY:🟢 [AMCHAM] General Assembly 2025
+UID:b8c9ac514178cb9f2ae94f022af1f9bc2b96c2fc@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250408
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3483/streamlining-justice-eu-electronic-evidence
 LOCATION:Jurkovičova Tepláreň (2nd floor) + online\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Streamlining Justice: EU Electronic Evidence
 UID:bb86bae93fbefe2eed08678ec18f6e13154b197b@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-CATEGORIES:AMCHAM
-DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
-LOCATION:Bratislava Castle\, Bratislava
-SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
-UID:ae15db7d1c0561bb5df4daa4e6a11b5958a4dc83@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1746,14 +1754,6 @@ DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-stayin
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] ESG in Transition: Staying Ahead in a Changing World
 UID:34fc3578df3468877c65f2662c6a8736a04ced0f@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250122
-CATEGORIES:AMCHAM
-DESCRIPTION:conference organized by SKDP (Slovenská komora daňových poradcov)\n\nhttps://amcham.sk/events/3578/expert-symposium-transfer-pricing-from-every-angle
-LOCATION:Comenius University in Bratislava\, Faculty of Law\, Šafárikovo nám. č. 6\, Bratislava
-SUMMARY:🟢 [AMCHAM] Expert Symposium: Transfer Pricing - From Every Angle
-UID:2eef28a710aaa0c84d51546a41fd9446c2f8f475@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
