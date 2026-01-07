@@ -506,6 +506,14 @@ SUMMARY:🟣 [ICKK] OWASmooth: Od víťaza akcelerátora až k investícii s val
 UID:c12b3dacbdce3f320254f56eb8b69c88aeba5c1f@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260204
+CATEGORIES:AMCHAM
+DESCRIPTION:1st Annual Expert Forum organized by Kinstellar\n\nhttps://amcham.sk/events/3590/unstoppable-transformation-how-to-be-a-leader-in-times-of-change
+LOCATION:Primaciálny palác\, Bratislava
+SUMMARY:🟢 [AMCHAM] Unstoppable Transformation – How to Be a Leader in Times of Change
+UID:f5c8abc75ed3eb6585cb8aabf062729418849c5e@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:ICKK
 DESCRIPTION:Pilotný ročník medziuniverzitného startupového programu YESlab minulý týždeň vyvrcholil veľkým...\n\nhttps://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
