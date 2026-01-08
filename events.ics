@@ -556,27 +556,11 @@ UID:efcb91138d53d16760ea917c043a3ef6c2ee20f2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Slovenská obchodná a priemyselná komora si Vás dovoľuje pozvať na obchodnú misiu do Španielska\, provincie La Rioja\, zameranú na vinársky sektor. Obchodná misia a bilaterálne rokovania s partnermi z celej Európy sa uskutočnia v [...] \\n\n\nhttps://www.sopk.sk/event/obchodna-misia-do-spanielska-zamerana-na-vinarsky-sektor-bezplatne-ubytovanie-a-doprava-pre-vybrane-firmy/
-DTEND:20260122T170000Z
-DTSTART:20260120T080000Z
-SUMMARY:🟧 [SOPK] Obchodná misia do Španielska zameraná na vinársky sektor &#8211\; bezplatné ubytovanie a doprava pre vybrané firmy
-UID:52c3c2447f31822703c8979b27f1225704ca1290@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Odborný webinár so zámerom vysvetliť všetky súvislosti nariadenia EP a Rady (EÚ) 2023/956 a vykonávacieho nariadenia Komisie (EÚ) 2023/1773 k mechanizmu uhlíkovej platby na hraniciach (CBAM)\, prevedieme Vás celým mechanizmom prechodného [...] \\n\n\nhttps://www.sopk.sk/event/webinar-uhlikove-clo-a-mechanizmus-cbam-carbon-border-adjustment-mechanism/
 DTEND:20260210T140000Z
 DTSTART:20260210T080000Z
 SUMMARY:🟧 [SOPK] Webinár: Uhlíkové clo a mechanizmus CBAM (Carbon Border Adjustment Mechanism)
 UID:113f6cf45aafa426d11d2e298eae6d963375f28b@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250122
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3434/healthy-employees-as-a-fundamental-pillar-of-companies-growth
-LOCATION:Lab28\, Mlynské nivy 5\, Bratislava
-SUMMARY:🟢 [AMCHAM] Healthy Employees as a Fundamental Pillar of Companies’ Growth
-UID:d51f610df28d5cea5b8426f8b7abd129bc5ef945@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -585,6 +569,14 @@ DTEND:20250410T215959Z
 DTSTART:20250407T220000Z
 SUMMARY:🟧 [SOPK] B2B konferencia – Brno Industry 4.0 week
 UID:5942a0b19dea21a3de58b613644762e31d04df3d@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20250122
+CATEGORIES:AMCHAM
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3434/healthy-employees-as-a-fundamental-pillar-of-companies-growth
+LOCATION:Lab28\, Mlynské nivy 5\, Bratislava
+SUMMARY:🟢 [AMCHAM] Healthy Employees as a Fundamental Pillar of Companies’ Growth
+UID:d51f610df28d5cea5b8426f8b7abd129bc5ef945@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
