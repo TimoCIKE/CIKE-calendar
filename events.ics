@@ -172,6 +172,14 @@ SUMMARY:🟧 [SOPK] webinár Dôchodky
 UID:3c3cd167871a4031db9913247de4c879aef181d7@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260224
+CATEGORIES:AMCHAM
+DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events/3592/mastering-the-temporary-residence-process-for-non-eu-hires
+LOCATION:Pro Relocation office\, Svätoplukova 31\, 821 09 Bratislava
+SUMMARY:🟢 [AMCHAM] Mastering the Temporary Residence Process for Non-EU Hires
+UID:4ef005d2570f524b46f30a47423bf4407e60861e@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 15.5.2025 od 09:00 - 14:30 hod pozýva na webinár DOHODY\, SEZÓNNA PRÁCA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dohody-sezonna-praca/
 DTEND:20250515T123000Z
@@ -412,6 +420,14 @@ DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3579/e-invoicing-in-
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
 SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia – From Law to Practice
 UID:c35ad9d762836b3ea04e4a31d1ee701734779583@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás pozýva na niekoľko webinárov (s termínom konania 23.1.2026\, 26.1.2026\, 30.1.2026\, 5.2.2026\, 12.2.2026\, alebo 26.2.2026) na tému Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok [...] \\n\n\nhttps://www.sopk.sk/event/rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
+DTEND:20260226T133000Z
+DTSTART:20260226T080000Z
+SUMMARY:🟧 [SOPK] Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
+UID:67cf2dfb5034395d0c9c0659a876c48cfbb50a30@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
@@ -1714,6 +1730,14 @@ DESCRIPTION:organized by the Association Chamber of Chambers (CHAMCHAM)\n\nhttps
 LOCATION:Sedín Golf Resort\, Veľké Úľany
 SUMMARY:🟢 [AMCHAM] Golftrophy 2025
 UID:b5ea345dc0701c12f1efd2593ccb4db6207889e4@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260127
+CATEGORIES:AMCHAM
+DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events/3591/introduction-to-slovak-immigration-processes
+LOCATION:Pro Relocation office\, Svätoplukova 31\, 821 09 Bratislava
+SUMMARY:🟢 [AMCHAM] Introduction to Slovak Immigration processes
+UID:6b34b53673da6c1fdfc5a6c4f352771e2bc6f1d6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
