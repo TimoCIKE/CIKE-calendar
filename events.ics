@@ -50,6 +50,14 @@ SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
 UID:c8a9743679ac553e543eb289d79aa1136282add2@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260326
+CATEGORIES:AMCHAM
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3593/energy-for-sustainable-business
+LOCATION:TBC\, Bratislava
+SUMMARY:🟢 [AMCHAM] Energy for Sustainable Business
+UID:d3a41702ab214dc7dfff6aefb58fc6ff59a93bec@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:ZMENA TERMÍNU! Bratislavská regionálna komora Slovenskej obchodnej a priemyselnej komory (SOPK) Vás pozýva na odborný seminár: Colné predpisy v praxi Dátum a čas: 26.11. (streda) 2025 v čase od 09.00 do [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-odborny-seminar-colne-predpisy-v-praxi/
 DTEND:20251126T150000Z
@@ -253,14 +261,6 @@ SUMMARY:🟧 [SOPK] webinár ZÁKON O SOCIÁLNOM POISTENÍ
 UID:5c5d8b71913326901b37583c3c5709a00b05ac7e@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webinár: Termíny: 16.\, 17. alebo 18. decembra 2025 9.\, 13.\, 14.\, 23.\, 26. alebo 30. januára 2026 5.\, 12. alebo 26. februára 2026 Program: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026-2/
-DTEND:20260109T133000Z
-DTSTART:20260109T080000Z
-SUMMARY:🟧 [SOPK] Webinár: ROČNÉ ZÚČTOVANIE ZA ROK 2025\, LEGISLATÍVNE ZMENY NA ROK 2026
-UID:3c23121acad75e83b98de06c17c28268c0412aaa@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3528/employment-of-marginalized-and-long-term-unemployed-groups
@@ -420,14 +420,6 @@ DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3579/e-invoicing-in-
 LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
 SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia – From Law to Practice
 UID:c35ad9d762836b3ea04e4a31d1ee701734779583@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás pozýva na niekoľko webinárov (s termínom konania 23.1.2026\, 26.1.2026\, 30.1.2026\, 5.2.2026\, 12.2.2026\, alebo 26.2.2026) na tému Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok [...] \\n\n\nhttps://www.sopk.sk/event/rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
-DTEND:20260226T133000Z
-DTSTART:20260226T080000Z
-SUMMARY:🟧 [SOPK] Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
-UID:67cf2dfb5034395d0c9c0659a876c48cfbb50a30@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
@@ -736,6 +728,14 @@ UID:b76b7001eb7a1602f76c6de4c4c79c946826987a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 12.01.2026 od 09:00 - 15:30 hod pozýva na seminár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026   Kód:  20260112 Miesto: Nitra 12.01.2026\, [...] \\n\n\nhttps://www.sopk.sk/event/seminar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
+DTEND:20260112T143000Z
+DTSTART:20260112T080000Z
+SUMMARY:🟧 [SOPK] seminár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
+UID:9ef1233902403054b6024e75a4d7c10749322224@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Centrum prosperity s.r.o. Vás pozývajú na seminár "Hlavné faktory úspešného riadenia firmy" Témy seminára: Moderné metódy riadenia firmy - alias - Ako vybudovať [...] \\n\n\nhttps://www.sopk.sk/event/hlavne-faktory-uspesneho-riadenia-firmy/
 DTEND:20250527T100000Z
 DTSTART:20250527T064500Z
@@ -855,6 +855,14 @@ LOCATION:Hotel Lindner\, Bratislava\, Metodova 4\, Bratislava
 DTSTART:20260127T090000Z
 SUMMARY:🟧 [SOPK] Konferencia Očakávaný vývoj slovenskej ekonomiky v roku 2026
 UID:847403bedd8b415fb556af81c1b490ea5abb63c7@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webinár: Termíny: 16.\, 17. alebo 18. decembra 2025 9.\, 13.\, 14.\, 23.\, 26. alebo 30. januára 2026 5.\, 12. alebo 26. februára 2026 Program: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026-2/
+DTEND:20260226T133000Z
+DTSTART:20260226T080000Z
+SUMMARY:🟧 [SOPK] Webinár: ROČNÉ ZÚČTOVANIE ZA ROK 2025\, LEGISLATÍVNE ZMENY NA ROK 2026
+UID:b2231b2e617d7ff920e4f4098989de0c283da824@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250522
@@ -1531,14 +1539,6 @@ SUMMARY:🟢 [AMCHAM] Transform Your Business - Sustainability Business Simulati
 UID:c8db44c0c5c3a56f78662490a835e6bf7e63ea85@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 12.01.2026 od 09:00 - 15:30 hod pozýva na seminár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026   Kód:  20260112 Miesto: Nitra 12.01.2026\, [...] \\n\n\nhttps://www.sopk.sk/event/seminar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
-DTEND:20260112T143000Z
-DTSTART:20260112T080000Z
-SUMMARY:🟧 [SOPK] Seminár – Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
-UID:14357bae2d0da82dcf199b211f1d650ac6271bfe@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250613
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3497/authentic-leadership-a-key-element-in-building-strong-future-ready-organizations
@@ -1754,6 +1754,14 @@ DTEND:20251002T200000Z
 DTSTART:20251001T060000Z
 SUMMARY:🟧 [SOPK] Marketplace Austria for Food &#038\; Beverages
 UID:1a3c5417731dbc419f6ee2f0ecdbfabb513e9ff6@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás pozýva na niekoľko webinárov (s termínom konania 23.1.2026\, 26.1.2026\, 30.1.2026\, 5.2.2026\, 12.2.2026\, alebo 26.2.2026) na tému Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok [...] \\n\n\nhttps://www.sopk.sk/event/rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026/
+DTEND:20260226T133000Z
+DTSTART:20260226T080000Z
+SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
+UID:9ed96a8a9fb6329339a415a205bceef16d41c6f9@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
