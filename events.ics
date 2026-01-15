@@ -221,6 +221,14 @@ SUMMARY:🟢 [AMCHAM] LIVE from NYC: Actions for a Sustainable Future
 UID:e5d8f1b6345d3cc312c0ca79997c99aed6b68285@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Program: BLOK I. Prehľad právnych predpisov odpadového hospodárstva – schválené a pripravované zmeny Prehľad dôležitých ustanovení zákona o odpadoch súvisiacich s evidenčnou povinnosťou Základné pojmy a povinnosti Zber a výkup odpadov Zariadenia na nakladanie s [...] \\n\n\nhttps://www.sopk.sk/event/zakon-o-odpadoch-evidencia-odpadov-a-podavanie-ohlaseni-v-odpadovom-hospodarstve-za-rok-2025/
+DTEND:20260211T130000Z
+DTSTART:20260211T080000Z
+SUMMARY:🟧 [SOPK] ZÁKON O ODPADOCH\, Evidencia odpadov a podávanie ohlásení v odpadovom hospodárstve za rok 2025
+UID:18bd9f9974ce1fead1471fd76290e8d63fd60555@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 CATEGORIES:ITVALLEY
 DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahraničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medzinárodných študentov\, prekážky na trhu práce a prepojenie vzdelávania s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-conference-2025/
@@ -1013,14 +1021,6 @@ SUMMARY:🟢 [AMCHAM] New Construction Law & Its Impacts on Pending and Future P
 UID:baba1edc0fb7edfe0537122c1a0dbcfda9924595@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260114
-CATEGORIES:AMCHAM
-DESCRIPTION:Press Conference organized by ManpowerGroup\n\nhttps://amcham.sk/events/3588/employment-outlook-survey
-LOCATION:Landererova 12\, Bratislava / Online via ZOOM
-SUMMARY:🟢 [AMCHAM] Employment Outlook Survey
-UID:80d6c475a968e1d5199e19d0e631612535dc48b5@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20241023
 CATEGORIES:ITVALLEY
 DESCRIPTION:Aj tento rok sa uskutoční najväčší festival pracovných príležitostí Profesia Days. Do Košíc prinesie kariérne poradenstvo\, pracovné ponuky a najnovšie trendy zo sveta práce.\n\nhttps://www.kosiceitvalley.sk/events/profesia-days-kosice-2024/
@@ -1633,6 +1633,14 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3483/streamlining-justice-eu-el
 LOCATION:Jurkovičova Tepláreň (2nd floor) + online\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Streamlining Justice: EU Electronic Evidence
 UID:bb86bae93fbefe2eed08678ec18f6e13154b197b@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Networkingový večer spojený s ochutnávkou kávy od Zlatého zrnka v UVP Technicom\, B. Němcovej 5\, Košice\, ktorý sa uskutoční v utorok [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-networkingovy-vecer-s-kosickou-rk-sopk/
+DTEND:20260127T180000Z
+DTSTART:20260127T153000Z
+SUMMARY:🟧 [SOPK] Pozvánka: Networkingový večer s Košickou RK SOPK
+UID:2f32001877a3ef6b1c360e23c16b497865076050@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
