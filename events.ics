@@ -1813,6 +1813,15 @@ SUMMARY:🟢 [AMCHAM] Speed Business Meeting
 UID:42d67072321dc3f0fad1ee191738e554be723267@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:P O Z V Á N K A   Vážený člen Trnavskej regionálnej komory SOPK\, radi by sme Vás informovali\, že 24. februára 2026 (utorok) o 10:00 hod. sa uskutoční Valné zhromaždenie [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-valne-zhromazdenie-trnavskej-rk-sopk-2026/
+DTEND:20260224T110000Z
+LOCATION:Hotel Impiq Trnava\, Trnava\, 91701
+DTSTART:20260224T090000Z
+SUMMARY:🟧 [SOPK] Pozvánka: Valné zhromaždenie Trnavskej RK SOPK 2026
+UID:781e872b5a323370f7efd201e5d315bc306489fe@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
 CATEGORIES:AMCHAM
 DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-staying-ahead-in-a-changing-world
