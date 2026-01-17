@@ -653,6 +653,14 @@ UID:fecddc71af6d4025e6037c01221840bdbfd3f0ca@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Pozývame Vás na neformálny klub SOPK so zakladateľom múzea moderného umenia DANUBIANA s pánom Vincentom Polakovičom Vincent Polakovič - galerista\, zakladateľ prvého súkromného múzea moderného umenia na Slovensku DANUBIANA - jedného [...] \\n\n\nhttps://www.sopk.sk/event/klub-zrk-sopk-so-zakladatelom-a-riaditelom-muzea-danubiana-vincentom-polakovicom/
+DTEND:20260129T150000Z
+DTSTART:20260129T130000Z
+SUMMARY:🟧 [SOPK] KLUB ŽRK SOPK SO ZAKLADATEĽOM A RIADITEĽOM MÚZEA DANUBIANA VINCENTOM POLAKOVIČOM
+UID:2139eca009f6c5f3f5b84ffcdbdc3165a3606843@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
 DTEND:20251014T160000Z
 DTSTART:20251014T140000Z
@@ -660,12 +668,12 @@ SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionáln
 UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/03/predstavenie-startupov-sweet-salty-vizi/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – VIZI
-UID:b8f1fe643abc0d407cde5e17e127d56c3cde51c7@cike-events
+DTSTART;VALUE=DATE:20260204
+CATEGORIES:AMCHAM
+DESCRIPTION:Workforce for What’s Next\, with Amrop Slovakia as expert guarantor\n\nhttps://amcham.sk/events/3596/hr-trends-2026-leadership-for-a-changing-industry
+LOCATION:Národný futbalový štadión\, Bratislava
+SUMMARY:🟢 [AMCHAM] HR Trends 2026 – Leadership for a Changing Industry
+UID:5558d18fd3806a4e301fcdd92b21ccf408d2e245@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250212
@@ -674,6 +682,14 @@ DESCRIPTION:organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps:/
 LOCATION:Falkensteiner Hotel Bratislava\, Pilárikova 7372\, Bratislava
 SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/11/03/predstavenie-startupov-sweet-salty-vizi/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – VIZI
+UID:b8f1fe643abc0d407cde5e17e127d56c3cde51c7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250131
@@ -1641,6 +1657,15 @@ DTEND:20260127T180000Z
 DTSTART:20260127T153000Z
 SUMMARY:🟧 [SOPK] Pozvánka: Networkingový večer s Košickou RK SOPK
 UID:2f32001877a3ef6b1c360e23c16b497865076050@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Zisťujeme predbežný záujem slovenských firiem o obchodnú misiu do Indonézie - Jakarta koncom roka 2026 (Q4). V spolupráci s veľvyslanectvami a partnerskými organizáciami pripravujeme program zahŕňajúci B2B rokovania\, návštevu obchodnej komory [...] \\n\n\nhttps://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbezny-zaujem-firiem/
+DTEND:20261231T160000Z
+LOCATION:Jakarta\, Indonézia
+DTSTART:20261001T060000Z
+SUMMARY:🟧 [SOPK] Obchodná misia do Indonézie: Zisťujeme predbežný záujem firiem
+UID:d3f9e9d6eed2ce090ca620a32ae2d7d3775cb051@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
