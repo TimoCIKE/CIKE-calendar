@@ -367,7 +367,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
 CATEGORIES:AMCHAM
-DESCRIPTION:Bloom into Competitiveness / 29th Edition\n\nhttps://amcham.sk/events/3522/thanksgiving-charity-gala-dinner
+DESCRIPTION:Bloom into Competitiveness / 29th Edition\n\nhttps://amcham.sk/events/3522/thanksgiving-charity-gala-dinner
 LOCATION:Bratislava Castle\, Bratislava
 SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
 UID:8145450c6453b682b527cf58dd6e89f36b99898c@cike-events
@@ -655,6 +655,7 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Pozývame Vás na neformálny klub SOPK so zakladateľom múzea moderného umenia DANUBIANA s pánom Vincentom Polakovičom Vincent Polakovič - galerista\, zakladateľ prvého súkromného múzea moderného umenia na Slovensku DANUBIANA - jedného [...] \\n\n\nhttps://www.sopk.sk/event/klub-zrk-sopk-so-zakladatelom-a-riaditelom-muzea-danubiana-vincentom-polakovicom/
 DTEND:20260129T150000Z
+LOCATION:ŽRK SOPK\, Hálkova 31\, Žilina\, 01001
 DTSTART:20260129T130000Z
 SUMMARY:🟧 [SOPK] KLUB ŽRK SOPK SO ZAKLADATEĽOM A RIADITEĽOM MÚZEA DANUBIANA VINCENTOM POLAKOVIČOM
 UID:2139eca009f6c5f3f5b84ffcdbdc3165a3606843@cike-events
@@ -954,6 +955,14 @@ DTEND:20250604T140000Z
 DTSTART:20250604T070000Z
 SUMMARY:🟧 [SOPK] Colné predpisy v praxi
 UID:5daa22b736aa4b24904ad3aa054aaaea87b11fc5@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260211
+CATEGORIES:AMCHAM
+DESCRIPTION:Tax Seminar organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps://amcham.sk/events/3597/changes-in-tax-legislation
+LOCATION:Crowne Plaza Bratislava\, Hodžovo námestie 2\, Bratislava
+SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
+UID:6c88c0b4d0cc56b8ca333a625625be2e6d9b44ea@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250604
@@ -1861,6 +1870,15 @@ DTEND:20251113T160000Z
 DTSTART:20251113T090000Z
 SUMMARY:🟧 [SOPK] Pozvánka na online seminár: Digitalizácia malých a stredných podnikov – ako na to v praxi?
 UID:f2193d9355da2427d2ec769c6bb3890f18e17c03@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Milí priatelia Sekcie kybernetickej bezpečnosti a digitalizácie Pozývame Vás na konferenciu Kybernetická bezpečnosť – výzva pre firmy a verejnú správu\, ktorej cieľom je podporiť zavádzanie bezpečných digitálnych riešení v malých a stredných [...] \\n\n\nhttps://www.sopk.sk/event/kyberneticka-bezpecnost-vyzva-pre-firmy-a-verejnu-spravu/
+DTEND:20260123T225959Z
+LOCATION:Hotel Sitno\, Vyhne\, Vyhne č. 103\, Vyhne\, 966 02
+DTSTART:20260121T230000Z
+SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť – výzva pre firmy a verejnú správu
+UID:820a1dded12dc82f311f9b10ec3948c38ecb50d1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250324
