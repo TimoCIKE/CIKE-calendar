@@ -91,6 +91,23 @@ UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov na prezenčný odborný seminár REŠTART OBCHODU 2026\, ktorý sa uskutoční 5.2.2026 v priestoroch Regionálneho centra v Trnave. Seminár povedie Soňa Sopóci\, držiteľka medzinárodného certifikátu procesného špecialistu a konzultanta [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-restart-obchodu-2026-ako-predavat-a-rast-aj-v-neistych-casoch/
+DTEND:20260205T120000Z
+LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
+DTSTART:20260205T090000Z
+SUMMARY:🟧 [SOPK] Odborný seminár: REŠTART OBCHODU 2026 &#8211\; Ako predávať a rásť aj v neistých časoch
+UID:2a3ca1931da4f828d9e962d2147d6f68d3d95bf2@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architektúry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefity/
+DTEND:20260206T160000Z
+DTSTART:20260203T070000Z
+SUMMARY:🟧 [SOPK] Medzinárodný veľtrh stavebníctva a architektúry BUDMA 2026 a benefity
+UID:77adaec1f3674151c16ed503d398d3e1d5d01f7a@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europe Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy/
 DTEND:20251028T130000Z
 LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
@@ -180,6 +197,15 @@ SUMMARY:🟧 [SOPK] webinár Dôchodky
 UID:3c3cd167871a4031db9913247de4c879aef181d7@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Veľvyslanectvom SR v Tirane\, pozývajú slovenské firmy na podnikateľskú misiu do Tirany\, ktorá sa bude konať v dňoch 11. – 13. mája 2026. Slovenské firmy budú mať príležitosť [...] \\n\n\nhttps://www.sopk.sk/event/misia-do-albanska/
+DTEND:20260513T215959Z
+LOCATION:Tirana (Albánsko)
+DTSTART:20260510T220000Z
+SUMMARY:🟧 [SOPK] Obchodná misia do Albánska
+UID:13c93b358654a0913d52916d3f5861671670144f@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260224
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events/3592/mastering-the-temporary-residence-process-for-non-eu-hires
@@ -243,14 +269,6 @@ DESCRIPTION:Topical Workshop\n\nhttps://amcham.sk/events/3541/building-and-or-us
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Building and/or Use of AI Systems for Medical Professionals
 UID:e173fcfe8a206342cd3b1996b343a34a7cbf9ebe@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Séria bezplatných odborných webinárov na rok 2026 je zameraná na aktuálne témy kybernetickej bezpečnosti\, umelej inteligencie a riadenia rizík. Webináre sa venujú praktickým aj legislatívnym aspektom bezpečného používania umelej inteligencie\, identifikácii [...] \\n\n\nhttps://www.sopk.sk/event/bezplatne-webinare-kompetencneho-a-certifikacneho-centra-kybernetickej-bezpecnosti-v-roku-2026/
-DTEND:20260120T140000Z
-DTSTART:20260120T130000Z
-SUMMARY:🟧 [SOPK] Bezplatné webináre Kompetenčného a certifikačného centra kybernetickej bezpečnosti v roku 2026
-UID:a592062ad57c9e9d355d608786adaa42157fb659@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250925
@@ -347,6 +365,15 @@ DESCRIPTION:13th year of a unique event intended especially for women who work i
 LOCATION:PenatiClub\, Agátová 33\, Bratislava
 SUMMARY:🟢 [AMCHAM] Business Ladies Day
 UID:06226358260a7a372b3eabdb12e80f6d76a07a7d@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešenia a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. februára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025/
+DTEND:20260205T225959Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20260204T230000Z
+SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
+UID:926cd1d4c2acce55daba81ee37e60670b042f378@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -537,6 +564,15 @@ DESCRIPTION:1st Annual Expert Forum organized by Kinstellar\n\nhttps://amcham.sk
 LOCATION:Primaciálny palác\, Bratislava
 SUMMARY:🟢 [AMCHAM] Unstoppable Transformation – How to Be a Leader in Times of Change
 UID:f5c8abc75ed3eb6585cb8aabf062729418849c5e@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Enterprise Europe Network Vás pozýva na matchmakingové podujatie SIRHA BUDAPEST 2026\, ktoré sa koná 3.-5. marca v Budapešti. S 26 000 odbornými návštevníkmi zo 44 krajín je SIRHA BUDAPEST najväčším obchodným fórom pre sektor potravinárstva [...] \\n\n\nhttps://www.sopk.sk/event/kooperacne-podujatie-sirha-budapest-2026/
+DTEND:20260305T160000Z
+LOCATION:Online/Budapašť
+DTSTART:20260303T070000Z
+SUMMARY:🟧 [SOPK] Kooperačné podujatie SIRHA BUDAPEST 2026
+UID:a020a76e58b6dec0526cfde4d6e0208df14c9ce0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
@@ -1247,8 +1283,9 @@ UID:bb8dc1e2c00db03438937d2823593dd7df332794@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:P O Z V Á N K A Vážený člen Košickej regionálnej komory SOPK Dovolíme si Vás informovať\, že dňa 18. februára 2026 (streda) o 10:00 hodine sa bude konať Valné [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-valne-zhromazdenie-kosickej-rk-sopk-2026/
-DTEND:20260218T130000Z
+DESCRIPTION:Vážený člen Slovenskej obchodnej a priemyselnej komory\, touto cestou si Vás dovoľujeme pozvať na Valné zhromaždenie Košickej regionálnej komory Slovenskej obchodnej a priemyselnej komory\, ktoré zvoláva v súlade so stanovami SOPK schválenými Zhromaždením delegátov [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-valne-zhromazdenie-kosickej-rk-sopk-2026/
+DTEND:20260218T120000Z
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20260218T090000Z
 SUMMARY:🟧 [SOPK] Pozvánka: Valné zhromaždenie Košickej RK SOPK 2026
 UID:5ed845c2f66d027889db4f7fcd75c695a448b805@cike-events
@@ -1663,6 +1700,7 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Networkingový večer spojený s ochutnávkou kávy od Zlatého zrnka v UVP Technicom\, B. Němcovej 5\, Košice\, ktorý sa uskutoční v utorok [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-networkingovy-vecer-s-kosickou-rk-sopk/
 DTEND:20260127T180000Z
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20260127T153000Z
 SUMMARY:🟧 [SOPK] Pozvánka: Networkingový večer s Košickou RK SOPK
 UID:2f32001877a3ef6b1c360e23c16b497865076050@cike-events
@@ -1845,6 +1883,15 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3538/speed-bus
 LOCATION:Clarion Congress Hotel Bratislava\, Žabotova 2\, Bratislava
 SUMMARY:🟢 [AMCHAM] Speed Business Meeting
 UID:42d67072321dc3f0fad1ee191738e554be723267@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Vstúpte do sveta objavov a inovácií\, ktoré formujú budúcnosť biomateriálovov. Trenčianska regionálna komora SOPK ako člen konzorcia GlaCerHub pozýva na Biomaterials Research Day medzinárodný vedecký webinár zameraný na oblasti: • najnovší [...] \\n\n\nhttps://www.sopk.sk/event/biomaterials-research-day/
+DTEND:20260209T225959Z
+LOCATION:Online MS Teams
+DTSTART:20260208T230000Z
+SUMMARY:🟧 [SOPK] Biomaterials Research Day
+UID:2400f0c6876c6c1b5abfbcba2113eea822163dbc@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
