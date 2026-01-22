@@ -200,7 +200,7 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Veľvyslanectvom SR v Tirane\, pozývajú slovenské firmy na podnikateľskú misiu do Tirany\, ktorá sa bude konať v dňoch 11. – 13. mája 2026. Slovenské firmy budú mať príležitosť [...] \\n\n\nhttps://www.sopk.sk/event/misia-do-albanska/
 DTEND:20260513T215959Z
-LOCATION:Tirana (Albánsko)
+LOCATION:Tirana
 DTSTART:20260510T220000Z
 SUMMARY:🟧 [SOPK] Obchodná misia do Albánska
 UID:13c93b358654a0913d52916d3f5861671670144f@cike-events
@@ -245,6 +245,13 @@ DESCRIPTION:Climate Talks / Online Discussion\n\nhttps://amcham.sk/events/3540/l
 LOCATION:online
 SUMMARY:🟢 [AMCHAM] LIVE from NYC: Actions for a Sustainable Future
 UID:e5d8f1b6345d3cc312c0ca79997c99aed6b68285@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+CATEGORIES:AMCHAM
+DESCRIPTION:Be the first to hear about AmCham achievements and activities in 2025.\n\nhttps://amcham.sk/events/3598/general-assembly-2026
+SUMMARY:🟢 [AMCHAM] General Assembly 2026
+UID:fe4951b18a106a47d6875f187b7934bc08fa9b61@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -523,14 +530,6 @@ LOCATION:Online
 DTSTART:20250505T090000Z
 SUMMARY:🟧 [SOPK] Webinár &#8211\; Kyberbezpečnosť: Digitálna forenzika v ére veľkých dát
 UID:c90b3994a3114c4f39512ed675fe97b5257273c9@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250121
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3433/dawn-of-the-new-space-age-in-slovakia-lets-talk-legal
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Dawn of the new Space Age in Slovakia! Let's talk legal.
-UID:6687c611883d9ebb8e9bde7cd21c98aa678c605a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250318
@@ -908,14 +907,6 @@ DTEND:20250930T123000Z
 DTSTART:20250930T070000Z
 SUMMARY:🟧 [SOPK] webinár Daňový bonus\, príspevok na rekreáciu a na športovú činnosť dieťaťa
 UID:44505d965ca7745ad14d0cd188a858646a81c683@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250121
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3435/future-employer
-LOCATION:Kasárne/Kulturpark\, Kukučínova 2\, Košice
-SUMMARY:🟢 [AMCHAM] Future Employer
-UID:5a3990f9af53426d1612112558fc79d69499aef7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
