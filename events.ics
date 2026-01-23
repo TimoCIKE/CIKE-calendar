@@ -295,6 +295,14 @@ UID:e14cc5af1cb77e3d5dd7122e98c48a52857622df@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK zvoláva členov na valné zhromaždenie Banskobystrickej regionálnej komory SOPK\, ktoré sa bude konať  dňa 9. marca 2026 so začiatkom o 13:00 hod. v Cikkerovej sieni historickej radnice [...] \\n\n\nhttps://www.sopk.sk/event/valne-zhromazdenie-clenov-banskobystrickej-regionalnej-komory-sopk-2/
+DTEND:20260309T120000Z
+DTSTART:20260309T120000Z
+SUMMARY:🟧 [SOPK] Valné zhromaždenie členov Banskobystrickej regionálnej komory SOPK
+UID:94397e46da4b4099a871ececf282b5363603927c@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás  23.4.2025 od 09:00 - 14:30  hod pozýva na webinár ZÁKON O SOCIÁLNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-socialnom-poisteni-2/
 DTEND:20250423T123000Z
 DTSTART:20250423T070000Z
@@ -335,6 +343,15 @@ UID:1b1ea0a84b563fd578558977ee5a41b0f08ce73b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:PRAKTICKÉ ASPEKTY COLNEJ PROBLEMATIKY V PODNIKATEĽSKEJ PRAXI Zvládnite clo efektívne a bezpečne! 6. február 2026 o 9:30 hod.\, Regionálne centrum Trnava Trnavská regionálna komora SOPK pozýva odbornú verejnosť na praktický seminár\, [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-colna-problematika-nielen-pre-logistiku/
+DTEND:20260206T143000Z
+LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
+DTSTART:20260206T083000Z
+SUMMARY:🟧 [SOPK] Odborný seminár: Colná problematika nielen pre logistiku
+UID:47696e7b7f3dff8894e5fd1c7d2e1d2f007e24ca@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Zákon významne znižuje administratívnu záťaž pre občanov\, stavebníkov\, podnikateľov\, developerov\, štát a stavebné úrady. Zjednodušuje celý proces povoľovania a realizácie stavieb\, od návrhu stavebného zámeru po kolaudáciu. Registrovať sa môžete TU [...] \\n\n\nhttps://www.sopk.sk/event/seminar-novy-stavebny-zakon-c-25-2025-z-z/
 DTEND:20250605T130000Z
 DTSTART:20250605T080000Z
@@ -358,12 +375,13 @@ SUMMARY:🔵 [ITVALLEY] Ženy môžu byť čímkoľvek
 UID:4d27f32cc8677e0257e8eb2b3eb593671a594ad0@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260122
-CATEGORIES:AMCHAM
-DESCRIPTION:conference organized by SKDP (Slovenská komora daňových poradcov)\n\nhttps://amcham.sk/events/3578/expert-symposium-transfer-pricing-from-every-angle
-LOCATION:Comenius University in Bratislava\, Faculty of Law\, Šafárikovo nám. č. 6\, Bratislava
-SUMMARY:🟢 [AMCHAM] Expert Symposium: Transfer Pricing - From Every Angle
-UID:30ffe3b49960efdf6b48eed0e28bbe830e67ef91@cike-events
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešenia a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. februára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025/
+DTEND:20260205T225959Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20260204T230000Z
+SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
+UID:926cd1d4c2acce55daba81ee37e60670b042f378@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251030
@@ -372,15 +390,6 @@ DESCRIPTION:13th year of a unique event intended especially for women who work i
 LOCATION:PenatiClub\, Agátová 33\, Bratislava
 SUMMARY:🟢 [AMCHAM] Business Ladies Day
 UID:06226358260a7a372b3eabdb12e80f6d76a07a7d@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešenia a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. februára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025/
-DTEND:20260205T225959Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20260204T230000Z
-SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
-UID:926cd1d4c2acce55daba81ee37e60670b042f378@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -471,6 +480,15 @@ LOCATION:Chamber of Commerce and Industry of Vas County\, Honvéd tér 2.\, Szom
 DTSTART:20260125T230000Z
 SUMMARY:🟧 [SOPK] SOPK organizuje obchodnú misiu do maďarského Szombathely
 UID:46c864345de76cf5879d03312017fd2306d8d0a2@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár Ochrana zdravia pri práci - nové legislatívne úpravy s účinnosťou v II.polroku 2026\, transpozícia smerníc EÚ ktorý sa bude konať  dňa 12. februára [...] \\n\n\nhttps://www.sopk.sk/event/ochrana-zdravia-pri-praci/
+DTEND:20260212T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20260212T090000Z
+SUMMARY:🟧 [SOPK] OCHRANA ZDRAVIA PRI PRÁCI
+UID:5fa805deb40c645f2ecda83965e955633a47fcd4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
@@ -631,14 +649,6 @@ SUMMARY:🟧 [SOPK] B2B konferencia – Brno Industry 4.0 week
 UID:5942a0b19dea21a3de58b613644762e31d04df3d@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250122
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3434/healthy-employees-as-a-fundamental-pillar-of-companies-growth
-LOCATION:Lab28\, Mlynské nivy 5\, Bratislava
-SUMMARY:🟢 [AMCHAM] Healthy Employees as a Fundamental Pillar of Companies’ Growth
-UID:d51f610df28d5cea5b8426f8b7abd129bc5ef945@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Pozvánka na workshop: Transakčná daň na Slovensku: praktické pohľady a dopady na biznis sféru Slovenská obchodná a priemyselná komora (SOPK) v spolupráci s AmCham Slovakia a PwC Slovensko. si Vás dovoľujú [...] \\n\n\nhttps://www.sopk.sk/event/workshop-transakcna-dan-na-slovensku-prakticke-pohlady-a-dopady-na-biznis-sferu/
 DTEND:20250428T090000Z
@@ -762,6 +772,15 @@ UID:2c422d881fcc991880ab870a13e68c32b6185f01@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Orientujeme sa v sankciách a odvetvových reštrikciách EÚ\, OSN a US OFAC. Je možný obchod s krajinami\, na ktoré sa vzťahujú cielené sankcie? 10. február 2026 o 10:00 hod.\, Regionálne centrum [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a-us-ofac/
+DTEND:20260210T140000Z
+LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
+DTSTART:20260210T090000Z
+SUMMARY:🟧 [SOPK] Odborný seminár: Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OSN a US OFAC
+UID:474f31efd0c6b3d2a8a1aee0b7d600ff1d26727d@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OSN a US OFAC“\, „Je možný obchod s krajinami\, kde platia odvetvové a cielené reštrikcie a sankcie?“  ktorý [...] \\n\n\nhttps://www.sopk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a-us-ofac/
 DTEND:20251111T225959Z
 LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
@@ -779,15 +798,6 @@ SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda z
 UID:d5723141c7abb865cc21aae927fc1c7be534b593@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-obnovitelne-zdroje-energie-a-znizovanie-energetickej-narocnosti-duplicate-1/
-DTEND:20250515T080000Z
-LOCATION:Online
-DTSTART:20250515T070000Z
-SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredných podnikov &#8211\; Náhradný termín 15.5.2025
-UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250429
 CATEGORIES:ITVALLEY
 DESCRIPTION:Vážení nadšenci projektového manažmentu!\n\nPartneri 2BCognitus\, DT IT Solutions Slovakia\, IPMA Slovakia\, IT Valley Košice a PMI Slovakia Chapter vás pozývajú na\n\n7. ročník Konferencie projektového manažmentu v Košiciach.\n\nhttps://www.kosiceitvalley.sk/events/konferencia-projektoveho-manazmentu/
@@ -802,6 +812,15 @@ DTEND:20260112T143000Z
 DTSTART:20260112T080000Z
 SUMMARY:🟧 [SOPK] seminár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
 UID:9ef1233902403054b6024e75a4d7c10749322224@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-obnovitelne-zdroje-energie-a-znizovanie-energetickej-narocnosti-duplicate-1/
+DTEND:20250515T080000Z
+LOCATION:Online
+DTSTART:20250515T070000Z
+SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredných podnikov &#8211\; Náhradný termín 15.5.2025
+UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -919,7 +938,7 @@ UID:847403bedd8b415fb556af81c1b490ea5abb63c7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webinár: Termíny: 16.\, 17. alebo 18. decembra 2025 9.\, 13.\, 14.\, 23.\, 26. alebo 30. januára 2026 5.\, 12. alebo 26. februára 2026 Program: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026-2/
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webinár: Termíny: 23.\, 26. alebo 30. januára 2026 5.\, 12. alebo 26. februára 2026 Program: 1. časť Ročné zúčtovanie za rok 2025: kto môže [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026-2/
 DTEND:20260226T133000Z
 DTSTART:20260226T080000Z
 SUMMARY:🟧 [SOPK] Webinár: ROČNÉ ZÚČTOVANIE ZA ROK 2025\, LEGISLATÍVNE ZMENY NA ROK 2026
