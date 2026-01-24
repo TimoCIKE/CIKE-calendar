@@ -67,19 +67,19 @@ UID:4fa26455faed895081136c7034c47525df6eb2ba@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vám v spolupráci s RELIA s.r.o. ponúka Balík webinárov – 15.4.\, 23.4.\, 29.4.2025   Trvanie webinára: 9:00 – cca 14:30\, v tom 2 – 3 prestávky podľa potreby. Prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/balik-webinarov-15-4-23-4-29-4-2025/
-DTEND:20250415T123000Z
-DTSTART:20250415T070000Z
-SUMMARY:🟧 [SOPK] Balík webinárov – 15.4.\, 23.4.\, 29.4.2025
-UID:b25292740d4949f91b61ea5673ded89eae15c113@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.5.2025 od 09:00 - 14:30 hod pozýva na webinár MZDA A DOVOLENKA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-mzda-a-dovolenka/
 DTEND:20250519T123000Z
 DTSTART:20250519T070000Z
 SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
 UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vám v spolupráci s RELIA s.r.o. ponúka Balík webinárov – 15.4.\, 23.4.\, 29.4.2025   Trvanie webinára: 9:00 – cca 14:30\, v tom 2 – 3 prestávky podľa potreby. Prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/balik-webinarov-15-4-23-4-29-4-2025/
+DTEND:20250415T123000Z
+DTSTART:20250415T070000Z
+SUMMARY:🟧 [SOPK] Balík webinárov – 15.4.\, 23.4.\, 29.4.2025
+UID:b25292740d4949f91b61ea5673ded89eae15c113@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251110
@@ -491,6 +491,14 @@ SUMMARY:🟧 [SOPK] OCHRANA ZDRAVIA PRI PRÁCI
 UID:5fa805deb40c645f2ecda83965e955633a47fcd4@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260213
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3599/executive-briefing-eu-cybersecurity-updates-for-decision-makers
+LOCATION:Jurkovičova Tepláreň (Second Floor|\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Executive Briefing: EU Cybersecurity Updates for Decision Makers
+UID:8d3c597580711e6650f11330630673990ec97f17@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
 CATEGORIES:ITVALLEY
 DESCRIPTION:AI PROMPT prepája nástroje umelej inteligencie s reálnou prácou efektívnym\, zrozumiteľným a bezpečným spôsobom. A práve týmto odštartujeme náš úplne prvý meetup.\n\nhttps://www.kosiceitvalley.sk/events/ai-a-marketing-spolupraca-alebo-konkurencia/
@@ -499,12 +507,12 @@ SUMMARY:🔵 [ITVALLEY] AI a marketing – spolupráca alebo konkurencia?
 UID:79f106ffc2451c8f288d1e7506383375647cd14f@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250123
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3436/investing-in-healthcare-and-biotech-in-slovakia-and-cee
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Investing in Healthcare and Biotech in Slovakia and CEE
-UID:d0de7ac717b762abaf12a96bcde98c15300a3856@cike-events
+CATEGORIES:SOPK
+DESCRIPTION:Pozývame Vás na B2B matchmakingové podujatie Contact-Contract 2025\, ktoré sa tradične koná na Medzinárodnom priemyselnom veľtrhu v Brne od 7. do 10. októbra 2025. Toto matchmakingové podujatie vám dáva jedinečnú príležitosť zvýšiť vašu [...] \\n\n\nhttps://www.sopk.sk/event/contact-contract-2025/
+DTEND:20251010T100000Z
+DTSTART:20251007T060000Z
+SUMMARY:🟧 [SOPK] Contact-Contract 2025
+UID:83d6c5fc18fba2f423613205165c2f0a62444f74@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -522,14 +530,6 @@ DESCRIPTION:https://amcham.sk/events/3499/ceo-competitiveness-business-cocktail
 LOCATION:Twin City Tower\, Business Lease Slovakia & Colliers (22nd floor)\, Mlynské nivy 10\, Bratislava
 SUMMARY:🟢 [AMCHAM] CEO Competitiveness Business Cocktail
 UID:87ae2fdfaca5ae5c47f182d7b200e0e98a0cedb8@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Pozývame Vás na B2B matchmakingové podujatie Contact-Contract 2025\, ktoré sa tradične koná na Medzinárodnom priemyselnom veľtrhu v Brne od 7. do 10. októbra 2025. Toto matchmakingové podujatie vám dáva jedinečnú príležitosť zvýšiť vašu [...] \\n\n\nhttps://www.sopk.sk/event/contact-contract-2025/
-DTEND:20251010T100000Z
-DTSTART:20251007T060000Z
-SUMMARY:🟧 [SOPK] Contact-Contract 2025
-UID:83d6c5fc18fba2f423613205165c2f0a62444f74@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1149,19 +1149,19 @@ UID:111ce0231b0850cb8dd9c36e56c34c1e92e72033@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.6.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a dve 10 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky/
-DTEND:20250619T123000Z
-DTSTART:20250619T070000Z
-SUMMARY:🟧 [SOPK] webinár Dôchodky
-UID:51671d980f1558f75800c321a8886ad369033594@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Pozvánka na webinár: Rešerš ochranných známok jednoducho dňa: 18.09.2025  o 10:00 - 11:00 hod. Témy: ● praktické informácie\, ako pracovať s databázami\, ● priestor opýtať sa experta na konkrétne otázky k téme [...] \\n\n\nhttps://www.sopk.sk/event/webinar-resers-ochrannych-znamok-jednoducho/
 DTEND:20250918T090000Z
 DTSTART:20250918T080000Z
 SUMMARY:🟧 [SOPK] Webinár: Rešerš ochranných známok jednoducho
 UID:dd9934d9d40f616ad35eb66289ae79fd8306a8ae@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.6.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a dve 10 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky/
+DTEND:20250619T123000Z
+DTSTART:20250619T070000Z
+SUMMARY:🟧 [SOPK] webinár Dôchodky
+UID:51671d980f1558f75800c321a8886ad369033594@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250516
@@ -1324,14 +1324,6 @@ LOCATION:Online
 DTSTART:20250522T070000Z
 SUMMARY:🟧 [SOPK] Inovačná polhodinka – Inovácie v energetike
 UID:3bd029f4b7cea1f4258d4ef23f2801ea5d723aa3@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK\,  v spolupráci s Relia s.r.o.  Vás pozýva na webinár Daň z finančných transakcií.   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a [...] \\n\n\nhttps://www.sopk.sk/event/dan-z-financnych-transakcii/
-DTEND:20250319T133000Z
-DTSTART:20250319T080000Z
-SUMMARY:🟧 [SOPK] Daň z finančných transakcií
-UID:99c4ae91de83387e238589496d971822e442dd3e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1780,6 +1772,14 @@ DESCRIPTION:https://ickk.sk/2025/12/02/finale-demo-day-den-d-pre-startupy-ktory-
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Finále Demo Day: Deň D pre startupy\, ktorý prekonal očakávania
 UID:b7cef24d14499bc62d1f6997edb1b789a87f3321@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260206
+CATEGORIES:AMCHAM
+DESCRIPTION:https://amcham.sk/events/3600/the-ceo-learning-circle
+LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] The CEO Learning Circle
+UID:2d1337e6754643766ec3b90dc2feefbafb19cde3@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250612
