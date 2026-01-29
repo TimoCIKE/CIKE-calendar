@@ -222,6 +222,14 @@ SUMMARY:🟢 [AMCHAM] Mastering the Temporary Residence Process for Non-EU Hires
 UID:4ef005d2570f524b46f30a47423bf4407e60861e@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260903
+CATEGORIES:AMCHAM
+DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3604/welcome-back-to-work
+LOCATION:Grand Hotel River Park\, a Luxury Collection Hotel\, Dvořákovo nábrežie 6\, Bratislava
+SUMMARY:🟢 [AMCHAM] Welcome Back To Work
+UID:4f0541319b7dba41ce653fcfcc4dc80a0bb61f9e@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 15.5.2025 od 09:00 - 14:30 hod pozýva na webinár DOHODY\, SEZÓNNA PRÁCA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dohody-sezonna-praca/
 DTEND:20250515T123000Z
@@ -582,6 +590,14 @@ SUMMARY:🟢 [AMCHAM] Unstoppable Transformation – How to Be a Leader in Times
 UID:f5c8abc75ed3eb6585cb8aabf062729418849c5e@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+CATEGORIES:AMCHAM
+DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3605/summer-innovation-business-cocktail
+LOCATION:MINT Pradiareň\, Svätoplukova 2A\, Bratislava
+SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
+UID:4ece062e55dfe7eab33556691763e82fe38c629e@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Enterprise Europe Network Vás pozýva na matchmakingové podujatie SIRHA BUDAPEST 2026\, ktoré sa koná 3.-5. marca v Budapešti. S 26 000 odbornými návštevníkmi zo 44 krajín je SIRHA BUDAPEST najväčším obchodným fórom pre sektor potravinárstva [...] \\n\n\nhttps://www.sopk.sk/event/kooperacne-podujatie-sirha-budapest-2026/
 DTEND:20260305T160000Z
@@ -593,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:ICKK
-DESCRIPTION:Pilotný ročník medziuniverzitného startupového programu YESlab minulý týždeň vyvrcholil veľkým...\n\nhttps://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
+DESCRIPTION:https://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Pilotný ročník\, ktorý ukázal svoj potenciál. YESlab má za sebou veľké finále!
 UID:6f3fac7ed9d301f8b31cc5328c2c40d6ce76f9c4@cike-events
@@ -728,14 +744,6 @@ SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/03/predstavenie-startupov-sweet-salty-vizi/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – VIZI
-UID:b8f1fe643abc0d407cde5e17e127d56c3cde51c7@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250131
 CATEGORIES:AMCHAM
 DESCRIPTION:https://amcham.sk/events/3448/construction-task-force-meeting
@@ -837,6 +845,14 @@ SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredný
 UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2026/01/26/startuje-druhy-rocnik-yeslab-ziskaj-podporu-az-5000-eur-a-premen-svoj-napad-v-skutocny-startup/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Štartuje druhý ročník YESLab\, získaj podporu až 5\,000 EUR a premeň svoj nápad v skutočný startup.
+UID:306c3803d9a42bc4096dad566c60671f0080d8bf@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Centrum prosperity s.r.o. Vás pozývajú na seminár "Hlavné faktory úspešného riadenia firmy" Témy seminára: Moderné metódy riadenia firmy - alias - Ako vybudovať [...] \\n\n\nhttps://www.sopk.sk/event/hlavne-faktory-uspesneho-riadenia-firmy/
 DTEND:20250527T100000Z
@@ -867,14 +883,6 @@ DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Prosper
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
 UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – TuuTap
-UID:bb3f0be30a08b08e8131367358c6113c0314bcc0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1396,13 +1404,12 @@ SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
 UID:c96b2bb41782fd2e2052438fb3e9ea2a7917382a@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-inovacie-v-energetike-duplicate-1/
-DTEND:20250616T080000Z
-LOCATION:Online
-DTSTART:20250616T070000Z
-SUMMARY:🟧 [SOPK] Inovačná polhodinka – Digitalizácia MSP
-UID:74af5c16e0f5457cbf66a6e6fe8177eda392639d@cike-events
+DTSTART;VALUE=DATE:20260611
+CATEGORIES:AMCHAM
+DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3606/summer-innovation-business-cocktail
+LOCATION:Botanical Garden UPJŠ\, Mánesova 1889/23
+SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
+UID:d665a49f3192f65b33208a87327eed587dc280f8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1412,6 +1419,15 @@ LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20251111T080000Z
 SUMMARY:🟧 [SOPK] Seminár: Intrastat a Colné konanie – EEN
 UID:5b7b900c106ae97577c58b5c51b2291d03021672@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-inovacie-v-energetike-duplicate-1/
+DTEND:20250616T080000Z
+LOCATION:Online
+DTSTART:20250616T070000Z
+SUMMARY:🟧 [SOPK] Inovačná polhodinka – Digitalizácia MSP
+UID:74af5c16e0f5457cbf66a6e6fe8177eda392639d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250409
@@ -1535,6 +1551,14 @@ LOCATION:Online
 DTSTART:20251105T070000Z
 SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
 UID:aa28bdec7fd041e488abe00d17a76f8a440d2b14@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+CATEGORIES:ICKK
+DESCRIPTION:Máš inovatívny nápad\, funkčný prototyp a pocit\, že tvoj startup má na viac než len lokálny trh?...\n\nhttps://ickk.sk/2026/01/26/zazi-rok-ktory-zmeni-vsetko-startup-connect-2-0-otvara-dvere-do-new-yorku-aj-k-investorom/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Zaži rok\, ktorý zmení všetko: Startup Connect 2.0 otvára dvere do New Yorku aj k investorom
+UID:a852eb7a757f1f1213f897d0eb7724d93693fd67@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
