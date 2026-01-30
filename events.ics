@@ -609,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
+DESCRIPTION:Pilotný ročník medziuniverzitného startupového programu YESlab minulý týždeň vyvrcholil veľkým...\n\nhttps://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Pilotný ročník\, ktorý ukázal svoj potenciál. YESlab má za sebou veľké finále!
 UID:6f3fac7ed9d301f8b31cc5328c2c40d6ce76f9c4@cike-events
@@ -744,6 +744,14 @@ SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251103
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/11/03/predstavenie-startupov-sweet-salty-vizi/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – VIZI
+UID:b8f1fe643abc0d407cde5e17e127d56c3cde51c7@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250131
 CATEGORIES:AMCHAM
 DESCRIPTION:https://amcham.sk/events/3448/construction-task-force-meeting
@@ -845,14 +853,6 @@ SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredný
 UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260126
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2026/01/26/startuje-druhy-rocnik-yeslab-ziskaj-podporu-az-5000-eur-a-premen-svoj-napad-v-skutocny-startup/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Štartuje druhý ročník YESLab\, získaj podporu až 5\,000 EUR a premeň svoj nápad v skutočný startup.
-UID:306c3803d9a42bc4096dad566c60671f0080d8bf@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Centrum prosperity s.r.o. Vás pozývajú na seminár "Hlavné faktory úspešného riadenia firmy" Témy seminára: Moderné metódy riadenia firmy - alias - Ako vybudovať [...] \\n\n\nhttps://www.sopk.sk/event/hlavne-faktory-uspesneho-riadenia-firmy/
 DTEND:20250527T100000Z
@@ -883,6 +883,14 @@ DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Prosper
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
 UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251030
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – TuuTap
+UID:bb3f0be30a08b08e8131367358c6113c0314bcc0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1544,6 +1552,14 @@ SUMMARY:🔵 [ITVALLEY] INNOPSIES – Prešov
 UID:91335bf5e251a3a86a6dc1c5f85b3b551eaf58c0@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260227
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by PwC\n\nhttps://amcham.sk/events/3608/workshop-nis2-step-by-step-risk-analysis
+LOCATION:Twin City Business Centre A\, Karadžičova 2\, Bratislava
+SUMMARY:🟢 [AMCHAM] Workshop: NIS2 – Step-by-step Risk Analysis
+UID:d1899327ae72ad3ab47bdf0e313a2d4f58fcb279@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Partneri siete Enterprise Europe Network pozývajú organizácie pôsobiace v oblasti gastronómie\, dodávateľov IT riešení a zariadení pre túto oblasť na online matchmaking HORECA - ENOEXPO 2025. Dátum konania: 05. – 20.11.2025 Miesto konania: online Registrácia otvorená do: 31.10.2025 Prihláška: Create an account [...] \\n\n\nhttps://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking/
 DTEND:20251120T150000Z
@@ -1551,14 +1567,6 @@ LOCATION:Online
 DTSTART:20251105T070000Z
 SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
 UID:aa28bdec7fd041e488abe00d17a76f8a440d2b14@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260126
-CATEGORIES:ICKK
-DESCRIPTION:Máš inovatívny nápad\, funkčný prototyp a pocit\, že tvoj startup má na viac než len lokálny trh?...\n\nhttps://ickk.sk/2026/01/26/zazi-rok-ktory-zmeni-vsetko-startup-connect-2-0-otvara-dvere-do-new-yorku-aj-k-investorom/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Zaži rok\, ktorý zmení všetko: Startup Connect 2.0 otvára dvere do New Yorku aj k investorom
-UID:a852eb7a757f1f1213f897d0eb7724d93693fd67@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
