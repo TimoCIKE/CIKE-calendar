@@ -609,7 +609,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251215
 CATEGORIES:ICKK
-DESCRIPTION:Pilotný ročník medziuniverzitného startupového programu YESlab minulý týždeň vyvrcholil veľkým...\n\nhttps://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
+DESCRIPTION:https://ickk.sk/2025/12/15/pilotny-rocnik-ktory-ukazal-svoj-potencial-yeslab-ma-za-sebou-velke-finale/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Pilotný ročník\, ktorý ukázal svoj potenciál. YESlab má za sebou veľké finále!
 UID:6f3fac7ed9d301f8b31cc5328c2c40d6ce76f9c4@cike-events
@@ -744,14 +744,6 @@ SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251103
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/03/predstavenie-startupov-sweet-salty-vizi/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – VIZI
-UID:b8f1fe643abc0d407cde5e17e127d56c3cde51c7@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250131
 CATEGORIES:AMCHAM
 DESCRIPTION:https://amcham.sk/events/3448/construction-task-force-meeting
@@ -853,6 +845,14 @@ SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredný
 UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2026/01/26/startuje-druhy-rocnik-yeslab-ziskaj-podporu-az-5000-eur-a-premen-svoj-napad-v-skutocny-startup/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Štartuje druhý ročník YESLab\, získaj podporu až 5\,000 EUR a premeň svoj nápad v skutočný startup.
+UID:306c3803d9a42bc4096dad566c60671f0080d8bf@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Centrum prosperity s.r.o. Vás pozývajú na seminár "Hlavné faktory úspešného riadenia firmy" Témy seminára: Moderné metódy riadenia firmy - alias - Ako vybudovať [...] \\n\n\nhttps://www.sopk.sk/event/hlavne-faktory-uspesneho-riadenia-firmy/
 DTEND:20250527T100000Z
@@ -883,14 +883,6 @@ DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Prosper
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
 UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251030
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/10/30/predstavenie-startupov-sweet-salty-tuutap/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Predstavenie startupov Sweet & Salty – TuuTap
-UID:bb3f0be30a08b08e8131367358c6113c0314bcc0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1070,6 +1062,14 @@ DTEND:20251120T133000Z
 DTSTART:20251120T083000Z
 SUMMARY:🟧 [SOPK] Pozývame Vás na záverečnú konferenciu projektu EAGLE (v anglickom jazyku)
 UID:bfa8106eead11d647960d0634df05fd58fe7d3e8@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci s ChamCham - neformálne združenie zmiešaných obchodných komôr (Slovensko-rakúska obchodná komora\, Taliansko – Slovenská obchodná komora\, Holandská obchodná komora v Slovenskej republike\, Slovensko-nemecká obchodná a [...] \\n\n\nhttps://www.sopk.sk/event/speed-business-meeting-9-2-2026-v-hoteli-lindner-o-1600/
+DTEND:20260206T160000Z
+DTSTART:20260130T070000Z
+SUMMARY:🟧 [SOPK] Speed Business Meeting 9.2.2026 v hoteli Lindner o 16:00
+UID:cafa4c6eef1b1aaa1afe6181e5fad34a4874a51b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
@@ -1569,6 +1569,14 @@ SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
 UID:aa28bdec7fd041e488abe00d17a76f8a440d2b14@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260126
+CATEGORIES:ICKK
+DESCRIPTION:Máš inovatívny nápad\, funkčný prototyp a pocit\, že tvoj startup má na viac než len lokálny trh?...\n\nhttps://ickk.sk/2026/01/26/zazi-rok-ktory-zmeni-vsetko-startup-connect-2-0-otvara-dvere-do-new-yorku-aj-k-investorom/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Zaži rok\, ktorý zmení všetko: Startup Connect 2.0 otvára dvere do New Yorku aj k investorom
+UID:a852eb7a757f1f1213f897d0eb7724d93693fd67@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovensko – rakúska obchodná komora v spolupráci s regionálnymi komorami SOPK Trnava a Bratislava a ďalšími partnermi Vás pozývajú na podujatie Doing Business in Austria. Podujatie sa uskutoční 29.10.2025 o 9:30 [...] \\n\n\nhttps://www.sopk.sk/event/doing-business-in-austria-3/
 DTEND:20251029T110000Z
@@ -1773,7 +1781,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Zisťujeme predbežný záujem slovenských firiem o obchodnú misiu do Indonézie - Jakarta koncom roka 2026 (Q4). V spolupráci s veľvyslanectvami a partnerskými organizáciami pripravujeme program zahŕňajúci B2B rokovania\, návštevu obchodnej komory [...] \\n\n\nhttps://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbezny-zaujem-firiem/
 DTEND:20261231T160000Z
-LOCATION:Jakarta\, Indonézia
 DTSTART:20261001T060000Z
 SUMMARY:🟧 [SOPK] Obchodná misia do Indonézie: Zisťujeme predbežný záujem firiem
 UID:d3f9e9d6eed2ce090ca620a32ae2d7d3775cb051@cike-events
