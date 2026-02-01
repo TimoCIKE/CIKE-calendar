@@ -744,14 +744,6 @@ SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250131
-CATEGORIES:AMCHAM
-DESCRIPTION:https://amcham.sk/events/3448/construction-task-force-meeting
-LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Construction Task Force Meeting
-UID:94d6465d7ef25ab44f68e6f294e899224d2e3265@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
 CATEGORIES:ITVALLEY
 DESCRIPTION:Zborovňa – konferencia pre STEM pedagógov sa uskutoční 19. 2. 2026 v UVP Technicom Košice (9:00–15:30). Bezplatné podujatie ponúkne keynote o AI a inováciách vo vzdelávaní aj praktické workshopy využiteľné priamo vo výučbe.\n\nhttps://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pedagogov/
