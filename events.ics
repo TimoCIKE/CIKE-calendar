@@ -34,14 +34,6 @@ SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia – From Law to Practice
 UID:099786e635e232b3e0440d5823bb815ad72d4a0f@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných strojov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuvníckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia a s členskou firmou BOZPO\, s.r.o. [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-incoboz/
-DTEND:20250530T215959Z
-DTSTART:20250527T220000Z
-SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2025
-UID:e8ecc18b0b0cb8c32282e9b6e8b33b152a960bf7@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250213
 CATEGORIES:ITVALLEY
 DESCRIPTION:Už tretíkrát vás srdečne pozývame na konferenciu Zborovňa\, zameranú na rozvoj pedagógov prírodovedných predmetov (science\, technology\, engineering\, mathematics) z košického a prešovského regiónu.\n\nhttps://www.kosiceitvalley.sk/events/zborovna-2025-konferencia-pre-stem-pedagogov/
@@ -721,11 +713,11 @@ UID:fecddc71af6d4025e6037c01221840bdbfd3f0ca@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
-DTEND:20251014T160000Z
-DTSTART:20251014T140000Z
-SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionálnej – komory SOPK v UVP Technicom
-UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
+DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci s ChamCham - neformálne združenie zmiešaných obchodných komôr (Slovensko-rakúska obchodná komora\, Taliansko – Slovenská obchodná komora\, Holandská obchodná komora v Slovenskej republike\, Slovensko-nemecká obchodná a [...] \\n\n\nhttps://www.sopk.sk/event/speed-business-meeting-9-2-2026-v-hoteli-lindner-o-1600/
+DTEND:20260206T160000Z
+DTSTART:20260130T070000Z
+SUMMARY:🟧 [SOPK] Speed Business Meeting 9.2.2026 v hoteli Lindner o 16:00\, Bratislava
+UID:0e36c02d68c9dcf62b2eecb82bc1ea37aa1bb2b6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260204
@@ -742,6 +734,14 @@ DESCRIPTION:organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps:/
 LOCATION:Falkensteiner Hotel Bratislava\, Pilárikova 7372\, Bratislava
 SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
+DTEND:20251014T160000Z
+DTSTART:20251014T140000Z
+SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionálnej – komory SOPK v UVP Technicom
+UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
@@ -1057,11 +1057,12 @@ UID:bfa8106eead11d647960d0634df05fd58fe7d3e8@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci s ChamCham - neformálne združenie zmiešaných obchodných komôr (Slovensko-rakúska obchodná komora\, Taliansko – Slovenská obchodná komora\, Holandská obchodná komora v Slovenskej republike\, Slovensko-nemecká obchodná a [...] \\n\n\nhttps://www.sopk.sk/event/speed-business-meeting-9-2-2026-v-hoteli-lindner-o-1600/
-DTEND:20260206T160000Z
-DTSTART:20260130T070000Z
-SUMMARY:🟧 [SOPK] Speed Business Meeting 9.2.2026 v hoteli Lindner o 16:00
-UID:cafa4c6eef1b1aaa1afe6181e5fad34a4874a51b@cike-events
+DESCRIPTION:P O Z V Á N K A ZMENA ČASU!!!   Vážený člen Trnavskej regionálnej komory SOPK\, radi by sme Vás informovali\, že 24. februára 2026 (utorok) o 14:30 hod. sa [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-valne-zhromazdenie-trnavskej-rk-sopk-2026/
+DTEND:20260224T153000Z
+LOCATION:Hotel Impiq Trnava\, Trnava\, 91701
+DTSTART:20260224T133000Z
+SUMMARY:🟧 [SOPK] Pozvánka: Valné zhromaždenie Trnavskej RK SOPK 2026
+UID:067027a1e09a9c40eebd4132a5099dae3594c30f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260205
@@ -1282,12 +1283,12 @@ SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatívne zm
 UID:7a7f41ed5bf72cc71d0ccbe6d509c91bc9ca0549@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260203
-CATEGORIES:AMCHAM
-DESCRIPTION:Live Zoom Session\n\nhttps://amcham.sk/events/3603/lead-from-the-inside-out-leadership-for-a-better-slovakia
-LOCATION:online\, zoom
-SUMMARY:🟢 [AMCHAM] Lead from the Inside Out – Leadership for a Better Slovakia
-UID:5ec1ecb0098c78a60fa3645af1d7d6050efe5173@cike-events
+CATEGORIES:SOPK
+DESCRIPTION:Pozývame Vás na konferenciu Digitalizácia a nové trendy v priemysle a vzdelávaní\, ktorej cieľom je podporiť zavádzanie digitalizačných riešení pre malé a stredné podniky. Zároveň sa venuje problematike vzdelávania\, ktoré proces [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-a-workshopy-digitalizacia-a-nove-trendy-v-priemysle-a-vzdelavani/
+DTEND:20250927T215959Z
+DTSTART:20250925T220000Z
+SUMMARY:🟧 [SOPK] Konferencia: Digitalizácia a nové trendy v priemysle a vzdelávaní
+UID:dd724d5c010b1621a7bd95a2534842d745f56ef2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250226
@@ -1299,19 +1300,19 @@ UID:48605ac109af52b6f41b85d6c3ef8554b0066c8b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozývame Vás na konferenciu Digitalizácia a nové trendy v priemysle a vzdelávaní\, ktorej cieľom je podporiť zavádzanie digitalizačných riešení pre malé a stredné podniky. Zároveň sa venuje problematike vzdelávania\, ktoré proces [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-a-workshopy-digitalizacia-a-nove-trendy-v-priemysle-a-vzdelavani/
-DTEND:20250927T215959Z
-DTSTART:20250925T220000Z
-SUMMARY:🟧 [SOPK] Konferencia: Digitalizácia a nové trendy v priemysle a vzdelávaní
-UID:dd724d5c010b1621a7bd95a2534842d745f56ef2@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Regionálna súťaž sa mení na celoslovenskú! „Zelený Merkúr“ rozširuje svoju pôsobnosť z banskobystrického regiónu na celé Slovensko. » Rozvíjate svoje podnikateľské aktivity v súlade s prírodou a cieľmi udržateľného rozvoja? » [...] \\n\n\nhttps://www.sopk.sk/event/5-rocnik-sutaze-o-cenu-za-dodrziavanie-principov-obehoveho-hospodarstva-zeleny-merkur/
 DTEND:20251010T215959Z
 DTSTART:20251009T220000Z
 SUMMARY:🟧 [SOPK] 5. ročník súťaže o cenu za dodržiavanie princípov obehového hospodárstva „Zelený Merkúr“
 UID:fc36fb6dfa7ff513cb6d92ea41822cbe254a8c9c@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných strojov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuvníckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia a s členskou firmou BOZPO\, s.r.o. [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-incoboz/
+DTEND:20250530T215959Z
+DTSTART:20250527T220000Z
+SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2025
+UID:e8ecc18b0b0cb8c32282e9b6e8b33b152a960bf7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
@@ -1586,12 +1587,29 @@ SUMMARY:🟧 [SOPK] Co-Matching Virtual B2B Event 2025
 UID:f10e7bb85e2343f5188dd3938de431f6e5a854b3@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260203
+CATEGORIES:AMCHAM
+DESCRIPTION:Live Zoom Session\n\nhttps://amcham.sk/events/3603/lead-from-the-inside-out-unique-opportunity-exclusive-speaker
+LOCATION:online\, zoom
+SUMMARY:🟢 [AMCHAM] Lead from the Inside Out – Unique Opportunity Exclusive Speaker
+UID:20922216d4c1ef70f2f5c751dcda64f1cdaf468f@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 15.4.2025 od 09:00 - 14:30 hod pozýva na webinár DAŇ Z PRÍJMOV\, ZÁVISLÁ ČINNOSŤ Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dan-z-prijmov-zavisla-cinnost-2/
 DTEND:20250415T123000Z
 DTSTART:20250415T070000Z
 SUMMARY:🟧 [SOPK] webinár DAŇ Z PRÍJMOV\, ZÁVISLÁ ČINNOSŤ
 UID:7df0af33c2e29d4277cf3ceb86fd2dfc318c622b@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľskú verejnosť na prezenčný odborný seminár „INCOTERMS 2020: Nové pravidlá – staré problémy“\, ktorý sa uskutoční 3. marca 2026 o 10.00 hod. v Regionálnom centre Trnava [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-incoterms-2020-nove-pravidla-stare-problemy/
+DTEND:20260303T130000Z
+LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
+DTSTART:20260303T090000Z
+SUMMARY:🟧 [SOPK] Odborný seminár: INCOTERMS 2020: Nové pravidlá &#8211\; staré problémy
+UID:df7753956d648caad09a80ae973c471158c634d2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250904
@@ -1965,15 +1983,6 @@ SUMMARY:🟧 [SOPK] Biomaterials Research Day
 UID:2400f0c6876c6c1b5abfbcba2113eea822163dbc@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:P O Z V Á N K A   Vážený člen Trnavskej regionálnej komory SOPK\, radi by sme Vás informovali\, že 24. februára 2026 (utorok) o 10:00 hod. sa uskutoční Valné zhromaždenie [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-valne-zhromazdenie-trnavskej-rk-sopk-2026/
-DTEND:20260224T110000Z
-LOCATION:Hotel Impiq Trnava\, Trnava\, 91701
-DTSTART:20260224T090000Z
-SUMMARY:🟧 [SOPK] Pozvánka: Valné zhromaždenie Trnavskej RK SOPK 2026
-UID:781e872b5a323370f7efd201e5d315bc306489fe@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
 CATEGORIES:AMCHAM
 DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-staying-ahead-in-a-changing-world
@@ -1993,7 +2002,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Milí priatelia Sekcie kybernetickej bezpečnosti a digitalizácie Pozývame Vás na konferenciu Kybernetická bezpečnosť – výzva pre firmy a verejnú správu\, ktorej cieľom je podporiť zavádzanie bezpečných digitálnych riešení v malých a stredných [...] \\n\n\nhttps://www.sopk.sk/event/kyberneticka-bezpecnost-vyzva-pre-firmy-a-verejnu-spravu/
 DTEND:20260123T225959Z
-LOCATION:Hotel Sitno\, Vyhne\, Vyhne č. 103\, Vyhne\, 966 02
 DTSTART:20260121T230000Z
 SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť – výzva pre firmy a verejnú správu
 UID:820a1dded12dc82f311f9b10ec3948c38ecb50d1@cike-events
