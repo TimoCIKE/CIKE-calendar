@@ -93,7 +93,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov na prezenčný odborný seminár REŠTART OBCHODU 2026\, ktorý sa uskutoční 5.2.2026 v priestoroch Regionálneho centra v Trnave. Seminár povedie Soňa Sopóci\, držiteľka medzinárodného certifikátu procesného špecialistu a konzultanta [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-restart-obchodu-2026-ako-predavat-a-rast-aj-v-neistych-casoch/
 DTEND:20260205T120000Z
-LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
 DTSTART:20260205T090000Z
 SUMMARY:🟧 [SOPK] Odborný seminár: REŠTART OBCHODU 2026 &#8211\; Ako predávať a rásť aj v neistých časoch
 UID:2a3ca1931da4f828d9e962d2147d6f68d3d95bf2@cike-events
@@ -187,6 +186,15 @@ LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
 DTSTART:20250407T070000Z
 SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
 UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na seminár určený pre: riaditeľov\, resp. zástupcov SOŠ – členov Sekcie ODCV pri SOPK a pre ďalších záujemcov. Program:  11:00 - 13:00     (prezencia od 10.30)  Otvorenie [...] \\n\n\nhttps://www.sopk.sk/event/legislativne-zmeny-v-odbornom-vzdelavani-novela-zakona-o-odbornom-vzdelavani-a-priprave/
+DTEND:20260219T120000Z
+LOCATION:Žilinská RK\, Žilina\, Hálkova 31\, Žilina\, 01001
+DTSTART:20260219T100000Z
+SUMMARY:🟧 [SOPK] LEGISLATÍVNE ZMENY V ODBORNOM VZDELÁVANÍ &#8211\; NOVELA ZÁKONA O ODBORNOM VZDELÁVANÍ A PRÍPRAVE
+UID:04f5a82e2a123129ce452d0c67cbcc1829717d80@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -353,7 +361,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:PRAKTICKÉ ASPEKTY COLNEJ PROBLEMATIKY V PODNIKATEĽSKEJ PRAXI Zvládnite clo efektívne a bezpečne! 6. február 2026 o 9:30 hod.\, Regionálne centrum Trnava Trnavská regionálna komora SOPK pozýva odbornú verejnosť na praktický seminár\, [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-colna-problematika-nielen-pre-logistiku/
 DTEND:20260206T143000Z
-LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
 DTSTART:20260206T083000Z
 SUMMARY:🟧 [SOPK] Odborný seminár: Colná problematika nielen pre logistiku
 UID:47696e7b7f3dff8894e5fd1c7d2e1d2f007e24ca@cike-events
@@ -593,7 +600,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Enterprise Europe Network Vás pozýva na matchmakingové podujatie SIRHA BUDAPEST 2026\, ktoré sa koná 3.-5. marca v Budapešti. S 26 000 odbornými návštevníkmi zo 44 krajín je SIRHA BUDAPEST najväčším obchodným fórom pre sektor potravinárstva [...] \\n\n\nhttps://www.sopk.sk/event/kooperacne-podujatie-sirha-budapest-2026/
 DTEND:20260305T160000Z
-LOCATION:Online/Budapašť
 DTSTART:20260303T070000Z
 SUMMARY:🟧 [SOPK] Kooperačné podujatie SIRHA BUDAPEST 2026
 UID:a020a76e58b6dec0526cfde4d6e0208df14c9ce0@cike-events
@@ -788,7 +794,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Orientujeme sa v sankciách a odvetvových reštrikciách EÚ\, OSN a US OFAC. Je možný obchod s krajinami\, na ktoré sa vzťahujú cielené sankcie? 10. február 2026 o 10:00 hod.\, Regionálne centrum [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a-us-ofac/
 DTEND:20260210T140000Z
-LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
 DTSTART:20260210T090000Z
 SUMMARY:🟧 [SOPK] Odborný seminár: Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OSN a US OFAC
 UID:474f31efd0c6b3d2a8a1aee0b7d600ff1d26727d@cike-events
@@ -948,6 +953,14 @@ DTEND:20250930T123000Z
 DTSTART:20250930T070000Z
 SUMMARY:🟧 [SOPK] webinár Daňový bonus\, príspevok na rekreáciu a na športovú činnosť dieťaťa
 UID:44505d965ca7745ad14d0cd188a858646a81c683@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260219
+CATEGORIES:AMCHAM
+DESCRIPTION:online fast-track course organized by Restartup\n\nhttps://amcham.sk/events/3610/win-elections
+LOCATION:online
+SUMMARY:🟢 [AMCHAM] Win Elections
+UID:c2c78aafeca6982f4f923645e2de8dfe98779637@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1606,7 +1619,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľskú verejnosť na prezenčný odborný seminár „INCOTERMS 2020: Nové pravidlá – staré problémy“\, ktorý sa uskutoční 3. marca 2026 o 10.00 hod. v Regionálnom centre Trnava [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-incoterms-2020-nove-pravidla-stare-problemy/
 DTEND:20260303T130000Z
-LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 917 01
 DTSTART:20260303T090000Z
 SUMMARY:🟧 [SOPK] Odborný seminár: INCOTERMS 2020: Nové pravidlá &#8211\; staré problémy
 UID:df7753956d648caad09a80ae973c471158c634d2@cike-events
