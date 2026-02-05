@@ -34,6 +34,14 @@ SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia – From Law to Practice
 UID:099786e635e232b3e0440d5823bb815ad72d4a0f@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných strojov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuvníckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia a s členskou firmou BOZPO\, s.r.o. [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-incoboz/
+DTEND:20250530T215959Z
+DTSTART:20250527T220000Z
+SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2025
+UID:e8ecc18b0b0cb8c32282e9b6e8b33b152a960bf7@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250213
 CATEGORIES:ITVALLEY
 DESCRIPTION:Už tretíkrát vás srdečne pozývame na konferenciu Zborovňa\, zameranú na rozvoj pedagógov prírodovedných predmetov (science\, technology\, engineering\, mathematics) z košického a prešovského regiónu.\n\nhttps://www.kosiceitvalley.sk/events/zborovna-2025-konferencia-pre-stem-pedagogov/
@@ -208,7 +216,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Veľvyslanectvom SR v Tirane\, pozývajú slovenské firmy na podnikateľskú misiu do Tirany\, ktorá sa bude konať v dňoch 11. – 13. mája 2026. Slovenské firmy budú mať príležitosť [...] \\n\n\nhttps://www.sopk.sk/event/misia-do-albanska/
 DTEND:20260513T215959Z
-LOCATION:Tirana
 DTSTART:20260510T220000Z
 SUMMARY:🟧 [SOPK] Obchodná misia do Albánska
 UID:13c93b358654a0913d52916d3f5861671670144f@cike-events
@@ -581,14 +588,6 @@ SUMMARY:🟣 [ICKK] OWASmooth: Od víťaza akcelerátora až k investícii s val
 UID:c12b3dacbdce3f320254f56eb8b69c88aeba5c1f@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-CATEGORIES:AMCHAM
-DESCRIPTION:1st Annual Expert Forum organized by Kinstellar\n\nhttps://amcham.sk/events/3590/unstoppable-transformation-how-to-be-a-leader-in-times-of-change
-LOCATION:Primaciálny palác\, Bratislava
-SUMMARY:🟢 [AMCHAM] Unstoppable Transformation – How to Be a Leader in Times of Change
-UID:f5c8abc75ed3eb6585cb8aabf062729418849c5e@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
 CATEGORIES:AMCHAM
 DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3605/summer-innovation-business-cocktail
@@ -726,12 +725,12 @@ SUMMARY:🟧 [SOPK] Speed Business Meeting 9.2.2026 v hoteli Lindner o 16:00\, B
 UID:0e36c02d68c9dcf62b2eecb82bc1ea37aa1bb2b6@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260204
-CATEGORIES:AMCHAM
-DESCRIPTION:Workforce for What’s Next\, with Amrop Slovakia as expert guarantor\n\nhttps://amcham.sk/events/3596/hr-trends-2026-leadership-for-a-changing-industry
-LOCATION:Národný futbalový štadión\, Bratislava
-SUMMARY:🟢 [AMCHAM] HR Trends 2026 – Leadership for a Changing Industry
-UID:5558d18fd3806a4e301fcdd92b21ccf408d2e245@cike-events
+CATEGORIES:SOPK
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
+DTEND:20251014T160000Z
+DTSTART:20251014T140000Z
+SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionálnej – komory SOPK v UVP Technicom
+UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250212
@@ -740,14 +739,6 @@ DESCRIPTION:organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps:/
 LOCATION:Falkensteiner Hotel Bratislava\, Pilárikova 7372\, Bratislava
 SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
-DTEND:20251014T160000Z
-DTSTART:20251014T140000Z
-SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionálnej – komory SOPK v UVP Technicom
-UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
@@ -1312,20 +1303,20 @@ SUMMARY:🔵 [ITVALLEY] AI a právo: Ako AI mení pravidlá podnikania – Busin
 UID:48605ac109af52b6f41b85d6c3ef8554b0066c8b@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260314
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Akčné ženy\n\nhttps://amcham.sk/events/3609/for-womens-health
+LOCATION:AVION Shopping Park\, Bratislava
+SUMMARY:🟢 [AMCHAM] For Women’s Health
+UID:8b6e8d5e0fd4a6f81562b5fbfe29be52711819be@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Regionálna súťaž sa mení na celoslovenskú! „Zelený Merkúr“ rozširuje svoju pôsobnosť z banskobystrického regiónu na celé Slovensko. » Rozvíjate svoje podnikateľské aktivity v súlade s prírodou a cieľmi udržateľného rozvoja? » [...] \\n\n\nhttps://www.sopk.sk/event/5-rocnik-sutaze-o-cenu-za-dodrziavanie-principov-obehoveho-hospodarstva-zeleny-merkur/
 DTEND:20251010T215959Z
 DTSTART:20251009T220000Z
 SUMMARY:🟧 [SOPK] 5. ročník súťaže o cenu za dodržiavanie princípov obehového hospodárstva „Zelený Merkúr“
 UID:fc36fb6dfa7ff513cb6d92ea41822cbe254a8c9c@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných strojov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuvníckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia a s členskou firmou BOZPO\, s.r.o. [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-incoboz/
-DTEND:20250530T215959Z
-DTSTART:20250527T220000Z
-SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2025
-UID:e8ecc18b0b0cb8c32282e9b6e8b33b152a960bf7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
@@ -1695,6 +1686,15 @@ DESCRIPTION:Pomáhať iným je prirodzenou súčasťou života úspešných líd
 LOCATION:Východoslovenská galéria\, Košice
 SUMMARY:🔵 [ITVALLEY] Filantropický večer s Nadáciou Pontis a EY
 UID:a45b090ab2f4994314d99cef82684512a266b87a@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trnavská regionálna komora SOPK pripravuje výročné zhromaždenie členov Sekcie dopravy SOPK\, ktoré sa uskutoční 12. februára 2026 v Trnave. Podujatie bude prebiehať v priestoroch členskej organizácie SOPK – Strednej priemyselnej školy [...] \\n\n\nhttps://www.sopk.sk/event/bilancia-roka-plany-na-2026-a-pohlad-do-praxe-dopravneho-vzdelavania-vyrocne-zhromazdenie-sekcie-dopravy-sopk/
+DTEND:20260212T130000Z
+LOCATION:Stredná Priemyselná Škola Dopravná\, Ulica Studentska 3585/23\, Trnava\, 917 01
+DTSTART:20260212T090000Z
+SUMMARY:🟧 [SOPK] Bilancia roka\, plány na 2026 a pohľad do praxe dopravného vzdelávania: Výročné zhromaždenie Sekcie dopravy SOPK
+UID:fde87f1da2578c89a63ad427e2d8a1a74e38e3f6@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
