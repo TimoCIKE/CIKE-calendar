@@ -99,14 +99,6 @@ UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov na prezenčný odborný seminár REŠTART OBCHODU 2026\, ktorý sa uskutoční 5.2.2026 v priestoroch Regionálneho centra v Trnave. Seminár povedie Soňa Sopóci\, držiteľka medzinárodného certifikátu procesného špecialistu a konzultanta [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-restart-obchodu-2026-ako-predavat-a-rast-aj-v-neistych-casoch/
-DTEND:20260205T120000Z
-DTSTART:20260205T090000Z
-SUMMARY:🟧 [SOPK] Odborný seminár: REŠTART OBCHODU 2026 &#8211\; Ako predávať a rásť aj v neistých časoch
-UID:2a3ca1931da4f828d9e962d2147d6f68d3d95bf2@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architektúry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefity/
 DTEND:20260206T160000Z
 DTSTART:20260203T070000Z
@@ -245,15 +237,6 @@ SUMMARY:🟧 [SOPK] webinár DOHODY\, SEZÓNNA PRÁCA
 UID:480e22ecb51b59cb31703b86e86729fbf68877f1@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Zaujímajú vás udržateľné a energeticky úsporné riešenia? Pripojte sa k misii slovenských firiem a navštívte od 26. do 29. marca 2025   Stavebný veľtrh v Brne. Na jednom mieste sa uskutoční Stavebný [...] \\n\n\nhttps://www.sopk.sk/event/stavebne-veltrhy-brno/
-DTEND:20250329T225959Z
-LOCATION:Veltrhy Brno\, Výstaviště 405/1\, Brno
-DTSTART:20250325T230000Z
-SUMMARY:🟧 [SOPK] Stavebné veľtrhy Brno – podnikateľská misia
-UID:45fde223b191cc60f22cb7b06109364caf7aedf2@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250215
 CATEGORIES:ITVALLEY
 DESCRIPTION:Stredoškoláci\, pozor!\nViete programovať? Zaujímajú vás dáta ako obrázky\, grafy\, volebné prieskumy a práca s nimi? Baví vás riešiť problémy alebo sa jednoducho chcete naučiť\, ako používať umelú inteligenciu?\nPotom sa pridajte k piatej edícii DataDay\, kde toto všetko a ešte viac môžete zažiť na vlastnej koži!\n\nhttps://www.kosiceitvalley.sk/events/dataday5/
@@ -283,14 +266,6 @@ DTEND:20260211T130000Z
 DTSTART:20260211T080000Z
 SUMMARY:🟧 [SOPK] ZÁKON O ODPADOCH\, Evidencia odpadov a podávanie ohlásení v odpadovom hospodárstve za rok 2025
 UID:18bd9f9974ce1fead1471fd76290e8d63fd60555@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Príchod investora môže priniesť významné investície  a vytvoriť pracovné miesta\, ale aj zmeny a výzvy pre miestne podnikanie a komunitu. Tento proces prebieha kontinuálne. Čo všetko chápeme pod pojmom zamestnanecké benefity? Zamestnanecké benefity (alebo [...] \\n\n\nhttps://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-vyhoda-zamestnavatela-2/
-DTEND:20251014T093000Z
-DTSTART:20251014T070000Z
-SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda zamestnávateľa
-UID:8a24b7d28af552dd4e886ebbf9402c22ec637b08@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
@@ -504,12 +479,29 @@ SUMMARY:🟧 [SOPK] OCHRANA ZDRAVIA PRI PRÁCI
 UID:5fa805deb40c645f2ecda83965e955633a47fcd4@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Slovensko-poľská obchodná komora\, Žilinská regionálna komora SOPK\, v spolupráci s Veľvyslanectvom SR vo Varšave vám dávajú do pozornosti možnú účasť na Poľsko-slovenskom hospodárskom fóre pri poľskom Štetíne 15.4.2026. Termín misie: 14. [...] \\n\n\nhttps://www.sopk.sk/event/polsko-slovenske-hospodarske-forum-pri-polskom-stetine-15-4-2026/
+DTEND:20260416T215959Z
+LOCATION:Niechordze\, Niechordze
+DTSTART:20260413T220000Z
+SUMMARY:🟧 [SOPK] Poľsko-slovenské hospodárske fórum pri poľskom Štetíne 15.4.2026
+UID:81f0032bfb5a3b58c72cf20cba595023f518dd63@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3599/executive-briefing-eu-cybersecurity-updates-for-decision-makers
 LOCATION:Jurkovičova Tepláreň (Second Floor|\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Executive Briefing: EU Cybersecurity Updates for Decision Makers
 UID:8d3c597580711e6650f11330630673990ec97f17@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trenčianska regionálna komora SOPK v spolupráci s Veletrhy Brno a.s. organizuje účasť slovenských firiem na Stavebnom veľtrhu Brno\, ktorý sa bude konať od 25. do  28. marca 2026. Tento veľtrh otvára [...] \\n\n\nhttps://www.sopk.sk/event/stavebny-veltrh-brno-2026/
+DTEND:20260328T225959Z
+DTSTART:20260324T230000Z
+SUMMARY:🟧 [SOPK] STAVEBNÝ VEĽTRH BRNO 2026
+UID:c0f23c764a13fec6a60fb4d468953e816a1c6e86@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250521
@@ -572,7 +564,7 @@ UID:b56016608c74e6e4ff238fedb5523ca027325f6e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne pozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\, ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom UVP Technicom\, kde sa budeme venovať [...] \\n\n\nhttps://www.sopk.sk/event/kava-s-eduardom-burasom-a-miroslavom-michalkom/
+DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne pozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\, ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom UVP Technicom\, kde sa budeme venovať [...] \\n\n\nhttps://www.sopk.sk/event/kava-s-ambasadorom-v-zakarpatskej-oblasti/
 DTEND:20251104T100000Z
 LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20251104T080000Z
@@ -1069,14 +1061,6 @@ SUMMARY:🟧 [SOPK] Pozvánka: Valné zhromaždenie Trnavskej RK SOPK 2026
 UID:067027a1e09a9c40eebd4132a5099dae3594c30f@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260205
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by the British International School Bratislava (BISB)\n\nhttps://amcham.sk/events/3595/open-day
-LOCATION:The British International School Bratislava\, Pekníkova 6\, Bratislava
-SUMMARY:🟢 [AMCHAM] Open Day
-UID:b7be45835e44461d0b2716ebf8677ddbcbacc05d@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 CATEGORIES:ITVALLEY
 DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI a digitalizácia pomáhajú malým a stredným firmám rásť a byť konkurencieschopné. Večer doplní networking a konzultácie so špecialistami EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad/
@@ -1140,6 +1124,14 @@ DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3464/summer-innovation-busine
 LOCATION:Botanical Garden UPJŠ\, Mánesova 1889/23
 SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
 UID:185e1172a3a31c7319f33069ed21dd9665a96723@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+CATEGORIES:AMCHAM
+DESCRIPTION:Part of the Health Care in Transformation Conference\n\nhttps://amcham.sk/events/3612/health-check-day
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Health Check Day
+UID:de0c76b57528242c32dd7864b214c94c9cd9a363@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250326
