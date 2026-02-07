@@ -341,14 +341,6 @@ UID:1b1ea0a84b563fd578558977ee5a41b0f08ce73b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:PRAKTICKÉ ASPEKTY COLNEJ PROBLEMATIKY V PODNIKATEĽSKEJ PRAXI Zvládnite clo efektívne a bezpečne! 6. február 2026 o 9:30 hod.\, Regionálne centrum Trnava Trnavská regionálna komora SOPK pozýva odbornú verejnosť na praktický seminár\, [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-colna-problematika-nielen-pre-logistiku/
-DTEND:20260206T143000Z
-DTSTART:20260206T083000Z
-SUMMARY:🟧 [SOPK] Odborný seminár: Colná problematika nielen pre logistiku
-UID:47696e7b7f3dff8894e5fd1c7d2e1d2f007e24ca@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Zákon významne znižuje administratívnu záťaž pre občanov\, stavebníkov\, podnikateľov\, developerov\, štát a stavebné úrady. Zjednodušuje celý proces povoľovania a realizácie stavieb\, od návrhu stavebného zámeru po kolaudáciu. Registrovať sa môžete TU [...] \\n\n\nhttps://www.sopk.sk/event/seminar-novy-stavebny-zakon-c-25-2025-z-z/
 DTEND:20250605T130000Z
 DTSTART:20250605T080000Z
@@ -831,6 +823,14 @@ DESCRIPTION:https://ickk.sk/2026/01/26/startuje-druhy-rocnik-yeslab-ziskaj-podpo
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Štartuje druhý ročník YESLab\, získaj podporu až 5\,000 EUR a premeň svoj nápad v skutočný startup.
 UID:306c3803d9a42bc4096dad566c60671f0080d8bf@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260212
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3601/effective-managerial-problem-solving-combines-teamwork-and-ai-postponed
+LOCATION:Jurkovičova Tepláreň (Ground Floor - BASE event hall)\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Effective managerial problem-solving combines teamwork and AI  /POSTPONED
+UID:1d2e82c3d11d461c7e215360dcf39a0e6da249ce@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1952,22 +1952,6 @@ DTEND:20260226T133000Z
 DTSTART:20260226T080000Z
 SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
 UID:9ed96a8a9fb6329339a415a205bceef16d41c6f9@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Prešovská regionálna komora SOPK  člen siete Enterprise Europe Network Vás pozýva na podujatie pod záštitou mimoriadnej a splnomocnenej veľvyslankyne Slovenskej republiky v Poľsku Andrey Elschekovej-Matisovej: [...] \\n\n\nhttps://www.sopk.sk/event/27-03-2025-business-ranajky-s-polskom/
-DTEND:20250327T110000Z
-DTSTART:20250327T073000Z
-SUMMARY:🟧 [SOPK] BUSINESS raňajky s Poľskom
-UID:295da06426f985bad389b6285e4deae1c609dadc@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260212
-CATEGORIES:AMCHAM
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3601/effective-managerial-problem-solving-combines-teamwork-and-ai
-LOCATION:Jurkovičova Tepláreň (Ground Floor - BASE event hall)\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Effective managerial problem-solving combines teamwork and AI
-UID:a0e0025cf30bc6d354a68822c592985b576936ba@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250929
