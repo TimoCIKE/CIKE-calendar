@@ -115,14 +115,6 @@ SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
 UID:efa4c0037ced44393ed6233c7a4b991cb50722cd@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250207
-CATEGORIES:AMCHAM
-DESCRIPTION:Expression of Our Appreciation\n\nhttps://amcham.sk/events/3441/amcham-patronslunch
-LOCATION:NOX Pradiareň\, Svätoplukova 2a\, Bratislava
-SUMMARY:🟢 [AMCHAM] AmCham Patrons´Lunch
-UID:46c497f82aa5afd75347e9c188c4adb5ec7081b0@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250205
 CATEGORIES:ITVALLEY
 DESCRIPTION:Pozývame vás na konferenciu\, na ktorej predstavíme zaujímavé témy zo sveta Microsoftu.\n\nhttps://www.kosiceitvalley.sk/events/microsoft-day-2025/
