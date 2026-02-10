@@ -1012,6 +1012,14 @@ SUMMARY:🟧 [SOPK] Colné predpisy v praxi
 UID:5daa22b736aa4b24904ad3aa054aaaea87b11fc5@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260303
+CATEGORIES:AMCHAM
+DESCRIPTION:Part of the Health Care in Transformation Conference\n\nhttps://amcham.sk/events/3613/innovative-technologies-in-healthcare
+LOCATION:Jurkovičova Tepláreň (Ground Floor)\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Innovative Technologies in Healthcare
+UID:33144aee269eedd0713f7eb205b611c349f13c29@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 CATEGORIES:AMCHAM
 DESCRIPTION:Tax Seminar organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps://amcham.sk/events/3597/changes-in-tax-legislation
@@ -1533,6 +1541,15 @@ SUMMARY:🔵 [ITVALLEY] INNOPSIES – Prešov
 UID:91335bf5e251a3a86a6dc1c5f85b3b551eaf58c0@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý sa bude konať  dňa 18. marca 2026 od 9:00 do 13:00 hod. v zasadačke Banskobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-2/
+DTEND:20260318T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20260318T080000Z
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy?“
+UID:6f24dcee4e4d20693afc9c5f401a7b266df040f2@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260227
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by PwC\n\nhttps://amcham.sk/events/3608/workshop-nis2-step-by-step-risk-analysis
@@ -1642,7 +1659,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Program delegácie Berlín 2026 Slovensko-nemecká obchodná a priemyselná komora (AHK Slowakei) v spolupráci s Bratislavskou regionálnou komorou Vás pozýva na delegačnú cestu na tému „Systémy skladovania energie“\, ktorá sa uskutoční v [...] \\n\n\nhttps://www.sopk.sk/event/delegacna-cesta-na-temu-systemy-skladovania-energie-13-16-aprila-2026-v-berline/
 DTEND:20260218T160000Z
-LOCATION:Berlín
 DTSTART:20260126T070000Z
 SUMMARY:🟧 [SOPK] Delegačná cesta na tému „Systémy skladovania energie“ 13.-16. apríla 2026 v Berlíne.
 UID:f13952eab5568ab80545b1ff268d079ff5a0ee0f@cike-events
@@ -1922,6 +1938,15 @@ SUMMARY:🟢 [AMCHAM] Golftrophy 2025
 UID:b5ea345dc0701c12f1efd2593ccb4db6207889e4@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Bankové záruky a colné ručenia od A po Z“\, ktorý sa bude konať dňa 17. marca 2026 od 9:00 do 15:30 hod. v [...] \\n\n\nhttps://www.sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z/
+DTEND:20260317T225959Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20260316T230000Z
+SUMMARY:🟧 [SOPK] „Bankové záruky a colné ručenia od A po Z“
+UID:d4356fa78bc644ebc09a8950a7afc06359d472c8@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle in Košice\n\nhttps://amcham.sk/events/3570/social-dialogue-that-works-law-tactics-practice
@@ -1954,15 +1979,6 @@ SUMMARY:🟢 [AMCHAM] Speed Business Meeting
 UID:42d67072321dc3f0fad1ee191738e554be723267@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Vstúpte do sveta objavov a inovácií\, ktoré formujú budúcnosť biomateriálovov. Trenčianska regionálna komora SOPK ako člen konzorcia GlaCerHub pozýva na Biomaterials Research Day medzinárodný vedecký webinár zameraný na oblasti: • najnovší [...] \\n\n\nhttps://www.sopk.sk/event/biomaterials-research-day/
-DTEND:20260209T225959Z
-LOCATION:Online MS Teams
-DTSTART:20260208T230000Z
-SUMMARY:🟧 [SOPK] Biomaterials Research Day
-UID:2400f0c6876c6c1b5abfbcba2113eea822163dbc@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
 CATEGORIES:AMCHAM
 DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-staying-ahead-in-a-changing-world
@@ -1972,11 +1988,12 @@ UID:34fc3578df3468877c65f2662c6a8736a04ced0f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Slovenská obchodná a priemyselná komora (SOPK) v spolupráci so spoločnosťou Signi Vás pozýva na odborný online seminár na tému: Digitalizácia malých a stredných podnikov – ako na to v praxi? Dátum [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-online-seminar-digitalizacia-malych-a-strednych-podnikov-ako-na-to-v-praxi/
-DTEND:20251113T160000Z
-DTSTART:20251113T090000Z
-SUMMARY:🟧 [SOPK] Pozvánka na online seminár: Digitalizácia malých a stredných podnikov – ako na to v praxi?
-UID:f2193d9355da2427d2ec769c6bb3890f18e17c03@cike-events
+DESCRIPTION:Trnavská regionálna komora SOPK pripravuje 12. marca 2026 odborný prezenčný seminár „Bankové záruky a colné ručenia od A po Z“\, ktorý je určený firmám pracujúcim s bankovými alebo colnými zárukami v [...] \\n\n\nhttps://www.sopk.sk/event/pripravovany-seminar-bankove-zaruky-a-colne-rucenia-od-a-po-z/
+DTEND:20260312T140000Z
+LOCATION:Regionálne centrum Trnava\, Zavarská 11/G\, Trnava\, 91701
+DTSTART:20260312T080000Z
+SUMMARY:🟧 [SOPK] Pripravovaný seminár: Bankové záruky a colné ručenia od A po Z
+UID:8eb3ee1ed1f034517e251feec5167bc21c5d63c5@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1985,6 +2002,14 @@ DTEND:20260123T225959Z
 DTSTART:20260121T230000Z
 SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť – výzva pre firmy a verejnú správu
 UID:820a1dded12dc82f311f9b10ec3948c38ecb50d1@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Slovenská obchodná a priemyselná komora (SOPK) v spolupráci so spoločnosťou Signi Vás pozýva na odborný online seminár na tému: Digitalizácia malých a stredných podnikov – ako na to v praxi? Dátum [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-online-seminar-digitalizacia-malych-a-strednych-podnikov-ako-na-to-v-praxi/
+DTEND:20251113T160000Z
+DTSTART:20251113T090000Z
+SUMMARY:🟧 [SOPK] Pozvánka na online seminár: Digitalizácia malých a stredných podnikov – ako na to v praxi?
+UID:f2193d9355da2427d2ec769c6bb3890f18e17c03@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250324
