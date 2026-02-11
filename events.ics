@@ -163,14 +163,6 @@ SUMMARY:🔵 [ITVALLEY] Backend Meetup
 UID:8bc4c48ce26a47a85ee04e37868115720c74751a@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250210
-CATEGORIES:AMCHAM
-DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3442/speed-business-meeting
-LOCATION:Lindner Hotel Gallery Central\, Metodova 4\, Bratislava
-SUMMARY:🟢 [AMCHAM] Speed Business Meeting
-UID:a2372d86d772b1735126f6424c19537bae1533ec@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
 DTEND:20250407T120000Z
@@ -694,14 +686,6 @@ UID:fecddc71af6d4025e6037c01221840bdbfd3f0ca@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci s ChamCham - neformálne združenie zmiešaných obchodných komôr (Slovensko-rakúska obchodná komora\, Taliansko – Slovenská obchodná komora\, Holandská obchodná komora v Slovenskej republike\, Slovensko-nemecká obchodná a [...] \\n\n\nhttps://www.sopk.sk/event/speed-business-meeting-9-2-2026-v-hoteli-lindner-o-1600/
-DTEND:20260206T160000Z
-DTSTART:20260130T070000Z
-SUMMARY:🟧 [SOPK] Speed Business Meeting 9.2.2026 v hoteli Lindner o 16:00\, Bratislava
-UID:0e36c02d68c9dcf62b2eecb82bc1ea37aa1bb2b6@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vás pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komory-sopk-v-uvp-technicom/
 DTEND:20251014T160000Z
 DTSTART:20251014T140000Z
@@ -759,14 +743,6 @@ UID:2c422d881fcc991880ab870a13e68c32b6185f01@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Orientujeme sa v sankciách a odvetvových reštrikciách EÚ\, OSN a US OFAC. Je možný obchod s krajinami\, na ktoré sa vzťahujú cielené sankcie? 10. február 2026 o 10:00 hod.\, Regionálne centrum [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a-us-ofac/
-DTEND:20260210T140000Z
-DTSTART:20260210T090000Z
-SUMMARY:🟧 [SOPK] Odborný seminár: Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OSN a US OFAC
-UID:474f31efd0c6b3d2a8a1aee0b7d600ff1d26727d@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OSN a US OFAC“\, „Je možný obchod s krajinami\, kde platia odvetvové a cielené reštrikcie a sankcie?“  ktorý [...] \\n\n\nhttps://www.sopk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a-us-ofac/
 DTEND:20251111T225959Z
 LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
@@ -784,6 +760,15 @@ SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda z
 UID:d5723141c7abb865cc21aae927fc1c7be534b593@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-obnovitelne-zdroje-energie-a-znizovanie-energetickej-narocnosti-duplicate-1/
+DTEND:20250515T080000Z
+LOCATION:Online
+DTSTART:20250515T070000Z
+SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredných podnikov &#8211\; Náhradný termín 15.5.2025
+UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250429
 CATEGORIES:ITVALLEY
 DESCRIPTION:Vážení nadšenci projektového manažmentu!\n\nPartneri 2BCognitus\, DT IT Solutions Slovakia\, IPMA Slovakia\, IT Valley Košice a PMI Slovakia Chapter vás pozývajú na\n\n7. ročník Konferencie projektového manažmentu v Košiciach.\n\nhttps://www.kosiceitvalley.sk/events/konferencia-projektoveho-manazmentu/
@@ -798,15 +783,6 @@ DTEND:20260112T143000Z
 DTSTART:20260112T080000Z
 SUMMARY:🟧 [SOPK] seminár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
 UID:9ef1233902403054b6024e75a4d7c10749322224@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-obnovitelne-zdroje-energie-a-znizovanie-energetickej-narocnosti-duplicate-1/
-DTEND:20250515T080000Z
-LOCATION:Online
-DTSTART:20250515T070000Z
-SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredných podnikov &#8211\; Náhradný termín 15.5.2025
-UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260126
@@ -1217,7 +1193,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Vážení členovia obchodnej komory\, v súlade so Stanovami SOPK schválenými Zhromaždením delegátov SOPK dňa 29.4.1999 v Bratislave\, zvoláva Predstavenstvo Prešovskej regionálnej komory Slovenskej obchodnej a priemyselnej komory (PRK SOPK) Valné zhromaždenie PRK SOPK (VZ [...] \\n\n\nhttps://www.sopk.sk/event/valne-zhromazdenie-2026/
 DTEND:20260217T130000Z
-LOCATION:Villa Plaza Boutique Hotel &amp\; Spa\, Kutuzova 4\, Prešov
 DTSTART:20260217T083000Z
 SUMMARY:🟧 [SOPK] Valné zhromaždenie PRK SOPK 2026
 UID:c66440f4b47b03de31a5202456aeefe077c3770c@cike-events
@@ -1888,6 +1863,14 @@ LOCATION:Tále
 DTSTART:20251014T220000Z
 SUMMARY:🟧 [SOPK] Exportné fórum 2025
 UID:93c62073d74aae906de15b81721e647e70c512e4@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260306
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3614/crisis-management-fraud-investigation
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Crisis Management & Fraud Investigation
+UID:98f55ced11048424adfa00f4f32b316bb4ad0982@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
