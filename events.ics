@@ -244,14 +244,6 @@ SUMMARY:🟢 [AMCHAM] General Assembly 2026
 UID:fe4951b18a106a47d6875f187b7934bc08fa9b61@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Program: BLOK I. Prehľad právnych predpisov odpadového hospodárstva – schválené a pripravované zmeny Prehľad dôležitých ustanovení zákona o odpadoch súvisiacich s evidenčnou povinnosťou Základné pojmy a povinnosti Zber a výkup odpadov Zariadenia na nakladanie s [...] \\n\n\nhttps://www.sopk.sk/event/zakon-o-odpadoch-evidencia-odpadov-a-podavanie-ohlaseni-v-odpadovom-hospodarstve-za-rok-2025/
-DTEND:20260211T130000Z
-DTSTART:20260211T080000Z
-SUMMARY:🟧 [SOPK] ZÁKON O ODPADOCH\, Evidencia odpadov a podávanie ohlásení v odpadovom hospodárstve za rok 2025
-UID:18bd9f9974ce1fead1471fd76290e8d63fd60555@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251009
 CATEGORIES:ITVALLEY
 DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahraničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medzinárodných študentov\, prekážky na trhu práce a prepojenie vzdelávania s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-conference-2025/
@@ -915,7 +907,7 @@ UID:c2c78aafeca6982f4f923645e2de8dfe98779637@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webinár: Termíny: 23.\, 26. alebo 30. januára 2026 5.\, 12. alebo 26. februára 2026 Program: 1. časť Ročné zúčtovanie za rok 2025: kto môže [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026-2/
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na webinár: Termíny: 5.\, 12. alebo 26. februára 2026 Program: 1. časť Ročné zúčtovanie za rok 2025: kto môže požiadať zamestnávateľa o vykonanie ročného zúčtovania\, kto [...] \\n\n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026-2/
 DTEND:20260226T133000Z
 DTSTART:20260226T080000Z
 SUMMARY:🟧 [SOPK] Webinár: ROČNÉ ZÚČTOVANIE ZA ROK 2025\, LEGISLATÍVNE ZMENY NA ROK 2026
