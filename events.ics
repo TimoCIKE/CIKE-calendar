@@ -58,6 +58,14 @@ SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
 UID:c8a9743679ac553e543eb289d79aa1136282add2@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260310
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Hauerland\n\nhttps://amcham.sk/events/3611/hauerland-marketing-creative-innovation-days-2026
+LOCATION:PenatiClub\, Agátová 33\, Bratislava
+SUMMARY:🟢 [AMCHAM] Hauerland Marketing Creative & Innovation Days 2026
+UID:b180c6020435f7c8ac44d835993973201d1cd6c4@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260326
 CATEGORIES:AMCHAM
 DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3593/energy-for-sustainable-business
@@ -132,11 +140,12 @@ UID:19b6514814f7cfc5bf8836aaf2fc205ad681084f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
-DTEND:20250429T123000Z
-DTSTART:20250429T070000Z
-SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
-UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
+DTEND:20250407T120000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20250407T070000Z
+SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
+UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
@@ -164,12 +173,11 @@ UID:8bc4c48ce26a47a85ee04e37868115720c74751a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Nový stavebný zákon č. 25/2025 Z.z.“\, ktorý sa bude konať 7. apríla 2025 od 9:00 do 14:00 hod. v zasadačke Banskobystrickej regionálnej komory [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-seminar-novy-stavebny-zakon-c-25-2025-z-z/
-DTEND:20250407T120000Z
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DTSTART:20250407T070000Z
-SUMMARY:🟧 [SOPK] Pozvánka na seminár „Nový stavebný zákon č. 25/2025 Z.z.“
-UID:6b96c9e45a171a421fa863974b663796139d93b7@cike-events
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
+DTEND:20250429T123000Z
+DTSTART:20250429T070000Z
+SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
+UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -685,14 +693,6 @@ SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionáln
 UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250212
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps://amcham.sk/events/3446/changes-in-tax-legislation
-LOCATION:Falkensteiner Hotel Bratislava\, Pilárikova 7372\, Bratislava
-SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
-UID:5f3d3e3157632514821121273e19d619986affb9@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260219
 CATEGORIES:ITVALLEY
 DESCRIPTION:Zborovňa – konferencia pre STEM pedagógov sa uskutoční 19. 2. 2026 v UVP Technicom Košice (9:00–15:30). Bezplatné podujatie ponúkne keynote o AI a inováciách vo vzdelávaní aj praktické workshopy využiteľné priamo vo výučbe.\n\nhttps://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pedagogov/
@@ -707,14 +707,6 @@ DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktorých 
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
 SUMMARY:🔵 [ITVALLEY] Seminár Kybernetická bezpečnosť
 UID:8b87747acff5492c09c9d84f16495b318b5a3b45@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Žilinská RK SOPK Vás pozýva na webinár CBAM - UHLÍKOVÉ CLO ZMENY 2026 Program:   9:00 – 10:30  (pripojenie od 8:45)     Úvod Časová os CBAM (prechod z prechodného na riadne obdobie) Zmeny [...] \\n\n\nhttps://www.sopk.sk/event/webinar-cbam-uhlikove-clo-zmeny-2026/
-DTEND:20260212T093000Z
-DTSTART:20260212T080000Z
-SUMMARY:🟧 [SOPK] Webinár: CBAM &#8211\; UHLÍKOVÉ CLO ZMENY 2026
-UID:dcdc4fb5abdf43518868a6de38d913a3a7be352b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250311
@@ -823,15 +815,6 @@ DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Prosper
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
 UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-duplicate-1/
-DTEND:20250327T090000Z
-LOCATION:Online
-DTSTART:20250327T080000Z
-SUMMARY:🟧 [SOPK] Inovačná polhodinka – Obnoviteľné zdroje energie a znižovanie energetickej náročnosti
-UID:f5b75488e3623d3c3fdd220b5820cf6e60ecb83f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250626
@@ -1143,19 +1126,19 @@ UID:111ce0231b0850cb8dd9c36e56c34c1e92e72033@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozvánka na webinár: Rešerš ochranných známok jednoducho dňa: 18.09.2025  o 10:00 - 11:00 hod. Témy: ● praktické informácie\, ako pracovať s databázami\, ● priestor opýtať sa experta na konkrétne otázky k téme [...] \\n\n\nhttps://www.sopk.sk/event/webinar-resers-ochrannych-znamok-jednoducho/
-DTEND:20250918T090000Z
-DTSTART:20250918T080000Z
-SUMMARY:🟧 [SOPK] Webinár: Rešerš ochranných známok jednoducho
-UID:dd9934d9d40f616ad35eb66289ae79fd8306a8ae@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.6.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a dve 10 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky/
 DTEND:20250619T123000Z
 DTSTART:20250619T070000Z
 SUMMARY:🟧 [SOPK] webinár Dôchodky
 UID:51671d980f1558f75800c321a8886ad369033594@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Pozvánka na webinár: Rešerš ochranných známok jednoducho dňa: 18.09.2025  o 10:00 - 11:00 hod. Témy: ● praktické informácie\, ako pracovať s databázami\, ● priestor opýtať sa experta na konkrétne otázky k téme [...] \\n\n\nhttps://www.sopk.sk/event/webinar-resers-ochrannych-znamok-jednoducho/
+DTEND:20250918T090000Z
+DTSTART:20250918T080000Z
+SUMMARY:🟧 [SOPK] Webinár: Rešerš ochranných známok jednoducho
+UID:dd9934d9d40f616ad35eb66289ae79fd8306a8ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250516
@@ -1655,15 +1638,6 @@ SUMMARY:🔵 [ITVALLEY] Filantropický večer s Nadáciou Pontis a EY
 UID:a45b090ab2f4994314d99cef82684512a266b87a@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trnavská regionálna komora SOPK pripravuje výročné zhromaždenie členov Sekcie dopravy SOPK\, ktoré sa uskutoční 12. februára 2026 v Trnave. Podujatie bude prebiehať v priestoroch členskej organizácie SOPK – Strednej priemyselnej školy [...] \\n\n\nhttps://www.sopk.sk/event/bilancia-roka-plany-na-2026-a-pohlad-do-praxe-dopravneho-vzdelavania-vyrocne-zhromazdenie-sekcie-dopravy-sopk/
-DTEND:20260212T130000Z
-LOCATION:Stredná Priemyselná Škola Dopravná\, Ulica Studentska 3585/23\, Trnava\, 917 01
-DTSTART:20260212T090000Z
-SUMMARY:🟧 [SOPK] Bilancia roka\, plány na 2026 a pohľad do praxe dopravného vzdelávania: Výročné zhromaždenie Sekcie dopravy SOPK
-UID:fde87f1da2578c89a63ad427e2d8a1a74e38e3f6@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251017
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3534/crisis-compliance-navigating-bribery-sanctions-and-cross-border-risk
@@ -1863,14 +1837,6 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3614/crisis-management-fraud-in
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Crisis Management & Fraud Investigation
 UID:98f55ced11048424adfa00f4f32b316bb4ad0982@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora SOPK - Sekcia textilného\, odevného\, kožiarskeho a obuvníckeho priemyslu v spolupráci s Veletrhy Brno a.s.\, organizuje účasť slovenských subjektov na 66. B2B veľtrhoch módy\, obuvi a koženého tovaru [...] \\n\n\nhttps://www.sopk.sk/event/styl-a-kabo-februar-2026-najvyhodnejsie-ceny-do-30-11-2025/
-DTEND:20260215T225959Z
-DTSTART:20260212T230000Z
-SUMMARY:🟧 [SOPK] STYL a KABO FEBRUÁR 2026
-UID:8fd48f1371eb139a0d1450c50c2f009258374ab4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
