@@ -3,4 +3,5 @@ beautifulsoup4
 lxml
 pytz
 selenium>=4.10
-ics
+ics==0.7.2
+TatSu==5.8.3
