@@ -2,6 +2,7 @@ requests
 beautifulsoup4
 lxml
 pytz
+html5lib
 selenium>=4.10
 ics==0.7.2
 TatSu==5.8.3
