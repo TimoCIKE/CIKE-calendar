@@ -99,19 +99,19 @@ UID:4fa26455faed895081136c7034c47525df6eb2ba@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vám v spolupráci s RELIA s.r.o. ponúka Balík webinárov – 15.4.\, 23.4.\, 29.4.2025   Trvanie webinára: 9:00 – cca 14:30\, v tom 2 – 3 prestávky podľa potreby. Prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/balik-webinarov-15-4-23-4-29-4-2025/
-DTEND:20250415T123000Z
-DTSTART:20250415T070000Z
-SUMMARY:🟧 [SOPK] Balík webinárov – 15.4.\, 23.4.\, 29.4.2025
-UID:b25292740d4949f91b61ea5673ded89eae15c113@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.5.2025 od 09:00 - 14:30 hod pozýva na webinár MZDA A DOVOLENKA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-mzda-a-dovolenka/
 DTEND:20250519T123000Z
 DTSTART:20250519T070000Z
 SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
 UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Slovak Startup Bootcamp NYC: Košické startupy v centre svetových inovácií
+UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -128,14 +128,6 @@ DTEND:20260522T215959Z
 DTSTART:20260519T220000Z
 SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2026
 UID:d52b7057bb5368c1ff627e3da3b0febedb057ed1@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Slovak Startup Bootcamp NYC: Košické startupy v centre svetových inovácií
-UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -291,12 +283,12 @@ SUMMARY:🟢 [AMCHAM] General Assembly 2026
 UID:fe4951b18a106a47d6875f187b7934bc08fa9b61@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251009
-CATEGORIES:ITVALLEY
-DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahraničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medzinárodných študentov\, prekážky na trhu práce a prepojenie vzdelávania s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-conference-2025/
-LOCATION:Kongres Hotel ROCA Košice
-SUMMARY:🔵 [ITVALLEY] Magnetize Conference 2025
-UID:a9e4f09828acab2cb47551864745b57bee6b7117@cike-events
+CATEGORIES:SOPK
+DESCRIPTION:Príchod investora môže priniesť významné investície  a vytvoriť pracovné miesta\, ale aj zmeny a výzvy pre miestne podnikanie a komunitu. Tento proces prebieha kontinuálne. Čo všetko chápeme pod pojmom zamestnanecké benefity? Zamestnanecké benefity (alebo [...] \\n\n\nhttps://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-vyhoda-zamestnavatela-2/
+DTEND:20251014T093000Z
+DTSTART:20251014T070000Z
+SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda zamestnávateľa
+UID:8a24b7d28af552dd4e886ebbf9402c22ec637b08@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250922
@@ -626,7 +618,7 @@ UID:10df86bf95335021a61b2175fde77e2df0297cc7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne pozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\, ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom UVP Technicom\, kde sa budeme venovať [...] \\n\n\nhttps://www.sopk.sk/event/kava-s-ambasadorom-v-zakarpatskej-oblasti/
+DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne pozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\, ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom UVP Technicom\, kde sa budeme venovať [...] \\n\n\nhttps://www.sopk.sk/event/kava-s-eduardom-burasom-a-miroslavom-michalkom/
 DTEND:20251104T100000Z
 LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20251104T080000Z
@@ -1419,6 +1411,15 @@ DESCRIPTION:Spoločnosť MATHISON legal vás pozýva na Business Breakfast. Tém
 LOCATION:UVP Technicom\, Němcovej 5\, Košice
 SUMMARY:🔵 [ITVALLEY] AI a právo: Ako AI mení pravidlá podnikania – Business Breakfast
 UID:48605ac109af52b6f41b85d6c3ef8554b0066c8b@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Žilinská regionálna komora SOPK a Slovensko-poľská obchodná komora si Vás dovoľujú pozvať na seminár HOTELIERSTVO SÚČASNOSTI Termín: 27. apríl 2026 od 9:30 hod. Miesto:  Žilinská regionálna komora SOPK\, Hálkova 31\, Žilina [...] \\n\n\nhttps://www.sopk.sk/event/hotelierstvo-sucasnosti/
+DTEND:20260427T120000Z
+LOCATION:Žilina\, SOPK RK\, Hálkova 31\, Žilina\, 01001
+DTSTART:20260427T070000Z
+SUMMARY:🟧 [SOPK] HOTELIERSTVO SÚČASNOSTI
+UID:dff4769f41ce91d3260d8eff2761a3ed77229ad2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
