@@ -333,14 +333,6 @@ SUMMARY:🟧 [SOPK] OCHRANA ZDRAVIA PRI PRÁCI
 UID:5fa805deb40c645f2ecda83965e955633a47fcd4@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Slovensko-poľská obchodná komora\, Žilinská regionálna komora SOPK\, v spolupráci s Veľvyslanectvom SR vo Varšave vám dávajú do pozornosti možnú účasť na Poľsko-slovenskom hospodárskom fóre pri poľskom Štetíne 15.4.2026. Termín misie: 14. [...] \\n\n\nhttps://www.sopk.sk/event/polsko-slovenske-hospodarske-forum-pri-polskom-stetine-15-4-2026/
-DTEND:20260416T215959Z
-DTSTART:20260413T220000Z
-SUMMARY:🟧 [SOPK] Poľsko-slovenské hospodárske fórum pri poľskom Štetíne 15.4.2026
-UID:81f0032bfb5a3b58c72cf20cba595023f518dd63@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260213
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3599/executive-briefing-eu-cybersecurity-updates-for-decision-makers
@@ -741,15 +733,6 @@ DESCRIPTION:Part of the Health Care in Transformation Conference\n\nhttps://amch
 LOCATION:Jurkovičova Tepláreň (Ground Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Innovative Technologies in Healthcare
 UID:33144aee269eedd0713f7eb205b611c349f13c29@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Sme súčasťou veľtrhu MOBITEX 2026! 🏡✨ Pozývame vás na veľtrh MOBITEX 2026\, ktorý sa koná 25.–28. marca na brnenskom výstavisku. Príďte sa pozrieť na najnovšie trendy v interiérovom dizajne\, nábytku a [...] \\n\n\nhttps://www.sopk.sk/event/mobitex/
-DTEND:20260328T225959Z
-LOCATION:Veltrhy Brno\, Výstaviště 405/1\, Brno
-DTSTART:20260324T230000Z
-SUMMARY:🟧 [SOPK] MOBITEX
-UID:c7147b8746c1b41ba7e641752555e8224622bb52@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
@@ -1170,7 +1153,7 @@ UID:46f8406f27376bf32cc6ee82704b78b44b18aee2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozývame vás k návšteve a rokovaniam na veľtrhu Hannover MESSE 2026. Rokovania organizujeme  ako súčasť spreivodného programu Technology & Business Cooperation Days at HANNOVER MESSE 2026. Hlavné inovačné témy sú: • [...] \\n\n\nhttps://www.sopk.sk/event/rokovania-na-hannover-messe/
+DESCRIPTION:Pozývame vás k návšteve a rokovaniam na veľtrhu Hannover MESSE 2026. Rokovania organizujeme  ako súčasť sprievodného programu Technology & Business Cooperation Days at HANNOVER MESSE 2026. Hlavné inovačné témy sú: • [...] \\n\n\nhttps://www.sopk.sk/event/rokovania-na-hannover-messe/
 DTEND:20260423T215959Z
 LOCATION:Hannover
 DTSTART:20260419T220000Z
@@ -1347,6 +1330,15 @@ DTEND:20251126T210000Z
 DTSTART:20251126T173000Z
 SUMMARY:🟧 [SOPK] All in One Cocktail
 UID:2ee25b91afcfee13c6f59effc2d467f08e990ef2@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Pozývame vás k návšteve a rokovaniam na veľtrhu MOBITEX - Drevostavby - Stavebný veľtrh- Festival architektúry - Mine&Build - Pro Díte v dňoch 25.–28. marca na brnenskom výstavisku. Príďte sa pozrieť [...] \\n\n\nhttps://www.sopk.sk/event/mobitex/
+DTEND:20260328T225959Z
+LOCATION:Veltrhy Brno\, Výstaviště 405/1\, Brno
+DTSTART:20260324T230000Z
+SUMMARY:🟧 [SOPK] Rokovania na MOBITEX
+UID:9176eec4a9c99be7253bd2f6528aeb4397c49deb@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
