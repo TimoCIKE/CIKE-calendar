@@ -140,6 +140,14 @@ UID:6692931d58326b5a2d27b9035a07e53e55c42084@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
+DTEND:20250429T123000Z
+DTSTART:20250429T070000Z
+SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
+UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 25.9.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky kód:20250925   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky-2/
 DTEND:20250925T123000Z
 DTSTART:20250925T070000Z
@@ -1306,14 +1314,6 @@ DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3536/transform-you
 LOCATION:The Spot Cowork\, 7th floor\, Bottova 2/A\, Bratislava
 SUMMARY:🟢 [AMCHAM] Transform Your Business - Sustainability Business Simulation
 UID:c8db44c0c5c3a56f78662490a835e6bf7e63ea85@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Pozvánka: Webinár Granty 2026: financovanie ochrany duševného vlastníctva Zaujíma Vás aké možnosti financovania ochrany duševného vlastníctva má Vaša firma? Prihláste sa na webinár\, ktorý sa koná 18. marca 2026 o 10:00 hod. Trvanie [...] \\n\n\nhttps://www.sopk.sk/event/webinar-granty-2026-financovanie-ochrany-dusevneho-vlastnictva/
-DTEND:20260318T100000Z
-DTSTART:20260318T090000Z
-SUMMARY:🟧 [SOPK] Webinár Granty 2026: financovanie ochrany duševného vlastníctva
-UID:1a8e1a2d41ebeade2d53524606b798de0e3f28b0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250613
