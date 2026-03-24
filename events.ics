@@ -172,6 +172,14 @@ UID:4f0541319b7dba41ce653fcfcc4dc80a0bb61f9e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Pozývame vás na podujatie: WEBINÁR: Kultúrne rozdiely v obchodovaní s Čínou   Dátum a čas: 16. apríl 2026 o 9:00 Forma: ONLINE REGISTRÁCIA: https://forms.gle/vmseyYGB5LtyW6We7 Účastnícky poplatok: Člen SOPK: 36\,90€ ( 30€ [...] \\n\n\nhttps://www.sopk.sk/event/webinar-kulturne-rozdiely-v-obchodovani-s-cinou/
+DTEND:20260416T083000Z
+DTSTART:20260416T070000Z
+SUMMARY:🟧 [SOPK] WEBINÁR: Kultúrne rozdiely v obchodovaní s Čínou
+UID:955e2a2f7c67cc25a74635aa1009e4bb36bc6520@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 15.5.2025 od 09:00 - 14:30 hod pozýva na webinár DOHODY\, SEZÓNNA PRÁCA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dohody-sezonna-praca/
 DTEND:20250515T123000Z
 DTSTART:20250515T070000Z
@@ -423,14 +431,6 @@ LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20251104T080000Z
 SUMMARY:🟧 [SOPK] Káva s Eduardom Burašom a Miroslavom Michalkom
 UID:b97c1413f32cde6a3d4443c07e3e1e2de97ecd5e@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260618
-CATEGORIES:AMCHAM
-DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3605/summer-innovation-business-cocktail
-LOCATION:MINT Pradiareň\, Svätoplukova 2A\, Bratislava
-SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
-UID:4ece062e55dfe7eab33556691763e82fe38c629e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1152,6 +1152,15 @@ SUMMARY:🟧 [SOPK] Webinár: Prečo sa súdiť\, keď sa viete dohodnúť? Ako 
 UID:e1cadd1b491578ead3e847e9a170f274b8505f47@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trnavská regionálna komora SOPK vás pozýva na praktický seminár zameraný na moderné prezentačné a komunikačné zručnosti. Objavíte techniky\, ktoré vám pomôžu vystupovať sebaistejšie\, presvedčivejšie a zapamätateľnejšie – či už prezentujete pred [...] \\n\n\nhttps://www.sopk.sk/event/seminar-trnavskej-regionalnej-komory-sopk-prezentuj-ako-lider-prezentuj-ako-profesional/
+DTEND:20260422T123000Z
+LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 91701
+DTSTART:20260422T073000Z
+SUMMARY:🟧 [SOPK] Seminár Trnavskej regionálnej komory SOPK: Prezentuj ako líder\, prezentuj ako profesionál.
+UID:dc8dc443be8f909bd194d34b31afc3671efadbd8@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260325
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3630/crisis-management-fraud-investigation
@@ -1558,5 +1567,13 @@ DTEND:20250527T123000Z
 DTSTART:20250527T070000Z
 SUMMARY:🟧 [SOPK] webinár PRÍSPEVOK NA REKREÁCIU A ĎALŠIE BENEFITY
 UID:13f7bba5de70c39a5938173310d360f6c732cfe0@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260618
+CATEGORIES:AMCHAM
+DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3605/250th-anniversary-of-the-founding-of-the-united-states-of-america
+LOCATION:Národný futbalový štadión Tehelné pole\, Viktora Tegelhoffa 4\, Bratislava
+SUMMARY:🟢 [AMCHAM] 250th anniversary of the founding of the United States of America
+UID:3e0727dd0750a7f700433df47550dcd5fd4441e9@cike-events
 END:VEVENT
 END:VCALENDAR
