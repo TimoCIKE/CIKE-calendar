@@ -2,6 +2,14 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Empera consulting\n\nhttps://amcham.sk/events/3638/masterclass-2026-cognitive-empathy-for-better-business-results
+LOCATION:Lab28\, Mlynské Nivy\, Bratislava
+SUMMARY:🟢 [AMCHAM] Masterclass 2026: Cognitive Empathy for Better Business Results
+UID:d2fb34bfa41916b2adf81405bbad21ba6353719a@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3545/social-dialogue-that-works-law-tactics-practice
@@ -140,14 +148,6 @@ UID:6692931d58326b5a2d27b9035a07e53e55c42084@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 29.4.2025 od 09:00 - 14:30 hod pozýva na webinár  ZÁKON O ZDRAVOTNOM POISTENÍ   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-2/
-DTEND:20250429T123000Z
-DTSTART:20250429T070000Z
-SUMMARY:🟧 [SOPK] webinár ZÁKON O ZDRAVOTNOM POISTENÍ
-UID:c97bd1c88c99c89d4d416e1dd1bbc050472c18ff@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 25.9.2025 od 09:00 - 14:30 hod pozýva na webinár Dôchodky kód:20250925   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky-2/
 DTEND:20250925T123000Z
 DTSTART:20250925T070000Z
@@ -240,14 +240,6 @@ DTEND:20251021T123000Z
 DTSTART:20251021T070000Z
 SUMMARY:🟧 [SOPK] webinár Benefity zamestnancov\, sociálny fond a cestovné náhrady
 UID:1b1ea0a84b563fd578558977ee5a41b0f08ce73b@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260324
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by Aj Ty v IT\n\nhttps://amcham.sk/events/3619/allieswork-building-fair-and-supportive-workplaces
-LOCATION:Košice (TBA)
-SUMMARY:🟢 [AMCHAM] Allies@Work: Building Fair and Supportive Workplaces
-UID:4af7f07da366722b531e00f867dcd3f9818d680a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -513,14 +505,6 @@ SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionáln
 UID:c6d9ca60fe52c336255fd82bfd654f44d32a4d48@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260324
-CATEGORIES:AMCHAM
-DESCRIPTION:online session organized by Howden M&A CEE\n\nhttps://amcham.sk/events/3636/tax-insurance-in-czech-republic-slovakia
-LOCATION:online (Teams)
-SUMMARY:🟢 [AMCHAM] Tax insurance in Czech Republic & Slovakia
-UID:2d22bfc482d2aa71f4db20179f5b8d4a4aa7ebcd@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „POSUDZOVANIE VPLYVOV NA ŽIVOTNÉ PROSTREDIE (EIA)“\, ktorý sa bude konať  dňa 27. novembra 2025 od 9:30 do 13:30 hod. v zasadačke Banskobystrickej RK [...] \\n\n\nhttps://www.sopk.sk/event/posudzovanie-vplyvov-na-zivotne-prostredie-eia-duplicate-1/
 DTEND:20251127T225959Z
@@ -627,6 +611,15 @@ DTEND:20250527T100000Z
 DTSTART:20250527T064500Z
 SUMMARY:🟧 [SOPK] Hlavné faktory úspešného riadenia firmy
 UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Téma: Aktiuálne nielen z oblasti daní (seminár) Kedy:  9.4.2026 od 9:00-11:00 Kde: UVP Technicom\, B. Němcovej 5\, Košice Lektori: Valéria Mortaniková Katarina Mikovinyová Podtémy: Aké nové pravidlá platia pre odpočítanie DPH [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
+DTEND:20260409T090000Z
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DTSTART:20260409T070000Z
+SUMMARY:🟧 [SOPK] Seminár: Aktuálne nielen z oblasti daní
+UID:be814e479bcefa66a9e0ccbfbb84bdd783bc491a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250626
@@ -807,15 +800,6 @@ LOCATION:hotel Elizabeth\, Trenčín
 DTSTART:20260407T220000Z
 SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť v regiónoch- Západné Slovensko 2026
 UID:aee434a178bfaebd9371f837167f0cd8b4428d8a@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Téma: Aktiuálne nie len z oblasti daní (seminár) Kedy:  9.4.2026 od 9:00-11:00 Kde: UVP Technicom\, B. Němcovej 5\, Košice Lektori: Valéria Mortaniková Katarina Mikovinyová Podtémy: Aké nové pravidlá platia pre odpočítanie [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
-DTEND:20260409T090000Z
-LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
-DTSTART:20260409T070000Z
-SUMMARY:🟧 [SOPK] Seminár: Aktuálne nie len z oblasti daní
-UID:136c0a199b0defa3c2a4ee457c7a72ac97f2cf61@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
@@ -1044,14 +1028,6 @@ DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events
 LOCATION:Pro Relocation office\, Svätoplukova 31\, 821 09 Bratislava
 SUMMARY:🟢 [AMCHAM] Managing Info Cards for International Hires in Slovakia
 UID:03f2e12a899ee609914f468053c9d0c9cf4b44fb@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov na prezenčný odborný seminár „Tím\, ktorý funguje: Ako zistiť\, kto ťahá a kto firmu brzdí“\, ktorý sa uskutoční 24. marca 2026 o 10.00 h v priestoroch [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-odborny-seminar-tim-ktory-funguje-ako-zistit-kto-taha-a-kto-firmu-brzdi/
-DTEND:20260324T140000Z
-DTSTART:20260324T090000Z
-SUMMARY:🟧 [SOPK] Pozvánka na odborný seminár: Tím\, ktorý funguje – ako zistiť\, kto ťahá a kto firmu brzdí
-UID:5f663c643384255ccf33c6dd46b780030d220711@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250409
@@ -1551,14 +1527,6 @@ DTEND:20260123T225959Z
 DTSTART:20260121T230000Z
 SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť – výzva pre firmy a verejnú správu
 UID:820a1dded12dc82f311f9b10ec3948c38ecb50d1@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250324
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3474/competitive-slovakia-implications-of-the-transaction-tax-what-it-brings-to-the-business-environment
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Competitive Slovakia: Implications of the Transaction Tax: What it Brings to the Business Environment?
-UID:a398ef2fb0e44c92f59f12db97fa58201011a1c3@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
