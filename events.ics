@@ -74,14 +74,6 @@ SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
 UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Slovak Startup Bootcamp NYC: Košické startupy v centre svetových inovácií
-UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architektúry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefity/
 DTEND:20260206T160000Z
@@ -107,20 +99,20 @@ SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
 UID:efa4c0037ced44393ed6233c7a4b991cb50722cd@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+CATEGORIES:AMCHAM
+DESCRIPTION:"Líderské jednohubky" by SUVKO\n\nhttps://amcham.sk/events/3639/how-to-create-an-experiential-teambuilding-that-truly-makes-a-difference
+LOCATION:The Spot\, Bottova 2\, Bratislava
+SUMMARY:🟢 [AMCHAM] How to create an experiential teambuilding that truly makes a difference?
+UID:08987ff8c593a40f6afc3e9eae9bbdc458d19c4a@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Moldavskou obchodnou a priemyselnou komorou\, agentúrou SARIO\, Kanceláriou prezidenta SR a Ministerstvom zahraničných vecí a európskych záležitostí SR spoluorganizujú Slovensko-moldavské podnikateľské fórum pri [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-slovensko-moldavske-podnikatelske-forum-a-b2b/
 DTEND:20260326T225959Z
 DTSTART:20260325T230000Z
 SUMMARY:🟧 [SOPK] Pozvánka na Slovensko-moldavské podnikateľské fórum a B2B
 UID:ae083be096f636dad4d30bf7ee2cea9da5a07273@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Trnavská regionálna komora SOPK organizuje 23. apríla 2026 prezenčný odborný seminár zameraný na najnovšie trendy v oblasti SEO\, GEO a AI optimalizácie. Podujatie je určené pre podnikateľov\, marketingových manažérov a všetkých\, [...] \\n\n\nhttps://www.sopk.sk/event/trnavska-regionalna-komora-sopk-pripravuje-odborny-seminar-o-najnovsich-trendoch-v-seo-a-ai-optimalizacii/
-DTEND:20260423T100000Z
-DTSTART:20260423T080000Z
-SUMMARY:🟧 [SOPK] Trnavská regionálna komora SOPK pripravuje odborný seminár o najnovších trendoch v SEO a AI optimalizácii
-UID:b1022856f0c5735e57d5e85c855b3dab045446fe@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -350,14 +342,6 @@ UID:8d3c597580711e6650f11330630673990ec97f17@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Trenčianska regionálna komora SOPK  organizuje účasť slovenských firiem na Stavebnom veľtrhu Brno\, ktorý sa bude konať od 25. do  28. marca 2026. Tento veľtrh otvára priestor pre stretnutie celého stavebného a [...] \\n\n\nhttps://www.sopk.sk/event/stavebny-veltrh-brno-2026/
-DTEND:20260328T225959Z
-DTSTART:20260324T230000Z
-SUMMARY:🟧 [SOPK] STAVEBNÝ VEĽTRH BRNO 2026
-UID:c0f23c764a13fec6a60fb4d468953e816a1c6e86@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Pozývame Vás na B2B matchmakingové podujatie Contact-Contract 2025\, ktoré sa tradične koná na Medzinárodnom priemyselnom veľtrhu v Brne od 7. do 10. októbra 2025. Toto matchmakingové podujatie vám dáva jedinečnú príležitosť zvýšiť vašu [...] \\n\n\nhttps://www.sopk.sk/event/contact-contract-2025/
 DTEND:20251010T100000Z
 DTSTART:20251007T060000Z
@@ -463,6 +447,14 @@ DTEND:20260210T140000Z
 DTSTART:20260210T080000Z
 SUMMARY:🟧 [SOPK] Webinár: Uhlíkové clo a mechanizmus CBAM (Carbon Border Adjustment Mechanism)
 UID:113f6cf45aafa426d11d2e298eae6d963375f28b@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+CATEGORIES:ICKK
+DESCRIPTION:Slovensko a špeciálne náš východný región zažije v máji niečo\, čo tu doteraz nebolo. Inšpirovaní...\n\nhttps://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichádza historicky prvý Innovation and Tech Week!
+UID:de638c27702cdbc88abeeeea59a6acd66b901226@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
@@ -673,7 +665,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 CATEGORIES:ICKK
-DESCRIPTION:Máš nápad\, ktorý by mohol zmeniť tvoje okolie\, zjednodušiť ľuďom život alebo priniesť revolučnú...\n\nhttps://ickk.sk/2026/03/03/ziskaj-20-000-eur-pre-svoj-startup-founders-challenge-startuje-novy-rocnik/
+DESCRIPTION:https://ickk.sk/2026/03/03/ziskaj-20-000-eur-pre-svoj-startup-founders-challenge-startuje-novy-rocnik/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Získaj 20 000 EUR pre svoj startup: Founders Challenge štartuje nový ročník!
 UID:2ee7dfcc278dbe99189d9bbc17ed8e7c41b1a12d@cike-events
@@ -710,14 +702,6 @@ LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20250610T070000Z
 SUMMARY:🟧 [SOPK] ONLINE seminár: INCOTERMS 2020: Nové pravidlá – staré problémy
 UID:a4cb424546a860e7f5fc9af7d27614bf0e4944d3@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Program:   9:00 – 10:30  (pripojenie od 8:45) Úvod Časová os CBAM (prechod z prechodného na riadne obdobie) Zmeny v nariadení CBAM Zánik povinností CBAM Schválený deklarant CBAM Overovanie CBAM emisií vs. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-cbam-uhlikove-clo-zmeny-2026-2/
-DTEND:20260325T093000Z
-DTSTART:20260325T080000Z
-SUMMARY:🟧 [SOPK] Webinár: CBAM &#8211\; UHLÍKOVÉ CLO ZMENY 2026
-UID:1a4cf78bf7052e13dd1589ce3fb5b2b3de214afb@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -832,6 +816,15 @@ DTEND:20251120T133000Z
 DTSTART:20251120T080000Z
 SUMMARY:🟧 [SOPK] webinár Zákon o dani z príjmov\, závislá činnosť
 UID:8d819fa5a9a80a200126aa669503c104d7e54a4a@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Cieľom seminára je oboznámiť účastníkov s colnými predpismi uplatňovanými v praxi a podať informácie\, ktoré pomôžu orientovať sa v colnej problematike a komunikovať s obchodnými partnermi. Program:   9:00 – 14:00    (prezencia od 8.30)  Colné režimy Colné konanie - [...] \\n\n\nhttps://www.sopk.sk/event/colna-problematika-pre-rok-2026-v-kocke/
+DTEND:20260429T120000Z
+LOCATION:Žilina\, SOPK RK\, Hálkova 31\, Žilina\, 01001
+DTSTART:20260429T070000Z
+SUMMARY:🟧 [SOPK] COLNÁ PROBLEMATIKA PRE ROK 2026 V KOCKE
+UID:e4b829de8fda4742461b29d505a1b1a304579212@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1479,6 +1472,15 @@ DESCRIPTION:HR Learning Circle in Košice\n\nhttps://amcham.sk/events/3570/socia
 LOCATION:Univerzitný vedecký park TECHNICOM\, Galéria room\, Boženy Němcovej 5\, Košice
 SUMMARY:🟢 [AMCHAM] Social Dialogue That Works: Law\, Tactics & Practice
 UID:ee690a8c5bc67e832f8be26c127b94df29ee496a@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trnavská regionálna komora SOPK organizuje 20.mája 2026 prezenčný odborný seminár zameraný na najnovšie trendy v oblasti SEO\, GEO a AI optimalizácie. Podujatie je určené pre podnikateľov\, marketingových manažérov a všetkých\, ktorí [...] \\n\n\nhttps://www.sopk.sk/event/trnavska-regionalna-komora-sopk-pripravuje-odborny-seminar-o-najnovsich-trendoch-v-seo-a-ai-optimalizacii/
+DTEND:20260520T100000Z
+LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 91701
+DTSTART:20260520T080000Z
+SUMMARY:🟧 [SOPK] Trnavská regionálna komora SOPK pripravuje odborný seminár o najnovších trendoch v SEO a AI optimalizácii
+UID:db14d7916a913109580660ebd11cb5d6a5b0e8a4@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
