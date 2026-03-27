@@ -74,6 +74,14 @@ SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
 UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251110
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Slovak Startup Bootcamp NYC: Košické startupy v centre svetových inovácií
+UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architektúry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefity/
 DTEND:20260206T160000Z
@@ -105,14 +113,6 @@ DESCRIPTION:"Líderské jednohubky" by SUVKO\n\nhttps://amcham.sk/events/3639/ho
 LOCATION:The Spot\, Bottova 2\, Bratislava
 SUMMARY:🟢 [AMCHAM] How to create an experiential teambuilding that truly makes a difference?
 UID:08987ff8c593a40f6afc3e9eae9bbdc458d19c4a@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Moldavskou obchodnou a priemyselnou komorou\, agentúrou SARIO\, Kanceláriou prezidenta SR a Ministerstvom zahraničných vecí a európskych záležitostí SR spoluorganizujú Slovensko-moldavské podnikateľské fórum pri [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-slovensko-moldavske-podnikatelske-forum-a-b2b/
-DTEND:20260326T225959Z
-DTSTART:20260325T230000Z
-SUMMARY:🟧 [SOPK] Pozvánka na Slovensko-moldavské podnikateľské fórum a B2B
-UID:ae083be096f636dad4d30bf7ee2cea9da5a07273@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -179,14 +179,6 @@ SUMMARY:🟧 [SOPK] webinár DOHODY\, SEZÓNNA PRÁCA
 UID:480e22ecb51b59cb31703b86e86729fbf68877f1@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260326
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by Hillbridges\n\nhttps://amcham.sk/events/3627/step-bratislava-conference-2026
-LOCATION:Reduta Slovenskej filharmónie\, Námestie E. Suchoňa 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] STEP Bratislava Conference 2026
-UID:32436f280ef2a131b99851e4eec5feb09ad3e63b@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926
 CATEGORIES:AMCHAM
 DESCRIPTION:Climate Talks / Online Discussion\n\nhttps://amcham.sk/events/3540/live-from-nyc-actions-for-a-sustainable-future
@@ -198,6 +190,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
 CATEGORIES:AMCHAM
 DESCRIPTION:Be the first to hear about AmCham achievements and activities in 2025.\n\nhttps://amcham.sk/events/3598/general-assembly-2026
+LOCATION:AmCham
 SUMMARY:🟢 [AMCHAM] General Assembly 2026
 UID:fe4951b18a106a47d6875f187b7934bc08fa9b61@cike-events
 END:VEVENT
@@ -383,15 +376,6 @@ SUMMARY:🟧 [SOPK] Black Sea MultiSector Virtual B2B Event 2025
 UID:4ef81902a5ce87f732256f7a2cef396a172e0cc3@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Národné kompetenčné centrá pre vysokovýkonné počítanie (HPC) na Slovensku\, v Rakúsku a v Českej republike vás pozývajú na odbornú prednášku o tom\, ako vysokovýkonné počítanie (HPC) môžu podporiť digitálnu forenziku v [...] \\n\n\nhttps://www.sopk.sk/event/webinar-digitalna-forenzika-v-ere-velkych-dat/
-DTEND:20250505T100000Z
-LOCATION:Online
-DTSTART:20250505T090000Z
-SUMMARY:🟧 [SOPK] Webinár &#8211\; Kyberbezpečnosť: Digitálna forenzika v ére veľkých dát
-UID:c90b3994a3114c4f39512ed675fe97b5257273c9@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260520
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events/3624/hiring-non-eu-talent-a-guide-to-immigration-options
@@ -447,14 +431,6 @@ DTEND:20260210T140000Z
 DTSTART:20260210T080000Z
 SUMMARY:🟧 [SOPK] Webinár: Uhlíkové clo a mechanizmus CBAM (Carbon Border Adjustment Mechanism)
 UID:113f6cf45aafa426d11d2e298eae6d963375f28b@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260323
-CATEGORIES:ICKK
-DESCRIPTION:Slovensko a špeciálne náš východný región zažije v máji niečo\, čo tu doteraz nebolo. Inšpirovaní...\n\nhttps://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichádza historicky prvý Innovation and Tech Week!
-UID:de638c27702cdbc88abeeeea59a6acd66b901226@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
@@ -606,7 +582,7 @@ UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Téma: Aktiuálne nielen z oblasti daní (seminár) Kedy:  9.4.2026 od 9:00-11:00 Kde: UVP Technicom\, B. Němcovej 5\, Košice Lektori: Valéria Mortaniková Katarina Mikovinyová Podtémy: Aké nové pravidlá platia pre odpočítanie DPH [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
+DESCRIPTION:Téma: Aktuálne nielen z oblasti daní Kedy:  9.4.2026 od 9:00-11:00 Kde: UVP Technicom\, B. Němcovej 5\, Košice Lektori: Valéria Mortaniková Katarina Mikovinyová Podtémy: Aké nové pravidlá platia pre odpočítanie DPH pri [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
 DTEND:20260409T090000Z
 LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20260409T070000Z
@@ -665,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2026/03/03/ziskaj-20-000-eur-pre-svoj-startup-founders-challenge-startuje-novy-rocnik/
+DESCRIPTION:Máš nápad\, ktorý by mohol zmeniť tvoje okolie\, zjednodušiť ľuďom život alebo priniesť revolučnú...\n\nhttps://ickk.sk/2026/03/03/ziskaj-20-000-eur-pre-svoj-startup-founders-challenge-startuje-novy-rocnik/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Získaj 20 000 EUR pre svoj startup: Founders Challenge štartuje nový ročník!
 UID:2ee7dfcc278dbe99189d9bbc17ed8e7c41b1a12d@cike-events
@@ -778,6 +754,14 @@ UID:185e1172a3a31c7319f33069ed21dd9665a96723@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Vážený členovia Sekcie kybernetickej bezpečnosti a digitalizácie\, SOPK a milí obchodní partneri\, srdečne vás pozývame na online seminár Ako sa v praxi hľadá útočník kybernetického útoku\, ktorý sa uskutoční dňa 10.4.2026 od [...] \\n\n\nhttps://www.sopk.sk/event/seminar-ako-sa-v-praxi-hlada-utocnik-kybernetickeho-utoku/
+DTEND:20260410T120000Z
+DTSTART:20260410T110000Z
+SUMMARY:🟧 [SOPK] Seminár: Ako sa v praxi hľadá útočník kybernetického útoku
+UID:174ed140b14f0e3e35e8ffa70188b195bcad7518@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Organizátor: SOPK Partneri: • Národní klastrová asociace • Stredoeurópske zoskupenie CEDEG • a ďalší Termín: 8.4. 2026   Čas: 9.00 – 14.00 h    Miesto: hotel Elizabeth\, Trenčín Konferencia bude venovaná praktickým riešeniam\, [...] \\n\n\nhttps://www.sopk.sk/event/kyberneticka-bezpecnost-v-regionoch-zapadne-slovensko/
 DTEND:20260408T215959Z
 LOCATION:hotel Elizabeth\, Trenčín
@@ -802,29 +786,12 @@ SUMMARY:🟢 [AMCHAM] From Training to Impact: Turning Development into Everyday
 UID:56e7e98df1e253e46e45827818213ffd169413ea@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250326
-CATEGORIES:AMCHAM
-DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3459/trust-corporate-ethics-workplace-investigations-hr-level-up
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Trust\, Corporate Ethics\, Workplace Investigations – HR Level up!
-UID:481fba4bdf664e24c4b50f04505508bd9ddb6121@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Nitrianska regionálna komora SOPK Vás 20.11.2025 od 09:00 - 14:30 hod pozýva na webinár Zákon o dani z príjmov\, závislá činnosť   Kód:  20251120   Pozývame Vás na webinár\, ktorý organizujeme [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-dani-z-prijmov-zavisla-cinnost/
 DTEND:20251120T133000Z
 DTSTART:20251120T080000Z
 SUMMARY:🟧 [SOPK] webinár Zákon o dani z príjmov\, závislá činnosť
 UID:8d819fa5a9a80a200126aa669503c104d7e54a4a@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Cieľom seminára je oboznámiť účastníkov s colnými predpismi uplatňovanými v praxi a podať informácie\, ktoré pomôžu orientovať sa v colnej problematike a komunikovať s obchodnými partnermi. Program:   9:00 – 14:00    (prezencia od 8.30)  Colné režimy Colné konanie - [...] \\n\n\nhttps://www.sopk.sk/event/colna-problematika-pre-rok-2026-v-kocke/
-DTEND:20260429T120000Z
-LOCATION:Žilina\, SOPK RK\, Hálkova 31\, Žilina\, 01001
-DTSTART:20260429T070000Z
-SUMMARY:🟧 [SOPK] COLNÁ PROBLEMATIKA PRE ROK 2026 V KOCKE
-UID:e4b829de8fda4742461b29d505a1b1a304579212@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1368,19 +1335,20 @@ UID:d3f9e9d6eed2ce090ca620a32ae2d7d3775cb051@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Žilinská regionálna komora SOPK si Vás dovoľuje pozvať na bezplatný webinár ĽAHŠIA CESTA K ÚVEROM - prvé online centrum financovania podnikateľov - Pontefin. - Pontefin prináša podnikateľom unikátny prístup k financiám\, - [...] \\n\n\nhttps://www.sopk.sk/event/webinar-lahsia-cesta-k-uverom/
-DTEND:20260326T110000Z
-DTSTART:20260326T090000Z
-SUMMARY:🟧 [SOPK] Webinár: ĽAHŠIA CESTA K ÚVEROM
-UID:d7c0d966aff574edd8dc90c38c486dda1966aee9@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Veľtrh DroneTech World Meeting sa koná už po desiatykrát a má bohatú históriu spájania medzinárodnej skupiny investorov\, podnikateľov\, vedcov a nadšencov všetkého\, čo súvisí s najnovšími bezpilotnými technológiami. PRE KOHO? * [...] \\n\n\nhttps://www.sopk.sk/event/dronetech-2025-b2b-hybrid-matchmaking-event/
 DTEND:20251031T160000Z
 DTSTART:20251029T083000Z
 SUMMARY:🟧 [SOPK] DRONETECH 2025 B2B Hybrid Matchmaking Event
 UID:4e9959e4812d5d7dc8f90b1b168505ec02382b5c@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Cieľom seminára je oboznámiť účastníkov s colnými predpismi uplatňovanými v praxi a podať informácie\, ktoré pomôžu orientovať sa v colnej problematike a komunikovať s obchodnými partnermi. Program:   9:00 – 14:00    (prezencia od 8.30)  Colné režimy Colné konanie - [...] \\n\n\nhttps://www.sopk.sk/event/colna-problematika-pre-rok-2026-v-kocke/
+DTEND:20260429T120000Z
+LOCATION:Žilina\, SOPK RK\, Hálkova 31\, Žilina\, 01001
+DTSTART:20260429T070000Z
+SUMMARY:🟧 [SOPK] Seminár: COLNÁ PROBLEMATIKA PRE ROK 2026 V KOCKE
+UID:58eb26abc8f2641ef2c9c138237fae4bc5186e3d@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
