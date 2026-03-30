@@ -74,14 +74,6 @@ SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
 UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251110
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/10/slovak-startup-bootcamp-nyc-kosicke-startupy-v-centre-svetovych-inovacii/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Slovak Startup Bootcamp NYC: Košické startupy v centre svetových inovácií
-UID:1d97411c238eccdc41c1850cf7cde5693f7516ae@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architektúry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefity/
 DTEND:20260206T160000Z
@@ -433,6 +425,14 @@ SUMMARY:🟧 [SOPK] Webinár: Uhlíkové clo a mechanizmus CBAM (Carbon Border A
 UID:113f6cf45aafa426d11d2e298eae6d963375f28b@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260323
+CATEGORIES:ICKK
+DESCRIPTION:Slovensko a špeciálne náš východný región zažije v máji niečo\, čo tu doteraz nebolo. Inšpirovaní...\n\nhttps://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichádza historicky prvý Innovation and Tech Week!
+UID:de638c27702cdbc88abeeeea59a6acd66b901226@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260209
 CATEGORIES:AMCHAM
 DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3602/speed-business-meeting
@@ -641,7 +641,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 CATEGORIES:ICKK
-DESCRIPTION:Máš nápad\, ktorý by mohol zmeniť tvoje okolie\, zjednodušiť ľuďom život alebo priniesť revolučnú...\n\nhttps://ickk.sk/2026/03/03/ziskaj-20-000-eur-pre-svoj-startup-founders-challenge-startuje-novy-rocnik/
+DESCRIPTION:https://ickk.sk/2026/03/03/ziskaj-20-000-eur-pre-svoj-startup-founders-challenge-startuje-novy-rocnik/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Získaj 20 000 EUR pre svoj startup: Founders Challenge štartuje nový ročník!
 UID:2ee7dfcc278dbe99189d9bbc17ed8e7c41b1a12d@cike-events
