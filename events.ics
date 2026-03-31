@@ -582,7 +582,7 @@ UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Téma: Aktuálne nielen z oblasti daní Kedy:  9.4.2026 od 9:00-11:00 Kde: UVP Technicom\, B. Němcovej 5\, Košice Lektori: Valéria Mortaniková\, Deloitte Tax s.r.o. Katarina Mikovinyová\, Deloitte Tax s.r.o. Podtémy: Aké nové [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
+DESCRIPTION:Téma: Aktuálne nielen z oblasti daní Kedy:  9.4.2026 od 9:00-11:00 Kde: UVP Technicom\, B. Němcovej 5\, Košice Lektori: Valéria Morťaniková\, Deloitte Tax s.r.o. Katarina Mikovinyová\, Deloitte Tax s.r.o. Podtémy: Aké nové [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
 DTEND:20260409T090000Z
 LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20260409T070000Z
@@ -894,7 +894,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Žilinská regionálna komora SOPK a Slovensko-poľská obchodná komora si Vás dovoľujú pozvať na seminár HOTELIERSTVO SÚČASNOSTI Termín: 27. apríl 2026 od 9:30 hod. Miesto:  Žilinská regionálna komora SOPK\, Hálkova 31\, Žilina [...] \\n\n\nhttps://www.sopk.sk/event/hotelierstvo-sucasnosti/
 DTEND:20260427T120000Z
-LOCATION:Žilina\, SOPK RK\, Hálkova 31\, Žilina\, 01001
 DTSTART:20260427T070000Z
 SUMMARY:🟧 [SOPK] HOTELIERSTVO SÚČASNOSTI
 UID:dff4769f41ce91d3260d8eff2761a3ed77229ad2@cike-events
@@ -1089,6 +1088,14 @@ SUMMARY:🟧 [SOPK] Webinár: Prečo sa súdiť\, keď sa viete dohodnúť? Ako 
 UID:e1cadd1b491578ead3e847e9a170f274b8505f47@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260424
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3641/beyond-earth-how-space-research-is-transforming-the-future-of-medicine
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Beyond Earth: How Space Research Is Transforming the Future of Medicine?
+UID:913de846f6e2883e44d3c8db648714db2cdb5d9b@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Trnavská regionálna komora SOPK vás pozýva na praktický seminár zameraný na moderné prezentačné a komunikačné zručnosti. Objavíte techniky\, ktoré vám pomôžu vystupovať sebaistejšie\, presvedčivejšie a zapamätateľnejšie – či už prezentujete pred [...] \\n\n\nhttps://www.sopk.sk/event/seminar-trnavskej-regionalnej-komory-sopk-prezentuj-ako-lider-prezentuj-ako-profesional/
 DTEND:20260422T123000Z
@@ -1096,6 +1103,23 @@ LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 91701
 DTSTART:20260422T073000Z
 SUMMARY:🟧 [SOPK] Seminár Trnavskej regionálnej komory SOPK: Prezentuj ako líder\, prezentuj ako profesionál.
 UID:dc8dc443be8f909bd194d34b31afc3671efadbd8@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digitálnou koalíciou Vás pozývajú na workshop "Fórum digitálnej transformácie – podporíme Vaše zmeny našimi projektami". Digitálna koalícia je národná iniciatíva\, ktorá bola založená [...] \\n\n\nhttps://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase-zmeny-nasimi-projektami/
+DTEND:20260416T120000Z
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DTSTART:20260416T080000Z
+SUMMARY:🟧 [SOPK] Fórum digitálnej transformácie – podporíme Vaše zmeny našimi projektami
+UID:e67b8966043edd0af1b1468eaade95d692f04548@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+CATEGORIES:AMCHAM
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3640/e-invoicing-in-slovakia-prepare-for-mandatory-go-live
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia: Prepare for Mandatory Go Live
+UID:e30031ebc22b3c25be492e5c4112ea88878e2f80@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260325
@@ -1246,14 +1270,6 @@ SUMMARY:🟧 [SOPK] webinár Dohody a sezónna práca
 UID:c94104d2e85bff9bff4a3564387241a394128709@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Fórum o obnove Ukrajiny\, ktoré organizuje ADVANTAGE AUSTRIA v spolupráci s Európskou komisiou a sieťou Enterprise Europe Network\, ponúka spoločnostiam platformu\, kde sa môžu dozvedieť viac o podpore Európskej únie pri obnove [...] \\n\n\nhttps://www.sopk.sk/event/forum-o-obnove-ukrajiny/
-DTEND:20250509T170000Z
-DTSTART:20250506T060000Z
-SUMMARY:🟧 [SOPK] Fórum o obnove Ukrajiny
-UID:1edae2085a4abcb2fc3a4d48939938a80e2b0c07@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
 CATEGORIES:AMCHAM
 DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3536/transform-your-business-sustainability-business-simulation
@@ -1337,7 +1353,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Cieľom seminára je oboznámiť účastníkov s colnými predpismi uplatňovanými v praxi a podať informácie\, ktoré pomôžu orientovať sa v colnej problematike a komunikovať s obchodnými partnermi. Program:   9:00 – 14:00    (prezencia od 8.30)  Colné režimy Colné konanie - [...] \\n\n\nhttps://www.sopk.sk/event/colna-problematika-pre-rok-2026-v-kocke/
 DTEND:20260429T120000Z
-LOCATION:Žilina\, SOPK RK\, Hálkova 31\, Žilina\, 01001
 DTSTART:20260429T070000Z
 SUMMARY:🟧 [SOPK] Seminár: COLNÁ PROBLEMATIKA PRE ROK 2026 V KOCKE
 UID:58eb26abc8f2641ef2c9c138237fae4bc5186e3d@cike-events
@@ -1373,6 +1388,15 @@ DESCRIPTION:https://amcham.sk/events/3600/the-ceo-learning-circle
 LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] The CEO Learning Circle
 UID:2d1337e6754643766ec3b90dc2feefbafb19cde3@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Etické využívanie AI nástrojov – odborný seminár v Trnave Trnavská regionálna komora SOPK pozýva odbornú aj laickú verejnosť na prezenčný seminár „Etické využívanie AI nástrojov“\, ktorý sa uskutoční 30. apríla 2026 [...] \\n\n\nhttps://www.sopk.sk/event/eticke-vyuzivanie-ai-nastrojov-odborny-seminar-v-trnave/
+DTEND:20260430T100000Z
+LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 91701
+DTSTART:20260430T080000Z
+SUMMARY:🟧 [SOPK] Etické využívanie AI nástrojov – odborný seminár v Trnave
+UID:ca4cc5d7665003171c5973ad980d72c5f8ed162c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
