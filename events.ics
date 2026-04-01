@@ -91,9 +91,8 @@ UID:d52b7057bb5368c1ff627e3da3b0febedb057ed1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europe Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy/
+DESCRIPTION:Pozývame vás na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním v praxi\; vedomosti získané v rámci školenia by mali menovaným zaručiť [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy-2/
 DTEND:20251028T130000Z
-LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20251028T073000Z
 SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
 UID:efa4c0037ced44393ed6233c7a4b991cb50722cd@cike-events
@@ -457,6 +456,14 @@ SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
 UID:b790abc63037b332d3b33f4746a80a2c348b7dc8@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:28. apríl 2026\, 14. máj 2026 alebo 17. jún 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikroodvody/
+DTEND:20260428T123000Z
+DTSTART:20260428T070000Z
+SUMMARY:🟧 [SOPK] Webinár: DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA + MIKROODVODY
+UID:97b9faa29d420889bc262998fd3ce92089317b0b@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260123
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3587/mental-stretching-for-hr
@@ -542,19 +549,20 @@ UID:1d2e82c3d11d461c7e215360dcf39a0e6da249ce@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Pozývame vás na kooperačné podujatie Connect2Slovenia: Metal & Plastic\, ktoré sa uskutoční v rámci medzinárodného priemyselného veľtrhu v odvetví spracovania kovov a plastov. Dátum konania: 15. apríl 2026 Miesto konania: Celje\, Slovinsko Registrácia: https://www.b2match.com/e/connect2slovenia-2026-metal-plastic/sign-up/create-account Web stránka podujatia: https://www.b2match.com/e/connect2slovenia-2026-metal-plastic/components/65360 Podujatie [...] \\n\n\nhttps://www.sopk.sk/event/connect2slovenia-2026-metalplastic/
+DTEND:20260415T140000Z
+LOCATION:Celje
+DTSTART:20260415T070000Z
+SUMMARY:🟧 [SOPK] Connect2Slovenia 2026: Metal&amp\;Plastic
+UID:170eb46688bb4d25de22bdf54a0b3322f0bf1b98@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci so Slovensko-rakúskou obchodnou komorou\, Veľvyslanectvom SR vo Viedni a agentúrou SARIO vás pozývajú na jedinečné podujatie zamerané na verejné obstarávanie v štruktúrach OSN. Tento odborný [...] \\n\n\nhttps://www.sopk.sk/event/medzinarodny-seminar-o-verejnom-obstaravani-v-agenturach-osn-spojeny-s-one-to-one-rokovaniami-s-nakupcami-agentur/
 DTEND:20260610T150000Z
 DTSTART:20260609T060000Z
 SUMMARY:🟧 [SOPK] Medzinárodný seminár o verejnom obstarávaní v agentúrach OSN spojený s one-to-one rokovaniami s nákupcami agentúr
 UID:115b2350b6325e6bcb73adda964e18245ec83d2a@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov organizujú pracovno-priateľské stretnutie lídrov regiónu – primátorov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:00 Miesto:  Mestský úrad Trebišov\, [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu/
-DTEND:20251125T140000Z
-DTSTART:20251125T120000Z
-SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
-UID:312788d08eec648aefd99d1266397ec454cbbfe0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -571,6 +579,14 @@ DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Prosper
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
 UID:7b9fd1bd955adabbdeacb629489f0414b4a9aba6@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov organizujú pracovno-priateľské stretnutie lídrov regiónu – primátorov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:00 Miesto:  Mestský úrad Trebišov\, [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu/
+DTEND:20251125T140000Z
+DTSTART:20251125T120000Z
+SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
+UID:312788d08eec648aefd99d1266397ec454cbbfe0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -663,6 +679,13 @@ SUMMARY:🟢 [AMCHAM] Arbitration Conference
 UID:f4aef780775f09cee48fe67659d27594d06bc591@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3643/employment-of-displaced-people-from-ukraine-and-people-at-risk-of-social-exclusion
+SUMMARY:🟢 [AMCHAM] Employment of Displaced People from Ukraine and People at Risk of Social Exclusion
+UID:e969393cee8d8b8e88f53808ee184b9733c46d54@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250411
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3479/a-second-wind-in-your-career-opportunities-and-possibilities-for-50-professionals
@@ -686,6 +709,14 @@ DTEND:20250604T140000Z
 DTSTART:20250604T070000Z
 SUMMARY:🟧 [SOPK] Colné predpisy v praxi
 UID:5daa22b736aa4b24904ad3aa054aaaea87b11fc5@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:16.4.26 – Práca zamestnancov dňa 8. mája 2026 26.5.26 – Pracovná zmluva a pracovný čas 27.5.26 – Dovolenka a prekážky v práci 28.5.26 – Mzda\, príplatky ku mzde\, príspevok na rekreáciu [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakonnik-prace/
+DTEND:20260416T123000Z
+DTSTART:20260416T070000Z
+SUMMARY:🟧 [SOPK] Webinár: ZÁKONNÍK PRÁCE
+UID:21853ef4983739534ab8e3a4179dfb62405391c3@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
@@ -727,14 +758,6 @@ LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
 DTSTART:20251113T080000Z
 SUMMARY:🟧 [SOPK] SWISS DAY 2025 …. vzdelávanie\, inovácie\, spolupráca
 UID:d96d7a9eeb717bdeced6f7e15472fd63a6d75805@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250331
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3476/new-construction-law-its-impacts-on-pending-and-future-projects
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] New Construction Law & Its Impacts on Pending and Future Projects
-UID:baba1edc0fb7edfe0537122c1a0dbcfda9924595@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260309
@@ -850,6 +873,14 @@ SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Košice
 UID:7cc4436b0e1edade51330faee70cc3eae511b490@cike-events
 END:VEVENT
 BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:16. alebo 17 apríla 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia bude otvorená od 8:30. Program: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026/
+DTEND:20260416T113000Z
+DTSTART:20260416T070000Z
+SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
+UID:e42176ac901119e65dd25cc3533790ad1473810f@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3557/ai-agents-when-efficiency-meets-creativity
@@ -905,6 +936,14 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3581/navigating-change-coaching
 LOCATION:The Spot Cowork \, 8th floor\, Skypark\, Bottova 2/A\, Bratislava
 SUMMARY:🟢 [AMCHAM] Navigating Change: Coaching Teams in an Age of Technology and Turbulence
 UID:bb8dc1e2c00db03438937d2823593dd7df332794@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260428
+CATEGORIES:AMCHAM
+DESCRIPTION:Presentation\n\nhttps://amcham.sk/events/3642/innovating-the-city-mibs-role-in-bratislavas-urban-transformation
+LOCATION:Štúrova 4\, Bratislava
+SUMMARY:🟢 [AMCHAM] Innovating the City: MIB’s Role in Bratislava’s Urban Transformation
+UID:6f823c5fa9f74c3b1bab14803c1db60e552b9f77@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
@@ -1029,14 +1068,6 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3616/how-to-recharge-your-batte
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] How To Recharge Your Batteries — Without Regret
 UID:6deb48b835e23e332832862ab5e45b1a29a70950@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 13.5.2025 od 09:00 - 14:30 hod pozýva na webinár PRACOVNÁ ZMLUVA\, PRACOVNÝ ČAS Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-pracovna-zmluva-pracovny-cas/
-DTEND:20250513T123000Z
-DTSTART:20250513T070000Z
-SUMMARY:🟧 [SOPK] webinár PRACOVNÁ ZMLUVA\, PRACOVNÝ ČAS
-UID:5dae3129b64f5935f226ef37d4c583b952dfc882@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1276,6 +1307,15 @@ DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3536/transform-you
 LOCATION:The Spot Cowork\, 7th floor\, Bottova 2/A\, Bratislava
 SUMMARY:🟢 [AMCHAM] Transform Your Business - Sustainability Business Simulation
 UID:c8db44c0c5c3a56f78662490a835e6bf7e63ea85@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Technology & Business Cooperation Days at HANNOVER MESSE 2026 poskytujú hybridnú medzinárodnú platformu na nadväzovanie kontaktov\, ktorá spája malé a stredné podniky a výskumné organizácie. Ročník 2026 sa zameriava na kľúčové [...] \\n\n\nhttps://www.sopk.sk/event/technology-business-cooperation-days-hannover-messe-2026/
+DTEND:20260423T215959Z
+LOCATION:Hannover
+DTSTART:20260419T220000Z
+SUMMARY:🟧 [SOPK] Technology &amp\; Business Cooperation Days @ HANNOVER MESSE 2026
+UID:b597bd24847d29150674441768ec97ad96091049@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250613
