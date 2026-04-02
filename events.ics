@@ -181,7 +181,6 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260428
 CATEGORIES:AMCHAM
 DESCRIPTION:Be the first to hear about AmCham achievements and activities in 2025.\n\nhttps://amcham.sk/events/3598/general-assembly-2026
-LOCATION:AmCham
 SUMMARY:🟢 [AMCHAM] General Assembly 2026
 UID:fe4951b18a106a47d6875f187b7934bc08fa9b61@cike-events
 END:VEVENT
@@ -226,12 +225,36 @@ SUMMARY:🟧 [SOPK] Granty 2026: Ako získať financovanie ochrany DV pre Vašic
 UID:79526ac01f83e620dcaf6b6a5ba25d0af35d4fa9@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3648/a-carbon-neutral-future-for-businesses-and-new-regulatory-requirements-in-2026
+LOCATION:KPMG Conference Centre or ONLINE
+SUMMARY:🟢 [AMCHAM] A Carbon-Neutral Future for Businesses and New Regulatory Requirements in 2026
+UID:8575cae926bf128db8df0a7e1c1bfce5bb77e6fe@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Zákon významne znižuje administratívnu záťaž pre občanov\, stavebníkov\, podnikateľov\, developerov\, štát a stavebné úrady. Zjednodušuje celý proces povoľovania a realizácie stavieb\, od návrhu stavebného zámeru po kolaudáciu. Registrovať sa môžete TU [...] \\n\n\nhttps://www.sopk.sk/event/seminar-novy-stavebny-zakon-c-25-2025-z-z/
 DTEND:20250605T130000Z
 DTSTART:20250605T080000Z
 SUMMARY:🟧 [SOPK] Seminár „Nový stavebný zákon č. 25/2025 Z.z.“
 UID:06ee2229f0eda9f9abe93777a5c92f85d3b92ccf@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3647/kpmg-business-simulation-kpmg-game-of-business
+LOCATION:KPMG Conference Centre\, Dvořákovo nábrežie 10\, Bratislava
+SUMMARY:🟢 [AMCHAM] KPMG Business Simulation – KPMG Game of Business
+UID:a5ff088f69c9653a5bb115ee3f1d6f9cd2e811f0@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260414
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3645/pay-transparency-in-practice-for-hr-new-legislation-and-its-implementation
+LOCATION:KPMG Conference Centre or ONLINE\, Dvořákovo nábrežie 10\, Bratislava
+SUMMARY:🟢 [AMCHAM] Pay transparency in practice for HR: New legislation and its implementation
+UID:484619eff3630ed883309cfd02d73b7ef37d9176@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
@@ -289,6 +312,14 @@ DESCRIPTION:Bloom into Competitiveness / 29th Edition\n\nhttps://amcham.sk/event
 LOCATION:Bratislava Castle\, Bratislava
 SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
 UID:8145450c6453b682b527cf58dd6e89f36b99898c@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Trnavská regionálna komora SOPK zisťuje predbežný záujem slovenských podnikateľov o účasť na pripravovanej obchodnej misii do Turecka (Istanbul)\, ktorá je plánovaná na posledný štvrťrok 2026 (Q4/2026). Podujatie bude organizované v spolupráci [...] \\n\n\nhttps://www.sopk.sk/event/obchodna-misia-do-turecka-istanbul-2026-zistujeme-predbezny-zaujem-slovenskych-firiem/
+DTEND:20261231T160000Z
+DTSTART:20260901T060000Z
+SUMMARY:🟧 [SOPK] Obchodná misia do Turecka (Istanbul) 2026 – zisťujeme predbežný záujem slovenských firiem
+UID:8ca0c1ffd4736103b39235508dbb9aa0a75bdf40@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -382,6 +413,14 @@ LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20251104T080000Z
 SUMMARY:🟧 [SOPK] Káva s Eduardom Burašom a Miroslavom Michalkom
 UID:b97c1413f32cde6a3d4443c07e3e1e2de97ecd5e@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:17. apríla 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia bude otvorená od 8:30. Program: Vysvetlenie pojmov: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026/
+DTEND:20260417T113000Z
+DTSTART:20260417T070000Z
+SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
+UID:3e41e3267b4dc1b14c00e199abb1907ef9b8b8b1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -871,14 +910,6 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3473/speed-bus
 LOCATION:DoubleTree by Hilton Kosice\, Hlavná 1
 SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Košice
 UID:7cc4436b0e1edade51330faee70cc3eae511b490@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:16. alebo 17 apríla 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia bude otvorená od 8:30. Program: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026/
-DTEND:20260416T113000Z
-DTSTART:20260416T070000Z
-SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
-UID:e42176ac901119e65dd25cc3533790ad1473810f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
@@ -1473,6 +1504,14 @@ SUMMARY:🟧 [SOPK] Business raňajky: Nová forma investičnej pomoci pre podni
 UID:ebd2c20a06bffd6cf7e245ba3a7ea0786c04e796@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260415
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Forvis Mazars\n\nhttps://amcham.sk/events/3644/equal-pay-as-an-opportunity
+LOCATION:Free online webinar
+SUMMARY:🟢 [AMCHAM] Equal pay as an opportunity
+UID:379a28b4c4203f2133e4d1f4fd7a1693193e62d2@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250919
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by the Association Chamber of Chambers (CHAMCHAM)\n\nhttps://amcham.sk/events/3525/golftrophy-2025
@@ -1537,6 +1576,14 @@ DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-stayin
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] ESG in Transition: Staying Ahead in a Changing World
 UID:34fc3578df3468877c65f2662c6a8736a04ced0f@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260421
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3646/power-bi-course
+LOCATION:KPMG Conference Centre\, Dvořákovo nábrežie 10\, Bratislava
+SUMMARY:🟢 [AMCHAM] Power BI course
+UID:30e99805c5b9c1fe478038378935ab9fc3b80fa3@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
