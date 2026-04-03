@@ -146,6 +146,14 @@ SUMMARY:🟧 [SOPK] Obchodná misia do Albánska
 UID:13c93b358654a0913d52916d3f5861671670144f@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260416
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Mastercard\n\nhttps://amcham.sk/events/3650/mastercard-cyber-crisis-simulation-ccx-resilience-in-action
+LOCATION:Jurkovičova Tepláreň\, Bratislava
+SUMMARY:🟢 [AMCHAM] Mastercard Cyber Crisis Simulation (CCX): Resilience in Action
+UID:fde4abe8ad78586be4d577eb500f1bf66d583d9a@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260903
 CATEGORIES:AMCHAM
 DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3604/welcome-back-to-work
@@ -888,14 +896,6 @@ SUMMARY:🟢 [AMCHAM] How To Avoid Discrimination Of 50+ And Harness Their Poten
 UID:53a37e4ddf09cbcfa296532cc8c1258a0947c85b@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250402
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by SOPK in cooperation with EDIH Cassovium and AmCham Slovakia\n\nhttps://amcham.sk/events/3478/current-tax-challenges-and-new-digital-trends-and-solutions
-LOCATION:Boženy Němcovej 7
-SUMMARY:🟢 [AMCHAM] Current Tax Challenges and New Digital Trends and Solutions
-UID:6613c1313b9f8834054382efcb6aa44f6fc6cdc4@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Vážení členovia obchodnej komory\, v súlade so Stanovami SOPK schválenými Zhromaždením delegátov SOPK dňa 29.4.1999 v Bratislave\, zvoláva Predstavenstvo Prešovskej regionálnej komory Slovenskej obchodnej a priemyselnej komory (PRK SOPK) Valné zhromaždenie PRK SOPK (VZ [...] \\n\n\nhttps://www.sopk.sk/event/valne-zhromazdenie-2026/
 DTEND:20260217T130000Z
@@ -1193,15 +1193,6 @@ UID:46f8406f27376bf32cc6ee82704b78b44b18aee2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozývame vás k návšteve a rokovaniam na veľtrhu Hannover MESSE 2026. Rokovania organizujeme  ako súčasť sprievodného programu Technology & Business Cooperation Days at HANNOVER MESSE 2026. Hlavné inovačné témy sú: • [...] \\n\n\nhttps://www.sopk.sk/event/rokovania-na-hannover-messe/
-DTEND:20260423T215959Z
-LOCATION:Hannover
-DTSTART:20260419T220000Z
-SUMMARY:🟧 [SOPK] Rokovania na HANNOVER MESSE
-UID:9327b151d59c2fb212dfe20e7d5226ed04eb61e9@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý sa bude konať  dňa 18. marca 2026 od 9:00 do 13:00 hod. v zasadačke Banskobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-2/
 DTEND:20260318T120000Z
 LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
@@ -1363,6 +1354,14 @@ DTEND:20251126T210000Z
 DTSTART:20251126T173000Z
 SUMMARY:🟧 [SOPK] All in One Cocktail
 UID:2ee25b91afcfee13c6f59effc2d467f08e990ef2@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260423
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Comenius University Bratislava\, Faculty of Management (FM CU)\n\nhttps://amcham.sk/events/3649/ai-day-2026
+LOCATION:Aula FaF UK\, Faculty of Management\, Odbojárov 10\, Bratislava
+SUMMARY:🟢 [AMCHAM] AI Day 2026
+UID:ab667799479811852d2e913c8890ceb60a0763cf@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
