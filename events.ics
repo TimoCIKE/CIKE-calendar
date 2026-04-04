@@ -904,14 +904,6 @@ SUMMARY:🟧 [SOPK] Valné zhromaždenie PRK SOPK 2026
 UID:c66440f4b47b03de31a5202456aeefe077c3770c@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250403
-CATEGORIES:AMCHAM
-DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3473/speed-business-meeting-in-kosice
-LOCATION:DoubleTree by Hilton Kosice\, Hlavná 1
-SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Košice
-UID:7cc4436b0e1edade51330faee70cc3eae511b490@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251121
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3557/ai-agents-when-efficiency-meets-creativity
