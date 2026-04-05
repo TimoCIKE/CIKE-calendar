@@ -455,14 +455,6 @@ SUMMARY:🟧 [SOPK] Textile Connect 2025
 UID:efcb91138d53d16760ea917c043a3ef6c2ee20f2@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250404
-CATEGORIES:AMCHAM
-DESCRIPTION:HR Learning Circle in Košice\n\nhttps://amcham.sk/events/3467/trust-corporate-ethics-workplace-investigations-hr-level-up
-LOCATION:Kasárne/Kulturpark\, Kukučínova 2
-SUMMARY:🟢 [AMCHAM] Trust\, Corporate Ethics\, Workplace Investigations – HR Level up!
-UID:af57b7f0f2bbdd5d31e6a03ae9945b78b9d2a1cc@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Odborný webinár so zámerom vysvetliť všetky súvislosti nariadenia EP a Rady (EÚ) 2023/956 a vykonávacieho nariadenia Komisie (EÚ) 2023/1773 k mechanizmu uhlíkovej platby na hraniciach (CBAM)\, prevedieme Vás celým mechanizmom prechodného [...] \\n\n\nhttps://www.sopk.sk/event/webinar-uhlikove-clo-a-mechanizmus-cbam-carbon-border-adjustment-mechanism/
 DTEND:20260210T140000Z
