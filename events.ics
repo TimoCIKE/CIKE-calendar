@@ -721,6 +721,7 @@ BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260513
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3643/employment-of-displaced-people-from-ukraine-and-people-at-risk-of-social-exclusion
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Košice
 SUMMARY:🟢 [AMCHAM] Employment of Displaced People from Ukraine and People at Risk of Social Exclusion
 UID:e969393cee8d8b8e88f53808ee184b9733c46d54@cike-events
 END:VEVENT
