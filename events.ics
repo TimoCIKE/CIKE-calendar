@@ -91,8 +91,9 @@ UID:d52b7057bb5368c1ff627e3da3b0febedb057ed1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Pozývame vás na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním v praxi\; vedomosti získané v rámci školenia by mali menovaným zaručiť [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy-2/
+DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europe Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základné princípy) Cieľom školenia je oboznámiť účastníkov s legislatívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-principy/
 DTEND:20251028T130000Z
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20251028T073000Z
 SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
 UID:efa4c0037ced44393ed6233c7a4b991cb50722cd@cike-events
@@ -546,13 +547,12 @@ SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výhoda z
 UID:d5723141c7abb865cc21aae927fc1c7be534b593@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí veľa malých a stredných podnikov (MSP) výzve\, ako implementovať inovácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sopk.sk/event/inovacna-polhodinka-obnovitelne-zdroje-energie-a-znizovanie-energetickej-narocnosti-duplicate-1/
-DTEND:20250515T080000Z
-LOCATION:Online
-DTSTART:20250515T070000Z
-SUMMARY:🟧 [SOPK] Inovačná polhodinka – Dekarbonizácia malých a stredných podnikov &#8211\; Náhradný termín 15.5.2025
-UID:a6bb6b9270b97ef5ac7f4d5436ed78978cb56d1b@cike-events
+DTSTART;VALUE=DATE:20260126
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2026/01/26/startuje-druhy-rocnik-yeslab-ziskaj-podporu-az-5000-eur-a-premen-svoj-napad-v-skutocny-startup/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Štartuje druhý ročník YESLab\, získaj podporu až 5\,000 EUR a premeň svoj nápad v skutočný startup.
+UID:306c3803d9a42bc4096dad566c60671f0080d8bf@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -561,14 +561,6 @@ DTEND:20260112T143000Z
 DTSTART:20260112T080000Z
 SUMMARY:🟧 [SOPK] seminár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na rok 2026
 UID:9ef1233902403054b6024e75a4d7c10749322224@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260126
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2026/01/26/startuje-druhy-rocnik-yeslab-ziskaj-podporu-az-5000-eur-a-premen-svoj-napad-v-skutocny-startup/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Štartuje druhý ročník YESLab\, získaj podporu až 5\,000 EUR a premeň svoj nápad v skutočný startup.
-UID:306c3803d9a42bc4096dad566c60671f0080d8bf@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260417
@@ -634,15 +626,6 @@ DTEND:20250527T100000Z
 DTSTART:20250527T064500Z
 SUMMARY:🟧 [SOPK] Hlavné faktory úspešného riadenia firmy
 UID:cb9960cb1065be4042ca2cd2989020c62462ed95@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Téma: Aktuálne nielen z oblasti daní Kedy:  9.4.2026 od 9:00-11:00 Kde: UVP Technicom\, B. Němcovej 5\, Košice Lektori: Valéria Morťaniková\, Deloitte Tax s.r.o. Katarina Mikovinyová\, Deloitte Tax s.r.o. Podtémy: Aké nové [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
-DTEND:20260409T090000Z
-LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
-DTSTART:20260409T070000Z
-SUMMARY:🟧 [SOPK] Seminár: Aktuálne nielen z oblasti daní
-UID:be814e479bcefa66a9e0ccbfbb84bdd783bc491a@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250626
@@ -741,6 +724,15 @@ LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DTSTART:20250610T070000Z
 SUMMARY:🟧 [SOPK] ONLINE seminár: INCOTERMS 2020: Nové pravidlá – staré problémy
 UID:a4cb424546a860e7f5fc9af7d27614bf0e4944d3@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Vážení a milí záujemcovia o seminár\, je nám veľmi ľúto\, ale sme nútení zrušiť zajtrajší seminár zo zdravotných dôvodov prednášajúcej. Avšak\, Vaše konkrétne otázky budú zodpovedané. Prosíme zašlite ich priamo na [...] \\n\n\nhttps://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani/
+DTEND:20260409T090000Z
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DTSTART:20260409T070000Z
+SUMMARY:🟧 [SOPK] ZRUŠENÉ &#8211\; Seminár: Aktuálne nielen z oblasti daní
+UID:9488705b3c26a036ffdf39b251b310c98e4f84f7@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1348,6 +1340,14 @@ SUMMARY:🟢 [AMCHAM] AI Day 2026
 UID:ab667799479811852d2e913c8890ceb60a0763cf@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260526
+CATEGORIES:AMCHAM
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3652/speed-business-meeting-in-trnava
+LOCATION:Sessler\, Pri kalvárii 17\, Trnava
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Trnava
+UID:7150999454cfe8c8eb1cccb87054c9040d840244@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251204
 CATEGORIES:AMCHAM
 DESCRIPTION:Future-Ready Business: Trust\, Talent & Technology\n\nhttps://amcham.sk/events/3542/amcham-bscf-11th-annual-business-centers-conference
@@ -1361,14 +1361,6 @@ CATEGORIES:AMCHAM
 DESCRIPTION:Be the first to hear about AmCham achievements and activities in 2024.\n\nhttps://amcham.sk/events/3490/general-assembly-2025
 SUMMARY:🟢 [AMCHAM] General Assembly 2025
 UID:b8c9ac514178cb9f2ae94f022af1f9bc2b96c2fc@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250408
-CATEGORIES:AMCHAM
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3483/streamlining-justice-eu-electronic-evidence
-LOCATION:Jurkovičova Tepláreň (2nd floor) + online\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Streamlining Justice: EU Electronic Evidence
-UID:bb86bae93fbefe2eed08678ec18f6e13154b197b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1394,6 +1386,14 @@ DTEND:20261231T160000Z
 DTSTART:20261001T060000Z
 SUMMARY:🟧 [SOPK] Obchodná misia do Indonézie: Zisťujeme predbežný záujem firiem
 UID:d3f9e9d6eed2ce090ca620a32ae2d7d3775cb051@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260514
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Crowdberry\n\nhttps://amcham.sk/events/3651/women-wealth
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Women & Wealth
+UID:6155facb67e6922d3842ca1988f2b17125bd47ec@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
