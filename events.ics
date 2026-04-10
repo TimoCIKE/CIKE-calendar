@@ -2,14 +2,6 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260519
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by Empera consulting\n\nhttps://amcham.sk/events/3638/masterclass-2026-cognitive-empathy-for-better-business-results
-LOCATION:Lab28\, Mlynské Nivy\, Bratislava
-SUMMARY:🟢 [AMCHAM] Masterclass 2026: Cognitive Empathy for Better Business Results
-UID:d2fb34bfa41916b2adf81405bbad21ba6353719a@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251010
 CATEGORIES:AMCHAM
 DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3545/social-dialogue-that-works-law-tactics-practice
@@ -433,6 +425,15 @@ UID:3e41e3267b4dc1b14c00e199abb1907ef9b8b8b1@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
+DESCRIPTION:Textile Connect je online platforma zameraná na budovanie zmysluplných spojení medzi spoločnosťami\, dizajnérmi a výrobnými partnermi v textilnom priemysle. Pri príležitosti jej 7. ročníka vás s potešením pozývame na exkluzívne virtuálne [...] \\n\n\nhttps://www.sopk.sk/event/textile-connect-2026/
+DTEND:20260527T215959Z
+LOCATION:Online
+DTSTART:20260525T220000Z
+SUMMARY:🟧 [SOPK] Textile Connect 2026
+UID:5caaf2c729a7d1a91e2290ae8910adaa32bd4698@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
 DESCRIPTION:Enterprise Europe Network Vás pozýva na matchmakingové podujatie SIRHA BUDAPEST 2026\, ktoré sa koná 3.-5. marca v Budapešti. S 26 000 odbornými návštevníkmi zo 44 krajín je SIRHA BUDAPEST najväčším obchodným fórom pre sektor potravinárstva [...] \\n\n\nhttps://www.sopk.sk/event/kooperacne-podujatie-sirha-budapest-2026/
 DTEND:20260305T160000Z
 DTSTART:20260303T070000Z
@@ -816,15 +817,6 @@ SUMMARY:🟧 [SOPK] Seminár: Ako sa v praxi hľadá útočník kybernetického
 UID:174ed140b14f0e3e35e8ffa70188b195bcad7518@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Organizátor: SOPK Partneri: • Národní klastrová asociace • Stredoeurópske zoskupenie CEDEG • a ďalší Termín: 8.4. 2026   Čas: 9.00 – 14.00 h    Miesto: hotel Elizabeth\, Trenčín Konferencia bude venovaná praktickým riešeniam\, [...] \\n\n\nhttps://www.sopk.sk/event/kyberneticka-bezpecnost-v-regionoch-zapadne-slovensko/
-DTEND:20260408T215959Z
-LOCATION:hotel Elizabeth\, Trenčín
-DTSTART:20260407T220000Z
-SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť v regiónoch- Západné Slovensko 2026
-UID:aee434a178bfaebd9371f837167f0cd8b4428d8a@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260303
 CATEGORIES:AMCHAM
 DESCRIPTION:Part of the Health Care in Transformation Conference\n\nhttps://amcham.sk/events/3612/health-check-day
@@ -1043,14 +1035,6 @@ DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events
 LOCATION:Pro Relocation office\, Svätoplukova 31\, 821 09 Bratislava
 SUMMARY:🟢 [AMCHAM] Managing Info Cards for International Hires in Slovakia
 UID:03f2e12a899ee609914f468053c9d0c9cf4b44fb@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250409
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3451/4th-annual-restructuring-day
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] 4th Annual Restructuring Day
-UID:d374492b551c2c7f97fb003b331822b8905cdf97@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251127
@@ -1340,6 +1324,14 @@ SUMMARY:🟢 [AMCHAM] AI Day 2026
 UID:ab667799479811852d2e913c8890ceb60a0763cf@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260519
+CATEGORIES:AMCHAM
+DESCRIPTION:organized by Empera consulting\n\nhttps://amcham.sk/events/3638/masterclass-cognitive-empathy-for-better-business-results
+LOCATION:Lab28\, Mlynské Nivy\, Bratislava
+SUMMARY:🟢 [AMCHAM] Masterclass Cognitive Empathy for Better Business Results
+UID:8d4b96e515693d9261578c7675faec4a2cabdb46@cike-events
+END:VEVENT
+BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260526
 CATEGORIES:AMCHAM
 DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3652/speed-business-meeting-in-trnava
@@ -1426,6 +1418,14 @@ DTEND:20250611T123000Z
 DTSTART:20250611T070000Z
 SUMMARY:🟧 [SOPK] webinár Daňovo-odvodová optimalizácia 2025
 UID:4531c2b28938291c068a2baa59d47cc76ae05738@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260430
+CATEGORIES:AMCHAM
+DESCRIPTION:webinar organized by DHL Express\n\nhttps://amcham.sk/events/3654/shipping-without-compromise-discover-dhl-special-services
+LOCATION:online
+SUMMARY:🟢 [AMCHAM] Shipping Without Compromise – Discover DHL Special Services
+UID:ff4be3c751eed23611a837e737b6b503862a1c08@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
