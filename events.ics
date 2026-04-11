@@ -163,14 +163,6 @@ SUMMARY:🟧 [SOPK] WEBINÁR: Kultúrne rozdiely v obchodovaní s Čínou
 UID:955e2a2f7c67cc25a74635aa1009e4bb36bc6520@cike-events
 END:VEVENT
 BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 15.5.2025 od 09:00 - 14:30 hod pozýva na webinár DOHODY\, SEZÓNNA PRÁCA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dohody-sezonna-praca/
-DTEND:20250515T123000Z
-DTSTART:20250515T070000Z
-SUMMARY:🟧 [SOPK] webinár DOHODY\, SEZÓNNA PRÁCA
-UID:480e22ecb51b59cb31703b86e86729fbf68877f1@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250926
 CATEGORIES:AMCHAM
 DESCRIPTION:Climate Talks / Online Discussion\n\nhttps://amcham.sk/events/3540/live-from-nyc-actions-for-a-sustainable-future
@@ -192,6 +184,15 @@ DESCRIPTION:Topical Workshop\n\nhttps://amcham.sk/events/3541/building-and-or-us
 LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] Building and/or Use of AI Systems for Medical Professionals
 UID:e173fcfe8a206342cd3b1996b343a34a7cbf9ebe@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:https://www.sopk.sk/event/metal-show-tib/
+DTEND:20260515T215959Z
+LOCATION:Bukurešť
+DTSTART:20260511T220000Z
+SUMMARY:🟧 [SOPK] Save the date: podnikateľská misia METALSHOW &amp\; TIB
+UID:d3cb8dd2e0255dd6fea86b5d8fb2de5ee2bda225@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251002
@@ -467,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
 CATEGORIES:ICKK
-DESCRIPTION:Slovensko a špeciálne náš východný región zažije v máji niečo\, čo tu doteraz nebolo. Inšpirovaní...\n\nhttps://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
+DESCRIPTION:https://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichádza historicky prvý Innovation and Tech Week!
 UID:de638c27702cdbc88abeeeea59a6acd66b901226@cike-events
@@ -841,6 +842,14 @@ SUMMARY:🟧 [SOPK] webinár Zákon o dani z príjmov\, závislá činnosť
 UID:8d819fa5a9a80a200126aa669503c104d7e54a4a@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260513
+CATEGORIES:AMCHAM
+DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3656/equal-pay-for-equal-work-ii-directive-becomes-new-law-in-slovakia
+LOCATION:Jurkovičova Tepláreň (Ground Floor)\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Equal Pay for Equal Work II: Directive becomes new law in Slovakia
+UID:427c3ba41d33a9e1359a1f3e9032e5a178b54c1b@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci so Slovenskou agentúrou pre rozvoj investícií a obchodu (SARIO)\, s Rakúskou hospodárskou komorou WKÖ\, Veľvyslanectvom Slovenskej republiky vo Viedni a Slovensko-rakúskou obchodnou komorou (SOHK) pozýva [...] \\n\n\nhttps://www.sopk.sk/event/kooperacna-burza-s-rakuskymi-obchodnymi-agentmi/
 DTEND:20260318T153000Z
@@ -1035,14 +1044,6 @@ DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/events
 LOCATION:Pro Relocation office\, Svätoplukova 31\, 821 09 Bratislava
 SUMMARY:🟢 [AMCHAM] Managing Info Cards for International Hires in Slovakia
 UID:03f2e12a899ee609914f468053c9d0c9cf4b44fb@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Sweet & Salty ovládol startup VIZI!
-UID:e2253bc819baba9c8eeef0f4dee6c200c909c292@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1314,6 +1315,14 @@ DTEND:20251126T210000Z
 DTSTART:20251126T173000Z
 SUMMARY:🟧 [SOPK] All in One Cocktail
 UID:2ee25b91afcfee13c6f59effc2d467f08e990ef2@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260515
+CATEGORIES:AMCHAM
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3655/why-smart-people-make-bad-decisions-practical-critical-thinking-for-business-professionals
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+SUMMARY:🟢 [AMCHAM] Why Smart People Make Bad Decisions? Practical Critical Thinking for Business Professionals
+UID:81bb597577cc907acd9141d108f99f0c8ea089a0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260423
@@ -1589,6 +1598,14 @@ DTEND:20250527T123000Z
 DTSTART:20250527T070000Z
 SUMMARY:🟧 [SOPK] webinár PRÍSPEVOK NA REKREÁCIU A ĎALŠIE BENEFITY
 UID:13f7bba5de70c39a5938173310d360f6c732cfe0@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+CATEGORIES:ICKK
+DESCRIPTION:Šport bol odjakživa o inštinktoch\, vytrvalosti a tvrdom tréningu. Dnešná doba však ukazuje\, že v...\n\nhttps://ickk.sk/2026/04/09/buducnost-sportu-je-v-datach-ickk-a-ksk-prinasaju-datovu-revoluciu-do-mladeznickeho-sportu-v-kosickom-kraji/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Budúcnosť športu je v dátach: ICKK a KSK prinášajú dátovú revolúciu do mládežníckeho športu v Košickom kraji.
+UID:c495d0f10ba6b4c1f8b79c8ff4ffd8913d7f4d38@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
