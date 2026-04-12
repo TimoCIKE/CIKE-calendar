@@ -711,14 +711,6 @@ SUMMARY:🟢 [AMCHAM] Employment of Displaced People from Ukraine and People at 
 UID:e969393cee8d8b8e88f53808ee184b9733c46d54@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20250411
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3479/a-second-wind-in-your-career-opportunities-and-possibilities-for-50-professionals
-LOCATION:The Spot (HotSpot event space\, 6th floor)\, Bottova 2/A\, Bratislava
-SUMMARY:🟢 [AMCHAM] A Second Wind in Your Career: Opportunities and Possibilities for 50+ Professionals
-UID:b4f609d4aa58499498fffed68efee29ab1297d08@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Slovenská obchodná a priemyselná komora člen siete Enterprise Europe Network Vás pozýva na odborný seminár\, ktorého cieľom  je oboznámiť účastníkov s podstatou pravidiel ICC INCOTERMS so zameraním na INCOTERMS 2020 a [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy/
 DTEND:20250610T110000Z
