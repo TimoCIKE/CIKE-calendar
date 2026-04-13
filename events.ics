@@ -468,7 +468,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
 CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
+DESCRIPTION:Slovensko a špeciálne náš východný región zažije v máji niečo\, čo tu doteraz nebolo. Inšpirovaní...\n\nhttps://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichádza historicky prvý Innovation and Tech Week!
 UID:de638c27702cdbc88abeeeea59a6acd66b901226@cike-events
@@ -1038,6 +1038,14 @@ SUMMARY:🟢 [AMCHAM] Managing Info Cards for International Hires in Slovakia
 UID:03f2e12a899ee609914f468053c9d0c9cf4b44fb@cike-events
 END:VEVENT
 BEGIN:VEVENT
+DTSTART;VALUE=DATE:20251127
+CATEGORIES:ICKK
+DESCRIPTION:https://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Sweet & Salty ovládol startup VIZI!
+UID:e2253bc819baba9c8eeef0f4dee6c200c909c292@cike-events
+END:VEVENT
+BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Medzinárodné bilaterálne stretnutie\, ktoré je bezplatné a je zamerané na textilný/módny sektor a športový dodávateľský reťazec\, sa uskutoční 1. | 2. | 3. júla 2025 súbežne s 10. ročníkom Turínskeho týždňa [...] \\n\n\nhttps://www.sopk.sk/event/b2b-torino-fashion-match-2025/
 DTEND:20250703T150000Z
@@ -1590,14 +1598,6 @@ DTEND:20250527T123000Z
 DTSTART:20250527T070000Z
 SUMMARY:🟧 [SOPK] webinár PRÍSPEVOK NA REKREÁCIU A ĎALŠIE BENEFITY
 UID:13f7bba5de70c39a5938173310d360f6c732cfe0@cike-events
-END:VEVENT
-BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260409
-CATEGORIES:ICKK
-DESCRIPTION:Šport bol odjakživa o inštinktoch\, vytrvalosti a tvrdom tréningu. Dnešná doba však ukazuje\, že v...\n\nhttps://ickk.sk/2026/04/09/buducnost-sportu-je-v-datach-ickk-a-ksk-prinasaju-datovu-revoluciu-do-mladeznickeho-sportu-v-kosickom-kraji/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Budúcnosť športu je v dátach: ICKK a KSK prinášajú dátovú revolúciu do mládežníckeho športu v Košickom kraji.
-UID:c495d0f10ba6b4c1f8b79c8ff4ffd8913d7f4d38@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
