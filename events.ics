@@ -59,11 +59,20 @@ UID:4fa26455faed895081136c7034c47525df6eb2ba@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.5.2025 od 09:00 - 14:30 hod pozýva na webinár MZDA A DOVOLENKA Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná prestávka 11:30-12:00 a dve 10 min. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-mzda-a-dovolenka/
-DTEND:20250519T123000Z
-DTSTART:20250519T070000Z
-SUMMARY:🟧 [SOPK] webinár MZDA A DOVOLENKA
-UID:e370d037cdfbfc753b8350e5d9d02f66bda11d85@cike-events
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „Bankové záruky a colné ručenia od A po Z“\, ktorý sa bude konať dňa 18. mája 2026 od 9:00 do 15:30 hod. v [...] \\n\n\nhttps://www.sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z-2/
+DTEND:20260518T133000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20260518T070000Z
+SUMMARY:🟧 [SOPK] „Bankové záruky a colné ručenia od A po Z“
+UID:abdf57a76ed884b976fe311d927a915fda0dd3d9@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+CATEGORIES:AMCHAM
+DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3657/business-breakfast-navigating-eu-funds-e-invoicing
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
+SUMMARY:🟢 [AMCHAM] Business Breakfast: Navigating EU Funds & E-Invoicing
+UID:885f6062488d4dd060c2eacb0600e4643d5133ff@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -644,6 +653,15 @@ DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3463/summer-innovation-bus
 LOCATION:MINT Pradiareň\, Pradiareň 1900\, Bratislava
 SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
 UID:eb767040df1ce041d34e1d9d5a63525452ca4d12@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na seminár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý sa bude konať  dňa 19. mája 2026 od 9:00 do 13:00 hod. v zasadačke Banskobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-4/
+DTEND:20260519T110000Z
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DTSTART:20260519T070000Z
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy?“
+UID:da5777a1d5728ad34069e1ddc265dabaf515b003@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
