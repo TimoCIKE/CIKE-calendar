@@ -102,7 +102,7 @@ UID:8a15ebc6cb936bdd949882288e56ef6055f4af5f@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251128
-DTEND;VALUE=DATE:20251201
+DTEND;VALUE=DATE:20251130
 CATEGORIES:AMCHAM
 DESCRIPTION:Bloom into Competitiveness / 29th Edition\n\nhttps://amcham.sk/events/3522/thanksgiving-charity-gala-dinner
 LOCATION:Bratislava Castle\, Bratislava
@@ -376,7 +376,7 @@ UID:0b4b12100877444a8861e3e901597e79be3d9723@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260512
-DTEND;VALUE=DATE:20260515
+DTEND;VALUE=DATE:20260514
 CATEGORIES:AMCHAM
 DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3647/kpmg-business-simulation-kpmg-game-of-business
 LOCATION:KPMG Conference Centre\, Dvořákovo nábrežie 10\, Bratislava
@@ -597,7 +597,7 @@ UID:4f927afe8bbafbc811213cd295bf70b66ba4c06c@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20250923
-DTEND;VALUE=DATE:20250926
+DTEND;VALUE=DATE:20250925
 CATEGORIES:ITVALLEY
 DESCRIPTION:Festival inovácií\, ktorý sa tento rok uskutoční už po šiestykrát\, organizuje združenie INOVATO v spolupráci so svojimi členmi a partnermi. Táto jedinečná platforma spája popredných odborníkov\, akademikov\, podnikateľov\, neziskové organizácie\, študentov\, zástupcov verejnej správy a inovátorov naprieč rôznymi sektormi.\n\nhttps://www.kosiceitvalley.sk/events/inofest-2025/
 LOCATION:Materiálovotechnologická faktulta STU\, Trnava
@@ -670,7 +670,7 @@ UID:28bc15504aa79e3607fff12e2c03fccdb754894b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260421
+DTEND;VALUE=DATE:20260420
 CATEGORIES:ITVALLEY
 DESCRIPTION:Hack Košice 2026 je najväčší hackathon na Slovensku (18.–19. apríla v Košiciach)\, kde viac ako 150 účastníkov tvorí inovatívne riešenia na reálne výzvy. Podujatie prepája talenty\, firmy a expertov. Partnerom je aj projekt INVESTech\, podporujúci inovácie a digitálne zručnosti.\n\nhttps://www.kosiceitvalley.sk/events/hack-kosice-2026/
 LOCATION:Kunsthalle\, Košice
@@ -679,7 +679,7 @@ UID:348c305c567b38a04da49a163064c52f4bd271c0@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251211
-DTEND;VALUE=DATE:20251214
+DTEND;VALUE=DATE:20251213
 CATEGORIES:ITVALLEY
 DESCRIPTION:Vzdelávací event pre študentov stredných škôl zameraný na digitálne kompetencie\, kyberbezpečnosť\, AI a digitálnu identitu. Súčasťou podujatia je Košice IT Valley na CG sv. Jána Krstiteľa v Trebišove s podporou spoločnosti AT&T.\n\nhttps://www.kosiceitvalley.sk/events/akademicke-dni-cirkevneho-gymnazia-sv-jana-krstitela/
 LOCATION:Cirkevné gymnázium sv. Jána Krstiteľa\, Trebišov
@@ -746,7 +746,7 @@ UID:4e7eeb546555fffc5cf4d1e542bf5856441a4667@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261129
 CATEGORIES:AMCHAM
 DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 LOCATION:Bratislava Castle\, Bratislava
@@ -1861,7 +1861,7 @@ UID:8db6efb83c4df7c17c206e049237b6a762efd26e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260507
+DTEND;VALUE=DATE:20260506
 CATEGORIES:ITVALLEY
 DESCRIPTION:Talent Camp v rámci programu Lab IT Creativity je exkluzívne dvojdňové podujatie určené pre 5 najaktívnejších stredných škôl\, ktoré sa dlhodobo zapájajú do programu. Uskutoční sa v termíne 4. – 5. mája 2026 v Klimaparku Kysak.\n\nhttps://www.kosiceitvalley.sk/events/lab-it-creativity-talent-camp-2026/
 LOCATION:Klimapark Kysak
@@ -1946,7 +1946,7 @@ UID:29e91934f4a80d46bba6d6f6fa43749b442fdd6b@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251107
-DTEND;VALUE=DATE:20251111
+DTEND;VALUE=DATE:20251110
 CATEGORIES:ITVALLEY
 DESCRIPTION:Pridaj sa k 10. CASSINI Hackathonu v Košiciach (7.–9. 11. 2025)! Vytváraj inovatívne riešenia s využitím satelitných dát pre gaming\, šport a cestovný ruch. Najlepšie tímy postúpia do európskeho finále. Registrácia a viac info na stránke hackathonu a platforme TAIKAI.\n\nhttps://www.kosiceitvalley.sk/events/10th-cassini-hackathon/
 LOCATION:UVP TECHNICOM\, Košice
