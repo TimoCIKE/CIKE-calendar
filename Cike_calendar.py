@@ -66,7 +66,7 @@ def clean_text(text: str) -> str:
 
 
 def normalize_key(title, date):
-    return (re.sub(r"\s+", " ", title.strip().lower()), date.strftime("%Y-%m-%d"))
+    return (re.sub(r"\s+", " ", clean_text(title).lower()), date.strftime("%Y-%m-%d"))
 
 
 def normalize_source(src: str) -> str:
@@ -92,14 +92,25 @@ def http_get(url: str, timeout: int = 25, retries: int = 3, verify: bool = True)
 
 
 def parse_numeric_or_sk_date(text: str):
+    """
+    Podporuje:
+    - 14.04.2026
+    - 4. 2. 2026
+    - 18.04.2026 – 19.04.2026
+    - 18. 4. 2026 – 19. 4. 2026
+    - 18.–19. apríla 2026
+    - 29 januára 2026
+    """
     if not text:
         return None, None
 
-    t = " ".join(text.lower().split())
-    t = t.replace("—", "–").replace("-", "–")
+    t = html.unescape(text)
+    t = " ".join(t.lower().split())
+    t = t.replace("—", "–")
 
+    # rozsah dd.mm.yyyy – dd.mm.yyyy
     m = re.search(
-        r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b\s*[–]\s*\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b",
+        r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b\s*[–-]\s*\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b",
         t
     )
     if m:
@@ -107,12 +118,30 @@ def parse_numeric_or_sk_date(text: str):
         e = datetime(int(m.group(6)), int(m.group(5)), int(m.group(4)))
         return s, e
 
+    # rozsah 18.–19. apríla 2026
+    m = re.search(
+        r"\b(\d{1,2})\.\s*[–-]\s*(\d{1,2})\.\s*([a-zá-ž]+)\s+(\d{4})\b",
+        t
+    )
+    if m:
+        d1 = int(m.group(1))
+        d2 = int(m.group(2))
+        mon_word = m.group(3).strip(".")
+        y = int(m.group(4))
+        mo = _SK_MONTHS.get(mon_word)
+        if mo:
+            s = datetime(y, mo, d1)
+            e = datetime(y, mo, d2)
+            return s, e
+
+    # jedno číslicové datum
     m = re.search(r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b", t)
     if m:
         d, mo, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
         dt = datetime(y, mo, d)
         return dt, dt
 
+    # slovný mesiac
     m = re.search(r"\b(\d{1,2})\s+([a-zá-ž]+)\s+(\d{4})\b", t)
     if m:
         d = int(m.group(1))
@@ -204,12 +233,22 @@ def scrape_itvalley_events():
                 start = end = None
                 location = "Košice"
 
+                # 1. preferuj rozsah dátumov
                 for s in spans:
                     st, en = parse_numeric_or_sk_date(s)
-                    if st:
+                    if st and en and en > st:
                         start, end = st, en
                         break
 
+                # 2. ak nebol rozsah, zober hocijaký dátum
+                if not start:
+                    for s in spans:
+                        st, en = parse_numeric_or_sk_date(s)
+                        if st:
+                            start, end = st, en
+                            break
+
+                # 3. fallback na celý text bloku
                 if not start:
                     raw_text = clean_text(" ".join(block.stripped_strings))
                     st, en = parse_numeric_or_sk_date(raw_text)
@@ -266,7 +305,6 @@ def scrape_amcham_events():
     driver.get(url)
     events, seen = [], set()
 
-    # upcoming
     while True:
         try:
             load_more = wait.until(EC.element_to_be_clickable((By.ID, "data-load-more")))
@@ -281,7 +319,6 @@ def scrape_amcham_events():
     events += extract_amcham_events_from_soup([up_cont] if up_cont else [], seen)
     print(f"✅ AmCham Upcoming: {len(events)}")
 
-    # past
     try:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(0.8)
@@ -445,7 +482,7 @@ def extract_amcham_events_from_soup(containers, seen):
             if not title_el:
                 continue
 
-            title = title_el.get_text(strip=True)
+            title = clean_text(title_el.get_text(strip=True))
             if not title:
                 continue
 
@@ -456,10 +493,10 @@ def extract_amcham_events_from_soup(containers, seen):
 
             loc_el = block.select_one(".event-item__footer span.d-flex") or \
                      block.select_one(".event-item__footer span")
-            location = loc_el.get_text(" ", strip=True) if loc_el else ""
+            location = clean_text(loc_el.get_text(" ", strip=True)) if loc_el else ""
 
             desc_el = block.select_one(".event-shortdesc")
-            desc = desc_el.get_text(" ", strip=True) if desc_el else ""
+            desc = clean_text(desc_el.get_text(" ", strip=True)) if desc_el else ""
 
             link_el = block.find("a", href=True)
             link = link_el["href"] if link_el else "https://amcham.sk/events"
@@ -529,7 +566,7 @@ def _extract_events_from_jsonld(soup, source="OTHER", cutoff=None, past=False, s
             if not isinstance(it, dict) or it.get("@type") != "Event":
                 continue
 
-            title = (it.get("name") or "").strip()
+            title = clean_text(it.get("name") or "")
             if not title:
                 continue
 
@@ -665,7 +702,6 @@ def scrape_ickk_events():
 
         soup = BeautifulSoup(r.text, "html.parser")
 
-        # najprv sa pokúsime o JSON-LD eventy
         found_jsonld = _extract_events_from_jsonld(
             soup,
             source="ICKK",
@@ -679,7 +715,6 @@ def scrape_ickk_events():
             all_events.extend(found_jsonld)
             page_added += len(found_jsonld)
 
-        # fallback text parser
         text_lines = [clean_text(line) for line in soup.get_text("\n").splitlines()]
         text_lines = [x for x in text_lines if x]
 
@@ -838,7 +873,6 @@ def export_events_to_ics(events, filename="events.ics"):
 
             e.begin = start_date
 
-            # len pre viacdňové all-day eventy
             if end_date > start_date:
                 e.end = end_date + timedelta(days=1)
 
