@@ -97,7 +97,7 @@ CATEGORIES:SOPK
 DESCRIPTION:Pozývame Vás na konferenciu Digitalizácia a nové trendy v priemysle a vzdelávaní\, ktorej cieľom je podporiť zavádzanie digitalizačných riešení pre malé a stredné podniky. Zároveň sa venuje problematike vzdelávania\, ktoré proces [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-a-workshopy-digitalizacia-a-nove-trendy-v-priemysle-a-vzdelavani/
 DTEND:20250927T215959Z
 DTSTART:20250925T220000Z
-SUMMARY:🟧 [SOPK] Konferencia: Digitalizácia a nové trendy v priemysle a vzdelávaní
+SUMMARY:🟧 [SOPK] Konferencia: Digitalizácia a nové trendy v priemysle a vzdelávaní
 UID:8a15ebc6cb936bdd949882288e56ef6055f4af5f@cike-events
 END:VEVENT
 BEGIN:VEVENT
@@ -344,7 +344,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260211
 CATEGORIES:AMCHAM
-DESCRIPTION:Tax Seminar organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps://amcham.sk/events/3597/changes-in-tax-legislation
+DESCRIPTION:Tax Seminar organized by the Foreign Chambers of Commerce in Slovakia\n\nhttps://amcham.sk/events/3597/changes-in-tax-legislation
 LOCATION:Crowne Plaza Bratislava\, Hodžovo námestie 2\, Bratislava
 SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
 UID:35a2215aecb74b54b5421067f1aa41e232c43208@cike-events
@@ -466,12 +466,12 @@ SUMMARY:🔵 [ITVALLEY] Európsky deň žien a dievčat v IKT
 UID:1f1a455f36787889c69efc8c3e3fac97f6e67585@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260415
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by Forvis Mazars\n\nhttps://amcham.sk/events/3644/equal-pay-as-an-opportunity
-LOCATION:Free online webinar
-SUMMARY:🟢 [AMCHAM] Equal pay as an opportunity
-UID:5e8742e3869cf0be1af48b0c188aa8e890e188d4@cike-events
+CATEGORIES:SOPK
+DESCRIPTION:28. apríl 2026\, 14. máj 2026 alebo 17. jún 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikroodvody/
+DTEND:20260428T123000Z
+DTSTART:20260428T070000Z
+SUMMARY:🟧 [SOPK] Webinár: DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA + MIKROODVODY
+UID:80d108a3cd25c74a7da1d05c439218a22110c441@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251120
@@ -483,20 +483,20 @@ UID:6c8ebe97b1339d2b21f8d768c5ea7f733c80c693@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
-DESCRIPTION:28. apríl 2026\, 14. máj 2026 alebo 17. jún 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikroodvody/
-DTEND:20260428T123000Z
-DTSTART:20260428T070000Z
-SUMMARY:🟧 [SOPK] Webinár: DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA + MIKROODVODY
-UID:80d108a3cd25c74a7da1d05c439218a22110c441@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
 DESCRIPTION:https://www.sopk.sk/event/metal-show-tib/
 DTEND:20260515T215959Z
 LOCATION:Bukurešť
 DTSTART:20260511T220000Z
 SUMMARY:🟧 [SOPK] Save the date: podnikateľská misia METALSHOW & TIB
 UID:6f847eae533076d727ffb43b0a86e5127b3f4e1f@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Vážený členovia Sekcie kybernetickej bezpečnosti a digitalizácie\, SOPK a milí obchodní partneri\, srdečne vás pozývame na online seminár Ako sa v praxi hľadá útočník kybernetického útoku\, ktorý sa uskutoční dňa 10.4.2026 od [...] \\n\n\nhttps://www.sopk.sk/event/seminar-ako-sa-v-praxi-hlada-utocnik-kybernetickeho-utoku/
+DTEND:20260410T120000Z
+DTSTART:20260410T110000Z
+SUMMARY:🟧 [SOPK] Seminár: Ako sa v praxi hľadá útočník kybernetického útoku
+UID:d319001847bee3cd1746d6540f210f7a2ca2b42e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260409
@@ -513,14 +513,6 @@ DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3512/valaliky-industrial-par
 LOCATION:Valaliky Industrial Park\, Valaliky
 SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
 UID:304dded58268156254e1356f43ae075400507132@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Vážený členovia Sekcie kybernetickej bezpečnosti a digitalizácie\, SOPK a milí obchodní partneri\, srdečne vás pozývame na online seminár Ako sa v praxi hľadá útočník kybernetického útoku\, ktorý sa uskutoční dňa 10.4.2026 od [...] \\n\n\nhttps://www.sopk.sk/event/seminar-ako-sa-v-praxi-hlada-utocnik-kybernetickeho-utoku/
-DTEND:20260410T120000Z
-DTSTART:20260410T110000Z
-SUMMARY:🟧 [SOPK] Seminár: Ako sa v praxi hľadá útočník kybernetického útoku
-UID:d319001847bee3cd1746d6540f210f7a2ca2b42e@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:ICKK
@@ -1117,7 +1109,7 @@ DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického pokr
 DTEND:20250522T080000Z
 LOCATION:Online
 DTSTART:20250522T070000Z
-SUMMARY:🟧 [SOPK] Inovačná polhodinka – Inovácie v energetike
+SUMMARY:🟧 [SOPK] Inovačná polhodinka – Inovácie v energetike
 UID:668109afdeff31c6955443f366fe8c97856c0398@cike-events
 END:VEVENT
 BEGIN:VEVENT
@@ -2320,7 +2312,7 @@ DTSTART;VALUE=DATE:20260212
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3601/effective-managerial-problem-solving-combines-teamwork-and-ai-postponed
 LOCATION:Jurkovičova Tepláreň (Ground Floor - BASE event hall)\, Bottova 1\, Bratislava
-SUMMARY:🟢 [AMCHAM] Effective managerial problem-solving combines teamwork and AI  /POSTPONED
+SUMMARY:🟢 [AMCHAM] Effective managerial problem-solving combines teamwork and AI /POSTPONED
 UID:95b94a2c498a8454920fe26f4475ebdf4423d2d5@cike-events
 END:VEVENT
 BEGIN:VEVENT
