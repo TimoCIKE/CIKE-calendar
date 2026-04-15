@@ -429,11 +429,35 @@ def extract_amcham_events_from_soup(containers, seen):
 
     def parse_dates_from_block(block):
         date_box = block.select_one(".event-date")
-        day_s_el = date_box.select_one(".day.day--start") if date_box else None
-        day_e_el = date_box.select_one(".day.day--end") if date_box else None
-        month_el = (date_box.select_one(".month.month--start") if date_box else None) or \
-                   (date_box.select_one(".month") if date_box else None)
-        year_el = date_box.select_one(".year") if date_box else None
+        if not date_box:
+            return None, None
+
+        raw_date_text = clean_text(" ".join(date_box.stripped_strings)).lower()
+
+        # najprv skús celý text date boxu, napr. "12 13 may 2026"
+        m = re.search(
+            r"\b(\d{1,2})\b\D+(\d{1,2})\D+([a-zá-ž]{3,})\D+(\d{4})",
+            raw_date_text
+        )
+        if m:
+            d1 = int(m.group(1))
+            d2 = int(m.group(2))
+            mon = m.group(3).strip(".").lower()
+            year = int(m.group(4))
+            month_num = months.get(mon if mon in months else norm_month_token(mon))
+            if month_num:
+                try:
+                    start = datetime(year, month_num, d1)
+                    end = datetime(year, month_num, d2)
+                    return start, end
+                except ValueError:
+                    pass
+
+        # fallback na pôvodné selektory
+        day_s_el = date_box.select_one(".day.day--start")
+        day_e_el = date_box.select_one(".day.day--end")
+        month_el = date_box.select_one(".month.month--start") or date_box.select_one(".month")
+        year_el = date_box.select_one(".year")
 
         day_s = (day_s_el.get_text(strip=True) if day_s_el else "") or None
         day_e = (day_e_el.get_text(strip=True) if day_e_el else "") or day_s
@@ -870,8 +894,9 @@ def export_events_to_ics(events, filename="events.ics"):
 
             e.begin = start_date
 
+            # viacdňová all-day udalosť: bez +1
             if end_date > start_date:
-                e.end = end_date + timedelta(days=1)
+                e.end = end_date
 
             e.make_all_day()
         else:
