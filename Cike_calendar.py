@@ -847,7 +847,11 @@ def export_events_to_ics(events, filename="events.ics"):
             end_date = t.date()
 
             e.begin = start_date
-            e.end = end_date + timedelta(days=1)
+
+            # len pre viacdňové all-day eventy
+            if end_date > start_date:
+                e.end = end_date + timedelta(days=1)
+
             e.make_all_day()
         else:
             if s.tzinfo is None:
