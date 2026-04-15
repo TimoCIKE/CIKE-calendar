@@ -16,8 +16,6 @@ from selenium.webdriver.support import expected_conditions as EC
 from urllib.parse import urljoin
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 
-from ics import Calendar, Event
-
 # =========================
 # Nastavenia
 # =========================
@@ -108,7 +106,6 @@ def parse_numeric_or_sk_date(text: str):
     t = " ".join(t.lower().split())
     t = t.replace("—", "–")
 
-    # rozsah dd.mm.yyyy – dd.mm.yyyy
     m = re.search(
         r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b\s*[–-]\s*\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b",
         t
@@ -118,7 +115,6 @@ def parse_numeric_or_sk_date(text: str):
         e = datetime(int(m.group(6)), int(m.group(5)), int(m.group(4)))
         return s, e
 
-    # rozsah 18.–19. apríla 2026
     m = re.search(
         r"\b(\d{1,2})\.\s*[–-]\s*(\d{1,2})\.\s*([a-zá-ž]+)\s+(\d{4})\b",
         t
@@ -134,14 +130,12 @@ def parse_numeric_or_sk_date(text: str):
             e = datetime(y, mo, d2)
             return s, e
 
-    # jedno číslicové datum
     m = re.search(r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b", t)
     if m:
         d, mo, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
         dt = datetime(y, mo, d)
         return dt, dt
 
-    # slovný mesiac
     m = re.search(r"\b(\d{1,2})\s+([a-zá-ž]+)\s+(\d{4})\b", t)
     if m:
         d = int(m.group(1))
@@ -165,6 +159,45 @@ def parse_time_range(text: str):
         int(m.group(3)),
         int(m.group(4)),
     )
+
+
+def ics_escape(text: str) -> str:
+    s = html.unescape(text or "")
+    s = s.replace("\\", "\\\\")
+    s = s.replace(";", r"\;")
+    s = s.replace(",", r"\,")
+    s = s.replace("\r\n", "\n").replace("\r", "\n").replace("\n", r"\n")
+    return s
+
+
+def fold_ical_line(line: str, limit: int = 75) -> str:
+    encoded = line.encode("utf-8")
+    if len(encoded) <= limit:
+        return line
+
+    out = []
+    current = ""
+    for ch in line:
+        candidate = current + ch
+        if len(candidate.encode("utf-8")) > limit:
+            out.append(current)
+            current = " " + ch
+        else:
+            current = candidate
+    if current:
+        out.append(current)
+    return "\r\n".join(out)
+
+
+def format_utc_dt(dt: datetime) -> str:
+    if dt.tzinfo is None:
+        dt = TZ.localize(dt)
+    dt_utc = dt.astimezone(timezone.utc)
+    return dt_utc.strftime("%Y%m%dT%H%M%SZ")
+
+
+def format_date_only(d) -> str:
+    return d.strftime("%Y%m%d")
 
 
 # =========================
@@ -257,8 +290,6 @@ def scrape_itvalley_events():
                     "source": "ITVALLEY",
                 })
                 page_added += 1
-
-                print(f"ITV DEBUG: {title} | start={start} | end={end}")
 
             except Exception as e:
                 print(f"   - chyba ITVALLEY blok: {e}")
@@ -848,6 +879,19 @@ def _stable_uid(ev):
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
 
+def _stable_dtstamp(ev):
+    title = _clean_event_title(ev["summary"])
+    start_part = ev["start"].strftime("%Y-%m-%d %H:%M")
+    end_part = ev["end"].strftime("%Y-%m-%d %H:%M")
+    kind = "ALLDAY" if (_is_all_day_00(ev) or _looks_fake_all_day(ev)) else "TIMED"
+    base = f"dtstamp|{title}|{start_part}|{end_part}|{kind}"
+    digest = hashlib.sha1(base.encode("utf-8")).hexdigest()
+    seed = int(digest[:8], 16)
+    base_dt = datetime(2025, 1, 1, tzinfo=timezone.utc)
+    offset_seconds = seed % (3600 * 24 * 365)
+    return base_dt + timedelta(seconds=offset_seconds)
+
+
 def export_events_to_ics(events, filename="events.ics"):
     seen, unique = set(), []
     for ev in events:
@@ -856,49 +900,60 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
-    cal = Calendar()
-    now_utc = datetime.now(timezone.utc)
+    lines = [
+        "BEGIN:VCALENDAR",
+        "VERSION:2.0",
+        "PRODID:-//CIKE//Events Calendar//EN",
+        "CALSCALE:GREGORIAN",
+        "METHOD:PUBLISH",
+        "X-WR-CALNAME:CIKE Events",
+        "X-WR-TIMEZONE:Europe/Bratislava",
+    ]
 
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
-        e = Event()
-        e.name = _with_emoji_prefix(ev["summary"], src)
-        e.location = ev.get("location", "")
-        e.description = ev.get("description", "")
-        e.categories = {src}
-        e.uid = _stable_uid(ev)
+        summary = _with_emoji_prefix(ev["summary"], src)
+        location = ev.get("location", "")
+        description = ev.get("description", "")
+        uid = _stable_uid(ev)
+        dtstamp = _stable_dtstamp(ev)
 
-        # metadata pre lepšie správanie klientov
-        try:
-            e.created = now_utc
-            e.last_modified = now_utc
-        except Exception:
-            pass
+        s = ev["start"]
+        t = ev["end"]
 
-        s, t = ev["start"], ev["end"]
+        lines.append("BEGIN:VEVENT")
+        lines.append(f"UID:{uid}")
+        lines.append(f"DTSTAMP:{format_utc_dt(dtstamp)}")
+        lines.append("SEQUENCE:0")
+        lines.append(f"CATEGORIES:{ics_escape(src)}")
+        lines.append(f"SUMMARY:{ics_escape(summary)}")
+
+        if location:
+            lines.append(f"LOCATION:{ics_escape(location)}")
+        if description:
+            lines.append(f"DESCRIPTION:{ics_escape(description)}")
 
         if _is_all_day_00(ev) or _looks_fake_all_day(ev):
             start_date = s.date()
             end_date = t.date()
 
-            e.begin = start_date
+            lines.append(f"DTSTART;VALUE=DATE:{format_date_only(start_date)}")
 
             if end_date > start_date:
-                e.end = end_date
-
-            e.make_all_day()
+                # DTEND pri all-day je exclusive
+                dtend_exclusive = end_date + timedelta(days=1)
+                lines.append(f"DTEND;VALUE=DATE:{format_date_only(dtend_exclusive)}")
         else:
-            if s.tzinfo is None:
-                s = TZ.localize(s)
-            if t.tzinfo is None:
-                t = TZ.localize(t)
-            e.begin = s
-            e.end = t
+            lines.append(f"DTSTART:{format_utc_dt(s)}")
+            lines.append(f"DTEND:{format_utc_dt(t)}")
 
-        cal.events.add(e)
+        lines.append("END:VEVENT")
 
-    with open(filename, "w", encoding="utf-8") as f:
-        f.writelines(cal.serialize_iter())
+    lines.append("END:VCALENDAR")
+
+    folded = [fold_ical_line(line) for line in lines]
+    with open(filename, "w", encoding="utf-8", newline="") as f:
+        f.write("\r\n".join(folded) + "\r\n")
 
     print(f"✅ ICS '{filename}' vytvorený – {len(unique)} udalostí (po dedupe).")
     return filename
