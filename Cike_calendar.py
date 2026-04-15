@@ -517,7 +517,7 @@ def _clean_text(s: str):
         return (s or "").strip()
 
 
-def _extract_events_from_jsonld(soup, cutoff=None, past=False, seen=None):
+def _extract_events_from_jsonld(soup, source="OTHER", cutoff=None, past=False, seen=None):
     events = []
     seen = seen or set()
 
@@ -577,7 +577,7 @@ def _extract_events_from_jsonld(soup, cutoff=None, past=False, seen=None):
                 location = ", ".join([p for p in [nm, adr] if p])
 
             desc = _clean_text(it.get("description") or "")
-            url = (it.get("url") or SOPK_BASE).strip()
+            url = (it.get("url") or "").strip()
 
             events.append({
                 "summary": title,
@@ -585,7 +585,7 @@ def _extract_events_from_jsonld(soup, cutoff=None, past=False, seen=None):
                 "description": (desc + ("\n\n" + url if url else "")).strip(),
                 "start": start_dt,
                 "end": end_dt if end_dt >= start_dt else start_dt,
-                "source": "SOPK",
+                "source": normalize_source(source),
             })
 
     return events
@@ -602,7 +602,7 @@ def _crawl_sopk_future():
             break
 
         soup = BeautifulSoup(resp.text, "html.parser")
-        found = _extract_events_from_jsonld(soup, past=False, seen=seen)
+        found = _extract_events_from_jsonld(soup, source="SOPK", past=False, seen=seen)
 
         if found:
             all_events.extend(found)
@@ -627,7 +627,7 @@ def _crawl_sopk_past():
             break
 
         soup = BeautifulSoup(resp.text, "html.parser")
-        found = _extract_events_from_jsonld(soup, cutoff=cutoff, past=True, seen=seen)
+        found = _extract_events_from_jsonld(soup, source="SOPK", cutoff=cutoff, past=True, seen=seen)
 
         if found:
             all_events.extend(found)
@@ -678,6 +678,7 @@ def scrape_ickk_events():
         # najprv sa pokúsime o JSON-LD eventy
         found_jsonld = _extract_events_from_jsonld(
             soup,
+            source="ICKK",
             cutoff=cutoff if "eventDisplay=past" in url else None,
             past="eventDisplay=past" in url,
             seen=seen,
