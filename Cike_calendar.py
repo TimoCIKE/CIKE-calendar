@@ -778,8 +778,15 @@ def scrape_ickk_events():
 # Export do ICS
 # =========================
 
+def _clean_event_title(title: str) -> str:
+    t = html.unescape(title or "")
+    t = _PREFIX_RE.sub("", t)
+    t = re.sub(r"\s+", " ", t).strip().lower()
+    return t
+
+
 def _with_emoji_prefix(title: str, source: str) -> str:
-    cleaned = _PREFIX_RE.sub("", (title or "").strip())
+    cleaned = _PREFIX_RE.sub("", html.unescape(title or "").strip())
     src = normalize_source(source)
     return f"{EMOJI_MAP.get(src, EMOJI_MAP['OTHER'])} [{src}] {cleaned}"
 
@@ -798,20 +805,19 @@ def _looks_fake_all_day(ev) -> bool:
 
 
 def _dedupe_key(ev):
-    base_title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
+    base_title = _clean_event_title(ev["summary"])
     if _is_all_day_00(ev) or _looks_fake_all_day(ev):
         return (base_title, ev["start"].strftime("%Y-%m-%d"))
     return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
 
 
 def _stable_uid(ev):
-    src = normalize_source(ev.get("source", "OTHER"))
-    title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
+    title = _clean_event_title(ev["summary"])
     if _is_all_day_00(ev) or _looks_fake_all_day(ev):
         part = ev["start"].strftime("%Y-%m-%d")
     else:
         part = ev["start"].strftime("%Y-%m-%d %H:%M")
-    base = f"{title}|{part}|{src}"
+    base = f"{title}|{part}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
 
@@ -839,15 +845,9 @@ def export_events_to_ics(events, filename="events.ics"):
         if _is_all_day_00(ev) or _looks_fake_all_day(ev):
             start_date = s.date()
             end_date = t.date()
-            delta = (end_date - start_date).days
 
-            if delta <= 1:
-                e.begin = start_date
-                e.end = start_date
-            else:
-                e.begin = start_date
-                e.end = start_date + timedelta(days=delta)
-
+            e.begin = start_date
+            e.end = end_date + timedelta(days=1)
             e.make_all_day()
         else:
             if s.tzinfo is None:
