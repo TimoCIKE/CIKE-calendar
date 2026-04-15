@@ -1,0 +1,4402 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CIKE//Events Calendar//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:CIKE Events
+X-WR-TIMEZONE:Europe/Bratislava
+BEGIN:VEVENT
+UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
+DTSTAMP:20250123T002446Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
+DTSTART;VALUE=DATE:20260414
+END:VEVENT
+BEGIN:VEVENT
+UID:53c45a67b91fa20aa34c400b453bce4c4a1c6ea7@cike-events
+DTSTAMP:20251020T065732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DAM: How to build a startup as a student
+LOCATION:Jesenná 5\, Košice
+DESCRIPTION:Študenti dokážu vybudovať reálnu firmu už počas štúdia
+ . Na meetupe Data Analytics Meeting spoznajte príbeh PhD študentov\, kto
+ rí vytvorili startup\, získali skúsenosti v C-level rolách a ukážu\,
+  že podnikanie začína iniciatívou\, nie ideálnymi podmienkami.\n\nhtt
+ ps://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-student
+URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
+ udent
+DTSTART;VALUE=DATE:20260415
+END:VEVENT
+BEGIN:VEVENT
+UID:2c1351b26697c5ef7720fb4a7f5627370973d4dc@cike-events
+DTSTAMP:20250609T003604Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Európsky deň žien a dievčat v IKT
+LOCATION:UVP Technicom
+DESCRIPTION:Európsky deň žien a dievčat v IKT je podujatie zamerané na
+  podporu dievčat v technológiách. Prináša prednášky\, workshopy a i
+ nšpiratívne príbehy odborníčok z praxe. Cieľom je motivovať mladé 
+ ženy k štúdiu IT a ukázať im kariérne možnosti v digitálnom svete.
+ \n\nhttps://www.kosiceitvalley.sk/events/europsky-den-zien-a-dievcat-v-ikt
+URL:https://www.kosiceitvalley.sk/events/europsky-den-zien-a-dievcat-v-ikt
+DTSTART;VALUE=DATE:20260417
+END:VEVENT
+BEGIN:VEVENT
+UID:db1bff3495ca1d1110586b770fc47bed0d36b0dc@cike-events
+DTSTAMP:20250813T192957Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] HACK KOŠICE 2026
+LOCATION:Kunsthalle\, Košice
+DESCRIPTION:Hack Košice 2026 je najväčší hackathon na Slovensku (18.
+ –19. apríla v Košiciach)\, kde viac ako 150 účastníkov tvorí inova
+ tívne riešenia na reálne výzvy. Podujatie prepája talenty\, firmy a e
+ xpertov. Partnerom je aj projekt INVESTech\, podporujúci inovácie a digi
+ tálne zručnosti.\n\nhttps://www.kosiceitvalley.sk/events/hack-kosice-202
+ 6
+URL:https://www.kosiceitvalley.sk/events/hack-kosice-2026
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+END:VEVENT
+BEGIN:VEVENT
+UID:bc07c3ee278136c129f96dfed1953f47e79eb249@cike-events
+DTSTAMP:20251012T092105Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] PMI konferencia
+LOCATION:BCT 1- Moldavská cesta 8/A
+DESCRIPTION:Cieľom konferencie je predstaviť najnovšie trendy\, technol
+ ógie a osvedčené postupy v projektovom manažmente.\n\nhttps://www.kosi
+ ceitvalley.sk/events/pmi-konferencia
+URL:https://www.kosiceitvalley.sk/events/pmi-konferencia
+DTSTART;VALUE=DATE:20260423
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd6f51275365e21b35f1b3798a8326764fa3fb3@cike-events
+DTSTAMP:20250608T195521Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Lab IT Creativity Talent Camp 2026
+LOCATION:Klimapark Kysak
+DESCRIPTION:Talent Camp v rámci programu Lab IT Creativity je exkluzívne 
+ dvojdňové podujatie určené pre 5 najaktívnejších stredných škôl\
+ , ktoré sa dlhodobo zapájajú do programu. Uskutoční sa v termíne 4. 
+ – 5. mája 2026 v Klimaparku Kysak.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/lab-it-creativity-talent-camp-2026
+URL:https://www.kosiceitvalley.sk/events/lab-it-creativity-talent-camp-2026
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260506
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
+DTSTAMP:20250827T084058Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Konferencia Región budúcnosti – budúcnosť reg
+ iónu
+LOCATION:Košice
+DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
+  ako kľúčový sektor pre východné Slovensko. Budeme diskutovať o vpl
+ yve AI\, automatizácie a nových nárokov na talenty. Pridajte sa a objav
+ te príležitosti\, ktoré formujú budúcnosť regiónu.\n\nhttps://www.k
+ osiceitvalley.sk/events/region-buducnosti-automotive-konferencia
+URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
+ rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:39dc318c40fc4a6fd3848619a6fb9c504e954ee6@cike-events
+DTSTAMP:20250808T034642Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] KASV: Finálne prezentácie projektov študentov
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Pozývame vás na finálne prezentácie projektov študentov 1.
+  ročníka programu Košická akadémia softvérového vývoja (KASV)\, kt
+ oré sa uskutočnia 15. júna 2026.\n\nhttps://www.kosiceitvalley.sk/event
+ s/kasv-finalne-prezentacie-projektov-studentov
+URL:https://www.kosiceitvalley.sk/events/kasv-finalne-prezentacie-projektov
+ -studentov
+DTSTART;VALUE=DATE:20260615
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8ee7f5b62c221061d5a5f7e67561b2b310f15d@cike-events
+DTSTAMP:20250218T083735Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] KASV: Slávnostné odovzdávanie diplomov
+LOCATION:Košice
+DESCRIPTION:Slávnostné odovzdávanie diplomov absolventom programu Košic
+ ká akadémia softvérového vývoja (KASV) sa uskutoční 19. júna 2026.
+ \n\nhttps://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-dipl
+ omov
+URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
+ mov
+DTSTART;VALUE=DATE:20260619
+END:VEVENT
+BEGIN:VEVENT
+UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
+DTSTAMP:20251012T075924Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Summer Night Out s Košice IT Valley
+LOCATION:TBS
+DESCRIPTION:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-
+ it-valley
+URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
+ y
+DTSTART;VALUE=DATE:20260625
+END:VEVENT
+BEGIN:VEVENT
+UID:4d40caa7dbe03758c174789238c9072544e3c1dc@cike-events
+DTSTAMP:20251014T214818Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Business Inspiration Mission: Boston & New York (US
+ A)
+LOCATION:Boston\, New York
+DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
+ nspiration Mission do Bostonu a New Yorku (28. 9. – 2. 10. 2026). Progra
+ m ponúka inšpiráciu z top inovačných ekosystémov\, návštevy MIT č
+ i Cornell Tech a networking. Pre akademikov\, verejný sektor a MSP.\n\nht
+ tps://www.kosiceitvalley.sk/events/business-inspiration-mission-boston-new
+ -york-usa
+URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
+ n-new-york-usa
+DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
+DTSTAMP:20250618T072022Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Odborný webinár – transparentnosť odmeňovania
+  (smernica EU)
+LOCATION:online
+DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
+ Ú o transparentnosti odmeňovania\, ktorá prinesie nové povinnosti pre 
+ zamestnávateľov v oblasti reportovania rozdielov v odmeňovaní\, poskyt
+ ovania informácií zamestnancom a nastavovania systémov odmeňovania.\n\
+ nhttps://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-odme
+ novania-smernica-eu
+URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
+ menovania-smernica-eu
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:6faf46d100d081acdd5952c853b4c4ca2182861c@cike-events
+DTSTAMP:20251208T004047Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Valné zhromaždenie
+LOCATION:UVP Technicom\, Boženy Němcovej 5
+DESCRIPTION:Na tohtoročnom\, už 20. Valnom zhromaždení Košice IT Valle
+ y budeme bilancovať\, plánovať a diskutovať o ďalšom smerovaní ná
+ šho klastra.\n\nhttps://www.kosiceitvalley.sk/events/valne-zhromazdenie-2
+URL:https://www.kosiceitvalley.sk/events/valne-zhromazdenie-2
+DTSTART;VALUE=DATE:20260326
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb0a0641d9e2a6988dd09f821ee01fd7b636ef1@cike-events
+DTSTAMP:20250403T035433Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Košice in the Cloud vol. 8
+LOCATION:Minerva - Doktora Kostlivého\, Košice
+DESCRIPTION:Je čas na 8. vydanie Košice in the Cloud\, stretnutia lokáln
+ ej technologickej komunity\, ktoré spája profesionálov\, študentov aj 
+ nadšencov. Pridajte sa k nám na večer plný inšpiratívnych poznatkov\
+ , učenia a príjemného networkingu.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/kosice-in-the-cloud-vol-8
+URL:https://www.kosiceitvalley.sk/events/kosice-in-the-cloud-vol-8
+DTSTART;VALUE=DATE:20260325
+END:VEVENT
+BEGIN:VEVENT
+UID:d45f1e3b1871d6eb4d295903308ebfb15ca7c178@cike-events
+DTSTAMP:20251203T234945Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Eastern Slovakia Powered by Digital Age
+LOCATION:KONGRES Hotel Roca
+DESCRIPTION:Podujatie Eastern Slovakia Powered by Digital Age sa uskutočn
+ í 24. marca 2026 od 9:00 do 12:00 hod. v Hoteli Roca v Košiciach.\n\nhtt
+ ps://www.kosiceitvalley.sk/events/eastern-slovakia-powered-by-digital-age
+URL:https://www.kosiceitvalley.sk/events/eastern-slovakia-powered-by-digita
+ l-age
+DTSTART;VALUE=DATE:20260324
+END:VEVENT
+BEGIN:VEVENT
+UID:44a1682e7a77e8f8d987e028bc66411c1b0ff1d4@cike-events
+DTSTAMP:20251202T084639Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Workshop vo Visma Labs
+LOCATION:Visma Labs\, Košice
+DESCRIPTION:Študenti zo Súkromného gymnázia Katkin park v Košiciach sa
+  v rámci projektu Lab IT Creativity 2.0 zúčastnia workshopu v spoločno
+ sti Visma Labs\, ktorý im priblíži fungovanie technologickej firmy a pr
+ ácu IT profesionálov.\n\nhttps://www.kosiceitvalley.sk/events/workshop-v
+ o-visma-labs
+URL:https://www.kosiceitvalley.sk/events/workshop-vo-visma-labs
+DTSTART;VALUE=DATE:20260316
+END:VEVENT
+BEGIN:VEVENT
+UID:5825a76c1249abd6bf190552a3bb86877558cefd@cike-events
+DTSTAMP:20251009T070235Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] From Idea to Impact: Building with AI
+LOCATION:UVP Technicom
+DESCRIPTION:Ako sa z nápadu môže stať skutočný dopad? A akú úlohu p
+ ri tom môže zohrávať umelá inteligencia?\n\nhttps://www.kosiceitvalle
+ y.sk/events/from-idea-to-impact-building-with-ai
+URL:https://www.kosiceitvalley.sk/events/from-idea-to-impact-building-with-
+ ai
+DTSTART;VALUE=DATE:20260311
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3ac83fa1323459ea7c8a5ef196c4b57282ce56@cike-events
+DTSTAMP:20250627T073928Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti-spolocenstvo-kempelena
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti-spolocens
+ tvo-kempelena
+DTSTART;VALUE=DATE:20260310
+END:VEVENT
+BEGIN:VEVENT
+UID:26833621ba6133dd47342cd2e193ea7a79811231@cike-events
+DTSTAMP:20250903T112705Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Polročné prezentácie projektov Lab IT Creativity
+  2.0
+LOCATION:Univerzitná knižnica TUKE\, Košice
+DESCRIPTION:V rámci projektu Lab IT Creativity 2.0 sa uskutočnia polročn
+ é prezentácie študentských projektov\, počas ktorých budú mať zapo
+ jené tímy príležitosť predstaviť svoje riešenia pred odbornou porot
+ ou\, mentormi a pedagógmi.\n\nhttps://www.kosiceitvalley.sk/events/polroc
+ ne-prezentacie-projektov-lab-it-creativity-2-0
+URL:https://www.kosiceitvalley.sk/events/polrocne-prezentacie-projektov-lab
+ -it-creativity-2-0
+DTSTART;VALUE=DATE:20260226
+END:VEVENT
+BEGIN:VEVENT
+UID:5c72d84ad8c4e0ae398c49be06564a4c526de2db@cike-events
+DTSTAMP:20250629T052218Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Workshop v GlobalLogic Slovakia
+LOCATION:Košice
+DESCRIPTION:Študenti Strednej odbornej školy technickej z Rožňavy sa v 
+ rámci projektu Lab IT Creativity 2.0 zúčastnili workshopu v spoločnost
+ i GlobalLogic Slovakia\, kde mali možnosť spoznať proces vývoja techno
+ logických produktov a rozvíjať svoje prezentačné a tímové zručnost
+ i.\n\nhttps://www.kosiceitvalley.sk/events/workshop-v-globallogic-slovakia
+URL:https://www.kosiceitvalley.sk/events/workshop-v-globallogic-slovakia
+DTSTART;VALUE=DATE:20260220
+END:VEVENT
+BEGIN:VEVENT
+UID:120dbc1e313eb7f1c9e7e8b56bea4eea572c43dc@cike-events
+DTSTAMP:20250424T131638Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Zborovňa 4 – konferencia pre STEM pedagógov
+LOCATION:UVP Technicom
+DESCRIPTION:Zborovňa – konferencia pre STEM pedagógov sa uskutoční 19
+ . 2. 2026 v UVP Technicom Košice (9:00–15:30). Bezplatné podujatie pon
+ úkne keynote o AI a inováciách vo vzdelávaní aj praktické workshopy 
+ využiteľné priamo vo výučbe.\n\nhttps://www.kosiceitvalley.sk/events/
+ zborovna-4-konferencia-pre-stem-pedagogov
+URL:https://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pe
+ dagogov
+DTSTART;VALUE=DATE:20260219
+END:VEVENT
+BEGIN:VEVENT
+UID:6914ec55d916ef834d7a3f2e8f9c34559202460f@cike-events
+DTSTAMP:20250815T021923Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Workshop v Cassovia Code
+LOCATION:Cassovia Code\, Košice
+DESCRIPTION:Študenti z Gymnázia Šrobárova v Košiciach absolvovali v r
+ ámci projektu Lab IT Creativity 2.0 deň plný inšpirácie\, technológi
+ í a praktických skúseností priamo z prostredia IT firmy a univerzity.\
+ n\nhttps://www.kosiceitvalley.sk/events/workshop-v-cassovia-code
+URL:https://www.kosiceitvalley.sk/events/workshop-v-cassovia-code
+DTSTART;VALUE=DATE:20260218
+END:VEVENT
+BEGIN:VEVENT
+UID:c9a1b129448973c634e899e55c5df56af84bab40@cike-events
+DTSTAMP:20250827T051732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIVO #17
+LOCATION:Tabačka Fabric Space
+DESCRIPTION:UX / Košice pozýva na tradičné stretnutie komunity plné in
+ špiratívnych prednášok a networkingu. Spolu s odborníkmi sa pozrieme 
+ na to\, ako funguje prístupnosť v UX v reálnej praxi. Event je určený
+  všetkým\, ktorí pracujú alebo študujú v oblasti UX dizajnu\, chcú 
+ sa dozvedieť viac\, spoznať nových ľudí a nadviazať kontakty. Vstup:
+  voľný / Fabrik Space\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-17
+URL:https://www.kosiceitvalley.sk/events/ux-pivo-17
+DTSTART;VALUE=DATE:20260217
+END:VEVENT
+BEGIN:VEVENT
+UID:5263ba34a41a4867f80ea90b1b73b9ee45239c30@cike-events
+DTSTAMP:20250524T143747Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DataDay 6
+LOCATION:Jesenná 5\, Košice
+DESCRIPTION:DataDay 6 je vzdelávacie podujatie pre stredoškolákov zamera
+ né na dátovú vedu\, umelú inteligenciu a technológie. Ponúkne predn
+ ášky\, workshopy a interaktívne aktivity. Podujatie organizuje Ústav i
+ nformatiky UPJŠ v spolupráci s Košice IT Valley.\n\nhttps://www.kosicei
+ tvalley.sk/events/dataday-6
+URL:https://www.kosiceitvalley.sk/events/dataday-6
+DTSTART;VALUE=DATE:20260214
+END:VEVENT
+BEGIN:VEVENT
+UID:3e4bdb8c1aa77af0a06f86987893fa0bb3a2af79@cike-events
+DTSTAMP:20250114T023521Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Finále 11. ročníka Živých IT projektov
+LOCATION:Aula Maxima\, Technická univerzita v Košiciach
+DESCRIPTION:Finále 11. ročníka Živých IT projektov sa uskutoční 4. 2
+ . 2026 v Aule Maxima TUKE. Študentské tímy predstavia IT riešenia z 65
+  projektov pred porotou a verejnosťou. Súčasťou je aj INVESTECH Skills
+  a medzinárodná účasť.\n\nhttps://www.kosiceitvalley.sk/events/finale
+ -11-rocnika-zivych-it-projektov
+URL:https://www.kosiceitvalley.sk/events/finale-11-rocnika-zivych-it-projek
+ tov
+DTSTART;VALUE=DATE:20260204
+END:VEVENT
+BEGIN:VEVENT
+UID:5bf8b9135fc6663ff3740328173d98edf8050967@cike-events
+DTSTAMP:20250217T182349Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] MedTech Day 2026
+LOCATION:UVP Technicom
+DESCRIPTION:MedTech Day 2026 je odborná konferencia\, ktorá prepája medi
+ cínu\, technológie a inovácie. Spája zdravotníkov\, firmy\, startupy\
+ , výskum a verejný sektor s cieľom rozvíjať moderné zdravotníctvo n
+ a východnom Slovensku.\n\nhttps://www.kosiceitvalley.sk/events/medtech-da
+ y-2026
+URL:https://www.kosiceitvalley.sk/events/medtech-day-2026
+DTSTART;VALUE=DATE:20260129
+END:VEVENT
+BEGIN:VEVENT
+UID:120241eebd24474276aa4cb8408d5ce6b74a7c5a@cike-events
+DTSTAMP:20250109T212817Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI & digitálna bezpečnosť – prakticky a zrozum
+ iteľne
+LOCATION:SOŠT Kukučínová
+DESCRIPTION:Interaktívny workshop pre študentov technických odborov zame
+ raný na generatívnu AI a digitálnu bezpečnosť. Účastníci sa zozná
+ mia s AI nástrojmi\, kreatívnym využitím umelej inteligencie\, kyberne
+ tickými hrozbami a ochranou v online priestore.\n\nhttps://www.kosiceitva
+ lley.sk/events/ai-digitalna-bezpecnost-prakticky-a-zrozumitelne
+URL:https://www.kosiceitvalley.sk/events/ai-digitalna-bezpecnost-prakticky-
+ a-zrozumitelne
+DTSTART;VALUE=DATE:20251217
+END:VEVENT
+BEGIN:VEVENT
+UID:1828322eed2ef5e9e8fc9d5038813b85e5040b8d@cike-events
+DTSTAMP:20251219T061133Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AKADEMICKÉ DNI CIRKEVNÉHO GYMNÁZIA SV. JÁNA KRS
+ TITEĽA
+LOCATION:Cirkevné gymnázium sv. Jána Krstiteľa\, Trebišov
+DESCRIPTION:Vzdelávací event pre študentov stredných škôl zameraný n
+ a digitálne kompetencie\, kyberbezpečnosť\, AI a digitálnu identitu. S
+ účasťou podujatia je Košice IT Valley na CG sv. Jána Krstiteľa v Tre
+ bišove s podporou spoločnosti AT&T.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/akademicke-dni-cirkevneho-gymnazia-sv-jana-krstitela
+URL:https://www.kosiceitvalley.sk/events/akademicke-dni-cirkevneho-gymnazia
+ -sv-jana-krstitela
+DTSTART;VALUE=DATE:20251211
+DTEND;VALUE=DATE:20251213
+END:VEVENT
+BEGIN:VEVENT
+UID:f37247f2248d716d93836b0b88c3132550f1c853@cike-events
+DTSTAMP:20250710T073926Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Vianočný networking
+LOCATION:Hotel Bankov
+DESCRIPTION:Vianočný večierok Košice IT Valley sa uskutoční 4. decemb
+ ra 2025 v hoteli Bankov v štýle Great Gatsby. Pozvaní sú dvaja zástup
+ covia z každej členskej firmy. Súčasťou bude aj dobročinná zbierka 
+ na podporu sestier Congregatio Jesu v Jarovniciach. Registrácia len na po
+ zvánku.\n\nhttps://www.kosiceitvalley.sk/events/7044
+URL:https://www.kosiceitvalley.sk/events/7044
+DTSTART;VALUE=DATE:20251204
+END:VEVENT
+BEGIN:VEVENT
+UID:4bdeeb37d5b8b0c42e2931c1128004032fa3a89b@cike-events
+DTSTAMP:20250909T180123Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Finále Startup Awards 2025
+LOCATION:Národné divadlo v Košiciach
+DESCRIPTION:Finále Startup Awards Slovensko 2025 (27. 11.\, Národné diva
+ dlo Košice) prinesie 9 top startupov\, investorov a keynote od Uriho Levi
+ na\, zakladateľa Waze a Moovit. Tímy zabojujú o 250 000 € od fondu Se
+ ed Starter. Inšpirácia\, networking a energia slovenskej startup scény 
+ na jednom mieste.\n\nhttps://www.kosiceitvalley.sk/events/finale-startup-a
+ wards-2025
+URL:https://www.kosiceitvalley.sk/events/finale-startup-awards-2025
+DTSTART;VALUE=DATE:20251127
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf720fd5af5104012e16ecc40b01d7a2f1931bb@cike-events
+DTSTAMP:20251118T071003Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] All in One Cocktail
+LOCATION:Dom umenia v Košiciach
+DESCRIPTION:Business Košice pozýva na All in One Cocktail – networkingo
+ vý večer 26. novembra 2025 o 18:30 v Dome umenia. Podujatie spája akté
+ rov z biznisu\, verejnej správy a akadémie v spolupráci s CIKE a SASK. 
+ V predvečer Art & Tech Conference a Startup Awards vznikajú nové prepoj
+ enia pre budúcnosť Košíc.\n\nhttps://www.kosiceitvalley.sk/events/all-
+ in-one-cocktail
+URL:https://www.kosiceitvalley.sk/events/all-in-one-cocktail
+DTSTART;VALUE=DATE:20251126
+END:VEVENT
+BEGIN:VEVENT
+UID:258f5c1e0f11c226bfb04f169087aae8bd1a908c@cike-events
+DTSTAMP:20250915T061654Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] HPC fórum
+LOCATION:UVP Technicom
+DESCRIPTION:On November 20\, 2025\, a new era of computing began in Košice
+ . The Technical University of Košice officially launched the PERUN superc
+ omputer\, whose computing power\, data capacity\, and energy efficiency pl
+ ace it among the world’s leading systems.\n\nhttps://www.kosiceitvalley.
+ sk/events/hpc-forum
+URL:https://www.kosiceitvalley.sk/events/hpc-forum
+DTSTART;VALUE=DATE:20251120
+END:VEVENT
+BEGIN:VEVENT
+UID:58311b3c2d46e6dc8b025786cb91859dda4282c1@cike-events
+DTSTAMP:20251213T130404Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] GRADE UP konferencia a Noc podnikavosti
+LOCATION:Aula Maxima - Technická univerzita v Košiciach
+DESCRIPTION:Konferencia GradeUP a Noc podnikavosti ukážu\, ako verejné v
+ ysoké školy na Slovensku podporujú inovácie a startupy. Projekt s rozp
+ očtom 9 mil. € má zvýšiť konkurencieschopnosť škôl\, modernizova
+ ť štúdium a pomôcť študentom premeniť nápady na úspešné podnika
+ nie.\n\nhttps://www.kosiceitvalley.sk/events/grade-up-konferencia-a-noc-po
+ dnikavosti
+URL:https://www.kosiceitvalley.sk/events/grade-up-konferencia-a-noc-podnika
+ vosti
+DTSTART;VALUE=DATE:20251113
+END:VEVENT
+BEGIN:VEVENT
+UID:e0167a1fe2decca6df163e3e414521381c9cfeb9@cike-events
+DTSTAMP:20250114T125225Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] 10th CASSINI Hackathon
+LOCATION:UVP TECHNICOM\, Košice
+DESCRIPTION:Pridaj sa k 10. CASSINI Hackathonu v Košiciach (7.–9. 11. 20
+ 25)! Vytváraj inovatívne riešenia s využitím satelitných dát pre ga
+ ming\, šport a cestovný ruch. Najlepšie tímy postúpia do európskeho 
+ finále. Registrácia a viac info na stránke hackathonu a platforme TAIKA
+ I.\n\nhttps://www.kosiceitvalley.sk/events/10th-cassini-hackathon
+URL:https://www.kosiceitvalley.sk/events/10th-cassini-hackathon
+DTSTART;VALUE=DATE:20251107
+DTEND;VALUE=DATE:20251110
+END:VEVENT
+BEGIN:VEVENT
+UID:48bdac3b457d5a6fd676ee245a46e18edd8bf98b@cike-events
+DTSTAMP:20250907T130622Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Business Breakfast – AI for Industry and Business
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Pozývame vás na Business Breakfast Innomeets: AI for Industry
+  and Business (6. 11. 2025\, UVP Technicom Košice). Zistite\, ako AI zvy
+ šuje efektivitu a konkurencieschopnosť firiem. Inšpirácie\, diskusia\,
+  networking. Registrácia zdarma.\n\nhttps://www.kosiceitvalley.sk/events/
+ business-breakfast-ai-for-industry-and-business
+URL:https://www.kosiceitvalley.sk/events/business-breakfast-ai-for-industry
+ -and-business
+DTSTART;VALUE=DATE:20251106
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf6e6c1ef9963e1adfc03e4c7f79e7c5edebac4@cike-events
+DTSTAMP:20250602T153110Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Fail Fast\, Grow Smart
+LOCATION:Meet Up Space\, Kulturpark\, Kukučínova 2\, Košice
+DESCRIPTION:Neformálny večer pre podnikateľov\, freelancerov a startupis
+ tov\, kde sa otvorene hovorí o chybách\, pádoch aj úspechoch. Príď s
+ a inšpirovať reálnymi príbehmi\, získať nové pohľady a spojiť sa 
+ s ľuďmi\, ktorí sa neboja rásť aj cez zlyhania.\n\nhttps://www.kosice
+ itvalley.sk/events/fail-fast-grow-smart
+URL:https://www.kosiceitvalley.sk/events/fail-fast-grow-smart
+DTSTART;VALUE=DATE:20251027
+END:VEVENT
+BEGIN:VEVENT
+UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
+DTSTAMP:20250725T223408Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
+ systémy
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
+ na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
+ osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
+ Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
+ o-stavat-a-spravovat-ai-systemy
+URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
+ spravovat-ai-systemy
+DTSTART;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
+UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
+DTSTAMP:20251203T163550Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DAM: Entrepreneurship as a possibility for Data Ana
+ lysts
+LOCATION:Jesenná 566/5\, 040 01 Košice
+DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
+ odnikateľské myslenie vo svojej práci a využiť svoje zručnosti na tv
+ orbu inovácií a hodnoty v organizácii. Rečníkom je Ludwig Stendahl\, 
+ skúsený konzultant\, podnikateľ a mentor so 40-ročnou praxou v podpore
+  startupov po celej Európe.\n\nhttps://www.kosiceitvalley.sk/events/dam-e
+ ntrepreneurship-as-a-possibility-for-data-analysts
+URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
+ ity-for-data-analysts
+DTSTART;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
+UID:ae5313e38ea3e0aa7303997cfbcee700371ea668@cike-events
+DTSTAMP:20250903T012356Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIVO #16: Budovanie UX tímu
+LOCATION:Tabačka Kulturfabrik
+DESCRIPTION:UX / Košice pozýva na ďalšie stretnutie komunity s témou B
+ udovanie UX tímu. Ivana Molnárová z Lighting Beetle* a Ján Višňovsk
+ ý z RBI Design Competence Center ukážu\, ako fungujú úspešné tímy\
+ , akú rolu zohráva agilita\, autonómia a dobrá tímová kultúra.\n\nh
+ ttps://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
+URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
+DTSTART;VALUE=DATE:20251014
+END:VEVENT
+BEGIN:VEVENT
+UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
+DTSTAMP:20250206T213219Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Magnetize Conference 2025
+LOCATION:Kongres Hotel ROCA Košice
+DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
+ ničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medz
+ inárodných študentov\, prekážky na trhu práce a prepojenie vzdeláva
+ nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
+ onference-2025
+URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:151a8ea7f2f17941c2e7ae53230656d7fba37265@cike-events
+DTSTAMP:20251006T024853Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] IVIP Fórum 2025
+LOCATION:KKC Hviezda Trenčín
+DESCRIPTION:IVIP Fórum 2025: Praktické riešenia pre mestá a obce\, zapo
+ jenie komunít\, prorodinné stratégie a moderné technológie pre lepši
+ e Slovensko.\n\nhttps://www.kosiceitvalley.sk/events/ivip-forum-2025
+URL:https://www.kosiceitvalley.sk/events/ivip-forum-2025
+DTSTART;VALUE=DATE:20251007
+END:VEVENT
+BEGIN:VEVENT
+UID:bac55a0f5df59c61075ca50663f2bbbc14f64273@cike-events
+DTSTAMP:20251117T120209Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Managing Complex Projects: practical experience
+LOCATION:UVP Technicom\, Němcovej 5
+DESCRIPTION:Podujatie Managing Complex Projects: practical experience sa za
+ meria na riadenie veľkých a komplexných projektov. Prednáška prinesie
+  praktické tipy\, riešenia a odporúčania\, doplnené o vtipné príkla
+ dy a reálne skúsenosti z praxe. Cieľom je ukázať\, ako zvládnuť cha
+ os\, udržať projekt v harmonograme a pritom si zachovať pokoj.\n\nhttps
+ ://www.kosiceitvalley.sk/events/managing-complex-projects-practical-experi
+ ence
+URL:https://www.kosiceitvalley.sk/events/managing-complex-projects-practica
+ l-experience
+DTSTART;VALUE=DATE:20250925
+END:VEVENT
+BEGIN:VEVENT
+UID:f07d6b016b8950f649d5adacf25b3d07dd168d29@cike-events
+DTSTAMP:20250511T092705Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INOFEST 2025
+LOCATION:Materiálovotechnologická faktulta STU\, Trnava
+DESCRIPTION:Festival inovácií\, ktorý sa tento rok uskutoční už po š
+ iestykrát\, organizuje združenie INOVATO v spolupráci so svojimi členm
+ i a partnermi. Táto jedinečná platforma spája popredných odborníkov\
+ , akademikov\, podnikateľov\, neziskové organizácie\, študentov\, zás
+ tupcov verejnej správy a inovátorov naprieč rôznymi sektormi.\n\nhttps
+ ://www.kosiceitvalley.sk/events/inofest-2025
+URL:https://www.kosiceitvalley.sk/events/inofest-2025
+DTSTART;VALUE=DATE:20250923
+DTEND;VALUE=DATE:20250925
+END:VEVENT
+BEGIN:VEVENT
+UID:9fc21d75cb1f2263f7fef5a61c6223789723f6fb@cike-events
+DTSTAMP:20250531T171504Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Dokážem čokoľvek
+LOCATION:UVP Technicom\, Boženy Němcovej 5
+DESCRIPTION:Inšpiratívne podujatie pre stredoškoláčky a vysokoškolá
+ čky o odvahe ísť vlastnou cestou\, sebadôvere a kariére vo vede či t
+ echnológiách.\n\nhttps://www.kosiceitvalley.sk/events/dokazem-cokolvek
+URL:https://www.kosiceitvalley.sk/events/dokazem-cokolvek
+DTSTART;VALUE=DATE:20250918
+END:VEVENT
+BEGIN:VEVENT
+UID:f042ef73f698bc7333d54ad478d967b5955d4586@cike-events
+DTSTAMP:20251013T091136Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Spišská Nová Ves
+LOCATION:Villa Nova Bar\, Spišská Nová Ves
+DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s organizáciou Busines
+ s Lounge Vás pozýva na Biznis raňajky: Nástroje pomoci pri digitálnej
+  transformácii malých a stredných podnikov.\n\nhttps://www.kosiceitvall
+ ey.sk/events/innopsies-spisska-nova-ves
+URL:https://www.kosiceitvalley.sk/events/innopsies-spisska-nova-ves
+DTSTART;VALUE=DATE:20250910
+END:VEVENT
+BEGIN:VEVENT
+UID:ae5ce00161bebe1b480688596a081fbb86c74fc6@cike-events
+DTSTAMP:20250725T162444Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Valné zhromaždenie
+LOCATION:UVP Technicom\, Boženy Němcovej 5
+DESCRIPTION:Valné zhromaždenie je dôležitou príležitosťou na zhodnot
+ enie spoločných aktivít členov klastra\, predstavenie budúcich pláno
+ v a diskusiu o strategickom smerovaní združenia.\n\nhttps://www.kosiceit
+ valley.sk/events/valne-zhromazdenie
+URL:https://www.kosiceitvalley.sk/events/valne-zhromazdenie
+DTSTART;VALUE=DATE:20250624
+END:VEVENT
+BEGIN:VEVENT
+UID:d8e5d4da07fb9fba7b4f1906ef88be640be10114@cike-events
+DTSTAMP:20251113T055149Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards – udeľovanie ocenení
+LOCATION:Resort Barca Hotel & Restaurant\, Košice
+DESCRIPTION:ESG Awards 2025 od Košice IT Valley je ocenenie pre firmy a je
+ dnotlivcov\, ktorí robia svet okolo seba lepším miestom.\n\nhttps://www
+ .kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
+URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
+DTSTART;VALUE=DATE:20250612
+END:VEVENT
+BEGIN:VEVENT
+UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
+DTSTAMP:20250406T101717Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Startup Awards Meet-up: Košice
+LOCATION:Tabačka\, Kulturfabrik
+DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
+ . júna sa v Tabačke Kulturfabrik stretnú zakladatelia\, investori\, ino
+ vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
+ ceitvalley.sk/events/startup-awards-meet-up-kosice
+URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:e81a53031cb6d8ad31e9de5b1bb25d95d66fe14c@cike-events
+DTSTAMP:20250829T003704Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Coffee & Cake so Zuzanou Čaputovou
+LOCATION:Kaviareň PAPA\, Kasárne Kulturpark
+DESCRIPTION:Našou hosťkou vo formáte CEO Coffee and Cake bude prezidentk
+ a Slovenskej republiky\, Zuzana Čaputová. Tento formát\, ktorý pravide
+ lne organizujeme v Košice IT Valley\, je navrhnutý tak\, aby prepájal l
+ ídrov na úrovni C-level\, odborníkov z ekonomiky\, verejného sektora a
+  akademickej obce.\n\nhttps://www.kosiceitvalley.sk/events/ceo-coffee-cake
+ -so-zuzanou-caputovou
+URL:https://www.kosiceitvalley.sk/events/ceo-coffee-cake-so-zuzanou-caputov
+ ou
+DTSTART;VALUE=DATE:20250606
+END:VEVENT
+BEGIN:VEVENT
+UID:3d8b68272cc796258a57debc62c652ad7668f894@cike-events
+DTSTAMP:20251124T120246Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Accenture SAP Meetup
+LOCATION:Bratislava\, online
+DESCRIPTION:Menej klikov\, viac automatizácie: Spoznajte SAP EBS. Zaujíma
+  vás\, ako automatizovať a zjednodušiť bankové procesy v SAP?\n\nhttp
+ s://www.kosiceitvalley.sk/events/accenture-sap-meetup
+URL:https://www.kosiceitvalley.sk/events/accenture-sap-meetup
+DTSTART;VALUE=DATE:20250604
+END:VEVENT
+BEGIN:VEVENT
+UID:00294cde8520289b139e4f67bd80d3db36e1a778@cike-events
+DTSTAMP:20251025T032329Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Finále projektu LAB IT Creativity – 4.ročník
+LOCATION:Aula Maxima\, TUKE
+DESCRIPTION:Finále Lab IT Creativity – Mladí inovátori predstavia svoj
+ e projekty! Po dvoch semestroch tvrdej práce prichádza veľký moment: 1
+ 4 stredných škôl z celého Slovenska predstaví 17 technologických pro
+ jektov na finále LAB IT Creativity — projektoch\, na ktorých intenzív
+ ne pracovali počas celého školského roka.\n\nhttps://www.kosiceitvalle
+ y.sk/events/finale-projektu-lab-it-creativity-4-rocnik
+URL:https://www.kosiceitvalley.sk/events/finale-projektu-lab-it-creativity-
+ 4-rocnik
+DTSTART;VALUE=DATE:20250603
+END:VEVENT
+BEGIN:VEVENT
+UID:8551b784759b5dd0d3f956f0098c66af2a91781d@cike-events
+DTSTAMP:20250222T152425Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Košice Data School
+LOCATION:Košice
+DESCRIPTION:Košický IT ekosystém hľadá odborníkov\, ktorí dokážu o
+ dhaliť skryté vzorce v dátach a ovládajú strojové učenie!\n\nhttps:
+ //www.kosiceitvalley.sk/events/kosice-data-school
+URL:https://www.kosiceitvalley.sk/events/kosice-data-school
+DTSTART;VALUE=DATE:20250526
+END:VEVENT
+BEGIN:VEVENT
+UID:97704f1b83f89264b55726a23f5c474f4183a9a7@cike-events
+DTSTAMP:20251018T002115Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI a marketing – spolupráca alebo konkurencia?
+LOCATION:Fabrika 48\, Košice
+DESCRIPTION:AI PROMPT prepája nástroje umelej inteligencie s reálnou pr
+ ácou efektívnym\, zrozumiteľným a bezpečným spôsobom. A práve tým
+ to odštartujeme náš úplne prvý meetup.\n\nhttps://www.kosiceitvalley.
+ sk/events/ai-a-marketing-spolupraca-alebo-konkurencia
+URL:https://www.kosiceitvalley.sk/events/ai-a-marketing-spolupraca-alebo-ko
+ nkurencia
+DTSTART;VALUE=DATE:20250521
+END:VEVENT
+BEGIN:VEVENT
+UID:2d0a1af9a03be2c5f4b45d892a95cf25717a364e@cike-events
+DTSTAMP:20250413T062805Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Región budúnosti – Budúcnosť regiónu 2025
+LOCATION:DoubleTree by Hilton\, Košice
+DESCRIPTION:Štvrtý ročník konferencie bude mať nadnárodný charakter.
+  Pozvali sme hostí z Maďarska a Ukrajiny\, aby sme sa spoločne pozreli 
+ na cestu k podnikateľskému úspechu v Karpatskom regióne. Celá konfere
+ ncia sa bude niesť v anglickom jazyku.\n\nhttps://www.kosiceitvalley.sk/e
+ vents/region-budunosti-buducnost-regionu
+URL:https://www.kosiceitvalley.sk/events/region-budunosti-buducnost-regionu
+DTSTART;VALUE=DATE:20250514
+END:VEVENT
+BEGIN:VEVENT
+UID:4568963bf00b8b241622ced799f3566d2ea2bdad@cike-events
+DTSTAMP:20251130T141303Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Ženy môžu byť čímkoľvek
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DESCRIPTION:Inšpiratívna diskusia a networking pre budúce líderky Brits
+ ké veľvyslanectvo na Slovensku a Košice IT Valley vás pozývajú na po
+ dujatie zamerané na podporu mladých žien a dievčat s cieľom povzbudi
+ ť ich\, aby sa odvážne vydali cestou kariéry v IT\, vede\, letectve\, 
+ energetike a ďalších oblastiach tradične vnímaných ako „mužské
+ “.\n\nhttps://www.kosiceitvalley.sk/events/zeny-mozu-byt-cimkolvek
+URL:https://www.kosiceitvalley.sk/events/zeny-mozu-byt-cimkolvek
+DTSTART;VALUE=DATE:20250512
+END:VEVENT
+BEGIN:VEVENT
+UID:68c4dbd3803c7b81fedfb9b71e46a9d5fcfef4e1@cike-events
+DTSTAMP:20250610T173547Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Konferencia projektového manažmentu
+LOCATION:DT IT Solutions Slovakia\, BCT1 - Moldavská cesta 8/A
+DESCRIPTION:Vážení nadšenci projektového manažmentu! Partneri 2BCogni
+ tus\, DT IT Solutions Slovakia\, IPMA Slovakia\, IT Valley Košice a PMI S
+ lovakia Chapter vás pozývajú na 7. ročník Konferencie projektového m
+ anažmentu v Košiciach.\n\nhttps://www.kosiceitvalley.sk/events/konferenc
+ ia-projektoveho-manazmentu
+URL:https://www.kosiceitvalley.sk/events/konferencia-projektoveho-manazment
+ u
+DTSTART;VALUE=DATE:20250429
+END:VEVENT
+BEGIN:VEVENT
+UID:df4615d32e33f3bf3e937a72cf35acd2e6b0e061@cike-events
+DTSTAMP:20251018T065736Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Cybersecurity – Deň pre pedagógov
+LOCATION:UVP Technicom
+DESCRIPTION:Interaktívny workshop zameraný na kybernetickú bezpečnosť 
+ pre pedagógov\, organizovaný v spolupráci so spoločnosťou ESET a Koš
+ ickým samosprávnym krajom\, predstaví aktuálne kybernetické hrozby a 
+ nástroje na ochranu v online prostredí.\n\nhttps://www.kosiceitvalley.sk
+ /events/cybersecurity-den-pre-pedagogov
+URL:https://www.kosiceitvalley.sk/events/cybersecurity-den-pre-pedagogov
+DTSTART;VALUE=DATE:20250327
+END:VEVENT
+BEGIN:VEVENT
+UID:c38122b33d0eefdce834bdc3b24caaf50441768a@cike-events
+DTSTAMP:20250201T120307Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DOD – Košická akadémia softvérového vývoja
+LOCATION:Moldavská cesta 8A\, budova BCT -1
+DESCRIPTION:Zažite svet IT naživo! Chcete vidieť\, ako vyzerá budúcnos
+ ť technológií zblízka? Príďte na náš Deň otvorených dverí a pon
+ orte sa do atmosféry našej akadémie!\n\nhttps://www.kosiceitvalley.sk/e
+ vents/dod-kosicka-akademia-softveroveho-vyvoja
+URL:https://www.kosiceitvalley.sk/events/dod-kosicka-akademia-softveroveho-
+ vyvoja
+DTSTART;VALUE=DATE:20250326
+END:VEVENT
+BEGIN:VEVENT
+UID:7d0c67ff992f0b2771421438e3561460954fa877@cike-events
+DTSTAMP:20250825T014821Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Dáta a IT – Trh práce v pohybe
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Ako vyzerá aktuálny trh práce v ICT sektore v Košiciach? Ak
+ é sú najnovšie trendy v odmeňovaní v IT? Zistite viac na Data Breakfa
+ st — čakajú vás dva odborné príspevky\, panelová diskusia a jedine
+ čná príležitosť na networking s profesionálmi z odvetvia.\n\nhttps:/
+ /www.kosiceitvalley.sk/events/data-a-it-trh-prace-v-pohybe
+URL:https://www.kosiceitvalley.sk/events/data-a-it-trh-prace-v-pohybe
+DTSTART;VALUE=DATE:20250325
+END:VEVENT
+BEGIN:VEVENT
+UID:569b908366c1eaf711a1988d988468fe95e21420@cike-events
+DTSTAMP:20250728T042038Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Inovácie na dosah – Digitálna (r)evolúcia
+LOCATION:Kasárne Kulturpark\, Košice
+DESCRIPTION:Predstavujeme konferenciu „Inovácia na dosah – Digitálna 
+ (r)evolúcia“! Pridajte sa k nám 18. marca 2025 od 9:00 do 13:00 v Kult
+ urparku v Košiciach na jedinečnú konferenciu\, ktorá vám ukáže\, ak
+ o technologické trendy menia podnikanie.\n\nhttps://www.kosiceitvalley.sk
+ /events/inovacie-na-dosah-digitalna-revolucia
+URL:https://www.kosiceitvalley.sk/events/inovacie-na-dosah-digitalna-revolu
+ cia
+DTSTART;VALUE=DATE:20250318
+END:VEVENT
+BEGIN:VEVENT
+UID:720211b1909dac662f53aee7d695d9ae51ea47bd@cike-events
+DTSTAMP:20250531T152825Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] WOMEN & BUSINESS
+LOCATION:UVP Technicom\, Boženy Němcovej 5\, Košice
+DESCRIPTION:Hľadáte nové kontakty\, praktické rady a nástroje na rozvo
+ j svojho podnikania? Príďte sa inšpirovať príbehmi úspešných podni
+ kateliek a získajte cenné know-how na podujatí WOMEN & BUSINESS.\n\nhtt
+ ps://www.kosiceitvalley.sk/events/women-business
+URL:https://www.kosiceitvalley.sk/events/women-business
+DTSTART;VALUE=DATE:20250311
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8d029e73ee894634b9243f95a952d70a71517c@cike-events
+DTSTAMP:20250327T021157Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Backend Meetup
+LOCATION:Štúrova 27\, Kosice\, Slovakia
+DESCRIPTION:Ak vás zaujíma\, ako veci fungujú „pod kapotou“\, ak by 
+ ste radi diskutovali o technológiách a ak vás lákajú výzvy\, ktorým
+  čelia developerské tímy pri výbere a používaní konkrétnych techno
+ lógií\, pripravili sme meetup práve pre vás – zameraný na backendov
+ é technológie – kde každý riadok kódu otvára cestu k technologicke
+ j excelentnosti budúcnosti.\n\nhttps://www.kosiceitvalley.sk/events/backe
+ nd-meetup
+URL:https://www.kosiceitvalley.sk/events/backend-meetup
+DTSTART;VALUE=DATE:20250227
+END:VEVENT
+BEGIN:VEVENT
+UID:7350d5feb38922605119fe6cc967084a6e94c952@cike-events
+DTSTAMP:20251213T043619Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI a právo: Ako AI mení pravidlá podnikania – 
+ Business Breakfast
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DESCRIPTION:Spoločnosť MATHISON legal vás pozýva na Business Breakfast.
+  Téma tohto stretnutia je AI a právo: Ako umelá inteligencia mení prav
+ idlá podnikania.\n\nhttps://www.kosiceitvalley.sk/events/ai-a-pravo-ako-a
+ i-meni-pravidla-podnikania-business-breakfast
+URL:https://www.kosiceitvalley.sk/events/ai-a-pravo-ako-ai-meni-pravidla-po
+ dnikania-business-breakfast
+DTSTART;VALUE=DATE:20250226
+END:VEVENT
+BEGIN:VEVENT
+UID:c9822b5b5a533e63b0f5900646aa18bf70454be4@cike-events
+DTSTAMP:20250205T173814Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DataDay5
+LOCATION:Jesenná 5\, Košice
+DESCRIPTION:Stredoškoláci\, pozor! Viete programovať? Zaujímajú vás d
+ áta ako obrázky\, grafy\, volebné prieskumy a práca s nimi? Baví vás
+  riešiť problémy alebo sa jednoducho chcete naučiť\, ako používať 
+ umelú inteligenciu? Potom sa pridajte k piatej edícii DataDay\, kde toto
+  všetko a ešte viac môžete zažiť na vlastnej koži!\n\nhttps://www.k
+ osiceitvalley.sk/events/dataday5
+URL:https://www.kosiceitvalley.sk/events/dataday5
+DTSTART;VALUE=DATE:20250215
+END:VEVENT
+BEGIN:VEVENT
+UID:d769ecfa20ae5db9e16241637429a89e971fe5e3@cike-events
+DTSTAMP:20250417T122718Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Zborovňa 2025 – Konferencia pre STEM pedagógov
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DESCRIPTION:Už tretíkrát vás srdečne pozývame na konferenciu Zborovň
+ a\, zameranú na rozvoj pedagógov prírodovedných predmetov (science\, t
+ echnology\, engineering\, mathematics) z košického a prešovského regi
+ ónu.\n\nhttps://www.kosiceitvalley.sk/events/zborovna-2025-konferencia-pr
+ e-stem-pedagogov
+URL:https://www.kosiceitvalley.sk/events/zborovna-2025-konferencia-pre-stem
+ -pedagogov
+DTSTART;VALUE=DATE:20250213
+END:VEVENT
+BEGIN:VEVENT
+UID:bd11bf27288b0bd6cba6bf76efc8a001e1da65c7@cike-events
+DTSTAMP:20250604T114001Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIVO #15: UX pre občana
+LOCATION:Fabrik Space Tabačka\, Košice
+DESCRIPTION:Komunita UX / Košice\, na ktorej spoluvytváraní sa podieľam
+ e\, organizuje svoj tradičný meetup s inšpiratívnymi prednáškami a n
+ etworkingom s témou - UX pre občana\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/ux-pivo-15-ux-pre-obcana
+URL:https://www.kosiceitvalley.sk/events/ux-pivo-15-ux-pre-obcana
+DTSTART;VALUE=DATE:20250211
+END:VEVENT
+BEGIN:VEVENT
+UID:155c5e9ba6bbaab3313cac22d25c5831e22f1424@cike-events
+DTSTAMP:20251024T144925Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Microsoft Day 2025
+LOCATION:Microsoft Slovakia s.r.o.\, Bratislava
+DESCRIPTION:Pozývame vás na konferenciu\, na ktorej predstavíme zaujíma
+ vé témy zo sveta Microsoftu.\n\nhttps://www.kosiceitvalley.sk/events/mic
+ rosoft-day-2025
+URL:https://www.kosiceitvalley.sk/events/microsoft-day-2025
+DTSTART;VALUE=DATE:20250205
+END:VEVENT
+BEGIN:VEVENT
+UID:0715392bc700c8220670cd45f340ba205684cb62@cike-events
+DTSTAMP:20250211T222321Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Živé IT Projekty – Finále
+LOCATION:Kasárne Kulturpark\, Košice
+DESCRIPTION:Živé IT Projekty je jedinečný vzdelávací koncept organizo
+ vaný pod záštitou Katedry počítačov a informatiky FEI TUKE a združe
+ nia Košice IT Valley\, v rozsahu a formáte\, ktorý je na Slovensku nezv
+ yčajný.\n\nhttps://www.kosiceitvalley.sk/events/zive-it-projekty-finale
+URL:https://www.kosiceitvalley.sk/events/zive-it-projekty-finale
+DTSTART;VALUE=DATE:20250204
+END:VEVENT
+BEGIN:VEVENT
+UID:03c96e6d034901fd0f28662e519c35b17f43e719@cike-events
+DTSTAMP:20250308T120330Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár Kybernetická bezpečnosť
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DESCRIPTION:Kybernetické riziká sa rýchlo menia na reálne hrozby\, ktor
+ ých dopady pociťujú firmy aj občania vo forme finančných strát.\n\n
+ https://www.kosiceitvalley.sk/events/seminar-kyberneticka-bezpecnost
+URL:https://www.kosiceitvalley.sk/events/seminar-kyberneticka-bezpecnost
+DTSTART;VALUE=DATE:20250122
+END:VEVENT
+BEGIN:VEVENT
+UID:b30abe560b55b1154992a2a5ef971da4ddeb2b82@cike-events
+DTSTAMP:20250125T225331Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Vianočný večierok
+LOCATION:Sála Bukovina\, Trieda KVP 9
+DESCRIPTION:5. decembra 2024 sa v priestoroch sály Bukovina uskutoční tr
+ adičná Vianočná párty s Košice IT Valley.\n\nhttps://www.kosiceitval
+ ley.sk/events/vianocny-vecierok
+URL:https://www.kosiceitvalley.sk/events/vianocny-vecierok
+DTSTART;VALUE=DATE:20241205
+END:VEVENT
+BEGIN:VEVENT
+UID:73054110c7641b757296601a37e35a3fd73a169c@cike-events
+DTSTAMP:20250705T200710Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Filantropický večer s Nadáciou Pontis a EY
+LOCATION:Východoslovenská galéria\, Košice
+DESCRIPTION:Pomáhať iným je prirodzenou súčasťou života úspešných
+  lídrov a podnikateľov. Preto vás v mene Nadácie Pontis\, v spoluprác
+ i so spoločnosťou EY\, srdečne pozývame na špeciálny filantropický 
+ večer\, ktorý ponúka priestor na zdieľanie inšpiratívnych príbehov 
+ a skúseností.\n\nhttps://www.kosiceitvalley.sk/events/filantropicky-vece
+ r-s-nadaciou-pontis-a-ey
+URL:https://www.kosiceitvalley.sk/events/filantropicky-vecer-s-nadaciou-pon
+ tis-a-ey
+DTSTART;VALUE=DATE:20241120
+END:VEVENT
+BEGIN:VEVENT
+UID:2cb1d175cdb0b4c899cd31b950e6d6f753aabcb9@cike-events
+DTSTAMP:20250505T014555Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] TEDxHumenné
+LOCATION:Mestské kultúrne stredisko Humenné
+DESCRIPTION:„Tvoj tvorivý potenciál – Tvoja budúcnosť“ je hlavnou
+  témou prvej TEDx konferencie v Humennom. V piatok 15. novembra 2024 sa v
+  Mestskom kultúrnom stredisku uskutoční celodenná konferencia TEDx Hum
+ enné.\n\nhttps://www.kosiceitvalley.sk/events/tedxhumenne
+URL:https://www.kosiceitvalley.sk/events/tedxhumenne
+DTSTART;VALUE=DATE:20241115
+END:VEVENT
+BEGIN:VEVENT
+UID:b683400dd6159db75b7683de2f6400248fd4e4ca@cike-events
+DTSTAMP:20250907T052146Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Dinner s Ivanom Miklošom
+LOCATION:Gesto café & brunch\, Námestie L. Novomeského 13\, Košice
+DESCRIPTION:Jedinečné podujatie CEO Dinner s pánom Ivanom Miklošom\, b
+ ývalým ministrom financií Slovenskej republiky\, sa uskutoční v ponde
+ lok 11. novembra 2024. Podujatie je len na pozvánky pre členov klastru a
+  je určené predovšetkým pre CEO a CFO.\n\nhttps://www.kosiceitvalley.s
+ k/events/ceo-dinner-s-ivanom-miklosom
+URL:https://www.kosiceitvalley.sk/events/ceo-dinner-s-ivanom-miklosom
+DTSTART;VALUE=DATE:20241111
+END:VEVENT
+BEGIN:VEVENT
+UID:2aaed480aa3281c8f46575200dbe0c1c14d41ce1@cike-events
+DTSTAMP:20251013T012755Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Magnetize Slovakia / Magnetize Košice – Zahrani
+ čný talent na Slovensku a v regióne
+LOCATION:UVP Technicom
+DESCRIPTION:BUSINESS KOŠICE\, n.o.\, v spolupráci s Medzinárodnou organi
+ záciou pre migráciu (IOM) a v partnerstve s klastrom Košice IT Valley v
+ ás srdečne pozýva na konferenciu „Magnetize Slovakia / Magnetize Koš
+ ice – Zahraničné talenty na Slovensku a v regióne“\, ktorá sa usku
+ toční 7. novembra 2024 v UVP TECHNICOM\, Boženy Nemcovej 5\, Košice.\n
+ \nhttps://www.kosiceitvalley.sk/events/magnetize-slovakia-magnetize-kosice
+ -zahranicny-talent-na-slovensku-a-v-regione
+URL:https://www.kosiceitvalley.sk/events/magnetize-slovakia-magnetize-kosic
+ e-zahranicny-talent-na-slovensku-a-v-regione
+DTSTART;VALUE=DATE:20241107
+END:VEVENT
+BEGIN:VEVENT
+UID:7ce826e52b5396680bc881e06aceb70078732416@cike-events
+DTSTAMP:20251209T092637Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES – Michalovce
+LOCATION:Hotel Mousson\, Michalovce
+DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného 
+ partnerstva vás pozýva na podujatie INNOPSIES Entrepreneurs’ Meeting\,
+  zamerané na tému inovácií v kontexte digitálnej transformácie podni
+ kania.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-michalovce
+URL:https://www.kosiceitvalley.sk/events/innopsies-michalovce
+DTSTART;VALUE=DATE:20241106
+END:VEVENT
+BEGIN:VEVENT
+UID:2edc10e6f0576f4bf416ae19cc6cda97416ea7e9@cike-events
+DTSTAMP:20251013T140045Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES – Prešov
+LOCATION:Hlavná 139\, Prešov
+DESCRIPTION:Konzorcium EDIH Cassovium v spolupráci s Centrom inovačného 
+ partnerstva vás pozýva na podujatie INNOPSIES Entrepreneurs’ Meeting\,
+  venované téme inovácií v kontexte digitálnej transformácie podnikov
+ .\n\nhttps://www.kosiceitvalley.sk/events/innopsies-presov
+URL:https://www.kosiceitvalley.sk/events/innopsies-presov
+DTSTART;VALUE=DATE:20241104
+END:VEVENT
+BEGIN:VEVENT
+UID:4682a16ee3caf29dccad58bafe03004eef15d007@cike-events
+DTSTAMP:20250131T173035Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Profesia days Košice 2024
+LOCATION:Kasárne Kulturpark\, Košice
+DESCRIPTION:Aj tento rok sa uskutoční najväčší festival pracovných p
+ ríležitostí Profesia Days. Do Košíc prinesie kariérne poradenstvo\, 
+ pracovné ponuky a najnovšie trendy zo sveta práce.\n\nhttps://www.kosic
+ eitvalley.sk/events/profesia-days-kosice-2024
+URL:https://www.kosiceitvalley.sk/events/profesia-days-kosice-2024
+DTSTART;VALUE=DATE:20241023
+END:VEVENT
+BEGIN:VEVENT
+UID:91b5059be329d2d15d907b2a2ad040f6c94bacaf@cike-events
+DTSTAMP:20251106T231730Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIVO #14: UX a bezpečnosť
+LOCATION:Fabricafé Tabačka\, Košice
+DESCRIPTION:Komunita UX / Košice\, na ktorej spoluvytváraní sa podieľam
+ e\, organizuje svoj tradičný meetup s inšpiratívnymi prednáškami a n
+ etworkingom. Tentokrát sa zameriame na dôležitú tému prepájajúcu UX
+  dizajn a bezpečnosť.\n\nhttps://www.kosiceitvalley.sk/events/ux-pivo-14
+ -ux-a-bezpecnost
+URL:https://www.kosiceitvalley.sk/events/ux-pivo-14-ux-a-bezpecnost
+DTSTART;VALUE=DATE:20241015
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1c77a9e67b62fc1bf363eaa0a0fc0ac37bd58d@cike-events
+DTSTAMP:20251001T124633Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] FORBES BUSINESS FEST
+LOCATION:Tyršovo nábrežie\, Bratislava
+DESCRIPTION:Boli sme súčasťou prestížneho Forbes Business Festu\, kde 
+ sme predstavili naše aktivity a iniciatívy zamerané na podporu podnikat
+ eľského prostredia a inovácií na východnom Slovensku.\n\nhttps://www.
+ kosiceitvalley.sk/events/forbes-business-fest
+URL:https://www.kosiceitvalley.sk/events/forbes-business-fest
+DTSTART;VALUE=DATE:20240530
+END:VEVENT
+BEGIN:VEVENT
+UID:d15f2645cc5afe29f0583dae6efb5d0de7b08b8c@cike-events
+DTSTAMP:20250304T203708Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Región budúcnosti – Budúcnosť regiónu 2024
+LOCATION:Kasárne Kulturpark Kukučínova 2 Košice Slovakia
+DESCRIPTION:Tretí ročník konferencie Región budúcnosti – Budúcnosť
+  regiónu je za nami! Rekordný počet účastníkov a neuveriteľne nabit
+ ý program s kvalitnými rečníkmi.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/region-buducnosti-buducnost-regionu
+URL:https://www.kosiceitvalley.sk/events/region-buducnosti-buducnost-region
+ u
+DTSTART;VALUE=DATE:20240528
+END:VEVENT
+BEGIN:VEVENT
+UID:743875cacbe72efbf274077db74ea6e173a22b6f@cike-events
+DTSTAMP:20251023T012052Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Digital Synergies
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Obchodné zmýšľanie\, výskum a vývoj ako recept na konkure
+ ncieschopné IT.\n\nhttps://www.kosiceitvalley.sk/events/digital-synergies
+URL:https://www.kosiceitvalley.sk/events/digital-synergies
+DTSTART;VALUE=DATE:20240521
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b8ff8361e39051b7fea9fdeea2dc22250f0183@cike-events
+DTSTAMP:20250102T201802Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] WORKSHOP pre ženy: Digitálny marketing
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DESCRIPTION:Veľmi nás teší\, že naše pozvanie byť večernou lektorko
+ u prijala Viktória Margitová z agentúry Promiseo.\n\nhttps://www.kosice
+ itvalley.sk/events/workshop-pre-zeny-digitalny-marketing
+URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
+ ing
+DTSTART;VALUE=DATE:20240516
+END:VEVENT
+BEGIN:VEVENT
+UID:7a4d7c1095cbf81ed97e33177b4b5167510d8e0c@cike-events
+DTSTAMP:20250831T121905Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Mastercard Cyber Crisis Simulation (CCX): Resilience 
+ in Action
+LOCATION:Jurkovičova Tepláreň\, Bratislava
+DESCRIPTION:organized by Mastercard\n\nhttps://amcham.sk/events/3650/master
+ card-cyber-crisis-simulation-ccx-resilience-in-action
+URL:https://amcham.sk/events/3650/mastercard-cyber-crisis-simulation-ccx-re
+ silience-in-action
+DTSTART;VALUE=DATE:20260416
+END:VEVENT
+BEGIN:VEVENT
+UID:2dbe788b8f8e9ab7db5e1cdcb2a33bba3de3a058@cike-events
+DTSTAMP:20251126T152340Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Titan – Deep Dive to Sense- and Decision Making
+LOCATION:online (Zoom)
+DESCRIPTION:free online webinar organized by Develor\n\nhttps://amcham.sk/e
+ vents/3633/titan-deep-dive-to-sense-and-decision-making
+URL:https://amcham.sk/events/3633/titan-deep-dive-to-sense-and-decision-mak
+ ing
+DTSTART;VALUE=DATE:20260417
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a7a71c2d09809910304d595525773dc63a7e09@cike-events
+DTSTAMP:20250425T230635Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] From Training to Impact: Turning Development into Eve
+ ryday Practice
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3631/from-training-to-impa
+ ct-turning-development-into-everyday-practice
+URL:https://amcham.sk/events/3631/from-training-to-impact-turning-developme
+ nt-into-everyday-practice
+DTSTART;VALUE=DATE:20260417
+END:VEVENT
+BEGIN:VEVENT
+UID:b0eb23bae5589759561380a86a2a321a0cfc851e@cike-events
+DTSTAMP:20250502T162049Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] How to create an experiential teambuilding that truly
+  makes a difference?
+LOCATION:The Spot\, Bottova 2\, Bratislava
+DESCRIPTION:"Líderské jednohubky" by SUVKO\n\nhttps://amcham.sk/events/36
+ 39/how-to-create-an-experiential-teambuilding-that-truly-makes-a-differenc
+ e
+URL:https://amcham.sk/events/3639/how-to-create-an-experiential-teambuildin
+ g-that-truly-makes-a-difference
+DTSTART;VALUE=DATE:20260421
+END:VEVENT
+BEGIN:VEVENT
+UID:8aa8a4125a755615b02f1fc17fb05a9742e13b55@cike-events
+DTSTAMP:20250504T134233Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Power BI course
+LOCATION:KPMG Conference Centre\, Dvořákovo nábrežie 10\, Bratislava
+DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3646/power-bi-cou
+ rse
+URL:https://amcham.sk/events/3646/power-bi-course
+DTSTART;VALUE=DATE:20260421
+END:VEVENT
+BEGIN:VEVENT
+UID:12dac659dcb7b4097c951cfa01cfa2277466cdae@cike-events
+DTSTAMP:20250206T083055Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] 5th Annual Restructuring Day
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3586/5th-annual-
+ restructuring-day
+URL:https://amcham.sk/events/3586/5th-annual-restructuring-day
+DTSTART;VALUE=DATE:20260423
+END:VEVENT
+BEGIN:VEVENT
+UID:67db263cb5e6a0c4cf713dac07bd48715f526c55@cike-events
+DTSTAMP:20250502T122148Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AI Day 2026
+LOCATION:Aula FaF UK\, Faculty of Management\, Odbojárov 10\, Bratislava
+DESCRIPTION:organized by Comenius University Bratislava\, Faculty of Manage
+ ment (FM CU)\n\nhttps://amcham.sk/events/3649/ai-day-2026
+URL:https://amcham.sk/events/3649/ai-day-2026
+DTSTART;VALUE=DATE:20260423
+END:VEVENT
+BEGIN:VEVENT
+UID:f972d9238a4f025253e51bf60676d3d4f4d289a0@cike-events
+DTSTAMP:20251212T192125Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Beyond Earth: How Space Research Is Transforming the 
+ Future of Medicine?
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3641/beyond-earth-how-spac
+ e-research-is-transforming-the-future-of-medicine
+URL:https://amcham.sk/events/3641/beyond-earth-how-space-research-is-transf
+ orming-the-future-of-medicine
+DTSTART;VALUE=DATE:20260424
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4a5ac64da7e8311dc565999d9e54e6f94450cf@cike-events
+DTSTAMP:20251002T094654Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] General Assembly 2026
+DESCRIPTION:Be the first to hear about AmCham achievements and activities i
+ n 2025.\n\nhttps://amcham.sk/events/3598/general-assembly-2026
+URL:https://amcham.sk/events/3598/general-assembly-2026
+DTSTART;VALUE=DATE:20260428
+END:VEVENT
+BEGIN:VEVENT
+UID:6abf55f106526368cbf658cea613805f22111acc@cike-events
+DTSTAMP:20250116T074018Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Innovating the City: MIB’s Role in Bratislava’s U
+ rban Transformation
+LOCATION:Štúrova 4\, Bratislava
+DESCRIPTION:Presentation\n\nhttps://amcham.sk/events/3642/innovating-the-ci
+ ty-mibs-role-in-bratislavas-urban-transformation
+URL:https://amcham.sk/events/3642/innovating-the-city-mibs-role-in-bratisla
+ vas-urban-transformation
+DTSTART;VALUE=DATE:20260428
+END:VEVENT
+BEGIN:VEVENT
+UID:54176080bd5196fcabfaa9600408dca7fc0cef7d@cike-events
+DTSTAMP:20250805T071714Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Shipping Without Compromise – Discover DHL Special 
+ Services
+LOCATION:online
+DESCRIPTION:webinar organized by DHL Express\n\nhttps://amcham.sk/events/36
+ 54/shipping-without-compromise-discover-dhl-special-services
+URL:https://amcham.sk/events/3654/shipping-without-compromise-discover-dhl-
+ special-services
+DTSTART;VALUE=DATE:20260430
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc0e6ebdd4295714d3066257914f7e642e78111@cike-events
+DTSTAMP:20250802T170437Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Navigating EU Funds & E-Invoicing
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
+DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3657/
+ navigating-eu-funds-e-invoicing
+URL:https://amcham.sk/events/3657/navigating-eu-funds-e-invoicing
+DTSTART;VALUE=DATE:20260512
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad6fe9c328ed98c21efe8414a95d78d2047f348@cike-events
+DTSTAMP:20250302T222527Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] KPMG Business Simulation – KPMG Game of Business
+LOCATION:KPMG Conference Centre\, Dvořákovo nábrežie 10\, Bratislava
+DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3647/kpmg-busines
+ s-simulation-kpmg-game-of-business
+URL:https://amcham.sk/events/3647/kpmg-business-simulation-kpmg-game-of-bus
+ iness
+DTSTART;VALUE=DATE:20260512
+DTEND;VALUE=DATE:20260514
+END:VEVENT
+BEGIN:VEVENT
+UID:0bf6286d5936604cbda5f5633348685b8635c977@cike-events
+DTSTAMP:20250912T114318Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Employment of Displaced People from Ukraine and Peopl
+ e at Risk of Social Exclusion
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Koši
+ ce
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3643/employment
+ -of-displaced-people-from-ukraine-and-people-at-risk-of-social-exclusion
+URL:https://amcham.sk/events/3643/employment-of-displaced-people-from-ukrai
+ ne-and-people-at-risk-of-social-exclusion
+DTSTART;VALUE=DATE:20260513
+END:VEVENT
+BEGIN:VEVENT
+UID:e9bb27432f73e7085b58131a71230bedb0817148@cike-events
+DTSTAMP:20250510T104832Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Equal Pay for Equal Work II: Directive becomes new la
+ w in Slovakia
+LOCATION:Jurkovičova Tepláreň (Ground Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3656/equal-pay-f
+ or-equal-work-ii-directive-becomes-new-law-in-slovakia
+URL:https://amcham.sk/events/3656/equal-pay-for-equal-work-ii-directive-bec
+ omes-new-law-in-slovakia
+DTSTART;VALUE=DATE:20260513
+END:VEVENT
+BEGIN:VEVENT
+UID:1fcda85b47f599ba99d873458807caee10e0749b@cike-events
+DTSTAMP:20250503T175841Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Women & Wealth
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:organized by Crowdberry\n\nhttps://amcham.sk/events/3651/women-
+ wealth
+URL:https://amcham.sk/events/3651/women-wealth
+DTSTART;VALUE=DATE:20260514
+END:VEVENT
+BEGIN:VEVENT
+UID:a559921e1f18f2eca9436f24305bde7fd2440c6d@cike-events
+DTSTAMP:20250712T172315Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] A Carbon-Neutral Future for Businesses and New Regula
+ tory Requirements in 2026
+LOCATION:KPMG Conference Centre or ONLINE
+DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3648/a-carbon-neu
+ tral-future-for-businesses-and-new-regulatory-requirements-in-2026
+URL:https://amcham.sk/events/3648/a-carbon-neutral-future-for-businesses-an
+ d-new-regulatory-requirements-in-2026
+DTSTART;VALUE=DATE:20260514
+END:VEVENT
+BEGIN:VEVENT
+UID:3095891aa0a0126cf192118bf8a6dec3b422f8b1@cike-events
+DTSTAMP:20250130T155518Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia: Prepare for Mandatory Go Liv
+ e
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3640/e-invoicing
+ -in-slovakia-prepare-for-mandatory-go-live
+URL:https://amcham.sk/events/3640/e-invoicing-in-slovakia-prepare-for-manda
+ tory-go-live
+DTSTART;VALUE=DATE:20260514
+END:VEVENT
+BEGIN:VEVENT
+UID:5c4516199fd23ab7a76039da76e3e24aa87aac9a@cike-events
+DTSTAMP:20250601T002204Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Why Smart People Make Bad Decisions? Practical Critic
+ al Thinking for Business Professionals
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3655/why-smart-people-make
+ -bad-decisions-practical-critical-thinking-for-business-professionals
+URL:https://amcham.sk/events/3655/why-smart-people-make-bad-decisions-pract
+ ical-critical-thinking-for-business-professionals
+DTSTART;VALUE=DATE:20260515
+END:VEVENT
+BEGIN:VEVENT
+UID:632e47e0eceb1a594287c3b650654c8da76a54c2@cike-events
+DTSTAMP:20250906T052445Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Masterclass Cognitive Empathy for Better Business Res
+ ults
+LOCATION:Lab28\, Mlynské Nivy\, Bratislava
+DESCRIPTION:organized by Empera consulting\n\nhttps://amcham.sk/events/3638
+ /masterclass-cognitive-empathy-for-better-business-results
+URL:https://amcham.sk/events/3638/masterclass-cognitive-empathy-for-better-
+ business-results
+DTSTART;VALUE=DATE:20260519
+END:VEVENT
+BEGIN:VEVENT
+UID:b7fb8bc35d9ea3e32964fb11eb96e7c5fe6a86ba@cike-events
+DTSTAMP:20250929T201859Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Hiring Non-EU Talent - A Guide to Immigration Options
+LOCATION:Pro Relocation office\, Svätoplukova 31\, 821 09 Bratislava
+DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/e
+ vents/3624/hiring-non-eu-talent-a-guide-to-immigration-options
+URL:https://amcham.sk/events/3624/hiring-non-eu-talent-a-guide-to-immigrati
+ on-options
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4175b94b600cec3aca618d96b7dcf9e1f028fe@cike-events
+DTSTAMP:20251122T155606Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Trnava
+LOCATION:Sessler\, Pri kalvárii 17\, Trnava
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3652/spee
+ d-business-meeting-in-trnava
+URL:https://amcham.sk/events/3652/speed-business-meeting-in-trnava
+DTSTART;VALUE=DATE:20260526
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce178ceac4d63fe5e3a9ae5dd0d8c44f33e0eb5@cike-events
+DTSTAMP:20251012T192145Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
+LOCATION:Botanical Garden UPJŠ\, Mánesova 1889/23
+DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3606/summer-innovation-b
+ usiness-cocktail
+URL:https://amcham.sk/events/3606/summer-innovation-business-cocktail
+DTSTART;VALUE=DATE:20260611
+END:VEVENT
+BEGIN:VEVENT
+UID:50a756e8c1c32482401014d20056f92cee002521@cike-events
+DTSTAMP:20250630T174005Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Managing Info Cards for International Hires in Slovak
+ ia
+LOCATION:Pro Relocation office\, Svätoplukova 31\, 821 09 Bratislava
+DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/e
+ vents/3625/managing-info-cards-for-international-hires-in-slovakia
+URL:https://amcham.sk/events/3625/managing-info-cards-for-international-hir
+ es-in-slovakia
+DTSTART;VALUE=DATE:20260617
+END:VEVENT
+BEGIN:VEVENT
+UID:e10439cf3f977daa6d787b583337da2f7513bda8@cike-events
+DTSTAMP:20250217T094913Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Arbitration Conference
+LOCATION:Faculty of Law\, Comenius University\, Šafárikovo námestie 6\, 
+ Bratislava
+DESCRIPTION:12th Annual Richard Dewitt Arbitration Conference\n\nhttps://am
+ cham.sk/events/3637/arbitration-conference
+URL:https://amcham.sk/events/3637/arbitration-conference
+DTSTART;VALUE=DATE:20260618
+END:VEVENT
+BEGIN:VEVENT
+UID:0e5f2eb6f4f62c47dca7e91ae7d653b220b631c9@cike-events
+DTSTAMP:20250319T072608Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] 250th anniversary of the founding of the United State
+ s of America
+LOCATION:Národný futbalový štadión Tehelné pole\, Viktora Tegelhoffa 
+ 4\, Bratislava
+DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3605/250th-anniversar
+ y-of-the-founding-of-the-united-states-of-america
+URL:https://amcham.sk/events/3605/250th-anniversary-of-the-founding-of-the-
+ united-states-of-america
+DTSTART;VALUE=DATE:20260618
+END:VEVENT
+BEGIN:VEVENT
+UID:f9aff65d9d58ca479e4d073640d833cce549b642@cike-events
+DTSTAMP:20251104T130055Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Welcome Back To Work
+LOCATION:Grand Hotel River Park\, a Luxury Collection Hotel\, Dvořákovo n
+ ábrežie 6\, Bratislava
+DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3604/welcome-back
+ -to-work
+URL:https://amcham.sk/events/3604/welcome-back-to-work
+DTSTART;VALUE=DATE:20260903
+END:VEVENT
+BEGIN:VEVENT
+UID:184acc4bcefc0a0656457adb7bcf1e18d5d1b5de@cike-events
+DTSTAMP:20250403T224408Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
+LOCATION:Bratislava Castle\, Bratislava
+DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
+ ity-gala-dinner
+URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:48f64bb398cc3b7285ce0796aeaebbe5af82edd9@cike-events
+DTSTAMP:20250124T095743Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AI + Innovation Business Evening
+LOCATION:VILLA SANDY\, Restaurant SEVEN\, Mestský park 7\, Košice
+DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3634/ai-innovatio
+ n-business-evening
+URL:https://amcham.sk/events/3634/ai-innovation-business-evening
+DTSTART;VALUE=DATE:20260331
+END:VEVENT
+BEGIN:VEVENT
+UID:33eaded0bf5b4dbcee361f850f176fc212439ab7@cike-events
+DTSTAMP:20250622T220922Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Energy for Sustainable Business
+LOCATION:Grand Hotel River Park\, a Luxury Collection Hotel\, Dvořákovo n
+ ábrežie 6\, Bratislava
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3593/energy-for-sustaina
+ ble-business
+URL:https://amcham.sk/events/3593/energy-for-sustainable-business
+DTSTART;VALUE=DATE:20260326
+END:VEVENT
+BEGIN:VEVENT
+UID:31816fbc944a9ab2d0008bcb0954c0ecdfa14523@cike-events
+DTSTAMP:20250429T140843Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Crisis Management & Fraud Investigation
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3630/crisis-management-fra
+ ud-investigation
+URL:https://amcham.sk/events/3630/crisis-management-fraud-investigation
+DTSTART;VALUE=DATE:20260325
+END:VEVENT
+BEGIN:VEVENT
+UID:21f778f48e07efaa7e72cab9f1756cc68a7e63c3@cike-events
+DTSTAMP:20251117T190055Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] How To Recharge Your Batteries — Without Regret
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3616/how-to-recharge-your-
+ batteries-utf8212-without-regret
+URL:https://amcham.sk/events/3616/how-to-recharge-your-batteries-utf8212-wi
+ thout-regret
+DTSTART;VALUE=DATE:20260320
+END:VEVENT
+BEGIN:VEVENT
+UID:0032d1d87c251926656eb3072f6b8cfeb58d27d0@cike-events
+DTSTAMP:20250328T162007Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Info Webinar: SelectUSA Investment Summit
+LOCATION:AmCham
+DESCRIPTION:Online Webinar\n\nhttps://amcham.sk/events/3617/info-webinar-se
+ lectusa-investment-summit
+URL:https://amcham.sk/events/3617/info-webinar-selectusa-investment-summit
+DTSTART;VALUE=DATE:20260309
+END:VEVENT
+BEGIN:VEVENT
+UID:813ed0af0be21b8a940b321ea00548460c416261@cike-events
+DTSTAMP:20250731T175939Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Crisis Management & Fraud Investigation /POSTPONED
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3614/crisis-management-fra
+ ud-investigation-postponed
+URL:https://amcham.sk/events/3614/crisis-management-fraud-investigation-pos
+ tponed
+DTSTART;VALUE=DATE:20260306
+END:VEVENT
+BEGIN:VEVENT
+UID:f5300351e1a878d3b19520d83dc837f00dd52c96@cike-events
+DTSTAMP:20250523T140604Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Innovative Technologies in Healthcare
+LOCATION:Jurkovičova Tepláreň (Ground Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Part of the Health Care in Transformation Conference\n\nhttps:/
+ /amcham.sk/events/3613/innovative-technologies-in-healthcare
+URL:https://amcham.sk/events/3613/innovative-technologies-in-healthcare
+DTSTART;VALUE=DATE:20260303
+END:VEVENT
+BEGIN:VEVENT
+UID:d3a1f29da698fd1d621f86d20503432df283c6b3@cike-events
+DTSTAMP:20250211T003301Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Health Check Day
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Part of the Health Care in Transformation Conference\n\nhttps:/
+ /amcham.sk/events/3612/health-check-day
+URL:https://amcham.sk/events/3612/health-check-day
+DTSTART;VALUE=DATE:20260303
+END:VEVENT
+BEGIN:VEVENT
+UID:75d36a5fabdfafc692f25c7f61603248654e0dac@cike-events
+DTSTAMP:20250702T000247Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Health Care in Transformation: Care – Data – Cost
+ s
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3583/health-care-in-tran
+ sformation-care-data-costs
+URL:https://amcham.sk/events/3583/health-care-in-transformation-care-data-c
+ osts
+DTSTART;VALUE=DATE:20260303
+END:VEVENT
+BEGIN:VEVENT
+UID:3e53da417480e307b4694dfe01e9923879e4d16d@cike-events
+DTSTAMP:20250221T101923Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AmCham Patron's Lunch
+LOCATION:NOX\, Pradiareň 1900\, Svätoplukova 2A\, Bratislava
+DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3626/amcham-patrons-l
+ unch
+URL:https://amcham.sk/events/3626/amcham-patrons-lunch
+DTSTART;VALUE=DATE:20260227
+END:VEVENT
+BEGIN:VEVENT
+UID:46b122355554975a57b9e0ebe9b10dd59c0486f8@cike-events
+DTSTAMP:20250111T085742Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Executive Briefing: EU Cybersecurity Updates for Deci
+ sion Makers
+LOCATION:Jurkovičova Tepláreň (Second Floor|\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3599/executive-briefing-eu
+ -cybersecurity-updates-for-decision-makers
+URL:https://amcham.sk/events/3599/executive-briefing-eu-cybersecurity-updat
+ es-for-decision-makers
+DTSTART;VALUE=DATE:20260213
+END:VEVENT
+BEGIN:VEVENT
+UID:330b74d332b0c40ffdef002fed0e144ae23c3a17@cike-events
+DTSTAMP:20250514T090353Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Effective managerial problem-solving combines teamwor
+ k and AI /POSTPONED
+LOCATION:Jurkovičova Tepláreň (Ground Floor - BASE event hall)\, Bottova
+  1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3601/effective-managerial-
+ problem-solving-combines-teamwork-and-ai-postponed
+URL:https://amcham.sk/events/3601/effective-managerial-problem-solving-comb
+ ines-teamwork-and-ai-postponed
+DTSTART;VALUE=DATE:20260212
+END:VEVENT
+BEGIN:VEVENT
+UID:736791997e972ffc2376f1b8754dd2381c6d11b8@cike-events
+DTSTAMP:20251010T001403Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Changes in Tax Legislation
+LOCATION:Crowne Plaza Bratislava\, Hodžovo námestie 2\, Bratislava
+DESCRIPTION:Tax Seminar organized by the Foreign Chambers of Commerce in Sl
+ ovakia\n\nhttps://amcham.sk/events/3597/changes-in-tax-legislation
+URL:https://amcham.sk/events/3597/changes-in-tax-legislation
+DTSTART;VALUE=DATE:20260211
+END:VEVENT
+BEGIN:VEVENT
+UID:e745fde0c2aa3cd1caf812ac80398fee3ff48761@cike-events
+DTSTAMP:20250101T120418Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting
+LOCATION:Lindner Hotel Bratislava - JDV by Hyatt\, Metodova 4\, Bratislava
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3602/spee
+ d-business-meeting
+URL:https://amcham.sk/events/3602/speed-business-meeting
+DTSTART;VALUE=DATE:20260209
+END:VEVENT
+BEGIN:VEVENT
+UID:be7db2946cba7cefa7a917ebedaa5243d5021a66@cike-events
+DTSTAMP:20250207T094420Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] The CEO Learning Circle
+LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
+DESCRIPTION:https://amcham.sk/events/3600/the-ceo-learning-circle
+URL:https://amcham.sk/events/3600/the-ceo-learning-circle
+DTSTART;VALUE=DATE:20260206
+END:VEVENT
+BEGIN:VEVENT
+UID:64b8831641ac689ab2c3870b3652eb2572fc3e43@cike-events
+DTSTAMP:20250328T051650Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Lead from the Inside Out – Unique Opportunity Exclu
+ sive Speaker
+LOCATION:online\, zoom
+DESCRIPTION:Live Zoom Session\n\nhttps://amcham.sk/events/3603/lead-from-th
+ e-inside-out-unique-opportunity-exclusive-speaker
+URL:https://amcham.sk/events/3603/lead-from-the-inside-out-unique-opportuni
+ ty-exclusive-speaker
+DTSTART;VALUE=DATE:20260203
+END:VEVENT
+BEGIN:VEVENT
+UID:d55d8bcacf04be22300fffb561ef9af4348e0a3c@cike-events
+DTSTAMP:20251020T224743Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Mental Stretching for HR
+LOCATION:Jurkovičova Tepláreň\, Second Floor\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3587/mental-stretching-for
+ -hr
+URL:https://amcham.sk/events/3587/mental-stretching-for-hr
+DTSTART;VALUE=DATE:20260123
+END:VEVENT
+BEGIN:VEVENT
+UID:1c370b65b19037e739c8f6a06fb4e782c62c0626@cike-events
+DTSTAMP:20251113T100442Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] ESG Best Practice Sharing - Košice edition!
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Koši
+ ce
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3529/esg-best-p
+ ractice-sharing-kosice-edition
+URL:https://amcham.sk/events/3529/esg-best-practice-sharing-kosice-edition
+DTSTART;VALUE=DATE:20251211
+END:VEVENT
+BEGIN:VEVENT
+UID:be3cfe50361d22adf0126552c64f21cefc242a03@cike-events
+DTSTAMP:20250806T192327Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Navigating Change: Coaching Teams in an Age of Techno
+ logy and Turbulence
+LOCATION:The Spot Cowork \, 8th floor\, Skypark\, Bottova 2/A\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3581/navigating-change-coa
+ ching-teams-in-an-age-of-technology-and-turbulence
+URL:https://amcham.sk/events/3581/navigating-change-coaching-teams-in-an-ag
+ e-of-technology-and-turbulence
+DTSTART;VALUE=DATE:20251204
+END:VEVENT
+BEGIN:VEVENT
+UID:0425597236aaad9e610d4eab5dcbe08fce9eca94@cike-events
+DTSTAMP:20250515T034917Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AmCham BSCF 11th Annual Business Centers Conference
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Future-Ready Business: Trust\, Talent & Technology\n\nhttps://a
+ mcham.sk/events/3542/amcham-bscf-11th-annual-business-centers-conference
+URL:https://amcham.sk/events/3542/amcham-bscf-11th-annual-business-centers-
+ conference
+DTSTART;VALUE=DATE:20251204
+END:VEVENT
+BEGIN:VEVENT
+UID:0bbe5e23d0a5e79251a549baa84dd5a46c073455@cike-events
+DTSTAMP:20251118T121010Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia – From Law to Practice
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3579/e-invoicin
+ g-in-slovakia-from-law-to-practice
+URL:https://amcham.sk/events/3579/e-invoicing-in-slovakia-from-law-to-pract
+ ice
+DTSTART;VALUE=DATE:20251202
+END:VEVENT
+BEGIN:VEVENT
+UID:98eafbc5154df038d1fdb3613c2e9a1a7e7f0f10@cike-events
+DTSTAMP:20250521T052357Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Thanksgiving Charity Gala Dinner
+LOCATION:Bratislava Castle\, Bratislava
+DESCRIPTION:Bloom into Competitiveness / 29th Edition\n\nhttps://amcham.sk/
+ events/3522/thanksgiving-charity-gala-dinner
+URL:https://amcham.sk/events/3522/thanksgiving-charity-gala-dinner
+DTSTART;VALUE=DATE:20251128
+DTEND;VALUE=DATE:20251130
+END:VEVENT
+BEGIN:VEVENT
+UID:47e466acb852e1cf9000fae88b0d142c850638e2@cike-events
+DTSTAMP:20251004T025638Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AI Agents – When Efficiency Meets Creativity
+LOCATION:Jurkovičova Tepláreň\, Event Hall (ground floor)\, Bottova 1\, 
+ Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3557/ai-agents-when-effici
+ ency-meets-creativity
+URL:https://amcham.sk/events/3557/ai-agents-when-efficiency-meets-creativit
+ y
+DTSTART;VALUE=DATE:20251121
+END:VEVENT
+BEGIN:VEVENT
+UID:81ef06ba354dd9b877477bc629b2c256818227da@cike-events
+DTSTAMP:20250113T164751Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Social Dialogue That Works: Law\, Tactics & Practice
+LOCATION:Univerzitný vedecký park TECHNICOM\, Galéria room\, Boženy Ně
+ mcovej 5\, Košice
+DESCRIPTION:HR Learning Circle in Košice\n\nhttps://amcham.sk/events/3570/
+ social-dialogue-that-works-law-tactics-practice
+URL:https://amcham.sk/events/3570/social-dialogue-that-works-law-tactics-pr
+ actice
+DTSTART;VALUE=DATE:20251120
+END:VEVENT
+BEGIN:VEVENT
+UID:9598c64f5e044be3626da502a2b780f84ce0aea8@cike-events
+DTSTAMP:20250817T012009Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Banská Bystrica
+LOCATION:Hotel Arcade\, Jána Cikkera 1
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3562/spee
+ d-business-meeting-in-banska-bystrica
+URL:https://amcham.sk/events/3562/speed-business-meeting-in-banska-bystrica
+DTSTART;VALUE=DATE:20251104
+END:VEVENT
+BEGIN:VEVENT
+UID:63de8cced6c5058204304e5fc11fbc318d6141ab@cike-events
+DTSTAMP:20250531T054424Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Business Ladies Day
+LOCATION:PenatiClub\, Agátová 33\, Bratislava
+DESCRIPTION:13th year of a unique event intended especially for women who w
+ ork in the business environment\n\nhttps://amcham.sk/events/3526/business-
+ ladies-day
+URL:https://amcham.sk/events/3526/business-ladies-day
+DTSTART;VALUE=DATE:20251030
+END:VEVENT
+BEGIN:VEVENT
+UID:27ae3efe5eac12accee03af475fa4bef99a8a29f@cike-events
+DTSTAMP:20250319T041312Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Crisis & Compliance: Navigating Bribery\, Sanctions\,
+  and Cross-Border Risk
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3534/crisis-compli
+ ance-navigating-bribery-sanctions-and-cross-border-risk
+URL:https://amcham.sk/events/3534/crisis-compliance-navigating-bribery-sanc
+ tions-and-cross-border-risk
+DTSTART;VALUE=DATE:20251017
+END:VEVENT
+BEGIN:VEVENT
+UID:1afbcd1a07520b3ad7c123bab6958713e0835600@cike-events
+DTSTAMP:20250401T090813Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Branding & Attractiveness of Eastern Slovakia - Acces
+ sibility and Visibility
+LOCATION:Holcim European Business Services s.r.o.\, Hlavná 69/111\, Košic
+ e
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3556/branding-a
+ ttractiveness-of-eastern-slovakia-accessibility-and-visibility
+URL:https://amcham.sk/events/3556/branding-attractiveness-of-eastern-slovak
+ ia-accessibility-and-visibility
+DTSTART;VALUE=DATE:20251016
+END:VEVENT
+BEGIN:VEVENT
+UID:f7b21b428cee6269b90d564dd7a47d217de04f79@cike-events
+DTSTAMP:20250508T081018Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Social Dialogue That Works: Law\, Tactics & Practice
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3545/social-dial
+ ogue-that-works-law-tactics-practice
+URL:https://amcham.sk/events/3545/social-dialogue-that-works-law-tactics-pr
+ actice
+DTSTART;VALUE=DATE:20251010
+END:VEVENT
+BEGIN:VEVENT
+UID:157eed43209b24a3eda49bfb99c8ae044003b027@cike-events
+DTSTAMP:20250625T162847Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Welcome Back to Work in Košice
+LOCATION:Dom umenia - Štátna filharmónia Košice\, Moyzesova 66\, Košic
+ e
+DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3523/welcome-back
+ -to-work-in-kosice
+URL:https://amcham.sk/events/3523/welcome-back-to-work-in-kosice
+DTSTART;VALUE=DATE:20251002
+END:VEVENT
+BEGIN:VEVENT
+UID:512c70a3921fa9b35a191825d1b69d2ce30c74ac@cike-events
+DTSTAMP:20251010T154713Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Employment of Marginalized and Long-term Unemployed G
+ roups
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Koši
+ ce
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3528/employment
+ -of-marginalized-and-long-term-unemployed-groups
+URL:https://amcham.sk/events/3528/employment-of-marginalized-and-long-term-
+ unemployed-groups
+DTSTART;VALUE=DATE:20251002
+END:VEVENT
+BEGIN:VEVENT
+UID:353334878e0bcf3b47ccd96d7ac71d66f7a71fb4@cike-events
+DTSTAMP:20250318T193414Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia – From Law to Practice
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3535/e-invoicing
+ -in-slovakia-from-law-to-practice
+URL:https://amcham.sk/events/3535/e-invoicing-in-slovakia-from-law-to-pract
+ ice
+DTSTART;VALUE=DATE:20250930
+END:VEVENT
+BEGIN:VEVENT
+UID:bcf9e273e698b75e12513b42306e1de829cba117@cike-events
+DTSTAMP:20250825T051556Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting
+LOCATION:Clarion Congress Hotel Bratislava\, Žabotova 2\, Bratislava
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3538/spee
+ d-business-meeting
+URL:https://amcham.sk/events/3538/speed-business-meeting
+DTSTART;VALUE=DATE:20250929
+END:VEVENT
+BEGIN:VEVENT
+UID:8b34cfa2285afa399dc3e7ab9dfff531331bd9c6@cike-events
+DTSTAMP:20250731T210220Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] LIVE from NYC: Actions for a Sustainable Future
+LOCATION:online
+DESCRIPTION:Climate Talks / Online Discussion\n\nhttps://amcham.sk/events/3
+ 540/live-from-nyc-actions-for-a-sustainable-future
+URL:https://amcham.sk/events/3540/live-from-nyc-actions-for-a-sustainable-f
+ uture
+DTSTART;VALUE=DATE:20250926
+END:VEVENT
+BEGIN:VEVENT
+UID:af83c990ac2f32b063d392ce0929ead5e11fb98c@cike-events
+DTSTAMP:20250331T194244Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Transform Your Business - Sustainability Business Sim
+ ulation
+LOCATION:The Spot Cowork\, 7th floor\, Bottova 2/A\, Bratislava
+DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3536/transfor
+ m-your-business-sustainability-business-simulation
+URL:https://amcham.sk/events/3536/transform-your-business-sustainability-bu
+ siness-simulation
+DTSTART;VALUE=DATE:20250923
+END:VEVENT
+BEGIN:VEVENT
+UID:b20d258db70341e2277d68c290b5d926dc3c3d1b@cike-events
+DTSTAMP:20250721T022031Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Social in ESG: An Experience That Changes Perspective
+ s
+LOCATION:The Spot Cowork\, 8th floor\, Bottova 2/A\, Bratislava
+DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3537/social-i
+ n-esg-an-experience-that-changes-perspectives
+URL:https://amcham.sk/events/3537/social-in-esg-an-experience-that-changes-
+ perspectives
+DTSTART;VALUE=DATE:20250923
+END:VEVENT
+BEGIN:VEVENT
+UID:1086dbbbbedde2ae242513e83a425afe8194628c@cike-events
+DTSTAMP:20250128T195527Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] ESG in Transition: Staying Ahead in a Changing World
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3452/esg-in-transition-s
+ taying-ahead-in-a-changing-world
+URL:https://amcham.sk/events/3452/esg-in-transition-staying-ahead-in-a-chan
+ ging-world
+DTSTART;VALUE=DATE:20250923
+END:VEVENT
+BEGIN:VEVENT
+UID:7545d8883a0627b39420116775a08c3855139d8a@cike-events
+DTSTAMP:20250514T003217Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Building and/or Use of AI Systems for Medical Profess
+ ionals
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Topical Workshop\n\nhttps://amcham.sk/events/3541/building-and-
+ or-use-of-ai-systems-for-medical-professionals
+URL:https://amcham.sk/events/3541/building-and-or-use-of-ai-systems-for-med
+ ical-professionals
+DTSTART;VALUE=DATE:20250922
+END:VEVENT
+BEGIN:VEVENT
+UID:3001daeb7f4331fa0ceb49239ff3ad4a9826674f@cike-events
+DTSTAMP:20251209T144828Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Golftrophy 2025
+LOCATION:Sedín Golf Resort\, Veľké Úľany
+DESCRIPTION:organized by the Association Chamber of Chambers (CHAMCHAM)\n\n
+ https://amcham.sk/events/3525/golftrophy-2025
+URL:https://amcham.sk/events/3525/golftrophy-2025
+DTSTART;VALUE=DATE:20250919
+END:VEVENT
+BEGIN:VEVENT
+UID:d7405f490ce5173cda947731b3a0dfd05fb527ca@cike-events
+DTSTAMP:20250112T142346Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Welcome Back to Work
+LOCATION:Grand Hotel River Park\, a Luxury Collection Hotel\, Dvořákovo n
+ ábrežie 6\, Bratislava
+DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3521/welcome-back
+ -to-work
+URL:https://amcham.sk/events/3521/welcome-back-to-work
+DTSTART;VALUE=DATE:20250904
+END:VEVENT
+BEGIN:VEVENT
+UID:9aaa2ac0beff731dafebeddc14a34892d7c23532@cike-events
+DTSTAMP:20250913T145159Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] European Health Data Space
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3514/european-heal
+ th-data-space
+URL:https://amcham.sk/events/3514/european-health-data-space
+DTSTART;VALUE=DATE:20250626
+END:VEVENT
+BEGIN:VEVENT
+UID:1f3423f63bdb622ca641895ee720fe9857c569a6@cike-events
+DTSTAMP:20250908T073043Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
+LOCATION:MINT Pradiareň\, Pradiareň 1900\, Bratislava
+DESCRIPTION:in Bratislava\n\nhttps://amcham.sk/events/3463/summer-innovatio
+ n-business-cocktail
+URL:https://amcham.sk/events/3463/summer-innovation-business-cocktail
+DTSTART;VALUE=DATE:20250619
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd16ec7e3ca29ec65eae2bc4558fbb0462a302b@cike-events
+DTSTAMP:20250803T144201Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] General Assembly 2025
+DESCRIPTION:Be the first to hear about AmCham achievements and activities i
+ n 2024.\n\nhttps://amcham.sk/events/3490/general-assembly-2025
+URL:https://amcham.sk/events/3490/general-assembly-2025
+DTSTART;VALUE=DATE:20250619
+END:VEVENT
+BEGIN:VEVENT
+UID:1338b9bdfedd90de887d3e4477e9acc07249aec1@cike-events
+DTSTAMP:20250121T172630Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Authentic Leadership: A key element in building stron
+ g\, future-ready organizations
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3497/authentic-leadership-
+ a-key-element-in-building-strong-future-ready-organizations
+URL:https://amcham.sk/events/3497/authentic-leadership-a-key-element-in-bui
+ lding-strong-future-ready-organizations
+DTSTART;VALUE=DATE:20250613
+END:VEVENT
+BEGIN:VEVENT
+UID:ce58468e16ae53b84b53ebb46fcf7d345671acf4@cike-events
+DTSTAMP:20250402T045810Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Arbitration Conference
+LOCATION:Faculty of Law\, Comenius University\, Šafárikovo námestie 6\, 
+ Bratislava
+DESCRIPTION:11th Annual Richard Dewitt Arbitration Conference\n\nhttps://am
+ cham.sk/events/3487/arbitration-conference
+URL:https://amcham.sk/events/3487/arbitration-conference
+DTSTART;VALUE=DATE:20250612
+END:VEVENT
+BEGIN:VEVENT
+UID:7dcbcebcbbfc3a1bc0d91e9d750046db0ce890f0@cike-events
+DTSTAMP:20251215T024953Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
+LOCATION:Valaliky Industrial Park\, Valaliky
+DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3512/valaliky-industria
+ l-park
+URL:https://amcham.sk/events/3512/valaliky-industrial-park
+DTSTART;VALUE=DATE:20250606
+END:VEVENT
+BEGIN:VEVENT
+UID:2102965b2bcf352e4b7d01d0d2fffe9a5c578230@cike-events
+DTSTAMP:20250302T185017Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
+LOCATION:Botanical Garden UPJŠ\, Mánesova 1889/23
+DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3464/summer-innovation-b
+ usiness-cocktail
+URL:https://amcham.sk/events/3464/summer-innovation-business-cocktail
+DTSTART;VALUE=DATE:20250605
+END:VEVENT
+BEGIN:VEVENT
+UID:384f45eba914cd053b4042bcf36289db7d1bb0fd@cike-events
+DTSTAMP:20251015T094411Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
+LOCATION:Valaliky Industrial Park\, Valaliky
+DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3511/valaliky-industria
+ l-park
+URL:https://amcham.sk/events/3511/valaliky-industrial-park
+DTSTART;VALUE=DATE:20250605
+END:VEVENT
+BEGIN:VEVENT
+UID:1733a9fd73767094537db48b7f3645ab94b1b265@cike-events
+DTSTAMP:20251010T125900Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Pr
+ osperity\n\nhttps://amcham.sk/events/3494/future-ready-slovakia-lets-talk-
+ competitiveness
+URL:https://amcham.sk/events/3494/future-ready-slovakia-lets-talk-competiti
+ veness
+DTSTART;VALUE=DATE:20250523
+END:VEVENT
+BEGIN:VEVENT
+UID:d9b6f16795b9939545239a957821a01c2c6c7ef7@cike-events
+DTSTAMP:20250617T033720Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
+LOCATION:Jurkovičova Tepláreň (Topical Stage)\, Bottova 1\, Bratislava
+DESCRIPTION:Building Trust: Business & Institutions\n\nhttps://amcham.sk/ev
+ ents/3489/future-ready-slovakia-lets-talk-competitiveness
+URL:https://amcham.sk/events/3489/future-ready-slovakia-lets-talk-competiti
+ veness
+DTSTART;VALUE=DATE:20250523
+END:VEVENT
+BEGIN:VEVENT
+UID:3bd4316f944d3884f7ccc17d10682c0dc88b4338@cike-events
+DTSTAMP:20250829T070222Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
+LOCATION:Jurkovičova Tepláreň (Main Stage)\, Bottova 1\, Bratislava
+DESCRIPTION:Sustainability & Innovation\n\nhttps://amcham.sk/events/3488/fu
+ ture-ready-slovakia-lets-talk-competitiveness
+URL:https://amcham.sk/events/3488/future-ready-slovakia-lets-talk-competiti
+ veness
+DTSTART;VALUE=DATE:20250523
+END:VEVENT
+BEGIN:VEVENT
+UID:6546ddbbfa49d6ab22d45abff3bbdb0e7a737461@cike-events
+DTSTAMP:20251009T202203Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] CEO Competitiveness Business Cocktail
+LOCATION:Twin City Tower\, Business Lease Slovakia & Colliers (22nd floor)\
+ , Mlynské nivy 10\, Bratislava
+DESCRIPTION:https://amcham.sk/events/3499/ceo-competitiveness-business-cock
+ tail
+URL:https://amcham.sk/events/3499/ceo-competitiveness-business-cocktail
+DTSTART;VALUE=DATE:20250522
+END:VEVENT
+BEGIN:VEVENT
+UID:e34d35de52d38cf9a682c82142b237329f1f6fb2@cike-events
+DTSTAMP:20250822T092704Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Manufacturing: How to Stay Competitive?\n\nhttps://amcham.sk/ev
+ ents/3495/future-ready-slovakia-lets-talk-competitiveness
+URL:https://amcham.sk/events/3495/future-ready-slovakia-lets-talk-competiti
+ veness
+DTSTART;VALUE=DATE:20250522
+END:VEVENT
+BEGIN:VEVENT
+UID:0b4fca44804c1844a0e59d5aa573af9eb32fd28d@cike-events
+DTSTAMP:20250216T133032Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
+LOCATION:Jurkovičova Tepláreň (Topical Stage)\, Bottova 1\, Bratislava
+DESCRIPTION:Talent Retention & Workforce Attraction\n\nhttps://amcham.sk/ev
+ ents/3492/future-ready-slovakia-lets-talk-competitiveness
+URL:https://amcham.sk/events/3492/future-ready-slovakia-lets-talk-competiti
+ veness
+DTSTART;VALUE=DATE:20250522
+END:VEVENT
+BEGIN:VEVENT
+UID:24863457667fae32aaa764e11baaf48d76b89c32@cike-events
+DTSTAMP:20251215T031827Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
+LOCATION:Jurkovičova Tepláreň (Main Stage)\, Bottova 1\, Bratislava
+DESCRIPTION:Business Matters: Slovakia’s Competitive Future\n\nhttps://am
+ cham.sk/events/3447/future-ready-slovakia-lets-talk-competitiveness
+URL:https://amcham.sk/events/3447/future-ready-slovakia-lets-talk-competiti
+ veness
+DTSTART;VALUE=DATE:20250522
+END:VEVENT
+BEGIN:VEVENT
+UID:4bffd599c3a098b8c94239f0e1b2ed8baabd6bbf@cike-events
+DTSTAMP:20250125T160727Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting
+LOCATION:Lindner Hotel Gallery Central\, Metodova 4\, Bratislava
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3501/spee
+ d-business-meeting
+URL:https://amcham.sk/events/3501/speed-business-meeting
+DTSTART;VALUE=DATE:20250521
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c422940d8de63acc0850a9b1246f620d730550@cike-events
+DTSTAMP:20250628T130352Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] How To Avoid Discrimination Of 50+ And Harness Their 
+ Potential
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3500/how-to-avoid-discrimi
+ nation-of-50-and-harness-their-potential
+URL:https://amcham.sk/events/3500/how-to-avoid-discrimination-of-50-and-har
+ ness-their-potential
+DTSTART;VALUE=DATE:20250516
+END:VEVENT
+BEGIN:VEVENT
+UID:a8174bd812a090ee036a75c81e4470dc758def67@cike-events
+DTSTAMP:20250211T152920Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Corporate Banking Forum 2025
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:https://amcham.sk/events/3454/corporate-banking-forum-2025
+URL:https://amcham.sk/events/3454/corporate-banking-forum-2025
+DTSTART;VALUE=DATE:20250515
+END:VEVENT
+BEGIN:VEVENT
+UID:9b7b46997bd8ad3c5d696dd532b6eab14689c922@cike-events
+DTSTAMP:20250106T231056Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Navigating Slovakia’s New Financial Transaction Tax
+ : Practical Insights & Business Impacts
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3484/navigating
+ -slovakias-new-financial-transaction-tax-practical-insights-business-impac
+ ts
+URL:https://amcham.sk/events/3484/navigating-slovakias-new-financial-transa
+ ction-tax-practical-insights-business-impacts
+DTSTART;VALUE=DATE:20250428
+END:VEVENT
+BEGIN:VEVENT
+UID:d2fe1ab0c928c73759a0d640b695fff7985cd667@cike-events
+DTSTAMP:20251127T080100Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] New Construction Law & Its Impacts on Pending and Fut
+ ure Projects
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3481/new-constr
+ uction-law-its-impacts-on-pending-and-future-projects
+URL:https://amcham.sk/events/3481/new-construction-law-its-impacts-on-pendi
+ ng-and-future-projects
+DTSTART;VALUE=DATE:20250425
+END:VEVENT
+BEGIN:VEVENT
+UID:2cc284f36f85feff103790c8b179dd2b1836ae57@cike-events
+DTSTAMP:20250901T232208Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] WEBINÁR: Kultúrne rozdiely v obchodovaní s Čínou
+DESCRIPTION:Pozývame vás na podujatie: WEBINÁR: Kultúrne rozdiely v obc
+ hodovaní s Čínou   Dátum a čas: 16. apríl 2026 o 9:00 Forma: ONLINE
+  REGISTRÁCIA: https://forms.gle/vmseyYGB5LtyW6We7 Účastnícky poplatok:
+  Člen SOPK: 36\,90€ ( 30€ [...] \\n\n\nhttps://www.sopk.sk/event/webi
+ nar-kulturne-rozdiely-v-obchodovani-s-cinou
+URL:https://www.sopk.sk/event/webinar-kulturne-rozdiely-v-obchodovani-s-cin
+ ou
+DTSTART:20260416T070000Z
+DTEND:20260416T083000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9238c3056b429c931fa11272a2bf033e2145bdee@cike-events
+DTSTAMP:20251002T171603Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: ZÁKONNÍK PRÁCE
+DESCRIPTION:16.4.26 – Práca zamestnancov dňa 8. mája 2026 26.5.26 – 
+ Pracovná zmluva a pracovný čas 27.5.26 – Dovolenka a prekážky v pr
+ áci 28.5.26 – Mzda\, príplatky ku mzde\, príspevok na rekreáciu [...
+ ] \\n\n\nhttps://www.sopk.sk/event/webinar-zakonnik-prace
+URL:https://www.sopk.sk/event/webinar-zakonnik-prace
+DTSTART:20260416T070000Z
+DTEND:20260416T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:78be2c6d9b54165ad9639189d56f78a6b0475af3@cike-events
+DTSTAMP:20251105T165328Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
+DESCRIPTION:17. apríla 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:3
+ 0  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minúto
+ vá prestávka)\, prezentácia bude otvorená od 8:30. Program: Vysvetleni
+ e pojmov: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnanco
+ v-dna-8-maja-2026
+URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026
+DTSTART:20260417T070000Z
+DTEND:20260417T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e91c3f23b6953a3d25d6747549b2d9170cd6e5e2@cike-events
+DTSTAMP:20250329T115929Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.4.2026 od 09:00 - 14
+ :30 hod pozýva na  Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026  K
+ ód:  20260417  Lektor:  RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v 
+ tom [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-
+ 8-maja-2026-2
+URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026-2
+DTSTART:20260417T070000Z
+DTEND:20260417T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
+DTSTAMP:20250322T030949Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Technology & Business Cooperation Days @ HANNOVER MESSE
+  2026
+LOCATION:Hannover
+DESCRIPTION:Technology & Business Cooperation Days at HANNOVER MESSE 2026 p
+ oskytujú hybridnú medzinárodnú platformu na nadväzovanie kontaktov\, 
+ ktorá spája malé a stredné podniky a výskumné organizácie. Ročník
+  2026 sa zameriava na kľúčové [...] \\n\n\nhttps://www.sopk.sk/event/t
+ echnology-business-cooperation-days-hannover-messe-2026
+URL:https://www.sopk.sk/event/technology-business-cooperation-days-hannover
+ -messe-2026
+DTSTART:20260419T220000Z
+DTEND:20260423T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:53a6ea14de0b1a944e86e78e3280a5f83917ef8e@cike-events
+DTSTAMP:20250820T172408Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: Optimalizácia firemnej logistiky
+DESCRIPTION:Cieľ školenia: je prezentovať využívanie zjednodušených 
+ postupov\, ako nástrojov k optimalizácií firemnej logistiky. Umožňuj
+ ú plnenie colných formalít s vylúčením niektorých povinností\, ako
+  napríklad bez povinnosti fyzicky predkladať tovar colnému úradu pod. 
+ [...] \\n\n\nhttps://www.sopk.sk/event/webinar-optimalizacia-firemnej-logi
+ stiky
+URL:https://www.sopk.sk/event/webinar-optimalizacia-firemnej-logistiky
+DTSTART:20260421T070000Z
+DTEND:20260421T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:351aa2fde7ffbc3cf760e3aa94d8be2b52ef4911@cike-events
+DTSTAMP:20250422T125002Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] PODNIKANIE V POĽSKU
+DESCRIPTION:Pozývame Vás na seminár pod záštitou Veľvyslanectva SR vo
+  Varšave\, Veľvyslanectva Poľskej republiky v Bratislave\, Generálneh
+ o honorárneho konzulátu SR v Krakove PODNIKANIE V POĽSKU ZALOŽENIE SPO
+ LOČNOSTI\, PODMIENKY\, LEGISLATÍVA\, DANE + INDIVIDUÁLNE KONZULTÁCIE 
+ S [...] \\n\n\nhttps://www.sopk.sk/event/podnikanie-v-polsku
+URL:https://www.sopk.sk/event/podnikanie-v-polsku
+DTSTART:20260421T074500Z
+DTEND:20260421T103000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:348e64b99fdea29f910bbcfdaddbf4f82794f8af@cike-events
+DTSTAMP:20250108T213523Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Delegácia z Maramureș zavíta do Trnavy: priestor pre
+  nové partnerstvá a B2B spoluprácu
+LOCATION:Trnavská RK SOPK\, Kapitulská 12\, Trnava\, Kapitulská 12\, Trn
+ ava\, 91701
+DESCRIPTION:Slovenská obchodná a priemyselná komora v Trnave privíta v 
+ dňoch 22. – 24. apríla 2026 delegáciu z Obchodnej a priemyselnej komo
+ ry Maramureș (Rumunsko). Delegáciu povedie prezident komory Florentin Ni
+ colae Tuș. Cieľom [...] \\n\n\nhttps://www.sopk.sk/event/delegacia-z-mar
+ amures-zavita-do-trnavy-priestor-pre-nove-partnerstva-a-b2b-spolupracu
+URL:https://www.sopk.sk/event/delegacia-z-maramures-zavita-do-trnavy-priest
+ or-pre-nove-partnerstva-a-b2b-spolupracu
+DTSTART:20260421T220000Z
+DTEND:20260424T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6ed23f73c961d77faa3874dfc94ea994b7b90f78@cike-events
+DTSTAMP:20251125T231748Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár Trnavskej regionálnej komory SOPK: Prezentuj 
+ ako líder\, prezentuj ako profesionál.
+DESCRIPTION:Trnavská regionálna komora SOPK vás pozýva na praktický se
+ minár zameraný na moderné prezentačné a komunikačné zručnosti. Obj
+ avíte techniky\, ktoré vám pomôžu vystupovať sebaistejšie\, presved
+ čivejšie a zapamätateľnejšie – či už prezentujete pred [...] \\n\
+ n\nhttps://www.sopk.sk/event/seminar-trnavskej-regionalnej-komory-sopk-pre
+ zentuj-ako-lider-prezentuj-ako-profesional
+URL:https://www.sopk.sk/event/seminar-trnavskej-regionalnej-komory-sopk-pre
+ zentuj-ako-lider-prezentuj-ako-profesional
+DTSTART:20260422T073000Z
+DTEND:20260422T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:86dcf9f03c37ac577b4ab1ef9545da34fc64a9b3@cike-events
+DTSTAMP:20250703T181404Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] HOTELIERSTVO SÚČASNOSTI
+DESCRIPTION:Žilinská regionálna komora SOPK a Slovensko-poľská obchodn
+ á komora si Vás dovoľujú pozvať na seminár HOTELIERSTVO SÚČASNOSTI
+  Termín: 27. apríl 2026 od 9:30 hod. Miesto:  Žilinská regionálna ko
+ mora SOPK\, Hálkova 31\, Žilina [...] \\n\n\nhttps://www.sopk.sk/event/h
+ otelierstvo-sucasnosti
+URL:https://www.sopk.sk/event/hotelierstvo-sucasnosti
+DTSTART:20260427T070000Z
+DTEND:20260427T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f53fe2c4c442401fe4b29f2bbdcaa394190c3d6f@cike-events
+DTSTAMP:20250826T140927Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA + MIKROODVOD
+ Y
+DESCRIPTION:28. apríl 2026\, 14. máj 2026 alebo 17. jún 2026 Lektor:  R
+ NDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prest
+ ávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia [...] \
+ \n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikr
+ oodvody
+URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
+ vody
+DTSTART:20260428T070000Z
+DTEND:20260428T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2075f085940e1ddb808ce26ec12414941fe8bb53@cike-events
+DTSTAMP:20250628T044321Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár: COLNÁ PROBLEMATIKA PRE ROK 2026 V KOCKE
+DESCRIPTION:Cieľom seminára je oboznámiť účastníkov s colnými pre
+ dpismi uplatňovanými v praxi a podať informácie\, ktoré pomôžu or
+ ientovať sa v colnej problematike a komunikovať s obchodnými partner
+ mi. Program:   9:00 – 14:00    (prezencia od 8.30)  Colné režimy
+  Colné konanie - [...] \\n\n\nhttps://www.sopk.sk/event/colna-problematik
+ a-pre-rok-2026-v-kocke
+URL:https://www.sopk.sk/event/colna-problematika-pre-rok-2026-v-kocke
+DTSTART:20260429T070000Z
+DTEND:20260429T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:25850f1753529f2269e7079463e583b65ce8107e@cike-events
+DTSTAMP:20251219T160601Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Etické využívanie AI nástrojov – odborný seminá
+ r v Trnave
+DESCRIPTION:Etické využívanie AI nástrojov – odborný seminár v Trna
+ ve Trnavská regionálna komora SOPK pozýva odbornú aj laickú verejnos
+ ť na prezenčný seminár „Etické využívanie AI nástrojov“\, ktor
+ ý sa uskutoční 30. apríla 2026 [...] \\n\n\nhttps://www.sopk.sk/event/
+ eticke-vyuzivanie-ai-nastrojov-odborny-seminar-v-trnave
+URL:https://www.sopk.sk/event/eticke-vyuzivanie-ai-nastrojov-odborny-semina
+ r-v-trnave
+DTSTART:20260430T080000Z
+DTEND:20260430T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1fb0c4f5e9835959dd0bdb64dcb8c83222723355@cike-events
+DTSTAMP:20251210T101114Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Obchodná misia do Albánska
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s V
+ eľvyslanectvom SR v Tirane\, pozývajú slovenské firmy na podnikateľ
+ skú misiu do Tirany\, ktorá sa bude konať v dňoch 11. – 13. mája 20
+ 26. Slovenské firmy budú mať príležitosť [...] \\n\n\nhttps://www.so
+ pk.sk/event/misia-do-albanska
+URL:https://www.sopk.sk/event/misia-do-albanska
+DTSTART:20260510T220000Z
+DTEND:20260513T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:32a130a5e01dec1d567a7027d00aa487728b573c@cike-events
+DTSTAMP:20250804T014225Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Save the date: podnikateľská misia METALSHOW & TIB
+LOCATION:Bukurešť
+DESCRIPTION:https://www.sopk.sk/event/metal-show-tib
+URL:https://www.sopk.sk/event/metal-show-tib
+DTSTART:20260511T220000Z
+DTEND:20260515T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8e3811a24a6b36ea63804453a8f02037872914@cike-events
+DTSTAMP:20250619T004243Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] EU Business Hub @ ENVEX 2026 v Soule
+DESCRIPTION:Staňte sa súčasťou EU Business Hub @ ENVEX 2026 v Soule! 18
+ . – 22. máj 2026 Chcete rozšíriť svoje podnikanie do Ázie a predsta
+ viť svoje technológie na jednom z najväčších environmentálnych [...
+ ] \\n\n\nhttps://www.sopk.sk/event/eu-business-hub-envex-2026-v-soule
+URL:https://www.sopk.sk/event/eu-business-hub-envex-2026-v-soule
+DTSTART:20260518T060000Z
+DTEND:20260522T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d789fc53012c0262887289c80edc35f1f444d449@cike-events
+DTSTAMP:20250202T031700Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „Bankové záruky a colné ručenia od A po Z“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „Bankové záruky a colné ručenia od A po Z“\, ktorý sa bude ko
+ nať dňa 18. mája 2026 od 9:00 do 15:30 hod. v [...] \\n\n\nhttps://www.
+ sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z-2
+URL:https://www.sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z-2
+DTSTART:20260518T070000Z
+DTEND:20260518T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:143ae48d169038921db7ff5d4b9f964950dbbc66@cike-events
+DTSTAMP:20250317T142736Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
+ ?“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
+ a bude konať  dňa 19. mája 2026 od 9:00 do 13:00 hod. v zasadačke Ban
+ skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
+ ravidla-stare-problemy-4
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-4
+DTSTART:20260519T070000Z
+DTEND:20260519T110000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:05eb0894b3c6e44097beb5c8c2502bfdfc6c25b8@cike-events
+DTSTAMP:20251119T233155Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Konferencia INCOBOZ 2026
+DESCRIPTION:Trenčianska regionálna komora SOPK\, Sekcia výrobných stroj
+ ov a náradia SOPK\, Sekcia textilného \, odevného\, kožiarskeho a obuv
+ níckeho priemyslu SOPK spolu s občianskym združením Spoločná vízia 
+ a s členskou firmou BOZPO\, s.r.o. [...] \\n\n\nhttps://www.sopk.sk/event
+ /konferencia-incoboz
+URL:https://www.sopk.sk/event/konferencia-incoboz
+DTSTART:20260519T220000Z
+DTEND:20260522T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1318b1aedf79e02412623efca00b5664312fc847@cike-events
+DTSTAMP:20250923T074153Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] INCOTERMS 2020 – Nové pravidlá\, staré problémy
+DESCRIPTION:Pozývame Vás na seminár: INCOTERMS 2020 - Nové pravidlá\, 
+ staré problémy Dátum a čas: 20.máj 2026 v čase 9:00 - 13:00 Miesto: 
+ Bratislavská regionálna komora SOPK\, Jašíkova 6\, Bratislava - Ružin
+ ov [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-pravidla-sta
+ re-problemy-5
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-5
+DTSTART:20260520T070000Z
+DTEND:20260520T110000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e588cbb30b54a8682673f6d680d8d532196ef4@cike-events
+DTSTAMP:20250526T135603Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Trnavská regionálna komora SOPK pripravuje odborný s
+ eminár o najnovších trendoch v SEO a AI optimalizácii
+DESCRIPTION:Trnavská regionálna komora SOPK organizuje 20.mája 2026 prez
+ enčný odborný seminár zameraný na najnovšie trendy v oblasti SEO\, G
+ EO a AI optimalizácie. Podujatie je určené pre podnikateľov\, marketin
+ gových manažérov a všetkých\, ktorí [...] \\n\n\nhttps://www.sopk.sk
+ /event/trnavska-regionalna-komora-sopk-pripravuje-odborny-seminar-o-najnov
+ sich-trendoch-v-seo-a-ai-optimalizacii
+URL:https://www.sopk.sk/event/trnavska-regionalna-komora-sopk-pripravuje-od
+ borny-seminar-o-najnovsich-trendoch-v-seo-a-ai-optimalizacii
+DTSTART:20260520T080000Z
+DTEND:20260520T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:494884461e94e53438450b90935540c28d512420@cike-events
+DTSTAMP:20251007T154008Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] POZOR ZMENA: Fórum digitálnej transformácie – podp
+ oríme Vaše zmeny našimi projektami
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digi
+ tálnou koalíciou Vás pozývajú na workshop: "Fórum digitálnej transf
+ ormácie – podporíme Vaše zmeny našimi projektami". Digitálna koalí
+ cia je národná iniciatíva\, ktorá bola založená [...] \\n\n\nhttps:/
+ /www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase-zmeny-nas
+ imi-projektami
+URL:https://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase
+ -zmeny-nasimi-projektami
+DTSTART:20260520T080000Z
+DTEND:20260520T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f90c5cf1ef3fcbf471b77f7539e7e3b84f559e3d@cike-events
+DTSTAMP:20250721T120605Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Textile Connect 2026
+LOCATION:Online
+DESCRIPTION:Textile Connect je online platforma zameraná na budovanie zmys
+ luplných spojení medzi spoločnosťami\, dizajnérmi a výrobnými partn
+ ermi v textilnom priemysle. Pri príležitosti jej 7. ročníka vás s pot
+ ešením pozývame na exkluzívne virtuálne [...] \\n\n\nhttps://www.sopk
+ .sk/event/textile-connect-2026
+URL:https://www.sopk.sk/event/textile-connect-2026
+DTSTART:20260525T220000Z
+DTEND:20260527T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1137ce07679b4642f7029021e57ddbda4e92ea8b@cike-events
+DTSTAMP:20250718T025530Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Medzinárodný seminár o verejnom obstarávaní v agen
+ túrach OSN spojený s one-to-one rokovaniami s nákupcami agentúr
+DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci so Slovensk
+ o-rakúskou obchodnou komorou\, Veľvyslanectvom SR vo Viedni a agentúrou
+  SARIO vás pozývajú na jedinečné podujatie zamerané na verejné obst
+ arávanie v štruktúrach OSN. Tento odborný [...] \\n\n\nhttps://www.sop
+ k.sk/event/medzinarodny-seminar-o-verejnom-obstaravani-v-agenturach-osn-sp
+ ojeny-s-one-to-one-rokovaniami-s-nakupcami-agentur
+URL:https://www.sopk.sk/event/medzinarodny-seminar-o-verejnom-obstaravani-v
+ -agenturach-osn-spojeny-s-one-to-one-rokovaniami-s-nakupcami-agentur
+DTSTART:20260609T060000Z
+DTEND:20260610T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6b0a00d06032ba85e71d091fc86d046e49e07927@cike-events
+DTSTAMP:20250924T231416Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Obchodná misia do Turecka (Istanbul) 2026 – zisťuje
+ me predbežný záujem slovenských firiem
+DESCRIPTION:Trnavská regionálna komora SOPK zisťuje predbežný záujem 
+ slovenských podnikateľov o účasť na pripravovanej obchodnej misii do 
+ Turecka (Istanbul)\, ktorá je plánovaná na posledný štvrťrok 2026 (Q
+ 4/2026). Podujatie bude organizované v spolupráci [...] \\n\n\nhttps://w
+ ww.sopk.sk/event/obchodna-misia-do-turecka-istanbul-2026-zistujeme-predbez
+ ny-zaujem-slovenskych-firiem
+URL:https://www.sopk.sk/event/obchodna-misia-do-turecka-istanbul-2026-zistu
+ jeme-predbezny-zaujem-slovenskych-firiem
+DTSTART:20260901T060000Z
+DTEND:20261231T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
+DTSTAMP:20250205T151542Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Obchodná misia do Indonézie: Zisťujeme predbežný z
+ áujem firiem
+DESCRIPTION:Zisťujeme predbežný záujem slovenských firiem o obchodnú 
+ misiu do Indonézie - Jakarta koncom roka 2026 (Q4). V spolupráci s veľv
+ yslanectvami a partnerskými organizáciami pripravujeme program zahŕňaj
+ úci B2B rokovania\, návštevu obchodnej komory [...] \\n\n\nhttps://www.
+ sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbezny-zaujem-firie
+ m
+URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
+ ny-zaujem-firiem
+DTSTART:20261001T060000Z
+DTEND:20261231T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2e8ef862cd9e198f65a6ef8c9d7f5f7718e23645@cike-events
+DTSTAMP:20250624T074241Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „Bankové záruky a colné ručenia od A po Z“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „Bankové záruky a colné ručenia od A po Z“\, ktorý sa bude ko
+ nať dňa 17. marca 2026 od 9:00 do 15:30 hod. v [...] \\n\n\nhttps://www.
+ sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z
+URL:https://www.sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z
+DTSTART:20260316T230000Z
+DTEND:20260317T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fec4beae1ed399e8128e60282e012ac181888705@cike-events
+DTSTAMP:20251020T202227Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Granty 2026: Ako získať financovanie ochrany DV pre V
+ ašich klientov
+DESCRIPTION:Získajte finančnú podporu na ochranu vašich inovácií a zv
+ ýšte svoju konkurencieschopnosť. Pozývame vás na odborný webinár or
+ ganizovaný v spolupráci s Úradom priemyselného vlastníctva SR a Slove
+ nskou inovačnou a energetickou agentúrou (SIEA). [...] \\n\n\nhttps://ww
+ w.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-dv-pre-vasich-
+ klientov
+URL:https://www.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-d
+ v-pre-vasich-klientov
+DTSTART:20260317T230000Z
+DTEND:20260318T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:36601cf7d829f89cc49e1c4dc437ccf81e1e160c@cike-events
+DTSTAMP:20251021T080134Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
+ ?“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
+ a bude konať  dňa 18. marca 2026 od 9:00 do 13:00 hod. v zasadačke Ban
+ skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
+ ravidla-stare-problemy-2
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-2
+DTSTART:20260318T080000Z
+DTEND:20260318T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3115c4b1e91c79a40d8ae763345e8fe0d07a16b4@cike-events
+DTSTAMP:20250321T174956Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
+ ?“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
+ a bude konať  dňa 18. mája 2026 od 9:00 do 13:00 hod. v zasadačke Ban
+ skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
+ ravidla-stare-problemy-3
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-3
+DTSTART:20260318T080000Z
+DTEND:20260318T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:227ed869d151f2706c59f74cba18892042187d1b@cike-events
+DTSTAMP:20250302T014317Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Kooperačná burza s rakúskymi obchodnými agentmi
+DESCRIPTION:Bratislavská regionálna komora SOPK v spolupráci so Slovensk
+ ou agentúrou pre rozvoj investícií a obchodu (SARIO)\, s Rakúskou hosp
+ odárskou komorou WKÖ\, Veľvyslanectvom Slovenskej republiky vo Viedni a
+  Slovensko-rakúskou obchodnou komorou (SOHK) pozýva [...] \\n\n\nhttps:/
+ /www.sopk.sk/event/kooperacna-burza-s-rakuskymi-obchodnymi-agentmi
+URL:https://www.sopk.sk/event/kooperacna-burza-s-rakuskymi-obchodnymi-agent
+ mi
+DTSTART:20260318T110000Z
+DTEND:20260318T153000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e13792f54afad81cbbf394930a5ce0834db5d7c0@cike-events
+DTSTAMP:20250304T082203Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Kurz: Speak like a leader. Ako sa efektívne prezentova
+ ť a predstaviť sa v biznise tak\, aby si nás druhí zapamätali
+DESCRIPTION:V spolupráci so Zdužením podnikateliek a manažérok Vás po
+ zývame na kurz: Speak like a leader. Ako sa efektívne prezentovať a pre
+ dstaviť sa v biznise tak\, aby si nás druhí zapamätali Dátum [...] \\
+ n\n\nhttps://www.sopk.sk/event/kurz-speak-like-a-leader-ako-sa-efektivne-p
+ rezentovat-a-predstavit-sa-v-biznise-tak-aby-si-nas-druhi-zapamatali
+URL:https://www.sopk.sk/event/kurz-speak-like-a-leader-ako-sa-efektivne-pre
+ zentovat-a-predstavit-sa-v-biznise-tak-aby-si-nas-druhi-zapamatali
+DTSTART:20260324T080000Z
+DTEND:20260324T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e846fdbbfa578a01ea4ddd26314f917b528045c8@cike-events
+DTSTAMP:20250224T214502Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Health Tech Hub Styria 2026
+LOCATION:Graz
+DESCRIPTION:Pozývame vás na podujatie\, ktoré bude spájať popredných 
+ odborníkov\, výskumníkov\, startupy a investorov z celej Európy\, s ci
+ eľom spoločnej komunikácie\, ako technológie\, dáta a ľudská vynali
+ ezavosť formujú budúcnosť zdravotníctva. Dátum konania: 25. [...] \
+ \n\n\nhttps://www.sopk.sk/event/health-tech-hub-styria-2026
+URL:https://www.sopk.sk/event/health-tech-hub-styria-2026
+DTSTART:20260324T230000Z
+DTEND:20260326T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:febfa3437a047d577b8a3a553ffe055c9372e692@cike-events
+DTSTAMP:20250607T193451Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Odborný seminár: Colné predpisy v praxi
+DESCRIPTION:Dátum a čas: 30.marec 2026 v čase 9:00 - 16:00 hod. Miesto k
+ onania: Bratislavská regionálna komora\, Jašíkova 6\, Ružinov\, Brati
+ slava REGISTRÁCIA TU Obsah školenia: • Úvod do colnej problematiky 
+ • Prehľad [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-colne-
+ predpisy-v-praxi
+URL:https://www.sopk.sk/event/odborny-seminar-colne-predpisy-v-praxi
+DTSTART:20260330T070000Z
+DTEND:20260330T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fa71fc6904bf8f2340002c14f5b11799f2461065@cike-events
+DTSTAMP:20250714T001750Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Business raňajky: Nová forma investičnej pomoci pre 
+ podnikateľov
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so Slo
+ venskou záručnou a rozvojovou bankou\, a.s. pobočka Prešov Vás pozýv
+ a na business raňajok: "Nová forma investičnej pomoci pre podnikateľov
+ " V rámci business raňajok [...] \\n\n\nhttps://www.sopk.sk/event/busine
+ ss-ranajky-nova-forma-investicnej-pomoci-pre-podnikatelov
+URL:https://www.sopk.sk/event/business-ranajky-nova-forma-investicnej-pomoc
+ i-pre-podnikatelov
+DTSTART:20260331T073000Z
+DTEND:20260331T093000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:04d24d4d949bddeb631415fb30e964a754d2a822@cike-events
+DTSTAMP:20251026T104635Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] ZRUŠENÉ – Seminár: Aktuálne nielen z oblasti dan
+ í
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DESCRIPTION:Vážení a milí záujemcovia o seminár\, je nám veľmi ľú
+ to\, ale sme nútení zrušiť zajtrajší seminár zo zdravotných dôvod
+ ov prednášajúcej. Avšak\, Vaše konkrétne otázky budú zodpovedané.
+  Prosíme zašlite ich priamo na [...] \\n\n\nhttps://www.sopk.sk/event/se
+ minar-aktualne-nie-len-z-oblasti-dani
+URL:https://www.sopk.sk/event/seminar-aktualne-nie-len-z-oblasti-dani
+DTSTART:20260409T070000Z
+DTEND:20260409T090000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:40f39fef98a6e7e334e82d70b2de91c4d6d97d7b@cike-events
+DTSTAMP:20251010T030433Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár: Ako sa v praxi hľadá útočník kybernetick
+ ého útoku
+DESCRIPTION:Vážený členovia Sekcie kybernetickej bezpečnosti a digital
+ izácie\, SOPK a milí obchodní partneri\, srdečne vás pozývame na onl
+ ine seminár Ako sa v praxi hľadá útočník kybernetického útoku\, k
+ torý sa uskutoční dňa 10.4.2026 od [...] \\n\n\nhttps://www.sopk.sk/ev
+ ent/seminar-ako-sa-v-praxi-hlada-utocnik-kybernetickeho-utoku
+URL:https://www.sopk.sk/event/seminar-ako-sa-v-praxi-hlada-utocnik-kybernet
+ ickeho-utoku
+DTSTART:20260410T110000Z
+DTEND:20260410T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:20323f341ddd53b1feb01e5c0798b9fc4f6f9a51@cike-events
+DTSTAMP:20250126T080447Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Connect2Slovenia 2026: Metal&Plastic
+DESCRIPTION:Pozývame vás na kooperačné podujatie Connect2Slovenia: Met
+ al & Plastic\, ktoré sa uskutoční v rámci medzinárodného priemyseln
+ ého veľtrhu v odvetví spracovania kovov a plastov. Dátum konania: 1
+ 5. apríl 2026 Miesto konania: Celje\, Slovinsko Registrácia: https://w
+ ww.b2match.com/e/connect2slovenia-2026-metal-plastic/sign-up/create-accoun
+ t Web stránka podujatia: https://www.b2match.com/e/connect2slovenia-2026
+ -metal-plastic/components/65360 Podujatie [...] \\n\n\nhttps://www.sopk.sk
+ /event/connect2slovenia-2026-metalplastic
+URL:https://www.sopk.sk/event/connect2slovenia-2026-metalplastic
+DTSTART:20260415T070000Z
+DTEND:20260415T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8d8192b622099498e00721d3f4548370040ea6@cike-events
+DTSTAMP:20250108T111539Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Pozvánka: Networkingový večer s Košickou RK SOPK
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
+ s pozývame na Networkingový večer spojený s ochutnávkou kávy od Zlat
+ ého zrnka v UVP Technicom\, B. Němcovej 5\, Košice\, ktorý sa uskutoč
+ ní v utorok [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-networkingovy
+ -vecer-s-kosickou-rk-sopk
+URL:https://www.sopk.sk/event/pozvanka-networkingovy-vecer-s-kosickou-rk-so
+ pk
+DTSTART:20260127T153000Z
+DTEND:20260127T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ac77e614bbd9677378746bfc013590ce626f29@cike-events
+DTSTAMP:20250531T184218Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Medzinárodný veľtrh stavebníctva a architektúry BU
+ DMA 2026 a benefity
+DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architekt
+ úry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. 
+ – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA 
+ jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/
+ event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefit
+ y
+URL:https://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektu
+ ry-budma-2026-a-benefity
+DTSTART:20260203T070000Z
+DTEND:20260206T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
+DTSTAMP:20250811T190805Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešeni
+ a a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. fe
+ bruára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vysk
+ um-a-vyvoj-v-roku-2025
+URL:https://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025
+DTSTART:20260204T230000Z
+DTEND:20260205T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:408b8cb2adbddce98a06430cc69d098f81961325@cike-events
+DTSTAMP:20250823T191322Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: Uhlíkové clo a mechanizmus CBAM (Carbon Bor
+ der Adjustment Mechanism)
+DESCRIPTION:Odborný webinár so zámerom vysvetliť všetky súvislosti na
+ riadenia EP a Rady (EÚ) 2023/956 a vykonávacieho nariadenia Komisie (EÚ
+ ) 2023/1773 k mechanizmu uhlíkovej platby na hraniciach (CBAM)\, prevedie
+ me Vás celým mechanizmom prechodného [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/webinar-uhlikove-clo-a-mechanizmus-cbam-carbon-border-adjustment-mech
+ anism
+URL:https://www.sopk.sk/event/webinar-uhlikove-clo-a-mechanizmus-cbam-carbo
+ n-border-adjustment-mechanism
+DTSTART:20260210T080000Z
+DTEND:20260210T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cb58948dca69a03c5b1caf0b5ff7a34c714246d5@cike-events
+DTSTAMP:20250420T223432Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] OCHRANA ZDRAVIA PRI PRÁCI
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár Ochrana zdravia pri práci - nové legislatívne úpravy s účinnosť
+ ou v II.polroku 2026\, transpozícia smerníc EÚ ktorý sa bude konať  
+ dňa 12. februára [...] \\n\n\nhttps://www.sopk.sk/event/ochrana-zdravia-
+ pri-praci
+URL:https://www.sopk.sk/event/ochrana-zdravia-pri-praci
+DTSTART:20260212T090000Z
+DTEND:20260212T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:774bf941af77f8583f2134e8c5ce5352ff5f7070@cike-events
+DTSTAMP:20250821T225900Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Valné zhromaždenie PRK SOPK 2026
+DESCRIPTION:Vážení členovia obchodnej komory\, v súlade so Stanovami 
+ SOPK schválenými Zhromaždením delegátov SOPK dňa 29.4.1999 v Bratis
+ lave\, zvoláva Predstavenstvo Prešovskej regionálnej komory Slovenskej 
+ obchodnej a priemyselnej komory (PRK SOPK) Valné zhromaždenie PRK SOPK 
+ (VZ [...] \\n\n\nhttps://www.sopk.sk/event/valne-zhromazdenie-2026
+URL:https://www.sopk.sk/event/valne-zhromazdenie-2026
+DTSTART:20260217T083000Z
+DTEND:20260217T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1875eccd1d2d34de6ea3deabc72b4509cb9e4029@cike-events
+DTSTAMP:20250514T041226Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatív
+ ne zmeny na rok 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás pozýva na niekoľko we
+ binárov (s termínom konania 23.1.2026\, 26.1.2026\, 30.1.2026\, 5.2.2026
+ \, 12.2.2026\, alebo 26.2.2026) na tému Ročné zúčtovanie za rok 2025 
+ + Legislatívne zmeny na rok [...] \\n\n\nhttps://www.sopk.sk/event/rocne-
+ zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026
+URL:https://www.sopk.sk/event/rocne-zuctovanie-za-rok-2025-legislativne-zme
+ ny-na-rok-2026
+DTSTART:20260226T080000Z
+DTEND:20260226T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:832e1784e15050be2ca2ff3da8e3a2b53ffabaa4@cike-events
+DTSTAMP:20250130T074048Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] VALNÉ ZHROMAŽDENIE NITRIANSKEJ REGIONÁLNEJ KOMORY SO
+ PK
+DESCRIPTION:Vážený člen SOPK\, v mene predstavenstva Nitrianskej RK SOP
+ K Vás pozývam na VALNÉ  ZHROMAŽDENIE NITRIANSKEJ  REGIONÁLNEJ  KOM
+ ORY  SOPK Dátum: 26. február 2026 (štvrtok)\, od 14.00 hod. Miesto kon
+ ania: Agrokomplex Národné výstavisko [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/valne-zhromazdenie-nitrianskej-regionalnej-komory-sopk
+URL:https://www.sopk.sk/event/valne-zhromazdenie-nitrianskej-regionalnej-ko
+ mory-sopk
+DTSTART:20260226T130000Z
+DTEND:20260226T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:aedde273f6987edfbc8c06a6790f67587b48779e@cike-events
+DTSTAMP:20250831T033124Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Kooperačné podujatie SIRHA BUDAPEST 2026
+DESCRIPTION:Enterprise Europe Network Vás pozýva na matchmakingové podu
+ jatie SIRHA BUDAPEST 2026\, ktoré sa koná 3.-5. marca v Budapešti. S 
+ 26 000 odbornými návštevníkmi zo 44 krajín je SIRHA BUDAPEST najväč
+ ším obchodným fórom pre sektor potravinárstva [...] \\n\n\nhttps://w
+ ww.sopk.sk/event/kooperacne-podujatie-sirha-budapest-2026
+URL:https://www.sopk.sk/event/kooperacne-podujatie-sirha-budapest-2026
+DTSTART:20260303T070000Z
+DTEND:20260305T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d66df283f709728fc51f448cdb411428defd82c0@cike-events
+DTSTAMP:20251230T155525Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Konferencia: Aplikácia nového Stavebného zákona v p
+ raxi
+DESCRIPTION:POZVÁNKA Na odbornú konferenciu: Aplikácia nového Stavebné
+ ho zákona v praxi Do akej miery sa naplnili očakávania navrhovateľov a
+  odbornej verejnosti ? Kedy: 11. marca 2026 Kde: Knižnica - TUKE\, B. Ně
+ mcovej [...] \\n\n\nhttps://www.sopk.sk/event/konferencia-aplikacia-noveho
+ -stavebneho-zakona-v-praxi
+URL:https://www.sopk.sk/event/konferencia-aplikacia-noveho-stavebneho-zakon
+ a-v-praxi
+DTSTART:20260311T080000Z
+DTEND:20260311T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:eb487d7124398ecb9b95730a80e9ad290ab31df7@cike-events
+DTSTAMP:20250214T210730Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] MBM Tourism Prague 2026
+DESCRIPTION:Pozývame vás na 7. ročník obchodných rokovaní MBM Touris
+ m Prague 2026 zameraných na oblasť cestovného ruchu. Stretnutia budú 
+ prebiehať súbežne s veľtrhom Holiday World & Region World. Dátum kon
+ ania: 12.-14. marec 2026 Miesto konania: Praha\, Česká [...] \\n\n\nht
+ tps://www.sopk.sk/event/mbm-tourism-prague-2026
+URL:https://www.sopk.sk/event/mbm-tourism-prague-2026
+DTSTART:20260312T080000Z
+DTEND:20260314T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9b234ccd2295c543fa4927127ac1c410f21bb6ba@cike-events
+DTSTAMP:20250911T104541Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: Prečo sa súdiť\, keď sa viete dohodnúť?
+  Ako riešiť firemné konflikty a nezaplatené faktúry pomocou mediácie
+DESCRIPTION:V spolupráci s Mediačným centrom MEANA\, s.r.o. Vás pozýva
+ me na Webinár: Prečo sa súdiť\, keď sa viete dohodnúť? Ako riešiť
+  firemné konflikty a nezaplatené faktúry pomocou mediácie Dátum a ča
+ s: 16.marec [...] \\n\n\nhttps://www.sopk.sk/event/webinar-preco-sa-sudit-
+ ked-sa-viete-dohodnut-ako-riesit-firemne-konflikty-a-nezaplatene-faktury-p
+ omocou-mediacie
+URL:https://www.sopk.sk/event/webinar-preco-sa-sudit-ked-sa-viete-dohodnut-
+ ako-riesit-firemne-konflikty-a-nezaplatene-faktury-pomocou-mediacie
+DTSTART:20260316T123000Z
+DTEND:20260316T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cfd014a38fe494a9abc1b0950862af9477e05937@cike-events
+DTSTAMP:20250428T065954Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Zákon o zdravotnom poistení
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 26.11.2025 od 09:00 - 1
+ 4:30 hod pozýva na webinár Zákon o zdravotnom poistení Kód:  2025112
+ 6   Pozývame Vás na webinár\, ktorý organizujeme v spolupráci s firm
+ ou [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poist
+ eni-3
+URL:https://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-3
+DTSTART:20251126T080000Z
+DTEND:20251126T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6d99a6b87b0bec245484f89e0db8b780142ffcba@cike-events
+DTSTAMP:20251226T224114Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Pozvánka na odborný seminár: Colné predpisy v praxi
+DESCRIPTION:ZMENA TERMÍNU! Bratislavská regionálna komora Slovenskej obc
+ hodnej a priemyselnej komory (SOPK) Vás pozýva na odborný seminár: Col
+ né predpisy v praxi Dátum a čas: 26.11. (streda) 2025 v čase od 09.00 
+ do [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-odborny-seminar-coln
+ e-predpisy-v-praxi
+URL:https://www.sopk.sk/event/pozvanka-na-odborny-seminar-colne-predpisy-v-
+ praxi
+DTSTART:20251126T080000Z
+DTEND:20251126T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7f67fa23a88ddd0c7fdb7f4c2716512bd923b9@cike-events
+DTSTAMP:20251115T031229Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] All in One Cocktail
+DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Coc
+ ktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom
+ \, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra [
+ ...] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail
+URL:https://www.sopk.sk/event/all-in-one-cocktail
+DTSTART:20251126T173000Z
+DTEND:20251126T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb9a33b8bc902ee83e206daf63dc0fa7dea4c6b@cike-events
+DTSTAMP:20250508T060836Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „POSUDZOVANIE VPLYVOV NA ŽIVOTNÉ PROSTREDIE (EIA)
+ “
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „POSUDZOVANIE VPLYVOV NA ŽIVOTNÉ PROSTREDIE (EIA)“\, ktorý sa b
+ ude konať  dňa 27. novembra 2025 od 9:30 do 13:30 hod. v zasadačke Ban
+ skobystrickej RK [...] \\n\n\nhttps://www.sopk.sk/event/posudzovanie-vplyv
+ ov-na-zivotne-prostredie-eia-duplicate-1
+URL:https://www.sopk.sk/event/posudzovanie-vplyvov-na-zivotne-prostredie-ei
+ a-duplicate-1
+DTSTART:20251126T230000Z
+DTEND:20251127T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:89946a1734aa7262682c0dc60e484a174e270432@cike-events
+DTSTAMP:20250914T124205Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] WOMEN IN BUSINESS: Slovensko-české biznis fórum
+DESCRIPTION:Spoločne so Združením podnikateliek a manažérok Vás pozý
+ vame na jedinečné podujatie\, ktoré prepája a spája podnikateľky a m
+ anažérky\, nielen zo Slovenska\, ale aj z Čiech. Women in Business. Slo
+ vensko-české biznis fórum\, [...] \\n\n\nhttps://www.sopk.sk/event/wome
+ n-in-business-slovensko-ceske-biznis-forum
+URL:https://www.sopk.sk/event/women-in-business-slovensko-ceske-biznis-foru
+ m
+DTSTART:20251127T150000Z
+DTEND:20251127T193000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:989b75f34cfa55c66377c330b92ad0b88fb4b4dd@cike-events
+DTSTAMP:20250618T055032Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Konsolidačný balíček a daňovo-odvodová o
+ ptimalizácia
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 03.12.2025 (resp. ten i
+ stý webinár sa koná aj 4.12.2025 a 15.12.2025) od 09:00 - 14:30 hod po
+ zýva na webinár Konsolidačný balíček a daňovo-odvodová optimalizá
+ cia Kód:  20251203 resp. [...] \\n\n\nhttps://www.sopk.sk/event/webinar-
+ konsolidacny-balicek-a-danovo-odvodova-optimalizacia-2
+URL:https://www.sopk.sk/event/webinar-konsolidacny-balicek-a-danovo-odvodov
+ a-optimalizacia-2
+DTSTART:20251203T080000Z
+DTEND:20251203T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bdfb2b7f4691a0af541cfca9bcaa9e7686e32c@cike-events
+DTSTAMP:20250226T025128Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Vianočné posedenie členov BRK
+DESCRIPTION:Bratislavská regionálna komora SOPK Vás pozýva na Vianočn
+ é posedenie členov BRK Posedenie sa uskutoční 8.decembra 2025 o 17:00 
+ hod. v reštaurácií Planetka\, Drieňová 37\, Bratislava - Ružinov. T
+ émou posedenia je Digitalizácia [...] \\n\n\nhttps://www.sopk.sk/event/v
+ ianocne-posedenie-clenov-brk
+URL:https://www.sopk.sk/event/vianocne-posedenie-clenov-brk
+DTSTART:20251208T160000Z
+DTEND:20251208T220000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ae437b7ef722762e5e5e575cefafd3679d47dc37@cike-events
+DTSTAMP:20251228T214923Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Black Sea MultiSector Virtual B2B Event 2025
+LOCATION:Online
+DESCRIPTION:Virtuálne B2B podujatie Black Sea MultiSektor 2025\, ktoré or
+ ganizuje Obchodná a priemyselná komora Trabzon v rámci siete Enterprise
+  Europe Network\, sa uskutoční online od 9. do 11. decembra 2025. Poduja
+ tie spája [...] \\n\n\nhttps://www.sopk.sk/event/black-sea-multisector-vi
+ rtual-b2b-event-2025
+URL:https://www.sopk.sk/event/black-sea-multisector-virtual-b2b-event-2025
+DTSTART:20251209T090000Z
+DTEND:20251211T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d2928779a37106d2cef813268f1fb1575e5847aa@cike-events
+DTSTAMP:20250819T070923Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatív
+ ne zmeny na rok 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.12.2025 (resp. ten i
+ stý webinár sa koná aj 18.12.2025)  od 09:00 - 14:30 hod pozýva na we
+ binár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na [...] \\n
+ \n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legisla
+ tivne-zmeny-na-rok-2026
+URL:https://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislat
+ ivne-zmeny-na-rok-2026
+DTSTART:20251217T080000Z
+DTEND:20251217T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f3efddb5900820db720734be543601de9f3bd39a@cike-events
+DTSTAMP:20250628T061503Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] seminár Ročné zúčtovanie za rok 2025 + Legislatív
+ ne zmeny na rok 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 12.01.2026 od 09:00 - 1
+ 5:30 hod pozýva na seminár Ročné zúčtovanie za rok 2025 + Legislatí
+ vne zmeny na rok 2026   Kód:  20260112 Miesto: Nitra 12.01.2026\, [...]
+  \\n\n\nhttps://www.sopk.sk/event/seminar-rocne-zuctovanie-za-rok-2025-leg
+ islativne-zmeny-na-rok-2026
+URL:https://www.sopk.sk/event/seminar-rocne-zuctovanie-za-rok-2025-legislat
+ ivne-zmeny-na-rok-2026
+DTSTART:20260112T080000Z
+DTEND:20260112T143000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:32d976fe8d267680980909b4761849776fa9d87f@cike-events
+DTSTAMP:20250629T225431Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť – výzva pre firmy a verej
+ nú správu
+DESCRIPTION:Milí priatelia Sekcie kybernetickej bezpečnosti a digitalizá
+ cie Pozývame Vás na konferenciu Kybernetická bezpečnosť – výzva p
+ re firmy a verejnú správu\, ktorej cieľom je podporiť zavádzanie bezp
+ ečných digitálnych riešení v malých a stredných [...] \\n\n\nhttps:
+ //www.sopk.sk/event/kyberneticka-bezpecnost-vyzva-pre-firmy-a-verejnu-spra
+ vu
+URL:https://www.sopk.sk/event/kyberneticka-bezpecnost-vyzva-pre-firmy-a-ver
+ ejnu-spravu
+DTSTART:20260121T230000Z
+DTEND:20260123T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ef59bd99ec2a96d016b8f487928063e81376dccb@cike-events
+DTSTAMP:20250517T142358Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Delegačná cesta na tému „Systémy skladovania ener
+ gie“ 13.-16. apríla 2026 v Berlíne.
+DESCRIPTION:Program delegácie Berlín 2026 Slovensko-nemecká obchodná a 
+ priemyselná komora (AHK Slowakei) v spolupráci s Bratislavskou regionál
+ nou komorou Vás pozýva na delegačnú cestu na tému „Systémy skladov
+ ania energie“\, ktorá sa uskutoční v [...] \\n\n\nhttps://www.sopk.sk
+ /event/delegacna-cesta-na-temu-systemy-skladovania-energie-13-16-aprila-20
+ 26-v-berline
+URL:https://www.sopk.sk/event/delegacna-cesta-na-temu-systemy-skladovania-e
+ nergie-13-16-aprila-2026-v-berline
+DTSTART:20260126T070000Z
+DTEND:20260218T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0662093966c4a4c8fd850bb2301ae7ab6a26fe03@cike-events
+DTSTAMP:20251228T204002Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Káva s Eduardom Burašom a Miroslavom Michalkom
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne p
+ ozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\
+ , ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom
+  UVP Technicom\, kde sa budeme venovať [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/kava-s-eduardom-burasom-a-miroslavom-michalkom
+URL:https://www.sopk.sk/event/kava-s-eduardom-burasom-a-miroslavom-michalko
+ m
+DTSTART:20251104T080000Z
+DTEND:20251104T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:799347f12c9f3a6acb5589656bd0cce73376decd@cike-events
+DTSTAMP:20250412T180311Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
+LOCATION:Online
+DESCRIPTION:Partneri siete Enterprise Europe Network pozývajú organizáci
+ e pôsobiace v oblasti gastronómie\, dodávateľov IT riešení a zari
+ adení pre túto oblasť na online matchmaking HORECA - ENOEXPO 2025. 
+ Dátum konania: 05. – 20.11.2025 Miesto konania: online Registrácia o
+ tvorená do: 31.10.2025 Prihláška: Create an account [...] \\n\n\nhttp
+ s://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
+URL:https://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
+DTSTART:20251105T070000Z
+DTEND:20251120T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8ee1557c804c36dc8349490147e2ac71ae700913@cike-events
+DTSTAMP:20251102T000159Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „Orientujeme sa v sankciách a odvetvových reštrikc
+ iách EU\, OSN a US OFAC“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OS
+ N a US OFAC“\, „Je možný obchod s krajinami\, kde platia odvetvové
+  a cielené reštrikcie a sankcie?“  ktorý [...] \\n\n\nhttps://www.so
+ pk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a
+ -us-ofac
+URL:https://www.sopk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-rest
+ rikciach-eu-osn-a-us-ofac
+DTSTART:20251110T230000Z
+DTEND:20251111T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7371ba1e1e333ff8d3bec5116b130437c262e981@cike-events
+DTSTAMP:20250914T084939Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Qubit Conference® Slovakia 2025
+LOCATION:Hotel Grand Jasná\, Nízke Tatry\, Demänovská Dolina 71\, 031 0
+ 1 Demänovská Dolina\, Demänovská Dolina
+DESCRIPTION:KRK SOPK a Qubit Conference pozývajú na Qubit Conference® Sl
+ ovakia 2025 Termín konferencie: 11.-12. November 2025 Miesto konania: Hot
+ el Grand Jasná\, Nízke Tatry PROGRAM KONFERENCIE: Konferenčný deň (11
+ . november) prinesie týchto [...] \\n\n\nhttps://www.sopk.sk/event/qubit-
+ conference-slovakia-2025
+URL:https://www.sopk.sk/event/qubit-conference-slovakia-2025
+DTSTART:20251110T230000Z
+DTEND:20251112T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6a9e2dc7dacdfad9d41d91459f5cb5e94c2fd35f@cike-events
+DTSTAMP:20250425T135054Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár: Intrastat a Colné konanie – EEN
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Pozývame vás na seminár: "Intrastat a Colné konanie - EEN"\
+ , ktoré sa uskutoční 11.11.2025 o 9.00-12.00 v priestoroch Prešovskej 
+ RK SOPK na Vajanského 10\, Prešov. Cieľom školenia je oboznámiť úč
+ astníkov s [...] \\n\n\nhttps://www.sopk.sk/event/seminar-intrastat-a-col
+ ne-konanie-een
+URL:https://www.sopk.sk/event/seminar-intrastat-a-colne-konanie-een
+DTSTART:20251111T080000Z
+DTEND:20251111T110000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:74e6f1323a889c8b973b0504309cdf65ac349736@cike-events
+DTSTAMP:20250701T034818Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SWISS DAY 2025 …. vzdelávanie\, inovácie\, spolupr
+ áca
+LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slo
+ venským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Brat
+ islave Vás pozývajú odborné podujatie "SWISS DAY 2025 ... vzdelávanie
+ \, inovácie\, spolupráca" Cieľom odborného podujatia [...] \\n\n\nhttp
+ s://www.sopk.sk/event/swiss-day-2025-vzdelavanie-inovacie-spolupraca
+URL:https://www.sopk.sk/event/swiss-day-2025-vzdelavanie-inovacie-spoluprac
+ a
+DTSTART:20251113T080000Z
+DTEND:20251113T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e3f1e50de63f13d4a06026cb6aa768ba8350a339@cike-events
+DTSTAMP:20250211T090213Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SWISS DAY 2025
+LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
+DESCRIPTION:Vážení členovia SOPK\, dámy a páni\, v mene partnerov od
+ borného podujatia Vás 13.11.2025 srdečne pozývame na SWISS DAY 2025\,
+  ktorý sa opäť uskutoční v jedinečnej atmosfére PÉCHY CASTLE v H
+ ermanovciach. Veríme\, že získané informácie [...] \\n\n\nhttps://www
+ .sopk.sk/event/swiss-day-2025
+URL:https://www.sopk.sk/event/swiss-day-2025
+DTSTART:20251113T080000Z
+DTEND:20251113T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:faaa981c38c332c8720827638b22145f186d2af6@cike-events
+DTSTAMP:20250903T024319Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Pozvánka na online seminár: Digitalizácia malých a 
+ stredných podnikov – ako na to v praxi?
+DESCRIPTION:Slovenská obchodná a priemyselná komora (SOPK) v spolupráci
+  so spoločnosťou Signi Vás pozýva na odborný online seminár na tému
+ : Digitalizácia malých a stredných podnikov – ako na to v praxi? Dát
+ um [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-online-seminar-digit
+ alizacia-malych-a-strednych-podnikov-ako-na-to-v-praxi
+URL:https://www.sopk.sk/event/pozvanka-na-online-seminar-digitalizacia-maly
+ ch-a-strednych-podnikov-ako-na-to-v-praxi
+DTSTART:20251113T090000Z
+DTEND:20251113T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:fe17d729e23faac6ec93137e5c1ddbe04e9cbe07@cike-events
+DTSTAMP:20251222T012655Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Zákon o dani z príjmov\, závislá činnosť
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 20.11.2025 od 09:00 - 1
+ 4:30 hod pozýva na webinár Zákon o dani z príjmov\, závislá činnos
+ ť   Kód:  20251120   Pozývame Vás na webinár\, ktorý organizujeme
+  [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-dani-z-prijmov-zav
+ isla-cinnost
+URL:https://www.sopk.sk/event/webinar-zakon-o-dani-z-prijmov-zavisla-cinnos
+ t
+DTSTART:20251120T080000Z
+DTEND:20251120T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ee48a6ec25b729579ba0844fde8d09b9bd5df7df@cike-events
+DTSTAMP:20251221T215334Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Pozývame Vás na záverečnú konferenciu projektu EAG
+ LE (v anglickom jazyku)
+DESCRIPTION:Banskobystrická regionálna komora SOPK v spolupráci s partne
+ rmi projektu EAGLE Vás pozývajú na konferenciu „Preklenutie rozdielov
+  v digitálnych zručnostiach: Posilnenie malých a stredných podnikov pr
+ e budúcnosť“.   Podujatie predstaví inovatívne stratégie\, [...] \
+ \n\n\nhttps://www.sopk.sk/event/pozyvame-vas-na-zaverecnu-konferenciu-proj
+ ektu-eagle-v-anglickom-jazyku
+URL:https://www.sopk.sk/event/pozyvame-vas-na-zaverecnu-konferenciu-projekt
+ u-eagle-v-anglickom-jazyku
+DTSTART:20251120T083000Z
+DTEND:20251120T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8b0584570d2c1101e1f3378834a699dfe56d44@cike-events
+DTSTAMP:20250406T153725Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Zákon o sociálnom poistení
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 21.11.2025 od 09:00 - 1
+ 4:30 hod pozýva na webinár Zákon o sociálnom poistení  Kód:  20251
+ 121   Pozývame Vás na webinár\, ktorý organizujeme v spolupráci s fi
+ rmou [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-socialnom-pois
+ teni-3
+URL:https://www.sopk.sk/event/webinar-zakon-o-socialnom-poisteni-3
+DTSTART:20251121T080000Z
+DTEND:20251121T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b5233f258a3caa28f709c822a574b11ba08099ba@cike-events
+DTSTAMP:20250325T151048Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
+DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov o
+ rganizujú pracovno-priateľské stretnutie lídrov regiónu – primátor
+ ov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:
+ 00 Miesto:  Mestský úrad Trebišov\, [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/pozvanka-stretnutie-trebisovskeho-ekosystemu
+URL:https://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu
+DTSTART:20251125T120000Z
+DTEND:20251125T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:eab82155b871694db596a1a6816697836b0dcff6@cike-events
+DTSTAMP:20251125T203109Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výh
+ oda zamestnávateľa
+DESCRIPTION:Príchod investora môže priniesť významné investície  a
+  vytvoriť pracovné miesta\, ale aj zmeny a výzvy pre miestne podnikani
+ e a komunitu. Tento proces prebieha kontinuálne. Čo všetko chápeme po
+ d pojmom zamestnanecké benefity? Zamestnanecké benefity (alebo [...] \\n
+ \n\nhttps://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-v
+ yhoda-zamestnavatela-2
+URL:https://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-vy
+ hoda-zamestnavatela-2
+DTSTART:20251014T070000Z
+DTEND:20251014T093000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e890b06e6d29fba179ace336095dd5b7fd2468a8@cike-events
+DTSTAMP:20250803T011019Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regio
+ nálnej komory SOPK
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
+ s pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v
+  UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok
+  14.10.2025 od [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-
+ novych-priestorov-kosickej-regionalnej-komory-sopk
+URL:https://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosicke
+ j-regionalnej-komory-sopk
+DTSTART:20251014T140000Z
+DTEND:20251014T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e44746bfd868e8095e6e04638a73fb2271b8417a@cike-events
+DTSTAMP:20250317T084655Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regio
+ nálnej – komory SOPK v UVP Technicom
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
+ s pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK
+  v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v uto
+ rok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk
+ .sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komor
+ y-sopk-v-uvp-technicom
+URL:https://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosicke
+ j-regionalnej-komory-sopk-v-uvp-technicom
+DTSTART:20251014T140000Z
+DTEND:20251014T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1a4a05b6381b40c9dd3b52b70e68a1495083360f@cike-events
+DTSTAMP:20250831T031557Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Exportné fórum 2025
+LOCATION:Tále
+DESCRIPTION:Dovoľujeme si dať do Vašej pozornosti nadchádzajúce Export
+ né fórum 2025\, ktoré organizuje Ministerstvo zahraničných vecí a eu
+ rópskych záležitostí SR v spolupráci s Banskobystrickou regionálnou 
+ komorou SOPK dňa 15. októbra 2025 na [...] \\n\n\nhttps://www.sopk.sk/ev
+ ent/exportne-forum-2025-2
+URL:https://www.sopk.sk/event/exportne-forum-2025-2
+DTSTART:20251014T220000Z
+DTEND:20251015T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3e1e878add9349971f08373fd15959bf0077a711@cike-events
+DTSTAMP:20250220T214718Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Dohody a sezónna práca
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 16.10.2025 od 09:00 - 1
+ 4:30 hod pozýva na webinár   Dohody a sezónna práca  kód: 20251016
+    Pozývame Vás na webinár\, ktorý organizujeme v spolupráci s firmo
+ u [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dohody-a-sezonna-praca-2
+URL:https://www.sopk.sk/event/webinar-dohody-a-sezonna-praca-2
+DTSTART:20251016T070000Z
+DTEND:20251016T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cd3e7f7dc34624f29bcb8b642178369fb2a5f261@cike-events
+DTSTAMP:20250712T092619Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Benefity zamestnancov\, sociálny fond a cesto
+ vné náhrady
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 21.10.2025 od 09:00 - 1
+ 4:30 hod pozýva na webinár Benefity zamestnancov\, sociálny fond a cest
+ ovné náhrady Kód: 20251021 Pozývame Vás na webinár\, ktorý organizu
+ jeme v spolupráci [...] \\n\n\nhttps://www.sopk.sk/event/webinar-benefity
+ -zamestnancov-socialny-fond-a-cestovne-nahrady-2
+URL:https://www.sopk.sk/event/webinar-benefity-zamestnancov-socialny-fond-a
+ -cestovne-nahrady-2
+DTSTART:20251021T070000Z
+DTEND:20251021T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0bfb3ce187408fa142da3bf17c1b0297ba0dbfdb@cike-events
+DTSTAMP:20250704T192601Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] ZMENA TERMÍNU! Pozvánka na podnikateľskú misiu do S
+ an Marína
+DESCRIPTION:POZOR\, ZMENA TERMÍNU! Slovenská obchodná a priemyselná kom
+ ora vás pozýva na podnikateľskú misiu do San Marína\, ktorá sa uskut
+ oční v termíne 27. – 29.októbra 2025. Podujatie je zamerané na rozv
+ oj obchodných [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-podnikat
+ elsku-misiu-do-san-marina
+URL:https://www.sopk.sk/event/pozvanka-na-podnikatelsku-misiu-do-san-marina
+DTSTART:20251026T230000Z
+DTEND:20251029T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8f1a3d9ce64a27cc0e79d914f311cedf277a813e@cike-events
+DTSTAMP:20250801T184727Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europ
+ e Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základ
+ né princípy) Cieľom školenia je oboznámiť účastníkov s legislat
+ ívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním [
+ ...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladn
+ e-principy
+URL:https://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-princip
+ y
+DTSTART:20251028T073000Z
+DTEND:20251028T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:43d0f83f98af3047492888da7cc24c1ab257739e@cike-events
+DTSTAMP:20250226T122604Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
+DESCRIPTION:Pozývame vás na školenie INTRASTAT-SK a Colné konanie (zák
+ ladné princípy) Cieľom školenia je oboznámiť účastníkov s legisl
+ atívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním
+  v praxi\; vedomosti získané v rámci školenia by mali menovaným zar
+ učiť [...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie
+ -zakladne-principy-2
+URL:https://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-princip
+ y-2
+DTSTART:20251028T073000Z
+DTEND:20251028T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ec6e941ebbeb6bea7e6796a305464fb63c27b684@cike-events
+DTSTAMP:20251022T091254Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Doing Business in Austria
+DESCRIPTION:Slovensko – rakúska obchodná komora v spolupráci s region
+ álnymi komorami SOPK Trnava a Bratislava a ďalšími partnermi Vás poz
+ ývajú na podujatie Doing Business in Austria. Podujatie sa uskutoční 2
+ 9.10.2025 o 9:30 [...] \\n\n\nhttps://www.sopk.sk/event/doing-business-in-
+ austria-3
+URL:https://www.sopk.sk/event/doing-business-in-austria-3
+DTSTART:20251029T083000Z
+DTEND:20251029T110000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3aca9950a1a99164255c382c051c09f2e6ddeaaf@cike-events
+DTSTAMP:20250310T044200Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] DRONETECH 2025 B2B Hybrid Matchmaking Event
+DESCRIPTION:Veľtrh DroneTech World Meeting sa koná už po desiatykrát a 
+ má bohatú históriu spájania medzinárodnej skupiny investorov\, podnik
+ ateľov\, vedcov a nadšencov všetkého\, čo súvisí s najnovšími bez
+ pilotnými technológiami. PRE KOHO? * [...] \\n\n\nhttps://www.sopk.sk/ev
+ ent/dronetech-2025-b2b-hybrid-matchmaking-event
+URL:https://www.sopk.sk/event/dronetech-2025-b2b-hybrid-matchmaking-event
+DTSTART:20251029T083000Z
+DTEND:20251031T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8aa48fd3e523221fc3c87ab46afc5a505fd71ee5@cike-events
+DTSTAMP:20251010T025234Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Káva s Eduardom Burašom a Miroslavom Michalkom
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DESCRIPTION:Vážení partneri a priatelia\, dovoľujeme si Vás srdečne p
+ ozvať na inšpiratívne ranné stretnutie pri káve s Eduardom Burašom\
+ , ambasádorom v Zakarpatskej oblasti a Miroslavom Michalkom\, riaditeľom
+  UVP Technicom\, kde sa budeme venovať [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/kava-s-ambasadorom-v-zakarpatskej-oblasti
+URL:https://www.sopk.sk/event/kava-s-ambasadorom-v-zakarpatskej-oblasti
+DTSTART:20251104T080000Z
+DTEND:20251104T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a10c5355e0f9ddb9169c2e06685b49f9ddaa0d00@cike-events
+DTSTAMP:20250725T072705Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] CERAMIC NETWORK 2025 Brokerage event – Conferences & 
+ Site visits
+DESCRIPTION:CERAMIC NETWORK združuje dodávateľov a dodávateľov v obla
+ sti technickej keramiky v rôznych sektoroch s cieľom podporiť transfer 
+ technológií: energetika - automobilový priemysel - obrana - letectvo - 
+ vesmírny priemysel - IKT - [...] \\n\n\nhttps://www.sopk.sk/event/ceramic
+ -network-2025-brokerage-event-conferences-site-visits
+URL:https://www.sopk.sk/event/ceramic-network-2025-brokerage-event-conferen
+ ces-site-visits
+DTSTART:20250701T060000Z
+DTEND:20250703T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2f7e38e61bc35ceed07dbe8974b753b2fadcab3d@cike-events
+DTSTAMP:20250630T144503Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Meet4Business AGRA 2025
+DESCRIPTION:Podujatie ponúka jedinečnú príležitosť pre firmy\, podnik
+ ateľov\, organizácie a záujemcov nadviazať nové kontakty a vymeniť s
+ i skúsenosti s potenciálnymi obchodnými partnermi zo Slovinska a zahran
+ ičia. RIEŠENÉ TÉMY • Potraviny a nápoje [...] \\n\n\nhttps://www.so
+ pk.sk/event/meet4business-agra-2025
+URL:https://www.sopk.sk/event/meet4business-agra-2025
+DTSTART:20250827T060000Z
+DTEND:20250827T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:482ee1b2311bd976a61eb2b7ccc92b375d46f050@cike-events
+DTSTAMP:20250720T001334Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Co-Matching Virtual B2B Event 2025
+LOCATION:Online
+DESCRIPTION:Tento rok vám opäť ponúkame možnosť stretnúť turecké s
+ poločnosti a pohodlne sa s nimi spojiť z vašej kancelárie alebo domova
+ \, čím eliminujeme potrebu časovo náročného cestovania. Starostlivo 
+ sme vybrali spoločnosti z [...] \\n\n\nhttps://www.sopk.sk/event/co-match
+ ing-virtual-b2b-event-2025
+URL:https://www.sopk.sk/event/co-matching-virtual-b2b-event-2025
+DTSTART:20250828T080000Z
+DTEND:20250828T153000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bfa92637d9a9bab578a0e6197425f4b9af1e1985@cike-events
+DTSTAMP:20250723T185922Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: Rešerš ochranných známok jednoducho
+DESCRIPTION:Pozvánka na webinár: Rešerš ochranných známok jednoducho 
+ dňa: 18.09.2025  o 10:00 - 11:00 hod. Témy: ● praktické informácie
+ \, ako pracovať s databázami\, ● priestor opýtať sa experta na konkr
+ étne otázky k téme [...] \\n\n\nhttps://www.sopk.sk/event/webinar-reser
+ s-ochrannych-znamok-jednoducho
+URL:https://www.sopk.sk/event/webinar-resers-ochrannych-znamok-jednoducho
+DTSTART:20250918T080000Z
+DTEND:20250918T090000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1e9cf5875fecf48c479307774dbb8769ee73f836@cike-events
+DTSTAMP:20251006T222444Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Colné predpisy v praxi + Colný sadzobník EÚ a syst
+ ém TARIC
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ áre "Colné predpisy v praxi" a "Colný sazdobník EÚ a systém TARIC"\,
+  ktoré sa budú konať dňa 23.09. a 24.09. 2025 v čase od [...] \\n\n\n
+ https://www.sopk.sk/event/colne-predpisy-v-praxi-duplicate-1
+URL:https://www.sopk.sk/event/colne-predpisy-v-praxi-duplicate-1
+DTSTART:20250922T220000Z
+DTEND:20250924T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b82af32a558d89a6f717b404af47adcc9dd1e2f6@cike-events
+DTSTAMP:20250125T215907Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Dôchodky
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 25.9.2025 od 09:00 - 14
+ :30 hod pozýva na webinár Dôchodky kód:20250925   Lektor: RNDr. Jozef
+  Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12
+ :00 [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky-2
+URL:https://www.sopk.sk/event/webinar-dochodky-2
+DTSTART:20250925T070000Z
+DTEND:20250925T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:065d41e2e7a0e3b7e15f925c34a9b1d3a13300f0@cike-events
+DTSTAMP:20250102T002803Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Konferencia: Digitalizácia a nové trendy v priemysle 
+ a vzdelávaní
+DESCRIPTION:Pozývame Vás na konferenciu Digitalizácia a nové trendy v p
+ riemysle a vzdelávaní\, ktorej cieľom je podporiť zavádzanie digitali
+ začných riešení pre malé a stredné podniky. Zároveň sa venuje prob
+ lematike vzdelávania\, ktoré proces [...] \\n\n\nhttps://www.sopk.sk/eve
+ nt/konferencia-a-workshopy-digitalizacia-a-nove-trendy-v-priemysle-a-vzdel
+ avani
+URL:https://www.sopk.sk/event/konferencia-a-workshopy-digitalizacia-a-nove-
+ trendy-v-priemysle-a-vzdelavani
+DTSTART:20250925T220000Z
+DTEND:20250927T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f57dfe78e93fa0a1d7daf97741e419abfdc7eed0@cike-events
+DTSTAMP:20250322T005344Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Daňový bonus\, príspevok na rekreáciu a na
+  športovú činnosť dieťaťa
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 30.9.2025 od 09:00 - 14
+ :30 hod pozýva na webinár Daňový bonus\, príspevok na rekreáciu a na
+  športovú činnosť dieťaťa kód:20250930 Na webinári si vysvetlíme 
+ pravidlá a [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovy-bonus-pr
+ ispevok-na-rekreaciu-a-na-sportovu-cinnost-dietata
+URL:https://www.sopk.sk/event/webinar-danovy-bonus-prispevok-na-rekreaciu-a
+ -na-sportovu-cinnost-dietata
+DTSTART:20250930T070000Z
+DTEND:20250930T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:db0655b12810cf465b5102ec16a7c6085c154edb@cike-events
+DTSTAMP:20250523T185203Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Marketplace Austria for Food & Beverages
+DESCRIPTION:Zúčastnite sa B2B podujatia s rakúskymi dodávateľmi a vý
+ robcami potravín! Podujatie\, ktoré organizuje WKÖ AUSSENWIRTSCHAFT AUS
+ TRIA / ADVANTAGE AUSTRIA\, je ideálnou príležitosťou na spojenie sa s 
+ poprednými rakúskymi výrobcami potravín a nápojov\, [...] \\n\n\nhttp
+ s://www.sopk.sk/event/marketplace-austria-for-food-beverages
+URL:https://www.sopk.sk/event/marketplace-austria-for-food-beverages
+DTSTART:20251001T060000Z
+DTEND:20251002T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:98cec62b75cb552db12f515fe05d5769e58220f5@cike-events
+DTSTAMP:20250204T040453Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Contact-Contract 2025
+DESCRIPTION:Pozývame Vás na B2B matchmakingové podujatie Contact-Contra
+ ct 2025\, ktoré sa tradične koná na Medzinárodnom priemyselnom veľtrh
+ u v Brne od 7. do 10. októbra 2025. Toto matchmakingové podujatie vám 
+ dáva jedinečnú príležitosť zvýšiť vašu [...] \\n\n\nhttps://www.
+ sopk.sk/event/contact-contract-2025
+URL:https://www.sopk.sk/event/contact-contract-2025
+DTSTART:20251007T060000Z
+DTEND:20251010T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:317805962cef0fc2b89dbbc682f2a57cfed20e28@cike-events
+DTSTAMP:20250320T023513Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] 5. ročník súťaže o cenu za dodržiavanie princípo
+ v obehového hospodárstva „Zelený Merkúr“
+DESCRIPTION:Regionálna súťaž sa mení na celoslovenskú! „Zelený Mer
+ kúr“ rozširuje svoju pôsobnosť z banskobystrického regiónu na cel
+ é Slovensko. » Rozvíjate svoje podnikateľské aktivity v súlade s pr
+ írodou a cieľmi udržateľného rozvoja? » [...] \\n\n\nhttps://www.sop
+ k.sk/event/5-rocnik-sutaze-o-cenu-za-dodrziavanie-principov-obehoveho-hosp
+ odarstva-zeleny-merkur
+URL:https://www.sopk.sk/event/5-rocnik-sutaze-o-cenu-za-dodrziavanie-princi
+ pov-obehoveho-hospodarstva-zeleny-merkur
+DTSTART:20251009T220000Z
+DTEND:20251010T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:95ed7e0f77b64bd6f108bd62da052d555294b9a5@cike-events
+DTSTAMP:20250524T235055Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Moderné zamestnanecké benefity – konkurenčná výh
+ oda zamestnávateľa
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Príchod investora môže priniesť významné investície  a
+  vytvoriť pracovné miesta\, ale aj zmeny a výzvy pre miestne podnikani
+ e a komunitu. Tento proces prebieha kontinuálne. Čo všetko chápeme po
+ d pojmom zamestnanecké benefity? Zamestnanecké benefity (alebo [...] \\n
+ \n\nhttps://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-v
+ yhoda-zamestnavatela
+URL:https://www.sopk.sk/event/moderne-zamestnanecke-benefity-konkurencna-vy
+ hoda-zamestnavatela
+DTSTART:20251014T063000Z
+DTEND:20251014T093000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:04748ac7746ca1504d78404882a20c57a046976f@cike-events
+DTSTAMP:20250919T125130Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Hlavné faktory úspešného riadenia firmy
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Cent
+ rum prosperity s.r.o. Vás pozývajú na seminár "Hlavné faktory úspeš
+ ného riadenia firmy" Témy seminára: Moderné metódy riadenia firmy - a
+ lias - Ako vybudovať [...] \\n\n\nhttps://www.sopk.sk/event/hlavne-faktor
+ y-uspesneho-riadenia-firmy
+URL:https://www.sopk.sk/event/hlavne-faktory-uspesneho-riadenia-firmy
+DTSTART:20250527T064500Z
+DTEND:20250527T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e62b1e29b5b782d90e8bcb6c57547d1b8a405142@cike-events
+DTSTAMP:20251102T140122Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár PRÍSPEVOK NA REKREÁCIU A ĎALŠIE BENEFITY
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 27.5.2025 od 09:00 - 
+ 14:30 hod pozýva na webinár PRÍSPEVOK NA REKREÁCIU A ĎALŠIE BENEFITY
+   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (30 min. obedná pre
+ stávka 11:30-12:00 a [...] \\n\n\nhttps://www.sopk.sk/event/webinar-prisp
+ evok-na-rekreaciu-a-dalsie-benefity
+URL:https://www.sopk.sk/event/webinar-prispevok-na-rekreaciu-a-dalsie-benef
+ ity
+DTSTART:20250527T070000Z
+DTEND:20250527T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:605a4816f7b113371625112947206f87eaa792a1@cike-events
+DTSTAMP:20251102T095941Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Textile Connect 2025
+DESCRIPTION:Textile Connect je online platforma navrhnutá na podporu hodno
+ tných spojení medzi spoločnosťami\, dizajnérmi a výrobnými partnerm
+ i v rámci textilného priemyslu. Šiesty rok po sebe sme radi\, že môž
+ eme usporiadať exkluzívne online [...] \\n\n\nhttps://www.sopk.sk/event/
+ textile-connect-2025
+URL:https://www.sopk.sk/event/textile-connect-2025
+DTSTART:20250528T070000Z
+DTEND:20250529T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c13e675906f41db8a3ed6a9ae86e4097898b231d@cike-events
+DTSTAMP:20250506T074412Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SUBCONTRACTING MEETINGS 2025
+DESCRIPTION:Subdodávateľská výstava je venovaná firmám ponúkajúcim 
+ subdodávateľské služby predovšetkým v oblasti spracovania kovov. Sú
+ časťou podujatia budú SUBCONTRACTING MEETINGS 2025\, na ktorých sa st
+ retnú zástupcovia priemyslu vrátane veľkých korporátnych podnikov. C
+ ieľom je spojiť [...] \\n\n\nhttps://www.sopk.sk/event/subcontracting-me
+ etings-2025
+URL:https://www.sopk.sk/event/subcontracting-meetings-2025
+DTSTART:20250604T060000Z
+DTEND:20250610T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d0763981926431bd95e4f2bdba9520e277361021@cike-events
+DTSTAMP:20250405T110237Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Colné predpisy v praxi
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár "Colné predpisy v praxi"\, ktorý sa bude konať dňa 4. júna (stred
+ a) 2025 v čase od 09.00 do 16:00 hod. v zasadačke BBRK [...] \\n\n\nhttp
+ s://www.sopk.sk/event/colne-predpisy-v-praxi
+URL:https://www.sopk.sk/event/colne-predpisy-v-praxi
+DTSTART:20250604T070000Z
+DTEND:20250604T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0469b655cf563f7b9b6b7094fccd70608fbf7585@cike-events
+DTSTAMP:20251121T093822Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár „Nový stavebný zákon č. 25/2025 Z.z.“
+DESCRIPTION:Zákon významne znižuje administratívnu záťaž pre občano
+ v\, stavebníkov\, podnikateľov\, developerov\, štát a stavebné úrady
+ . Zjednodušuje celý proces povoľovania a realizácie stavieb\, od návr
+ hu stavebného zámeru po kolaudáciu. Registrovať sa môžete TU [...] \
+ \n\n\nhttps://www.sopk.sk/event/seminar-novy-stavebny-zakon-c-25-2025-z-z
+URL:https://www.sopk.sk/event/seminar-novy-stavebny-zakon-c-25-2025-z-z
+DTSTART:20250605T080000Z
+DTEND:20250605T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:72d1a31f53a020c22aec0fe06c888ea515152939@cike-events
+DTSTAMP:20251116T210848Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] ONLINE seminár: INCOTERMS 2020: Nové pravidlá – st
+ aré problémy
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Slovenská obchodná a priemyselná komora člen siete Enterpri
+ se Europe Network Vás pozýva na odborný seminár\, ktorého cieľom  j
+ e oboznámiť účastníkov s podstatou pravidiel ICC INCOTERMS so zameran
+ ím na INCOTERMS 2020 a [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2
+ 020-nove-pravidla-stare-problemy
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy
+DTSTART:20250610T070000Z
+DTEND:20250610T110000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:945e08ce4d769efade4445ed2fbb7b8712d024bd@cike-events
+DTSTAMP:20251105T112554Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Daňovo-odvodová optimalizácia 2025
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 11.6.2025 od 09:00 - 
+ 14:30 hod pozýva na webinár Daňovo-odvodová optimalizácia 2025   Lek
+ tor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom 30 min. obedná pre
+ stávka 11:30-12:00 a [...] \\n\n\nhttps://www.sopk.sk/event/danovo-odvodo
+ va-optimalizacia-2025
+URL:https://www.sopk.sk/event/danovo-odvodova-optimalizacia-2025
+DTSTART:20250611T070000Z
+DTEND:20250611T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e041dffc2aea2059bd8fdd04b8039d3024f094d8@cike-events
+DTSTAMP:20250225T043156Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Inovačná polhodinka – Digitalizácia MSP
+LOCATION:Online
+DESCRIPTION:Prečo tento koncept: V prostredí neustáleho technologického
+  pokroku a zvyšujúceho sa tlaku na udržateľnosť a efektivitu čelí v
+ eľa malých a stredných podnikov (MSP) výzve\, ako implementovať inov
+ ácie\, automatizáciu a zelené technológie [...] \\n\n\nhttps://www.sop
+ k.sk/event/inovacna-polhodinka-inovacie-v-energetike-duplicate-1
+URL:https://www.sopk.sk/event/inovacna-polhodinka-inovacie-v-energetike-dup
+ licate-1
+DTSTART:20250616T070000Z
+DTEND:20250616T080000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3c0e6b07560c6c3f9a44bc3dc37280d348d0cb3d@cike-events
+DTSTAMP:20250818T035043Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] XVII. ročník „Stretnutie podnikateľov BRK“
+DESCRIPTION:Bratislavská regionálna komora SOPK Vás pozýva na XVII. ro
+ čník „Stretnutie podnikateľov BRK“ Kedy: 18. júna 2025 (streda) o 
+ 15\,00 hod. Kde: Incheba EXPO klub\, Bratislava Program: 1/ Otvorenie 2/ H
+ lavná téma: [...] \\n\n\nhttps://www.sopk.sk/event/22894
+URL:https://www.sopk.sk/event/22894
+DTSTART:20250618T130000Z
+DTEND:20250618T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3fe29478a73949e9367b91602fa9d460a7d18bb7@cike-events
+DTSTAMP:20250430T145211Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Dôchodky
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 19.6.2025 od 09:00 - 
+ 14:30 hod pozýva na webinár Dôchodky   Lektor: RNDr. Jozef Mihál Čas
+ : 9:00 – 14:30  (v tom 30 min. obedná prestávka 11:30-12:00 a dve 10
+  [...] \\n\n\nhttps://www.sopk.sk/event/webinar-dochodky
+URL:https://www.sopk.sk/event/webinar-dochodky
+DTSTART:20250619T070000Z
+DTEND:20250619T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9582f1bcb6581eb935d5a3d913f85d3c5eccbc49@cike-events
+DTSTAMP:20251219T014233Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] B2B TORINO FASHION MATCH 2025
+LOCATION:GREENPEA RETAIL PARK\, Via E. Fenoglietti\, 20\, Torino
+DESCRIPTION:Medzinárodné bilaterálne stretnutie\, ktoré je bezplatné a
+  je zamerané na textilný/módny sektor a športový dodávateľský reť
+ azec\, sa uskutoční 1. | 2. | 3. júla 2025 súbežne s 10. ročníkom T
+ urínskeho týždňa [...] \\n\n\nhttps://www.sopk.sk/event/b2b-torino-fas
+ hion-match-2025
+URL:https://www.sopk.sk/event/b2b-torino-fashion-match-2025
+DTSTART:20250701T060000Z
+DTEND:20250703T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7688f6d88b68d2ace4e5a1255061752a0ecf8902@cike-events
+DTSTAMP:20250327T060049Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ZRUŠENÉ – Workshop: Ako vzniká herný svet s Matej
+ om Hudákom
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Workshop z organizačných dôvodov zrušený. \\n\n\nhttps://i
+ ckk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
+URL:https://ickk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2600e5f55a28bc8851e575ce9ed1886be30a5fb3@cike-events
+DTSTAMP:20250128T151844Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí. Zmeňte 
+ svoj pohľad na to\, čo je „odpad“\, a objavte silu sociálneho podni
+ kania v umení. Pozývame vás do priestorov ICKK na inšpiratívne […] 
+ \\n\n\nhttps://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-lud
+ i
+URL:https://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-ludi
+DTSTART:20260331T150000Z
+DTEND:20260331T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:afd286ad783f92ff4453622ef733c169588117b3@cike-events
+DTSTAMP:20250125T222925Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Petrom Schmiedlom – CEO Košickej futbal
+ ovej arény
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:⚽️ Chceš vidieť do zákulisia KFA? Odkukaj to! Zaujíma 
+ ťa\, ako sa riadi moderný futbalový štadión a čo všetko obnáša ma
+ nažment v športovom priemysle? Máme pre Teba jedinečnú príležitosť
+  učiť […] \\n\n\nhttps://ickk.sk/event/odkukaj-to-s-petrom-schmiedlom-
+ ceo-kosickej-futbalovej-areny
+URL:https://ickk.sk/event/odkukaj-to-s-petrom-schmiedlom-ceo-kosickej-futba
+ lovej-areny
+DTSTART:20260325T160000Z
+DTEND:20260325T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
+DTSTAMP:20250928T131957Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
+  mix
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
+ járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
+ reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
+  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
+ ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
+ stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
+ n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
+ -mix
+URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
+ ix
+DTSTART:20251113T150000Z
+DTEND:20251113T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
+DTSTAMP:20250616T235150Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
+DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
+ eet & Salty prichádza DEŇ D – večer\, na ktorom startupy z Košickéh
+ o kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od ICKK.
+  Na veľkom pódiu\, pred odbornou porotou a publikom\, odprezentujú svoj
+ e Pitch Decky. Programom bude sprevádzať moderátor Matúš Krnčok\, at
+ mosféru doplní Ego\, Rudeboys Radio a hudobno-tanečné […] \\n\n\nhtt
+ ps://ickk.sk/event/sweet-salty-den-d
+URL:https://ickk.sk/event/sweet-salty-den-d
+DTSTART:20251120T170000Z
+DTEND:20251120T213000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
+DTSTAMP:20251211T031940Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
+DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
+ davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
+ om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
+  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
+ -tokarcik
+URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
+DTSTART:20251127T160000Z
+DTEND:20251127T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
+DTSTAMP:20250820T235055Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ. TO Meetup s MUDr. Veronika Bánoci Magočová\
+ , PhD.\, neurochirurgičkou a členkou Forbes 30 pod 30
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:🧠 Operuje mozgy\, búra mýty a inovuje medicínu: Príď si
+  „odkukať“ know-how od Veroniky Magočovej! Hovorí sa\, že neurochi
+ rurgia je jedna z najťažších disciplín na svete. Pre MUDr. Veroniku 
+ Bánoci Magočovú\, PhD.\, členku prestížneho rebríčka Forbes 30 po
+ d 30\, je to však každodenná realita. Má na konte stovky úspešných 
+ zákrokov a pohľad na inovácie\, ktorý vám vyrazí […] \\n\n\nhttps:
+ //ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova-phd-neur
+ ochirurgickou-a-clenkou-forbes-30-pod-30
+URL:https://ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova
+ -phd-neurochirurgickou-a-clenkou-forbes-30-pod-30
+DTSTART:20260129T160000Z
+DTEND:20260129T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a6cf6c8492c7a924207cd57c0f1e777a945b9e6d@cike-events
+DTSTAMP:20250820T002928Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Využitie VR a herných enginov v umení – KC Továre
+ ň
+DESCRIPTION:Workshop predstaví VR a herné enginy ako súčasné nástroje
+  umeleckej tvorby. Na praktických ukážkach sa dozviete\, ako možno v v
+ irtuálnych a herných prostrediach vytvárať diela\, identity a zážitk
+ y.   VSTUP ZDARMA. Registrujte sa. \\n\n\nhttps://ickk.sk/event/vyuzitie-
+ vr-a-hernych-enginov-v-umeni-kc-tovaren
+URL:https://ickk.sk/event/vyuzitie-vr-a-hernych-enginov-v-umeni-kc-tovaren
+DTSTART:20260218T160000Z
+DTEND:20260218T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a1cb943af4799586e677640d8238671cf94a5aa8@cike-events
+DTSTAMP:20250814T224619Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO so šéfkuchárom Martinom Záhumenským
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na meetupe Odkukaj.To privítame Martina Zahumenského – šé
+ fkuchára\, dnes stojaceho za reštauráciou Pappa Mia pri Prešove. Poroz
+ práva o svojej ceste a o tom\, ako prináša svetovú gastronómiu na vý
+ chod Slovenska. Vstup je zdarma\, potrebné je registrovať sa.\n\nhttps:/
+ /ickk.sk/event/odkukaj-to-so-sefkucharom-martinom-zahumenskym
+URL:https://ickk.sk/event/odkukaj-to-so-sefkucharom-martinom-zahumenskym
+DTSTART:20260226T160000Z
+DTEND:20260226T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
+DTSTAMP:20250806T181837Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
+ novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
+ ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
+  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
+ eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
+ oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
+URL:https://ickk.sk/event/strojarenska-zije-2-0
+DTSTART:20250618T140000Z
+DTEND:20250618T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
+DTSTAMP:20250702T173416Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] INOVUJME REGIÓNY – objavte potenciál krajov
+LOCATION:Binarium\, Bratislava\, Staré Grunty 18\, Bratislava
+DESCRIPTION:Pozývame vás na konferenciu združenia Samosprávne kraje Slo
+ venska (SK8) na tému INOVUJME REGIÓNY - objavte potenciál krajov. Poduj
+ atie ponúkne priestor na diskusiu o tom\, ako môžu slovenské regióny 
+ rozvíjať svoj potenciál prostredníctvom kvalitného vzdelávania\, med
+ ziregionálnej spolupráce či pokrokových projektov. Počas jedného dň
+ a zažijete panelové diskusie a prezentácie s odborníkmi na inovácie v
+  samospráve z Košíc\, […] \\n\n\nhttps://ickk.sk/event/inovujme-regio
+ ny-objavte-potencial-krajov
+URL:https://ickk.sk/event/inovujme-regiony-objavte-potencial-krajov
+DTSTART:20250619T060000Z
+DTEND:20250619T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
+DTSTAMP:20251001T035249Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Wine&Paint
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:V auguste sa naše priestory stanú dejiskom Wine & Paint s 
+ Lindou van Dalen z CHAT – večera\, ktorý prirodzene spája umenie\, d
+ obré víno a ľudí so spoločnou vášňou pre tvorivosť. Podujatie pon
+ úkne neformálne\, no inšpiratívne prostredie\, kde sa kreatívni ľudi
+ a môžu stretnúť\, nadviazať nové kontakty a objavovať rôzne príst
+ upy k umeleckému vyjadreniu.Sme úprimne radi\, že sa takýto večer [
+ …] \\n\n\nhttps://ickk.sk/event/winepaint
+URL:https://ickk.sk/event/winepaint
+DTSTART:20250819T150000Z
+DTEND:20250819T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a111b46d5a13ff3b539c6e3b945a473ea2785d78@cike-events
+DTSTAMP:20250218T191304Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Startup Connect no.5
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Predposledné kolo Startup Connect je tu! Novinkou je Cena publ
+ ika\, pri ktorej rozhodujete vy. Tešiť sa môžete na 6 startupov\, spä
+ tnú väzbu\, networking a dávku inšpirácie. Spoluorganizátori: 🇺
+ 🇸 AmCham – Americká obchodná komora🇸🇰 Slovenská obchodná a 
+ priemyselná komora 🎯 Hlavný partner:Košický samosprávny kraj Regis
+ trácia: \\n\n\nhttps://ickk.sk/event/startup-connect-no-5
+URL:https://ickk.sk/event/startup-connect-no-5
+DTSTART:20250903T140000Z
+DTEND:20250903T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0974e5a23ea6e5218702af603670ca268c09b539@cike-events
+DTSTAMP:20250701T152636Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Sweet & Salty KICK OFF
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Privítame startupy\, ktoré sa dostali do akceleračnej fázy 
+ a prinášajú inovatívne riešenia v oblastiach ako AI\, fintech či gam
+ ing. Tešte sa na inšpiratívne projekty\, cenné mentorstvo a nové prí
+ ležitosti na rast a spoluprácu. \\n\n\nhttps://ickk.sk/event/sweet-salty
+ -kick-off
+URL:https://ickk.sk/event/sweet-salty-kick-off
+DTSTART:20250904T143000Z
+DTEND:20250904T143000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:c82f3d665845d15d87b2750a6c0484236cb7ed3e@cike-events
+DTSTAMP:20250430T083225Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Letecké dni Košického kraja
+LOCATION:Letisko Košice
+DESCRIPTION:Letecké dni prinesú do regiónu akrobatické kúsky\, modern
+ é stroje aj historické lietadlá. Na oblohe sa predstavia piloti zo 7 kr
+ ajín Európy a Blízkeho východu. Chýbať nebudú ani inovácie v podob
+ e dronovej show. \\n\n\nhttps://ickk.sk/event/letecke-dni-kosickeho-kraja
+URL:https://ickk.sk/event/letecke-dni-kosickeho-kraja
+DTSTART:20250905T220000Z
+DTEND:20250907T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1c37e9f85780111dfa3ca419e3c41cf353f84ed0@cike-events
+DTSTAMP:20250915T202437Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Slovakia Tech – FINÁLE Startup Connect
+LOCATION:Kulturpark\, Košice
+DESCRIPTION:Slovakia Tech – Startup Connect FINÁLE\, vrcholné podujatie
+  programu Startup Connect\, ktoré sa uskutoční 17. – 18. septembra 20
+ 25 v Kulturparku v Košiciach. Ako Inovačné centrum Košického kraja (I
+ CKK) sme hrdým partnerom najväčšej technologickej konferencie na Slove
+ nsku. Tento rok prinesieme do programu aj Startup Connect Finále\, kde sa
+  najlepšie tímy postavia pred investorov a odbornú […] \\n\n\nhttps:/
+ /ickk.sk/event/slovakia-tech-finale-startup-connect
+URL:https://ickk.sk/event/slovakia-tech-finale-startup-connect
+DTSTART:20250916T220000Z
+DTEND:20250918T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a3c7b8d4dfe66cfc85b4aaaf7247303c132933d7@cike-events
+DTSTAMP:20250401T225638Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #17 – Milo Klíma (HC Košice)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na najbližšom meetupe Odkukaj.To privítame Miloslava Klímu\
+ , výkonného riaditeľa HC Košice – lídra\, ktorého príbeh je rovna
+ ko napínavý ako hokejový zápas. 🏒 Porozpráva nám o svojej fascinu
+ júcej životnej ceste\, ktorá ho priviedla späť domov\, a o tom\, ako 
+ sa z medzinárodného manažéra stal líder prinášajúci do HC Košice 
+ novú energiu a víziu. 🚀 Príďte si […] \\n\n\nhttps://ickk.sk/even
+ t/odkukaj-to-17
+URL:https://ickk.sk/event/odkukaj-to-17
+DTSTART:20250924T150000Z
+DTEND:20250924T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:38ebc77199528e42c8084f2b1eee033de5e2b28b@cike-events
+DTSTAMP:20250213T160817Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop – Od produkcie ku klientovi
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Pozývame vás na filmový workshop! Počas tohto workshopu sa 
+ účastníci oboznámia s analýzou klientského zadania\, základmi filmo
+ vého jazyka\, princípmi strihovej skladby a simulovaným postprodukčný
+ m workflowom štúdia Onomatopoje. Spoločne vytvoríme dočasné filmové
+  štúdio\, v ktorom natočíme krátky spot na základe zadania a priamo 
+ na mieste ho „odovzdáme“ fiktívnemu klientovi. Workshop povedie lekt
+ or Palko Matia a nebude […] \\n\n\nhttps://ickk.sk/event/workshop-od-pro
+ dukcie-ku-klientovi
+URL:https://ickk.sk/event/workshop-od-produkcie-ku-klientovi
+DTSTART:20250930T140000Z
+DTEND:20250930T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9982d6bf687920969a6448d6445104a66e371c@cike-events
+DTSTAMP:20251107T122115Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Animátorský workshop
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
+  tvorby animovaných spotov pre klientov\, predstavenie profesionálnych p
+ ostupov a softvéru\, ako aj možnosť vyskúšať si vytvoriť vlastnú j
+ ednoduchú animáciu pod vedením lektora Miroslava Feka z firmy Flamigos.
+  Dátum: 22.10.2025 o 16:00 hod. Miesto: Startup Campus\, Strojárenská 
+ 3\, Košice VSTUP JE ZDARMA. Potrebné je registrovať sa: \\n\n\nhttps://
+ ickk.sk/event/animatorsky-workshop
+URL:https://ickk.sk/event/animatorsky-workshop
+DTSTART:20251022T140000Z
+DTEND:20251022T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:87aaa27c6d1cc0746b2e45dccb10d4abfd44fbd8@cike-events
+DTSTAMP:20251025T025150Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO #15 – Peter Dosedla
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Bývalý top manažér\, dnes už skôr investor a nadšenec v
+ šetkého nového\, vrátane startupovej scény. No najmä globetrotter. V
+  poslednej dobe sa aktívne podieľa ako investor a advisor v najväčšom
+  československom crowdfundingovom projekte Crowdberry\, ktorého súčas
+ ťou su nové slovenské poklady ako GymBeam\, MultiplexXD\, Isadore\, Boa
+ taround\, Ecocapsule a mnohé iné. Vyše dvadsať rokov plával vo vodác
+ h veľkého […] \\n\n\nhttps://ickk.sk/event/odkukaj-to-15-peter-dosedla
+URL:https://ickk.sk/event/odkukaj-to-15-peter-dosedla
+DTSTART:20250428T150000Z
+DTEND:20250428T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:69fdf9f970e7dffb8b50336ce3fe6bc741d2442f@cike-events
+DTSTAMP:20250129T221428Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] FINÁLE – Founders Challenge Competition
+LOCATION:Kunsthalle\, Košice
+DESCRIPTION:Founders Challenge Competition je inovatívny program určený 
+ pre stredoškolákov v Košickom kraji\, ktorí chcú rozvíjať svoje pod
+ nikateľské a kreatívne schopnosti. 13.05.2025 nás čaká veľkolepé f
+ inále v Kunsthalle v Košiciach\, kde budú súťažiť o finančnú podp
+ oru až do výšky 20 000 eur! Na rozdiel od tradičných súťaží\, kde
+  študenti prezentujú svoje nápady bez hlbšej realizácie\, tento […]
+  \\n\n\nhttps://ickk.sk/event/founders-challenge-competition
+URL:https://ickk.sk/event/founders-challenge-competition
+DTSTART:20250512T220000Z
+DTEND:20250513T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8b9ddf171ccde68fa7126c3e8bab2de49d8b98af@cike-events
+DTSTAMP:20251221T124255Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Startup Connect Programme – Pitching Sessions (3.kolo
+ )
+LOCATION:Tabačka Kulturfabrik\, Košice
+DESCRIPTION:Finalisti akcelerátora majú možnosť pokračovať v dlhodobe
+ j spolupráci s ICKK aj po ukončení akcelerátora. Získavajú prístup 
+ k individuálnemu mentoringu na mieru podľa ich potrieb\, účasti na kon
+ ferenciách\, summitoch a možnosť navštíviť medzinárodné inovačné
+  centrá. ICKK v spolupráci s Americkou obchodnou komorou na Slovensku a 
+ Slovenskou obchodnou komorou a priemyslu realizuje spoločný projekt s n
+ ázvom Startup […] \\n\n\nhttps://ickk.sk/event/startup-connect-programm
+ e-pitching-sessions-2-kolo
+URL:https://ickk.sk/event/startup-connect-programme-pitching-sessions-2-kol
+ o
+DTSTART:20250513T140000Z
+DTEND:20250513T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:871e833ac788cd918c2726e42d3d130fde22f2e1@cike-events
+DTSTAMP:20250705T203352Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] SISA – Slovakia Innovation and Startup Awards 2025
+DESCRIPTION:Najväčšie inovačné a startupové podujatie na Slovensku!Oc
+ enenie výnimočných vedcov\, inovátorov a startupov. Už 15. mája 2025
+  sa v ikonickej Kunsthalle v Košiciach uskutoční slávnostný galaveče
+ r\, počas ktorého budú odovzdané prestížne ocenenia tým najlepším
+ \, čo slovenská inovačná a startupová scéna ponúka. Toto výnimočn
+ é podujatie\, organizované pod záštitou SK8\, Ministerstva investíci
+ í\, regionálneho rozvoja a informatizácie Slovenskej republiky […] \\
+ n\n\nhttps://ickk.sk/event/sisa-slovakia-innovation-and-startup-awards-202
+ 5
+URL:https://ickk.sk/event/sisa-slovakia-innovation-and-startup-awards-2025
+DTSTART:20250515T150000Z
+DTEND:20250515T190000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
+DTSTAMP:20250907T104548Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Župné dni KSK – Košice
+DESCRIPTION:Stánok ICKK\, v ktorom objavíš možnosti\, ako môžeš zís
+ kať podporu pre rozvoj tvojho študentského projektu. Podpora je určen
+ á až do výšky 20\,000 EUR pre študentov stredných a vysokých škôl
+ . Okrem toho sa môžeš tešiť na koncert Dary Rolins a ďalších vynik
+ ajúcich interprétov. \\n\n\nhttps://ickk.sk/event/zupne-dni-ksk-kosice
+URL:https://ickk.sk/event/zupne-dni-ksk-kosice
+DTSTART:20250613T070000Z
+DTEND:20250613T170000Z
+END:VEVENT
+END:VCALENDAR
