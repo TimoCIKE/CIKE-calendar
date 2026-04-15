@@ -6,6 +6,8 @@ import re
 import time
 import html
 import json
+import hashlib
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
@@ -14,28 +16,58 @@ from selenium.webdriver.support import expected_conditions as EC
 from urllib.parse import urljoin
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 
-# ====== Nastavenia ======
-TIMEZONE = pytz.timezone("Europe/Bratislava")
+from ics import Calendar, Event
 
-# ====== Pomocné funkcie ======
-def parse_date(text):
-    match = re.findall(r"\d{2}\.\d{2}\.\d{4}", text or "")
-    if not match:
-        return None, None
-    start = datetime.strptime(match[0], "%d.%m.%Y")
-    end = datetime.strptime(match[-1], "%d.%m.%Y")
-    return start, end
+# =========================
+# Nastavenia
+# =========================
+TIMEZONE = pytz.timezone("Europe/Bratislava")
+TZ = pytz.timezone("Europe/Bratislava")
+
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (compatible; EventsBot/1.0)"
+}
+
+# =========================
+# Pomocné funkcie
+# =========================
+
+_SK_MONTHS = {
+    "január": 1, "januára": 1, "jan": 1,
+    "február": 2, "februára": 2, "feb": 2,
+    "marec": 3, "marca": 3, "mar": 3,
+    "apríl": 4, "apríla": 4, "apr": 4,
+    "máj": 5, "mája": 5, "maj": 5,
+    "jún": 6, "júna": 6, "jun": 6,
+    "júl": 7, "júla": 7, "jul": 7,
+    "august": 8, "augusta": 8, "aug": 8,
+    "september": 9, "septembra": 9, "sep": 9,
+    "október": 10, "októbra": 10, "okt": 10,
+    "november": 11, "novembra": 11, "nov": 11,
+    "december": 12, "decembra": 12, "dec": 12,
+}
+
+EMOJI_MAP = {
+    "ITVALLEY": "🔵",
+    "AMCHAM": "🟢",
+    "SOPK": "🟧",
+    "ICKK": "🟣",
+    "OTHER": "⚪",
+}
+
+_PREFIX_RE = re.compile(
+    r"^(?:[\u2600-\u27BF\U0001F300-\U0001FAFF]\s*)?\[(ITVALLEY|AMCHAM|SOPK|ICKK|OTHER)\]\s*",
+    re.IGNORECASE
+)
+
+
+def clean_text(text: str) -> str:
+    return re.sub(r"\s+", " ", html.unescape(text or "")).strip()
+
 
 def normalize_key(title, date):
-    return (title.strip().lower(), date.strftime("%Y-%m-%d"))
+    return (re.sub(r"\s+", " ", title.strip().lower()), date.strftime("%Y-%m-%d"))
 
-def get_event_blocks(url):
-    r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
-    if r.status_code != 200:
-        print(f"[!] Chyba pri načítaní {url} -> {r.status_code}")
-        return []
-    soup = BeautifulSoup(r.text, "html.parser")
-    return soup.find_all("div", class_="e-loop-item")
 
 def normalize_source(src: str) -> str:
     s = (src or "").strip().upper()
@@ -44,67 +76,193 @@ def normalize_source(src: str) -> str:
     return "OTHER"
 
 
+def http_get(url: str, timeout: int = 25, retries: int = 3, verify: bool = True):
+    last_err = None
+    for _ in range(retries):
+        try:
+            r = requests.get(url, headers=HEADERS, timeout=timeout, verify=verify)
+            if r.status_code == 200:
+                return r
+            last_err = f"HTTP {r.status_code}"
+        except Exception as e:
+            last_err = str(e)
+        time.sleep(1.0)
+    print(f"⚠️ GET fail {url}: {last_err}")
+    return None
 
-# ====== 1️⃣ Košice IT Valley ======
+
+def parse_numeric_or_sk_date(text: str):
+    """
+    Podporuje:
+    - 14.04.2026
+    - 4. 2. 2026
+    - 18.04.2026 - 19.04.2026
+    - 18. 4. 2026 - 19. 4. 2026
+    - 29 januára 2026
+    """
+    if not text:
+        return None, None
+
+    t = " ".join(text.lower().split())
+
+    # rozsah dd.mm.yyyy - dd.mm.yyyy
+    m = re.search(
+        r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b\s*[-–]\s*\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b",
+        t
+    )
+    if m:
+        s = datetime(int(m.group(3)), int(m.group(2)), int(m.group(1)))
+        e = datetime(int(m.group(6)), int(m.group(5)), int(m.group(4)))
+        return s, e
+
+    # jedno číslicové datum
+    m = re.search(r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b", t)
+    if m:
+        d, mo, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        dt = datetime(y, mo, d)
+        return dt, dt
+
+    # slovný mesiac: 29 januára 2026
+    m = re.search(r"\b(\d{1,2})\s+([a-zá-ž]+)\s+(\d{4})\b", t)
+    if m:
+        d = int(m.group(1))
+        mon_word = m.group(2).strip(".")
+        y = int(m.group(3))
+        mo = _SK_MONTHS.get(mon_word)
+        if mo:
+            dt = datetime(y, mo, d)
+            return dt, dt
+
+    return None, None
+
+
+def parse_time_range(text: str):
+    m = re.search(r"@\s*(\d{1,2}):(\d{2})\s*[-–]\s*(\d{1,2}):(\d{2})", text or "")
+    if not m:
+        return None
+    return (
+        int(m.group(1)),
+        int(m.group(2)),
+        int(m.group(3)),
+        int(m.group(4)),
+    )
+
+
+def parse_date(text):
+    match = re.findall(r"\d{2}\.\d{2}\.\d{4}", text or "")
+    if not match:
+        return None, None
+    start = datetime.strptime(match[0], "%d.%m.%Y")
+    end = datetime.strptime(match[-1], "%d.%m.%Y")
+    return start, end
+
+
+# =========================
+# 1) Košice IT Valley
+# =========================
+
+ITV_BASE = "https://www.kosiceitvalley.sk/podujatia/"
+ITV_PAST_PARAM = "e-page-9843d5f"
+ITV_MAX_PAGES = 12
+
+
+def get_itv_blocks(url):
+    r = http_get(url)
+    if not r:
+        return []
+    soup = BeautifulSoup(r.text, "html.parser")
+    return soup.find_all("div", class_="e-loop-item")
+
+
 def scrape_itvalley_events():
-    BASE_URL = "https://www.kosiceitvalley.sk/podujatia/"
-    MAX_PAGES = 10  # poistka
-    all_events, seen = [], set()
-    last_titles = set()
+    all_events = []
+    seen = set()
 
-    for page in range(1, MAX_PAGES + 1):
-        url = BASE_URL if page == 1 else f"{BASE_URL}?e-page-bd2a498={page}"
-        blocks = get_event_blocks(url)
-        print(f"[{datetime.now().strftime('%H:%M:%S')}] IT Valley – stránka {page}: {len(blocks)} blokov")
+    urls = [ITV_BASE] + [f"{ITV_BASE}?{ITV_PAST_PARAM}={i}" for i in range(2, ITV_MAX_PAGES + 1)]
+
+    for idx, url in enumerate(urls, start=1):
+        blocks = get_itv_blocks(url)
+        print(f"[ITVALLEY] stránka {idx}: {len(blocks)} blokov")
 
         if not blocks:
-            print("🟡 Žiadne ďalšie stránky – končím prehľadávanie.")
             break
 
-        current_titles = set()
+        page_added = 0
+
         for block in blocks:
-            title_el = block.find("h2", class_="elementor-heading-title")
-            if not title_el:
-                continue
-            title = title_el.get_text(strip=True)
-            current_titles.add(title)
+            try:
+                title_el = block.find("h2", class_="elementor-heading-title")
+                if not title_el:
+                    continue
 
-            spans = [s.get_text(strip=True) for s in block.find_all("span", class_="elementor-icon-list-text")]
-            date_text = next((s for s in spans if re.search(r"\d{2}\.\d{2}\.\d{4}", s)), None)
-            location = next((s for s in spans if not re.search(r"\d{2}\.\d{2}\.\d{4}", s)), "Košice")
+                title = clean_text(title_el.get_text(" ", strip=True))
+                if not title:
+                    continue
 
-            desc_el = block.find("div", class_="elementor-widget-theme-post-excerpt")
-            desc = desc_el.get_text(strip=True) if desc_el else ""
-            link_el = block.find("a", href=True)
-            link = link_el["href"] if link_el else BASE_URL
+                desc_el = block.find("div", class_="elementor-widget-theme-post-excerpt")
+                desc = clean_text(desc_el.get_text(" ", strip=True)) if desc_el else ""
 
-            start, end = parse_date(date_text or "")
-            if not start:
-                continue
+                link_el = block.find("a", href=True)
+                link = link_el["href"].strip() if link_el else ITV_BASE
 
-            key = normalize_key(title, start)
-            if key in seen:
-                continue
-            seen.add(key)
+                spans = [
+                    clean_text(s.get_text(" ", strip=True))
+                    for s in block.find_all("span", class_="elementor-icon-list-text")
+                ]
+                spans = [s for s in spans if s]
 
-            all_events.append({
-                "summary": title,
-                "location": location,
-                "description": f"{desc}\n\n{link}",
-                "start": start,
-                "end": end,
-                "source": "ITVALLEY",
-            })
+                start = end = None
+                location = "Košice"
 
-        if current_titles == last_titles:
-            print("🟡 Opakujúci sa obsah – končím po stránke", page)
-            break
-        last_titles = current_titles
+                for s in spans:
+                    st, en = parse_numeric_or_sk_date(s)
+                    if st:
+                        start, end = st, en
+                        break
 
-    print(f"✅ IT Valley: {len(all_events)} podujatí")
+                if not start:
+                    raw_text = clean_text(" ".join(block.stripped_strings))
+                    st, en = parse_numeric_or_sk_date(raw_text)
+                    if st:
+                        start, end = st, en
+
+                if not start:
+                    continue
+
+                for s in spans:
+                    st, _ = parse_numeric_or_sk_date(s)
+                    if not st and len(s) > 1:
+                        location = s
+                        break
+
+                key = normalize_key(title, start)
+                if key in seen:
+                    continue
+                seen.add(key)
+
+                all_events.append({
+                    "summary": title,
+                    "location": location,
+                    "description": (desc + ("\n\n" + link if link else "")).strip(),
+                    "start": start,
+                    "end": end or start,
+                    "source": "ITVALLEY",
+                })
+                page_added += 1
+
+            except Exception as e:
+                print(f"   - chyba ITVALLEY blok: {e}")
+
+        print(f"   -> pridané: {page_added}")
+
+    print(f"✅ ITVALLEY spolu: {len(all_events)} podujatí")
     return all_events
 
-# ====== 2️⃣ AmCham (Selenium pre LOAD MORE) ======
+
+# =========================
+# 2) AmCham
+# =========================
+
 def scrape_amcham_events():
     url = "https://amcham.sk/events"
     options = Options()
@@ -118,7 +276,7 @@ def scrape_amcham_events():
     driver.get(url)
     events, seen = [], set()
 
-    # ---------- UPCOMING ----------
+    # upcoming
     while True:
         try:
             load_more = wait.until(EC.element_to_be_clickable((By.ID, "data-load-more")))
@@ -133,7 +291,7 @@ def scrape_amcham_events():
     events += extract_amcham_events_from_soup([up_cont] if up_cont else [], seen)
     print(f"✅ AmCham Upcoming: {len(events)}")
 
-    # ---------- PAST (LAST YEAR) ----------
+    # past
     try:
         driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
         time.sleep(0.8)
@@ -159,7 +317,8 @@ def scrape_amcham_events():
 
         last_count = 0
         stall_hits = 0
-        MAX_STALLS = 3
+        max_stalls = 3
+
         for _ in range(60):
             curr_count = len(driver.find_elements(By.CSS_SELECTOR, f"#{cont_id} .event-item"))
             stall_hits = (stall_hits + 1) if curr_count == last_count else 0
@@ -168,6 +327,7 @@ def scrape_amcham_events():
             btn = find_load_more_for_container()
             if not btn:
                 break
+
             style = (btn.get_attribute("style") or "").replace(" ", "").lower()
             if "display:none" in style:
                 break
@@ -185,8 +345,9 @@ def scrape_amcham_events():
             try:
                 wait.until(lambda d: len(d.find_elements(By.CSS_SELECTOR, f"#{cont_id} .event-item")) > curr_count)
             except TimeoutException:
-                if stall_hits >= MAX_STALLS:
+                if stall_hits >= max_stalls:
                     break
+
             time.sleep(0.8)
 
         soup_past = BeautifulSoup(driver.page_source, "html.parser")
@@ -202,82 +363,117 @@ def scrape_amcham_events():
     print(f"✅ AmCham spolu: {len(events)} podujatí")
     return events
 
+
 def extract_amcham_events_from_soup(containers, seen):
-    import re
-    MONTHS = {
-        "jan":1,"feb":2,"mar":3,"apr":4,"may":5,"jun":6,"jul":7,"aug":8,"sep":9,"oct":10,"nov":11,"dec":12,
-        "january":1,"february":2,"march":3,"april":4,"june":6,"july":7,"august":8,"september":9,"october":10,"november":11,"december":12,
-        "jan.":1,"feb.":2,"mar.":3,"apr.":4,"máj":5,"jún":6,"júl":7,"aug.":8,"sep.":9,"okt":10,"nov.":11,"dec.":12,
-        "január":1,"február":2,"marec":3,"apríl":4,"máj":5,"jún":6,"júl":7,"august":8,"september":9,"október":10,"november":11,"december":12,
+    months = {
+        "jan": 1, "feb": 2, "mar": 3, "apr": 4, "may": 5, "jun": 6,
+        "jul": 7, "aug": 8, "sep": 9, "oct": 10, "nov": 11, "dec": 12,
+        "january": 1, "february": 2, "march": 3, "april": 4, "june": 6,
+        "july": 7, "august": 8, "september": 9, "october": 10,
+        "november": 11, "december": 12,
+        "jan.": 1, "feb.": 2, "mar.": 3, "apr.": 4, "máj": 5, "jún": 6,
+        "júl": 7, "aug.": 8, "sep.": 9, "okt": 10, "nov.": 11, "dec.": 12,
+        "január": 1, "február": 2, "marec": 3, "apríl": 4, "máj": 5, "jún": 6,
+        "júl": 7, "august": 8, "september": 9, "október": 10,
+        "november": 11, "december": 12,
     }
+
     def to_int(s):
-        try: return int(s)
-        except: return None
+        try:
+            return int(s)
+        except Exception:
+            return None
+
     def norm_month_token(mon_raw):
-        if not mon_raw: return None
+        if not mon_raw:
+            return None
         key = mon_raw.strip().lower()
-        if key in ("january","february","march","april","august","september","october","november","december"):
+        if key in ("january", "february", "march", "april", "august", "september", "october", "november", "december"):
             key = key[:3]
         return key
+
     def build_date(day_s, mon_s, year_s):
         d = to_int(day_s)
         y = to_int(year_s) or datetime.now().year
-        m = MONTHS.get(norm_month_token(mon_s)) if mon_s else None
-        if not (d and m and y): return None
-        try: return datetime(y, m, d)
-        except: return None
+        m = months.get(norm_month_token(mon_s)) if mon_s else None
+        if not (d and m and y):
+            return None
+        try:
+            return datetime(y, m, d)
+        except Exception:
+            return None
+
     def parse_dates_from_block(block):
         date_box = block.select_one(".event-date")
         day_s_el = date_box.select_one(".day.day--start") if date_box else None
         day_e_el = date_box.select_one(".day.day--end") if date_box else None
-        month_el = (date_box.select_one(".month.month--start") if date_box else None) or (date_box.select_one(".month") if date_box else None)
-        year_el  = date_box.select_one(".year") if date_box else None
+        month_el = (date_box.select_one(".month.month--start") if date_box else None) or \
+                   (date_box.select_one(".month") if date_box else None)
+        year_el = date_box.select_one(".year") if date_box else None
+
         day_s = (day_s_el.get_text(strip=True) if day_s_el else "") or None
         day_e = (day_e_el.get_text(strip=True) if day_e_el else "") or day_s
-        mon   = (month_el.get_text(strip=True) if month_el else "") or None
-        year  = (year_el.get_text(strip=True)  if year_el  else "") or None
+        mon = (month_el.get_text(strip=True) if month_el else "") or None
+        year = (year_el.get_text(strip=True) if year_el else "") or None
+
         start = build_date(day_s, mon, year)
-        end   = build_date(day_e, mon, year)
+        end = build_date(day_e, mon, year)
+
         if not start:
             joined = " ".join(block.stripped_strings)
-            m = re.search(r"\b(\d{1,2})\b(?:\D+(\d{1,2}))?\D+([A-Za-zÁÄáäÉéÍíÓóÚúÝýŤťĽľŠšČčŽžÔô]{3,})\D+(\d{4})", joined)
+            m = re.search(
+                r"\b(\d{1,2})\b(?:\D+(\d{1,2}))?\D+([A-Za-zÁÄáäÉéÍíÓóÚúÝýŤťĽľŠšČčŽžÔô]{3,})\D+(\d{4})",
+                joined
+            )
             if m:
                 day_s = day_s or m.group(1)
                 day_e = day_e or (m.group(2) or m.group(1))
-                mon   = mon   or m.group(3)
-                year  = year  or m.group(4)
+                mon = mon or m.group(3)
+                year = year or m.group(4)
                 start = build_date(day_s, mon, year)
-                end   = build_date(day_e, mon, year)
-        if not start: return None, None
+                end = build_date(day_e, mon, year)
+
+        if not start:
+            return None, None
+
         return start, (end or start)
 
     events = []
     for container in containers:
         if not container:
             continue
+
         blocks = container.select(".event-item")
         for block in blocks:
             start, end = parse_dates_from_block(block)
             if not start:
                 continue
+
             title_el = block.select_one(".event-item__desc .event-title") or \
                        block.select_one(".event-title") or \
                        block.select_one("a[title]")
             if not title_el:
                 continue
+
             title = title_el.get_text(strip=True)
             if not title:
                 continue
+
             key = normalize_key(title, start)
             if key in seen:
                 continue
             seen.add(key)
-            loc_el = block.select_one(".event-item__footer span.d-flex") or block.select_one(".event-item__footer span")
+
+            loc_el = block.select_one(".event-item__footer span.d-flex") or \
+                     block.select_one(".event-item__footer span")
             location = loc_el.get_text(" ", strip=True) if loc_el else ""
+
             desc_el = block.select_one(".event-shortdesc")
             desc = desc_el.get_text(" ", strip=True) if desc_el else ""
+
             link_el = block.find("a", href=True)
             link = link_el["href"] if link_el else "https://amcham.sk/events"
+
             events.append({
                 "summary": title,
                 "location": location,
@@ -286,31 +482,20 @@ def extract_amcham_events_from_soup(containers, seen):
                 "end": end,
                 "source": "AMCHAM",
             })
+
     return events
 
-# ====== 3️⃣ SOPK ======
+
+# =========================
+# 3) SOPK
+# =========================
+
 SOPK_BASE = "https://www.sopk.sk/events/zoznam/"
 SOPK_ALLOW_INSECURE_SSL = True
 SOPK_MAX_PAGES_FUTURE = 3
 SOPK_PAST_MAX_PAGE = 7
 SOPK_PAST_DAYS = 365
 
-def _http_get(url, timeout=20, retries=3):
-    last = None
-    for _ in range(retries):
-        try:
-            r = requests.get(
-                url, timeout=timeout, verify=not SOPK_ALLOW_INSECURE_SSL,
-                headers={"User-Agent": "Mozilla/5.0 (compatible; EventsBot/1.0)"}
-            )
-            if r.status_code == 200:
-                return r
-            last = f"HTTP {r.status_code}"
-        except Exception as e:
-            last = str(e)
-        time.sleep(1.0)
-    print(f"⚠️ SOPK GET fail {url}: {last}")
-    return None
 
 def _parse_iso_to_naive(dtstr: str):
     try:
@@ -318,9 +503,12 @@ def _parse_iso_to_naive(dtstr: str):
         return dt.replace(tzinfo=None)
     except Exception:
         for fmt in ("%Y-%m-%dT%H:%M:%S", "%Y-%m-%d"):
-            try: return datetime.strptime(dtstr[:len(fmt)], fmt)
-            except Exception: pass
+            try:
+                return datetime.strptime(dtstr[:len(fmt)], fmt)
+            except Exception:
+                pass
     return None
+
 
 def _clean_text(s: str):
     try:
@@ -328,12 +516,16 @@ def _clean_text(s: str):
     except Exception:
         return (s or "").strip()
 
+
 def _extract_events_from_jsonld(soup, cutoff=None, past=False, seen=None):
     events = []
     seen = seen or set()
+
     for sc in soup.find_all("script", {"type": "application/ld+json"}):
         raw = (sc.string or sc.text or "").strip()
-        if not raw: continue
+        if not raw:
+            continue
+
         try:
             data = json.loads(raw)
         except Exception:
@@ -341,24 +533,34 @@ def _extract_events_from_jsonld(soup, cutoff=None, past=False, seen=None):
                 data = json.loads(html.unescape(raw))
             except Exception:
                 continue
+
         items = data if isinstance(data, list) else [data]
         for it in items:
             if not isinstance(it, dict) or it.get("@type") != "Event":
                 continue
+
             title = (it.get("name") or "").strip()
-            if not title: continue
+            if not title:
+                continue
+
             start_iso = it.get("startDate")
-            if not start_iso: continue
+            if not start_iso:
+                continue
+
             start_dt = _parse_iso_to_naive(start_iso)
             end_dt = _parse_iso_to_naive(it.get("endDate") or start_iso) or start_dt
-            if not start_dt: continue
+            if not start_dt:
+                continue
+
             if past and cutoff and start_dt < cutoff:
                 continue
+
             norm_title = re.sub(r"\s+", " ", title.lower()).strip()
             key = (norm_title, start_dt.date())
             if key in seen:
                 continue
             seen.add(key)
+
             location = ""
             loc = it.get("location")
             if isinstance(loc, dict):
@@ -366,11 +568,17 @@ def _extract_events_from_jsonld(soup, cutoff=None, past=False, seen=None):
                 addr = loc.get("address")
                 adr = ""
                 if isinstance(addr, dict):
-                    parts = [addr.get("streetAddress") or "", addr.get("addressLocality") or "", addr.get("postalCode") or ""]
+                    parts = [
+                        addr.get("streetAddress") or "",
+                        addr.get("addressLocality") or "",
+                        addr.get("postalCode") or ""
+                    ]
                     adr = ", ".join([p for p in parts if p])
                 location = ", ".join([p for p in [nm, adr] if p])
+
             desc = _clean_text(it.get("description") or "")
             url = (it.get("url") or SOPK_BASE).strip()
+
             events.append({
                 "summary": title,
                 "location": location,
@@ -379,203 +587,206 @@ def _extract_events_from_jsonld(soup, cutoff=None, past=False, seen=None):
                 "end": end_dt if end_dt >= start_dt else start_dt,
                 "source": "SOPK",
             })
+
     return events
+
 
 def _crawl_sopk_future():
     pages = [SOPK_BASE] + [urljoin(SOPK_BASE, f"page/{i}/") for i in range(2, SOPK_MAX_PAGES_FUTURE + 1)]
     all_events, seen = [], set()
+
     for idx, url in enumerate(pages, start=1):
         print(f"   • SOPK future[{idx}]: {url}")
-        resp = _http_get(url)
-        if not resp: break
+        resp = http_get(url, verify=not SOPK_ALLOW_INSECURE_SSL)
+        if not resp:
+            break
+
         soup = BeautifulSoup(resp.text, "html.parser")
         found = _extract_events_from_jsonld(soup, past=False, seen=seen)
+
         if found:
             all_events.extend(found)
             print(f"     -> {len(found)} eventov")
         else:
             print("     -> 0 eventov (žiadny JSON-LD)")
+
     return all_events
+
 
 def _crawl_sopk_past():
     past_pages = [SOPK_BASE + "?eventDisplay=past"] + \
                  [SOPK_BASE + f"page/{i}/?eventDisplay=past" for i in range(2, SOPK_PAST_MAX_PAGE + 1)]
+
     all_events, seen = [], set()
     cutoff = datetime.now() - timedelta(days=SOPK_PAST_DAYS)
+
     for idx, url in enumerate(past_pages, start=1):
         print(f"   • SOPK past[{idx}]: {url}")
-        resp = _http_get(url)
-        if not resp: break
+        resp = http_get(url, verify=not SOPK_ALLOW_INSECURE_SSL)
+        if not resp:
+            break
+
         soup = BeautifulSoup(resp.text, "html.parser")
         found = _extract_events_from_jsonld(soup, cutoff=cutoff, past=True, seen=seen)
+
         if found:
             all_events.extend(found)
             print(f"     -> {len(found)} eventov")
         else:
             print("     -> 0 eventov (žiadny JSON-LD)")
+
     return all_events
 
+
 def scrape_sopk_events():
-    print("🔹 SOPK – budúce podujatia (max page/3)…")
+    print("🔹 SOPK – budúce podujatia…")
     future_events = _crawl_sopk_future()
-    print("🔹 SOPK – minulé podujatia (len po page/7)…")
+    print("🔹 SOPK – minulé podujatia…")
     past_events = _crawl_sopk_past()
+
     events = future_events + past_events
     print(f"✅ SOPK spolu: {len(events)} podujatí")
     return events
 
-# ====== 4️⃣ ICKK ======
-ICKK_BASE = "https://ickk.sk/vzdelavanie/"
+
+# =========================
+# 4) ICKK
+# =========================
+
+ICKK_LIST_BASE = "https://ickk.sk/events/zoznam/"
 ICKK_PAST_DAYS = 365
+ICKK_PAST_MAX_PAGE = 8
 
-_SK_MONTHS = {
-    "január": 1, "januára": 1, "jan": 1,
-    "február": 2, "februára": 2, "feb": 2,
-    "marec": 3, "marca": 3, "mar": 3,
-    "apríl": 4, "apríla": 4, "apr": 4,
-    "máj": 5, "mája": 5, "maj": 5,
-    "jún": 6, "júna": 6, "jun": 6,
-    "júl": 7, "júla": 7, "jul": 7,
-    "august": 8, "augusta": 8, "aug": 8,
-    "september": 9, "septembra": 9, "sep": 9,
-    "október": 10, "októbra": 10, "okt": 10,
-    "november": 11, "novembra": 11, "nov": 11,
-    "december": 12, "decembra": 12, "dec": 12,
-}
-
-def _parse_sk_date_human(text: str):
-    if not text:
-        return None
-    t = " ".join(text.lower().split())
-    m = re.search(r"(\d{1,2})\.\s*([a-zá-ž]+)\s+(\d{4})", t)
-    if m:
-        d = int(m.group(1)); mon_word = m.group(2).strip("."); y = int(m.group(3))
-        mon = _SK_MONTHS.get(mon_word)
-        if mon:
-            try: return datetime(y, mon, d)
-            except ValueError: return None
-    m2 = re.search(r"\b(\d{1,2})\.(\d{1,2})\.(\d{4})\b", t)
-    if m2:
-        try: return datetime.strptime(m2.group(0), "%d.%m.%Y")
-        except ValueError: pass
-    return None
-
-def _infer_year(month: int, day: int):
-    today = datetime.now()
-    year = today.year
-    try:
-        cand = datetime(year, month, day)
-        if cand.date() < today.date():
-            cand = datetime(year + 1, month, day)
-        return cand
-    except ValueError:
-        return None
 
 def scrape_ickk_events():
-    print("🔹 ICKK – načítavam zoznam vzdelávania…")
-    try:
-        r = requests.get(ICKK_BASE, timeout=25, headers={"User-Agent": "Mozilla/5.0 (compatible; EventsBot/1.0)"})
-        r.raise_for_status()
-    except Exception as e:
-        print(f"⚠️ ICKK – chyba pri načítaní listu: {e}")
-        return []
+    all_events = []
+    seen = set()
+    cutoff = datetime.now() - timedelta(days=ICKK_PAST_DAYS)
 
-    soup = BeautifulSoup(r.text, "html.parser")
-    events, seen = [], set()
-    cutoff_past = datetime.now() - timedelta(days=ICKK_PAST_DAYS)
+    urls = [ICKK_LIST_BASE]
+    urls.append(f"{ICKK_LIST_BASE}?eventDisplay=past")
+    for i in range(2, ICKK_PAST_MAX_PAGE + 1):
+        urls.append(f"{ICKK_LIST_BASE}page/{i}/?eventDisplay=past")
 
-    cards = soup.select(".ewpe-inner-wrapper")
-    print(f"   • ICKK (upcoming) karty: {len(cards)}")
-    for idx, card in enumerate(cards, start=1):
-        try: 
-            mo_txt = (card.select_one(".ewpe-ev-mo") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-mo") else "" 
-            day_txt = (card.select_one(".ewpe-ev-day") or {}).get_text(strip=True) if card.select_one(".ewpe-ev-day") else "" 
-            mon = _SK_MONTHS.get(mo_txt.lower()); 
-            day = int(day_txt) if day_txt.isdigit() else None 
-            a = card.select_one("a.event-link") or card.select_one(".ewpe-event-title ~ a") 
-            title_el = card.select_one(".ewpe-event-title") 
-            title = title_el.get_text(strip=True) if title_el else (a.get_text(strip=True) if a else "").strip() 
-            link = a["href"] if a and a.has_attr("href") else ICKK_BASE 
-            loc_el = card.select_one(".ewpe-event-venue-details .ewpe-add-city") 
-            location = loc_el.get_text(strip=True) if loc_el else "Košice" 
-            desc_el = card.select_one(".ewpe-evt-excerpt") 
-            desc = BeautifulSoup((desc_el.get_text(" ", strip=True) if desc_el else ""), "html.parser").get_text(" ", strip=True) 
-            start_dt = _infer_year(mon, day) if (mon and day) else None 
-            if not (title and start_dt): 
-                continue 
-            key = (re.sub(r"\s+", " ", title.lower()).strip(), start_dt.date()) 
-            if key in seen: 
-                continue 
-            seen.add(key) 
-            events.append({ 
-                "summary": title, 
-                "location": location, 
-                "description": (desc + ("\n\n" + link if link else "")).strip(), 
-                "start": start_dt, 
-                "end": start_dt, 
-                "source": "ICKK", 
-            }) 
-        except Exception as e: 
-            print(f" - upcoming[{idx:02d}] chyba: {e}")
-    
+    for idx, url in enumerate(urls, start=1):
+        r = http_get(url)
+        if not r:
+            continue
 
-    past_items = soup.select(".rt-tpg-container .tpg-post-holder")
-    print(f"   • ICKK (past) položky: {len(past_items)}")
-    for idx, it in enumerate(past_items, start=1):
-        try:
-            a = it.select_one(".entry-title a")
-            title = a.get_text(strip=True) if a else ""
-            link = a["href"] if a and a.has_attr("href") else ICKK_BASE
-            date_a = it.select_one(".post-meta-tags .date a")
-            date_text = date_a.get_text(" ", strip=True) if date_a else ""
-            start_dt = _parse_sk_date_human(date_text)
-            if not (title and start_dt): continue
-            if start_dt < cutoff_past: continue
-            key = (re.sub(r"\s+", " ", title.lower()).strip(), start_dt.date())
-            if key in seen: continue
+        soup = BeautifulSoup(r.text, "html.parser")
+
+        # najprv sa pokúsime o JSON-LD eventy
+        found_jsonld = _extract_events_from_jsonld(
+            soup,
+            cutoff=cutoff if "eventDisplay=past" in url else None,
+            past="eventDisplay=past" in url,
+            seen=seen,
+        )
+
+        page_added = 0
+        if found_jsonld:
+            all_events.extend(found_jsonld)
+            page_added += len(found_jsonld)
+
+        # fallback text parser
+        text_lines = [clean_text(line) for line in soup.get_text("\n").splitlines()]
+        text_lines = [x for x in text_lines if x]
+
+        i = 0
+        while i < len(text_lines):
+            line = text_lines[i]
+            has_time = "@" in line and re.search(r"\d{1,2}:\d{2}", line)
+
+            if not has_time:
+                i += 1
+                continue
+
+            event_datetime_line = line
+            title = text_lines[i + 1] if i + 1 < len(text_lines) else ""
+            if not title or len(title) < 3:
+                i += 1
+                continue
+
+            start_date, end_date = parse_numeric_or_sk_date(event_datetime_line)
+
+            if not start_date:
+                for back in range(1, 4):
+                    if i - back >= 0:
+                        st, en = parse_numeric_or_sk_date(text_lines[i - back])
+                        if st:
+                            start_date, end_date = st, en
+                            break
+
+            if not start_date:
+                i += 1
+                continue
+
+            tr = parse_time_range(event_datetime_line)
+            if tr:
+                sh, sm, eh, em = tr
+                start_dt = start_date.replace(hour=sh, minute=sm)
+                end_dt = start_date.replace(hour=eh, minute=em)
+                if end_dt < start_dt:
+                    end_dt = start_dt
+            else:
+                start_dt = start_date
+                end_dt = end_date or start_date
+
+            location = ""
+            desc = ""
+
+            if i + 2 < len(text_lines):
+                possible_location = text_lines[i + 2]
+                if len(possible_location) < 180:
+                    location = possible_location
+
+            if i + 3 < len(text_lines):
+                possible_desc = text_lines[i + 3]
+                if possible_desc != location:
+                    desc = possible_desc
+
+            if "eventDisplay=past" in url and start_dt < cutoff:
+                i += 1
+                continue
+
+            key = normalize_key(title, start_dt)
+            if key in seen:
+                i += 1
+                continue
             seen.add(key)
-            excerpt_el = it.select_one(".tpg-excerpt-inner")
-            desc = BeautifulSoup((excerpt_el.get_text(" ", strip=True) if excerpt_el else ""), "html.parser").get_text(" ", strip=True)
-            events.append({
+
+            all_events.append({
                 "summary": title,
-                "location": "Košice",
-                "description": (desc + ("\n\n" + link if link else "")).strip(),
+                "location": location,
+                "description": (desc + ("\n\n" + url)).strip(),
                 "start": start_dt,
-                "end": start_dt,
+                "end": end_dt,
                 "source": "ICKK",
             })
-        except Exception as e:
-            print(f"     - past[{idx:02d}] chyba: {e}")
+            page_added += 1
+            i += 1
 
-    print(f"✅ ICKK spolu: {len(events)} podujatí")
-    return events
+        print(f"[ICKK] stránka {idx}: {url}")
+        print(f"   -> pridané: {page_added}")
 
-# ====== Export do ICS ======
-from ics import Calendar, Event
-import hashlib, re
-from datetime import timedelta
-import pytz
+    print(f"✅ ICKK spolu: {len(all_events)} podujatí")
+    return all_events
 
-EMOJI_MAP = {
-    "ITVALLEY": "🔵", "AMCHAM": "🟢", "SOPK": "🟧", "ICKK": "🟣", "OTHER": "⚪",
-}
-_PREFIX_RE = re.compile(
-    r"^(?:[\u2600-\u27BF\U0001F300-\U0001FAFF]\s*)?\[(ITVALLEY|AMCHAM|SOPK|ICKK|OTHER)\]\s*",
-    re.IGNORECASE
-)
-TZ = pytz.timezone("Europe/Bratislava")
 
-def normalize_source(source: str) -> str:
-    return (source or "OTHER").strip().upper()
+# =========================
+# Export do ICS
+# =========================
 
 def _with_emoji_prefix(title: str, source: str) -> str:
     cleaned = _PREFIX_RE.sub("", (title or "").strip())
     src = normalize_source(source)
     return f"{EMOJI_MAP.get(src, EMOJI_MAP['OTHER'])} [{src}] {cleaned}"
 
+
 def _is_all_day_00(ev) -> bool:
     s, e = ev["start"], ev["end"]
     return (s.hour == 0 and s.minute == 0 and e.hour == 0 and e.minute == 0)
+
 
 def _looks_fake_all_day(ev) -> bool:
     s, e = ev["start"], ev["end"]
@@ -584,12 +795,13 @@ def _looks_fake_all_day(ev) -> bool:
     whole_days = (e.date() - s.date()).days >= 1
     return same_time and likely_fake_hour and whole_days
 
+
 def _dedupe_key(ev):
     base_title = _PREFIX_RE.sub("", ev["summary"].strip().lower())
     if _is_all_day_00(ev) or _looks_fake_all_day(ev):
         return (base_title, ev["start"].strftime("%Y-%m-%d"))
-    else:
-        return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
+    return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
+
 
 def _stable_uid(ev):
     src = normalize_source(ev.get("source", "OTHER"))
@@ -601,8 +813,8 @@ def _stable_uid(ev):
     base = f"{title}|{part}|{src}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
+
 def export_events_to_ics(events, filename="events.ics"):
-    # 1️⃣ Deduplikácia podľa názvu a dátumu
     seen, unique = set(), []
     for ev in events:
         k = _dedupe_key(ev)
@@ -610,8 +822,8 @@ def export_events_to_ics(events, filename="events.ics"):
             seen.add(k)
             unique.append(ev)
 
-    # 2️⃣ Zápis ICS
     cal = Calendar()
+
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
         e = Event()
@@ -628,8 +840,6 @@ def export_events_to_ics(events, filename="events.ics"):
             end_date = t.date()
             delta = (end_date - start_date).days
 
-            # 🟢 FIX pre Outlook:
-            # jednodňové udalosti nech majú rovnaký begin aj end
             if delta <= 1:
                 e.begin = start_date
                 e.end = start_date
@@ -637,9 +847,8 @@ def export_events_to_ics(events, filename="events.ics"):
                 e.begin = start_date
                 e.end = start_date + timedelta(days=delta)
 
-            e.make_all_day()  # zapíše VALUE=DATE
+            e.make_all_day()
         else:
-            # ⏰ časované udalosti
             if s.tzinfo is None:
                 s = TZ.localize(s)
             if t.tzinfo is None:
@@ -656,15 +865,19 @@ def export_events_to_ics(events, filename="events.ics"):
     return filename
 
 
+# =========================
+# Main
+# =========================
 
-# ====== Spustenie ======
 if __name__ == "__main__":
     print(f"\n[{datetime.now().strftime('%Y-%m-%d %H:%M:%S')}] Spúšťam scraper...\n")
+
     events = []
     events += scrape_itvalley_events()
     events += scrape_amcham_events()
     events += scrape_sopk_events()
     events += scrape_ickk_events()
+
     if events:
         print(f"[+] Načítaných spolu {len(events)} podujatí zo všetkých zdrojov")
         export_events_to_ics(events, filename="events.ics")
