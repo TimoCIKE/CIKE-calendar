@@ -1,6 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 import pytz
 import re
 import time
@@ -167,15 +167,6 @@ def parse_time_range(text: str):
     )
 
 
-def parse_date(text):
-    match = re.findall(r"\d{2}\.\d{2}\.\d{4}", text or "")
-    if not match:
-        return None, None
-    start = datetime.strptime(match[0], "%d.%m.%Y")
-    end = datetime.strptime(match[-1], "%d.%m.%Y")
-    return start, end
-
-
 # =========================
 # 1) Košice IT Valley
 # =========================
@@ -224,32 +215,25 @@ def scrape_itvalley_events():
                 link_el = block.find("a", href=True)
                 link = link_el["href"].strip() if link_el else ITV_BASE
 
-                # nájdi všetky icon-list widgety
                 icon_widgets = block.find_all("div", class_="elementor-widget-icon-list")
 
                 location = "Košice"
                 start = end = None
 
-                # 1. location widget = map-marker
-                # 2. date widget = calendar
                 for widget in icon_widgets:
                     widget_text = clean_text(widget.get_text(" ", strip=True))
                     if not widget_text:
                         continue
 
-                    # preferuj date widget s rozsahom alebo dátumom
                     st, en = parse_numeric_or_sk_date(widget_text)
                     if st:
-                        # ak je tam dátum, ber to ako date source
                         if not start or (en and en > st):
                             start, end = st, en
 
-                    # location vezmi iba ak widget neobsahuje dátum
                     if not re.search(r"\d{1,2}\.\s*\d{1,2}\.\s*\d{4}", widget_text):
                         if widget_text and len(widget_text) > 2:
                             location = widget_text
 
-                # fallback: skús všetok text v bloku
                 if not start:
                     raw_text = clean_text(" ".join(block.stripped_strings))
                     st, en = parse_numeric_or_sk_date(raw_text)
@@ -434,7 +418,6 @@ def extract_amcham_events_from_soup(containers, seen):
 
         raw_date_text = clean_text(" ".join(date_box.stripped_strings)).lower()
 
-        # najprv skús celý text date boxu, napr. "12 13 may 2026"
         m = re.search(
             r"\b(\d{1,2})\b\D+(\d{1,2})\D+([a-zá-ž]{3,})\D+(\d{4})",
             raw_date_text
@@ -453,7 +436,6 @@ def extract_amcham_events_from_soup(containers, seen):
                 except ValueError:
                     pass
 
-        # fallback na pôvodné selektory
         day_s_el = date_box.select_one(".day.day--start")
         day_e_el = date_box.select_one(".day.day--end")
         month_el = date_box.select_one(".month.month--start") or date_box.select_one(".month")
@@ -859,11 +841,10 @@ def _dedupe_key(ev):
 
 def _stable_uid(ev):
     title = _clean_event_title(ev["summary"])
-    if _is_all_day_00(ev) or _looks_fake_all_day(ev):
-        part = ev["start"].strftime("%Y-%m-%d")
-    else:
-        part = ev["start"].strftime("%Y-%m-%d %H:%M")
-    base = f"{title}|{part}"
+    start_part = ev["start"].strftime("%Y-%m-%d %H:%M")
+    end_part = ev["end"].strftime("%Y-%m-%d %H:%M")
+    kind = "ALLDAY" if (_is_all_day_00(ev) or _looks_fake_all_day(ev)) else "TIMED"
+    base = f"{title}|{start_part}|{end_part}|{kind}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
 
@@ -876,6 +857,7 @@ def export_events_to_ics(events, filename="events.ics"):
             unique.append(ev)
 
     cal = Calendar()
+    now_utc = datetime.now(timezone.utc)
 
     for ev in unique:
         src = normalize_source(ev.get("source", "OTHER"))
@@ -886,6 +868,13 @@ def export_events_to_ics(events, filename="events.ics"):
         e.categories = {src}
         e.uid = _stable_uid(ev)
 
+        # metadata pre lepšie správanie klientov
+        try:
+            e.created = now_utc
+            e.last_modified = now_utc
+        except Exception:
+            pass
+
         s, t = ev["start"], ev["end"]
 
         if _is_all_day_00(ev) or _looks_fake_all_day(ev):
@@ -894,7 +883,6 @@ def export_events_to_ics(events, filename="events.ics"):
 
             e.begin = start_date
 
-            # viacdňová all-day udalosť: bez +1
             if end_date > start_date:
                 e.end = end_date
 
