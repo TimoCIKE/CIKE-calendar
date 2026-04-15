@@ -67,14 +67,6 @@ SUMMARY:🟧 [SOPK] „Bankové záruky a colné ručenia od A po Z“
 UID:abdf57a76ed884b976fe311d927a915fda0dd3d9@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260512
-CATEGORIES:AMCHAM
-DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3657/business-breakfast-navigating-eu-funds-e-invoicing
-LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
-SUMMARY:🟢 [AMCHAM] Business Breakfast: Navigating EU Funds & E-Invoicing
-UID:885f6062488d4dd060c2eacb0600e4643d5133ff@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architektúry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefity/
 DTEND:20260206T160000Z
@@ -260,14 +252,6 @@ SUMMARY:🟢 [AMCHAM] KPMG Business Simulation – KPMG Game of Business
 UID:a5ff088f69c9653a5bb115ee3f1d6f9cd2e811f0@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20260414
-CATEGORIES:AMCHAM
-DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3645/pay-transparency-in-practice-for-hr-new-legislation-and-its-implementation
-LOCATION:KPMG Conference Centre or ONLINE\, Dvořákovo nábrežie 10\, Bratislava
-SUMMARY:🟢 [AMCHAM] Pay transparency in practice for HR: New legislation and its implementation
-UID:484619eff3630ed883309cfd02d73b7ef37d9176@cike-events
-END:VEVENT
-BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251016
 CATEGORIES:AMCHAM
 DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3556/branding-attractiveness-of-eastern-slovakia-accessibility-and-visibility
@@ -340,6 +324,15 @@ LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
 DTSTART:20251014T140000Z
 SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regionálnej komory SOPK
 UID:52f3eb2aa1b223c1b55ee93ca2120899d56353ef@cike-events
+END:VEVENT
+BEGIN:VEVENT
+CATEGORIES:SOPK
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digitálnou koalíciou Vás pozývajú na workshop "Fórum digitálnej transformácie – podporíme Vaše zmeny našimi projektami". Digitálna koalícia je národná iniciatíva\, ktorá bola založená [...] \\n\n\nhttps://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase-zmeny-nasimi-projektami/
+DTEND:20260512T120000Z
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DTSTART:20260512T080000Z
+SUMMARY:🟧 [SOPK] POZOR ZMENA: Fórum digitálnej transformácie – podporíme Vaše zmeny našimi projektami
+UID:979416d3be068910eee79c415c4294bb2deab1ae@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20251202
@@ -477,7 +470,7 @@ END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260323
 CATEGORIES:ICKK
-DESCRIPTION:Slovensko a špeciálne náš východný región zažije v máji niečo\, čo tu doteraz nebolo. Inšpirovaní...\n\nhttps://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
+DESCRIPTION:https://ickk.sk/2026/03/23/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-week/
 LOCATION:Košice
 SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichádza historicky prvý Innovation and Tech Week!
 UID:de638c27702cdbc88abeeeea59a6acd66b901226@cike-events
@@ -593,7 +586,6 @@ BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Pozývame vás na kooperačné podujatie Connect2Slovenia: Metal & Plastic\, ktoré sa uskutoční v rámci medzinárodného priemyselného veľtrhu v odvetví spracovania kovov a plastov. Dátum konania: 15. apríl 2026 Miesto konania: Celje\, Slovinsko Registrácia: https://www.b2match.com/e/connect2slovenia-2026-metal-plastic/sign-up/create-account Web stránka podujatia: https://www.b2match.com/e/connect2slovenia-2026-metal-plastic/components/65360 Podujatie [...] \\n\n\nhttps://www.sopk.sk/event/connect2slovenia-2026-metalplastic/
 DTEND:20260415T140000Z
-LOCATION:Celje
 DTSTART:20260415T070000Z
 SUMMARY:🟧 [SOPK] Connect2Slovenia 2026: Metal&amp\;Plastic
 UID:170eb46688bb4d25de22bdf54a0b3322f0bf1b98@cike-events
@@ -1056,14 +1048,6 @@ SUMMARY:🟢 [AMCHAM] Managing Info Cards for International Hires in Slovakia
 UID:03f2e12a899ee609914f468053c9d0c9cf4b44fb@cike-events
 END:VEVENT
 BEGIN:VEVENT
-DTSTART;VALUE=DATE:20251127
-CATEGORIES:ICKK
-DESCRIPTION:https://ickk.sk/2025/11/27/sweet-salty-ovladol-startup-vizi/
-LOCATION:Košice
-SUMMARY:🟣 [ICKK] Sweet & Salty ovládol startup VIZI!
-UID:e2253bc819baba9c8eeef0f4dee6c200c909c292@cike-events
-END:VEVENT
-BEGIN:VEVENT
 CATEGORIES:SOPK
 DESCRIPTION:Medzinárodné bilaterálne stretnutie\, ktoré je bezplatné a je zamerané na textilný/módny sektor a športový dodávateľský reťazec\, sa uskutoční 1. | 2. | 3. júla 2025 súbežne s 10. ročníkom Turínskeho týždňa [...] \\n\n\nhttps://www.sopk.sk/event/b2b-torino-fashion-match-2025/
 DTEND:20250703T150000Z
@@ -1079,6 +1063,14 @@ DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3616/how-to-recharge-your-batte
 LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
 SUMMARY:🟢 [AMCHAM] How To Recharge Your Batteries — Without Regret
 UID:6deb48b835e23e332832862ab5e45b1a29a70950@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260512
+CATEGORIES:AMCHAM
+DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3657/navigating-eu-funds-e-invoicing
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
+SUMMARY:🟢 [AMCHAM] Navigating EU Funds & E-Invoicing
+UID:8a7b3a1cb846e737e9878b5cc0bf7b07f13908e2@cike-events
 END:VEVENT
 BEGIN:VEVENT
 CATEGORIES:SOPK
@@ -1144,15 +1136,6 @@ DTEND:20260422T123000Z
 DTSTART:20260422T073000Z
 SUMMARY:🟧 [SOPK] Seminár Trnavskej regionálnej komory SOPK: Prezentuj ako líder\, prezentuj ako profesionál.
 UID:dc8dc443be8f909bd194d34b31afc3671efadbd8@cike-events
-END:VEVENT
-BEGIN:VEVENT
-CATEGORIES:SOPK
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digitálnou koalíciou Vás pozývajú na workshop "Fórum digitálnej transformácie – podporíme Vaše zmeny našimi projektami". Digitálna koalícia je národná iniciatíva\, ktorá bola založená [...] \\n\n\nhttps://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase-zmeny-nasimi-projektami/
-DTEND:20260416T120000Z
-LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
-DTSTART:20260416T080000Z
-SUMMARY:🟧 [SOPK] Fórum digitálnej transformácie – podporíme Vaše zmeny našimi projektami
-UID:e67b8966043edd0af1b1468eaade95d692f04548@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260514
@@ -1616,6 +1599,14 @@ DTEND:20250527T123000Z
 DTSTART:20250527T070000Z
 SUMMARY:🟧 [SOPK] webinár PRÍSPEVOK NA REKREÁCIU A ĎALŠIE BENEFITY
 UID:13f7bba5de70c39a5938173310d360f6c732cfe0@cike-events
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20260409
+CATEGORIES:ICKK
+DESCRIPTION:Šport bol odjakživa o inštinktoch\, vytrvalosti a tvrdom tréningu. Dnešná doba však ukazuje\, že v...\n\nhttps://ickk.sk/2026/04/09/buducnost-sportu-je-v-datach-ickk-a-ksk-prinasaju-datovu-revoluciu-do-mladeznickeho-sportu-v-kosickom-kraji/
+LOCATION:Košice
+SUMMARY:🟣 [ICKK] Budúcnosť športu je v dátach: ICKK a KSK prinášajú dátovú revolúciu do mládežníckeho športu v Košickom kraji.
+UID:c495d0f10ba6b4c1f8b79c8ff4ffd8913d7f4d38@cike-events
 END:VEVENT
 BEGIN:VEVENT
 DTSTART;VALUE=DATE:20260618
