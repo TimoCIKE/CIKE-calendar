@@ -224,31 +224,32 @@ def scrape_itvalley_events():
                 link_el = block.find("a", href=True)
                 link = link_el["href"].strip() if link_el else ITV_BASE
 
-                spans = [
-                    clean_text(s.get_text(" ", strip=True))
-                    for s in block.find_all("span", class_="elementor-icon-list-text")
-                ]
-                spans = [s for s in spans if s]
+                # nájdi všetky icon-list widgety
+                icon_widgets = block.find_all("div", class_="elementor-widget-icon-list")
 
-                start = end = None
                 location = "Košice"
+                start = end = None
 
-                # 1. preferuj rozsah dátumov
-                for s in spans:
-                    st, en = parse_numeric_or_sk_date(s)
-                    if st and en and en > st:
-                        start, end = st, en
-                        break
+                # 1. location widget = map-marker
+                # 2. date widget = calendar
+                for widget in icon_widgets:
+                    widget_text = clean_text(widget.get_text(" ", strip=True))
+                    if not widget_text:
+                        continue
 
-                # 2. ak nebol rozsah, zober hocijaký dátum
-                if not start:
-                    for s in spans:
-                        st, en = parse_numeric_or_sk_date(s)
-                        if st:
+                    # preferuj date widget s rozsahom alebo dátumom
+                    st, en = parse_numeric_or_sk_date(widget_text)
+                    if st:
+                        # ak je tam dátum, ber to ako date source
+                        if not start or (en and en > st):
                             start, end = st, en
-                            break
 
-                # 3. fallback na celý text bloku
+                    # location vezmi iba ak widget neobsahuje dátum
+                    if not re.search(r"\d{1,2}\.\s*\d{1,2}\.\s*\d{4}", widget_text):
+                        if widget_text and len(widget_text) > 2:
+                            location = widget_text
+
+                # fallback: skús všetok text v bloku
                 if not start:
                     raw_text = clean_text(" ".join(block.stripped_strings))
                     st, en = parse_numeric_or_sk_date(raw_text)
@@ -257,12 +258,6 @@ def scrape_itvalley_events():
 
                 if not start:
                     continue
-
-                for s in spans:
-                    st, _ = parse_numeric_or_sk_date(s)
-                    if not st and len(s) > 1:
-                        location = s
-                        break
 
                 key = normalize_key(title, start)
                 if key in seen:
@@ -278,6 +273,8 @@ def scrape_itvalley_events():
                     "source": "ITVALLEY",
                 })
                 page_added += 1
+
+                print(f"ITV DEBUG: {title} | start={start} | end={end}")
 
             except Exception as e:
                 print(f"   - chyba ITVALLEY blok: {e}")
