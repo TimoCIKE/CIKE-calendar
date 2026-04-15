@@ -13,7 +13,7 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
-from urllib.parse import urljoin
+from urllib.parse import urljoin, urlparse, urlunparse
 from selenium.common.exceptions import TimeoutException, StaleElementReferenceException
 
 # =========================
@@ -89,16 +89,20 @@ def http_get(url: str, timeout: int = 25, retries: int = 3, verify: bool = True)
     return None
 
 
+def normalize_event_url(url: str) -> str:
+    if not url:
+        return ""
+    try:
+        p = urlparse(url.strip())
+        path = re.sub(r"/+", "/", p.path or "/")
+        if path != "/" and path.endswith("/"):
+            path = path[:-1]
+        return urlunparse((p.scheme.lower(), p.netloc.lower(), path, "", "", ""))
+    except Exception:
+        return url.strip()
+
+
 def parse_numeric_or_sk_date(text: str):
-    """
-    Podporuje:
-    - 14.04.2026
-    - 4. 2. 2026
-    - 18.04.2026 – 19.04.2026
-    - 18. 4. 2026 – 19. 4. 2026
-    - 18.–19. apríla 2026
-    - 29 januára 2026
-    """
     if not text:
         return None, None
 
@@ -171,8 +175,7 @@ def ics_escape(text: str) -> str:
 
 
 def fold_ical_line(line: str, limit: int = 75) -> str:
-    encoded = line.encode("utf-8")
-    if len(encoded) <= limit:
+    if len(line.encode("utf-8")) <= limit:
         return line
 
     out = []
@@ -246,7 +249,7 @@ def scrape_itvalley_events():
                 desc = clean_text(desc_el.get_text(" ", strip=True)) if desc_el else ""
 
                 link_el = block.find("a", href=True)
-                link = link_el["href"].strip() if link_el else ITV_BASE
+                link = normalize_event_url(link_el["href"]) if link_el else normalize_event_url(ITV_BASE)
 
                 icon_widgets = block.find_all("div", class_="elementor-widget-icon-list")
 
@@ -276,7 +279,7 @@ def scrape_itvalley_events():
                 if not start:
                     continue
 
-                key = normalize_key(title, start)
+                key = (link or normalize_key(title, start))
                 if key in seen:
                     continue
                 seen.add(key)
@@ -288,6 +291,7 @@ def scrape_itvalley_events():
                     "start": start,
                     "end": end or start,
                     "source": "ITVALLEY",
+                    "url": link,
                 })
                 page_added += 1
 
@@ -520,7 +524,10 @@ def extract_amcham_events_from_soup(containers, seen):
             if not title:
                 continue
 
-            key = normalize_key(title, start)
+            link_el = block.find("a", href=True)
+            link = normalize_event_url(link_el["href"]) if link_el else "https://amcham.sk/events"
+
+            key = link or normalize_key(title, start)
             if key in seen:
                 continue
             seen.add(key)
@@ -532,9 +539,6 @@ def extract_amcham_events_from_soup(containers, seen):
             desc_el = block.select_one(".event-shortdesc")
             desc = clean_text(desc_el.get_text(" ", strip=True)) if desc_el else ""
 
-            link_el = block.find("a", href=True)
-            link = link_el["href"] if link_el else "https://amcham.sk/events"
-
             events.append({
                 "summary": title,
                 "location": location,
@@ -542,6 +546,7 @@ def extract_amcham_events_from_soup(containers, seen):
                 "start": start,
                 "end": end,
                 "source": "AMCHAM",
+                "url": link,
             })
 
     return events
@@ -616,8 +621,8 @@ def _extract_events_from_jsonld(soup, source="OTHER", cutoff=None, past=False, s
             if past and cutoff and start_dt < cutoff:
                 continue
 
-            norm_title = re.sub(r"\s+", " ", title.lower()).strip()
-            key = (norm_title, start_dt.date())
+            url = normalize_event_url((it.get("url") or "").strip())
+            key = url or (re.sub(r"\s+", " ", title.lower()).strip(), start_dt.date())
             if key in seen:
                 continue
             seen.add(key)
@@ -638,7 +643,6 @@ def _extract_events_from_jsonld(soup, source="OTHER", cutoff=None, past=False, s
                 location = ", ".join([p for p in [nm, adr] if p])
 
             desc = _clean_text(it.get("description") or "")
-            url = (it.get("url") or "").strip()
 
             events.append({
                 "summary": title,
@@ -647,6 +651,7 @@ def _extract_events_from_jsonld(soup, source="OTHER", cutoff=None, past=False, s
                 "start": start_dt,
                 "end": end_dt if end_dt >= start_dt else start_dt,
                 "source": normalize_source(source),
+                "url": url,
             })
 
     return events
@@ -809,19 +814,27 @@ def scrape_ickk_events():
                 i += 1
                 continue
 
-            key = normalize_key(title, start_dt)
+            event_url = ""
+            m_url = re.search(r"https?://\S+", desc + " " + event_datetime_line)
+            if m_url:
+                event_url = normalize_event_url(m_url.group(0))
+
+            key = event_url or normalize_key(title, start_dt)
             if key in seen:
                 i += 1
                 continue
             seen.add(key)
 
+            full_desc = (desc + ("\n\n" + event_url if event_url else "\n\n" + url)).strip()
+
             all_events.append({
                 "summary": title,
                 "location": location,
-                "description": (desc + ("\n\n" + url)).strip(),
+                "description": full_desc,
                 "start": start_dt,
                 "end": end_dt,
                 "source": "ICKK",
+                "url": event_url or normalize_event_url(url),
             })
             page_added += 1
             i += 1
@@ -864,27 +877,40 @@ def _looks_fake_all_day(ev) -> bool:
 
 
 def _dedupe_key(ev):
+    url = normalize_event_url(ev.get("url", ""))
+    if url:
+        return ("url", url)
+
     base_title = _clean_event_title(ev["summary"])
     if _is_all_day_00(ev) or _looks_fake_all_day(ev):
-        return (base_title, ev["start"].strftime("%Y-%m-%d"))
-    return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"))
+        return (base_title, ev["start"].strftime("%Y-%m-%d"), ev["end"].strftime("%Y-%m-%d"))
+    return (base_title, ev["start"].strftime("%Y-%m-%d %H:%M"), ev["end"].strftime("%Y-%m-%d %H:%M"))
 
 
 def _stable_uid(ev):
-    title = _clean_event_title(ev["summary"])
-    start_part = ev["start"].strftime("%Y-%m-%d %H:%M")
-    end_part = ev["end"].strftime("%Y-%m-%d %H:%M")
-    kind = "ALLDAY" if (_is_all_day_00(ev) or _looks_fake_all_day(ev)) else "TIMED"
-    base = f"{title}|{start_part}|{end_part}|{kind}"
+    url = normalize_event_url(ev.get("url", ""))
+    if url:
+        base = f"url|{url}"
+    else:
+        title = _clean_event_title(ev["summary"])
+        start_part = ev["start"].strftime("%Y-%m-%d %H:%M")
+        end_part = ev["end"].strftime("%Y-%m-%d %H:%M")
+        kind = "ALLDAY" if (_is_all_day_00(ev) or _looks_fake_all_day(ev)) else "TIMED"
+        base = f"{title}|{start_part}|{end_part}|{kind}"
     return hashlib.sha1(base.encode("utf-8")).hexdigest() + "@cike-events"
 
 
 def _stable_dtstamp(ev):
-    title = _clean_event_title(ev["summary"])
-    start_part = ev["start"].strftime("%Y-%m-%d %H:%M")
-    end_part = ev["end"].strftime("%Y-%m-%d %H:%M")
-    kind = "ALLDAY" if (_is_all_day_00(ev) or _looks_fake_all_day(ev)) else "TIMED"
-    base = f"dtstamp|{title}|{start_part}|{end_part}|{kind}"
+    url = normalize_event_url(ev.get("url", ""))
+    if url:
+        base = f"dtstamp|{url}"
+    else:
+        title = _clean_event_title(ev["summary"])
+        start_part = ev["start"].strftime("%Y-%m-%d %H:%M")
+        end_part = ev["end"].strftime("%Y-%m-%d %H:%M")
+        kind = "ALLDAY" if (_is_all_day_00(ev) or _looks_fake_all_day(ev)) else "TIMED"
+        base = f"dtstamp|{title}|{start_part}|{end_part}|{kind}"
+
     digest = hashlib.sha1(base.encode("utf-8")).hexdigest()
     seed = int(digest[:8], 16)
     base_dt = datetime(2025, 1, 1, tzinfo=timezone.utc)
@@ -915,6 +941,7 @@ def export_events_to_ics(events, filename="events.ics"):
         summary = _with_emoji_prefix(ev["summary"], src)
         location = ev.get("location", "")
         description = ev.get("description", "")
+        event_url = normalize_event_url(ev.get("url", ""))
         uid = _stable_uid(ev)
         dtstamp = _stable_dtstamp(ev)
 
@@ -924,7 +951,6 @@ def export_events_to_ics(events, filename="events.ics"):
         lines.append("BEGIN:VEVENT")
         lines.append(f"UID:{uid}")
         lines.append(f"DTSTAMP:{format_utc_dt(dtstamp)}")
-        lines.append("SEQUENCE:0")
         lines.append(f"CATEGORIES:{ics_escape(src)}")
         lines.append(f"SUMMARY:{ics_escape(summary)}")
 
@@ -932,6 +958,8 @@ def export_events_to_ics(events, filename="events.ics"):
             lines.append(f"LOCATION:{ics_escape(location)}")
         if description:
             lines.append(f"DESCRIPTION:{ics_escape(description)}")
+        if event_url:
+            lines.append(f"URL:{ics_escape(event_url)}")
 
         if _is_all_day_00(ev) or _looks_fake_all_day(ev):
             start_date = s.date()
@@ -940,7 +968,6 @@ def export_events_to_ics(events, filename="events.ics"):
             lines.append(f"DTSTART;VALUE=DATE:{format_date_only(start_date)}")
 
             if end_date > start_date:
-                # DTEND pri all-day je exclusive
                 dtend_exclusive = end_date + timedelta(days=1)
                 lines.append(f"DTEND;VALUE=DATE:{format_date_only(dtend_exclusive)}")
         else:
