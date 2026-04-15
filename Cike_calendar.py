@@ -92,22 +92,14 @@ def http_get(url: str, timeout: int = 25, retries: int = 3, verify: bool = True)
 
 
 def parse_numeric_or_sk_date(text: str):
-    """
-    Podporuje:
-    - 14.04.2026
-    - 4. 2. 2026
-    - 18.04.2026 - 19.04.2026
-    - 18. 4. 2026 - 19. 4. 2026
-    - 29 januára 2026
-    """
     if not text:
         return None, None
 
     t = " ".join(text.lower().split())
+    t = t.replace("—", "–").replace("-", "–")
 
-    # rozsah dd.mm.yyyy - dd.mm.yyyy
     m = re.search(
-        r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b\s*[-–]\s*\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b",
+        r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b\s*[–]\s*\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b",
         t
     )
     if m:
@@ -115,14 +107,12 @@ def parse_numeric_or_sk_date(text: str):
         e = datetime(int(m.group(6)), int(m.group(5)), int(m.group(4)))
         return s, e
 
-    # jedno číslicové datum
     m = re.search(r"\b(\d{1,2})\.\s*(\d{1,2})\.\s*(\d{4})\b", t)
     if m:
         d, mo, y = int(m.group(1)), int(m.group(2)), int(m.group(3))
         dt = datetime(y, mo, d)
         return dt, dt
 
-    # slovný mesiac: 29 januára 2026
     m = re.search(r"\b(\d{1,2})\s+([a-zá-ž]+)\s+(\d{4})\b", t)
     if m:
         d = int(m.group(1))
