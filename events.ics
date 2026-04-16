@@ -605,6 +605,19 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -616,19 +629,6 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -727,6 +727,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -737,18 +749,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1298,6 +1298,20 @@ URL:https://amcham.sk/events/3586/5th-annual-restructuring-day
 DTSTART;VALUE=DATE:20260423
 END:VEVENT
 BEGIN:VEVENT
+UID:e944d42d82b2820321f9bbc74fce2e3cee529598@cike-events
+DTSTAMP:20250427T144322Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Team management with VisionBricks™ - unlocking a ne
+ w perspective on an old problem
+LOCATION:Hurbanovo namestie 1\, Bratislava\, Restartup offices
+DESCRIPTION:workshop organized by Restartup\n\nhttps://amcham.sk/events/365
+ 8/team-management-with-visionbricks-tm-unlocking-a-new-perspective-on-an-o
+ ld-problem
+URL:https://amcham.sk/events/3658/team-management-with-visionbricks-tm-unlo
+ cking-a-new-perspective-on-an-old-problem
+DTSTART;VALUE=DATE:20260423
+END:VEVENT
+BEGIN:VEVENT
 UID:67db263cb5e6a0c4cf713dac07bd48715f526c55@cike-events
 DTSTAMP:20250502T122148Z
 CATEGORIES:AMCHAM
@@ -1482,6 +1496,19 @@ DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/e
 URL:https://amcham.sk/events/3624/hiring-non-eu-talent-a-guide-to-immigrati
  on-options
 DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:59ab7315906e171771866b2eb9286a4f1a458a0c@cike-events
+DTSTAMP:20250920T133531Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Age Ready: Turning Longevity into Your Competitive Ad
+ vantage
+LOCATION:The Spot\, Sky Park Offices\, Bottova 2/A\, Bratislava
+DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3659/age-ready-t
+ urning-longevity-into-your-competitive-advantage
+URL:https://amcham.sk/events/3659/age-ready-turning-longevity-into-your-com
+ petitive-advantage
+DTSTART;VALUE=DATE:20260526
 END:VEVENT
 BEGIN:VEVENT
 UID:0d4175b94b600cec3aca618d96b7dcf9e1f028fe@cike-events
