@@ -1224,31 +1224,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:2dbe788b8f8e9ab7db5e1cdcb2a33bba3de3a058@cike-events
-DTSTAMP:20251126T152340Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Titan – Deep Dive to Sense- and Decision Making
-LOCATION:online (Zoom)
-DESCRIPTION:free online webinar organized by Develor\n\nhttps://amcham.sk/e
- vents/3633/titan-deep-dive-to-sense-and-decision-making
-URL:https://amcham.sk/events/3633/titan-deep-dive-to-sense-and-decision-mak
- ing
-DTSTART;VALUE=DATE:20260417
-END:VEVENT
-BEGIN:VEVENT
-UID:f2a7a71c2d09809910304d595525773dc63a7e09@cike-events
-DTSTAMP:20250425T230635Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] From Training to Impact: Turning Development into Eve
- ryday Practice
-LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3631/from-training-to-impa
- ct-turning-development-into-everyday-practice
-URL:https://amcham.sk/events/3631/from-training-to-impact-turning-developme
- nt-into-everyday-practice
-DTSTART;VALUE=DATE:20260417
-END:VEVENT
-BEGIN:VEVENT
 UID:b0eb23bae5589759561380a86a2a321a0cfc851e@cike-events
 DTSTAMP:20250502T162049Z
 CATEGORIES:AMCHAM
@@ -1327,6 +1302,7 @@ UID:0d4a5ac64da7e8311dc565999d9e54e6f94450cf@cike-events
 DTSTAMP:20251002T094654Z
 CATEGORIES:AMCHAM
 SUMMARY:🟢 [AMCHAM] General Assembly 2026
+LOCATION:AmCham
 DESCRIPTION:Be the first to hear about AmCham achievements and activities i
  n 2025.\n\nhttps://amcham.sk/events/3598/general-assembly-2026
 URL:https://amcham.sk/events/3598/general-assembly-2026
@@ -1581,6 +1557,19 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a7a71c2d09809910304d595525773dc63a7e09@cike-events
+DTSTAMP:20250425T230635Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] From Training to Impact: Turning Development into Eve
+ ryday Practice
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3631/from-training-to-impa
+ ct-turning-development-into-everyday-practice
+URL:https://amcham.sk/events/3631/from-training-to-impact-turning-developme
+ nt-into-everyday-practice
+DTSTART;VALUE=DATE:20260417
 END:VEVENT
 BEGIN:VEVENT
 UID:48f64bb398cc3b7285ce0796aeaebbe5af82edd9@cike-events
@@ -2301,34 +2290,6 @@ URL:https://amcham.sk/events/3481/new-construction-law-its-impacts-on-pendi
 DTSTART;VALUE=DATE:20250425
 END:VEVENT
 BEGIN:VEVENT
-UID:78be2c6d9b54165ad9639189d56f78a6b0475af3@cike-events
-DTSTAMP:20251105T165328Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
-DESCRIPTION:17. apríla 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:3
- 0  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minúto
- vá prestávka)\, prezentácia bude otvorená od 8:30. Program: Vysvetleni
- e pojmov: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnanco
- v-dna-8-maja-2026
-URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026
-DTSTART:20260417T070000Z
-DTEND:20260417T113000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:e91c3f23b6953a3d25d6747549b2d9170cd6e5e2@cike-events
-DTSTAMP:20250329T115929Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.4.2026 od 09:00 - 14
- :30 hod pozýva na  Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026  K
- ód:  20260417  Lektor:  RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v 
- tom [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-
- 8-maja-2026-2
-URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026-2
-DTSTART:20260417T070000Z
-DTEND:20260417T113000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
 DTSTAMP:20250322T030949Z
 CATEGORIES:SOPK
@@ -2632,6 +2593,19 @@ DTSTART:20260525T220000Z
 DTEND:20260527T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:9238c3056b429c931fa11272a2bf033e2145bdee@cike-events
+DTSTAMP:20251002T171603Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: ZÁKONNÍK PRÁCE
+DESCRIPTION:26.5.26 – Pracovná zmluva a pracovný čas 27.5.26 – Dovol
+ enka a prekážky v práci 28.5.26 – Mzda\, príplatky ku mzde\, príspe
+ vok na rekreáciu a športovú činnosť dieťaťa  Lektor: RNDr. Jozef M
+ ihál [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakonnik-prace
+URL:https://www.sopk.sk/event/webinar-zakonnik-prace
+DTSTART:20260526T070000Z
+DTEND:20260526T123000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:1137ce07679b4642f7029021e57ddbda4e92ea8b@cike-events
 DTSTAMP:20250718T025530Z
 CATEGORIES:SOPK
@@ -2856,17 +2830,18 @@ DTSTART:20260416T070000Z
 DTEND:20260416T083000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:9238c3056b429c931fa11272a2bf033e2145bdee@cike-events
-DTSTAMP:20251002T171603Z
+UID:e91c3f23b6953a3d25d6747549b2d9170cd6e5e2@cike-events
+DTSTAMP:20250329T115929Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: ZÁKONNÍK PRÁCE
-DESCRIPTION:16.4.26 – Práca zamestnancov dňa 8. mája 2026 26.5.26 – 
- Pracovná zmluva a pracovný čas 27.5.26 – Dovolenka a prekážky v pr
- áci 28.5.26 – Mzda\, príplatky ku mzde\, príspevok na rekreáciu [...
- ] \\n\n\nhttps://www.sopk.sk/event/webinar-zakonnik-prace
-URL:https://www.sopk.sk/event/webinar-zakonnik-prace
-DTSTART:20260416T070000Z
-DTEND:20260416T123000Z
+SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.4.2026 od 09:00 - 14
+ :30 hod pozýva na  Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026  K
+ ód:  20260417  Lektor:  RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v 
+ tom [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-
+ 8-maja-2026-2
+URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026-2
+DTSTART:20260417T070000Z
+DTEND:20260417T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
@@ -3972,52 +3947,20 @@ DTSTART:20250827T060000Z
 DTEND:20250827T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:7688f6d88b68d2ace4e5a1255061752a0ecf8902@cike-events
-DTSTAMP:20250327T060049Z
+UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
+DTSTAMP:20250220T183120Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ZRUŠENÉ – Workshop: Ako vzniká herný svet s Matej
- om Hudákom
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
 LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
   04001
-DESCRIPTION:Workshop z organizačných dôvodov zrušený. \\n\n\nhttps://i
- ckk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
-URL:https://ickk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
-DTSTART:20260414T150000Z
-DTEND:20260414T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2600e5f55a28bc8851e575ce9ed1886be30a5fb3@cike-events
-DTSTAMP:20250128T151844Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí. Zmeňte 
- svoj pohľad na to\, čo je „odpad“\, a objavte silu sociálneho podni
- kania v umení. Pozývame vás do priestorov ICKK na inšpiratívne […] 
- \\n\n\nhttps://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-lud
- i
-URL:https://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-ludi
-DTSTART:20260331T150000Z
-DTEND:20260331T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:afd286ad783f92ff4453622ef733c169588117b3@cike-events
-DTSTAMP:20250125T222925Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Petrom Schmiedlom – CEO Košickej futbal
- ovej arény
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:⚽️ Chceš vidieť do zákulisia KFA? Odkukaj to! Zaujíma 
- ťa\, ako sa riadi moderný futbalový štadión a čo všetko obnáša ma
- nažment v športovom priemysle? Máme pre Teba jedinečnú príležitosť
-  učiť […] \\n\n\nhttps://ickk.sk/event/odkukaj-to-s-petrom-schmiedlom-
- ceo-kosickej-futbalovej-areny
-URL:https://ickk.sk/event/odkukaj-to-s-petrom-schmiedlom-ceo-kosickej-futba
- lovej-areny
-DTSTART:20260325T160000Z
-DTEND:20260325T180000Z
+DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
+ dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
+ rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
+ O bude človek\, ktorý presne toto dokázal. […] \\n\n\nhttps://ickk.s
+ k/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+DTSTART:20260429T150000Z
+DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
@@ -4139,6 +4082,58 @@ DESCRIPTION:Na meetupe Odkukaj.To privítame Martina Zahumenského – šé
 URL:https://ickk.sk/event/odkukaj-to-so-sefkucharom-martinom-zahumenskym
 DTSTART:20260226T160000Z
 DTEND:20260226T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:afd286ad783f92ff4453622ef733c169588117b3@cike-events
+DTSTAMP:20250125T222925Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Petrom Schmiedlom – CEO Košickej futbal
+ ovej arény
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:⚽️ Chceš vidieť do zákulisia KFA? Odkukaj to! Zaujíma 
+ ťa\, ako sa riadi moderný futbalový štadión a čo všetko obnáša ma
+ nažment v športovom priemysle? Máme pre Teba jedinečnú príležitosť
+  učiť sa od toho najpovolanejšieho! Pozývame Ťa na ďalšie stretnuti
+ e zo série ODKUKAJ.TO\, kde bude naším hosťom Peter Schmiedl\, CEO Ko
+ šickej Futbalovej Arény. Kedy: 25. marca […] \\n\n\nhttps://ickk.sk/ev
+ ent/odkukaj-to-s-petrom-schmiedlom-ceo-kosickej-futbalovej-areny
+URL:https://ickk.sk/event/odkukaj-to-s-petrom-schmiedlom-ceo-kosickej-futba
+ lovej-areny
+DTSTART:20260325T160000Z
+DTEND:20260325T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2600e5f55a28bc8851e575ce9ed1886be30a5fb3@cike-events
+DTSTAMP:20250128T151844Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí. Zmeňte 
+ svoj pohľad na to\, čo je „odpad“\, a objavte silu sociálneho podni
+ kania v umení. Pozývame vás do priestorov ICKK na inšpiratívne stretn
+ utie s Petrou Nagyovou\, riaditeľkou slovenskej značky ODPADNESH. Toto p
+ odujatie nie je len obyčajnou prednáškou – je to pozvánka do sveta\,
+  kde ekológia\, dizajn a […] \\n\n\nhttps://ickk.sk/event/odpadnesh-diz
+ ajn-ktory-meni-svet-aj-osudy-ludi
+URL:https://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-ludi
+DTSTART:20260331T150000Z
+DTEND:20260331T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7688f6d88b68d2ace4e5a1255061752a0ecf8902@cike-events
+DTSTAMP:20250327T060049Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ZRUŠENÉ – Workshop: Ako vzniká herný svet s Matej
+ om Hudákom
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Workshop z organizačných dôvodov zrušený. \\n\n\nhttps://i
+ ckk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
+URL:https://ickk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
