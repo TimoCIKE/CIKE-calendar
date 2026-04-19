@@ -6,48 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
-DTSTAMP:20250123T002446Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
-LOCATION:UVP Technicom
-DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
- ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
- etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
- ts/klubovna-pre-nadane-deti
-URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
-DTSTART;VALUE=DATE:20260414
-END:VEVENT
-BEGIN:VEVENT
-UID:53c45a67b91fa20aa34c400b453bce4c4a1c6ea7@cike-events
-DTSTAMP:20251020T065732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] DAM: How to build a startup as a student
-LOCATION:Jesenná 5\, Košice
-DESCRIPTION:Študenti dokážu vybudovať reálnu firmu už počas štúdia
- . Na meetupe Data Analytics Meeting spoznajte príbeh PhD študentov\, kto
- rí vytvorili startup\, získali skúsenosti v C-level rolách a ukážu\,
-  že podnikanie začína iniciatívou\, nie ideálnymi podmienkami.\n\nhtt
- ps://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-student
-URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
- udent
-DTSTART;VALUE=DATE:20260415
-END:VEVENT
-BEGIN:VEVENT
-UID:2c1351b26697c5ef7720fb4a7f5627370973d4dc@cike-events
-DTSTAMP:20250609T003604Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Európsky deň žien a dievčat v IKT
-LOCATION:UVP Technicom
-DESCRIPTION:Európsky deň žien a dievčat v IKT je podujatie zamerané na
-  podporu dievčat v technológiách. Prináša prednášky\, workshopy a i
- nšpiratívne príbehy odborníčok z praxe. Cieľom je motivovať mladé 
- ženy k štúdiu IT a ukázať im kariérne možnosti v digitálnom svete.
- \n\nhttps://www.kosiceitvalley.sk/events/europsky-den-zien-a-dievcat-v-ikt
-URL:https://www.kosiceitvalley.sk/events/europsky-den-zien-a-dievcat-v-ikt
-DTSTART;VALUE=DATE:20260417
-END:VEVENT
-BEGIN:VEVENT
 UID:db1bff3495ca1d1110586b770fc47bed0d36b0dc@cike-events
 DTSTAMP:20250813T192957Z
 CATEGORIES:ITVALLEY
@@ -91,6 +49,22 @@ DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260506
 END:VEVENT
 BEGIN:VEVENT
+UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
+DTSTAMP:20250827T084058Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Konferencia Región budúcnosti – budúcnosť reg
+ iónu
+LOCATION:Košice\, BCT 1- Moldavská cesta 8/A
+DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
+  ako kľúčový sektor pre východné Slovensko. Budeme diskutovať o vpl
+ yve AI\, automatizácie a nových nárokov na talenty. Pridajte sa a objav
+ te príležitosti\, ktoré formujú budúcnosť regiónu.\n\nhttps://www.k
+ osiceitvalley.sk/events/region-buducnosti-automotive-konferencia
+URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
+ rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
 DTSTAMP:20250824T052620Z
 CATEGORIES:ITVALLEY
@@ -104,22 +78,6 @@ DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
  -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
 URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
  a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
-DTSTAMP:20250827T084058Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Konferencia Región budúcnosti – budúcnosť reg
- iónu
-LOCATION:Košice
-DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
-  ako kľúčový sektor pre východné Slovensko. Budeme diskutovať o vpl
- yve AI\, automatizácie a nových nárokov na talenty. Pridajte sa a objav
- te príležitosti\, ktoré formujú budúcnosť regiónu.\n\nhttps://www.k
- osiceitvalley.sk/events/region-buducnosti-automotive-konferencia
-URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
- rencia
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -180,6 +138,62 @@ URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
 DTSTART;VALUE=DATE:20260928
 END:VEVENT
 BEGIN:VEVENT
+UID:2c1351b26697c5ef7720fb4a7f5627370973d4dc@cike-events
+DTSTAMP:20250609T003604Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Európsky deň žien a dievčat v IKT
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Európsky deň žien a dievčat v IKT je podujatie zamerané na
+  podporu dievčat v technológiách. Prináša prednášky\, workshopy a i
+ nšpiratívne príbehy odborníčok z praxe. Cieľom je motivovať mladé 
+ ženy k štúdiu IT a ukázať im kariérne možnosti v digitálnom svete.
+ \n\nhttps://www.kosiceitvalley.sk/events/europsky-den-zien-a-dievcat-v-ikt
+URL:https://www.kosiceitvalley.sk/events/europsky-den-zien-a-dievcat-v-ikt
+DTSTART;VALUE=DATE:20260417
+END:VEVENT
+BEGIN:VEVENT
+UID:53c45a67b91fa20aa34c400b453bce4c4a1c6ea7@cike-events
+DTSTAMP:20251020T065732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DAM: How to build a startup as a student
+LOCATION:Jesenná 5\, Košice
+DESCRIPTION:Študenti dokážu vybudovať reálnu firmu už počas štúdia
+ . Na meetupe Data Analytics Meeting spoznajte príbeh PhD študentov\, kto
+ rí vytvorili startup\, získali skúsenosti v C-level rolách a ukážu\,
+  že podnikanie začína iniciatívou\, nie ideálnymi podmienkami.\n\nhtt
+ ps://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-student
+URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
+ udent
+DTSTART;VALUE=DATE:20260415
+END:VEVENT
+BEGIN:VEVENT
+UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
+DTSTAMP:20250123T002446Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
+DTSTART;VALUE=DATE:20260414
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -194,20 +208,6 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -605,6 +605,19 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -616,19 +629,6 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -727,6 +727,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -737,18 +749,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -3945,22 +3945,6 @@ DESCRIPTION:Podujatie ponúka jedinečnú príležitosť pre firmy\, podnik
 URL:https://www.sopk.sk/event/meet4business-agra-2025
 DTSTART:20250827T060000Z
 DTEND:20250827T150000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
-DTSTAMP:20250220T183120Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
- dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
- rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
- O bude človek\, ktorý presne toto dokázal. […] \\n\n\nhttps://ickk.s
- k/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-DTSTART:20260429T150000Z
-DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
