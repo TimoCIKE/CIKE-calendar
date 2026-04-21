@@ -6,22 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:db1bff3495ca1d1110586b770fc47bed0d36b0dc@cike-events
-DTSTAMP:20250813T192957Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] HACK KOŠICE 2026
-LOCATION:Kunsthalle\, Košice
-DESCRIPTION:Hack Košice 2026 je najväčší hackathon na Slovensku (18.
- –19. apríla v Košiciach)\, kde viac ako 150 účastníkov tvorí inova
- tívne riešenia na reálne výzvy. Podujatie prepája talenty\, firmy a e
- xpertov. Partnerom je aj projekt INVESTech\, podporujúci inovácie a digi
- tálne zručnosti.\n\nhttps://www.kosiceitvalley.sk/events/hack-kosice-202
- 6
-URL:https://www.kosiceitvalley.sk/events/hack-kosice-2026
-DTSTART;VALUE=DATE:20260418
-DTEND;VALUE=DATE:20260420
-END:VEVENT
-BEGIN:VEVENT
 UID:bc07c3ee278136c129f96dfed1953f47e79eb249@cike-events
 DTSTAMP:20251012T092105Z
 CATEGORIES:ITVALLEY
@@ -49,22 +33,6 @@ DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260506
 END:VEVENT
 BEGIN:VEVENT
-UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
-DTSTAMP:20250827T084058Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Konferencia Región budúcnosti – budúcnosť reg
- iónu
-LOCATION:Košice\, BCT 1- Moldavská cesta 8/A
-DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
-  ako kľúčový sektor pre východné Slovensko. Budeme diskutovať o vpl
- yve AI\, automatizácie a nových nárokov na talenty. Pridajte sa a objav
- te príležitosti\, ktoré formujú budúcnosť regiónu.\n\nhttps://www.k
- osiceitvalley.sk/events/region-buducnosti-automotive-konferencia
-URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
- rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
 DTSTAMP:20250824T052620Z
 CATEGORIES:ITVALLEY
@@ -78,6 +46,22 @@ DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
  -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
 URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
  a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
+DTSTAMP:20250827T084058Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Konferencia Región budúcnosti – budúcnosť reg
+ iónu
+LOCATION:Košice\, BCT 1- Moldavská cesta 8/A
+DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
+  ako kľúčový sektor pre východné Slovensko. Budeme diskutovať o vpl
+ yve AI\, automatizácie a nových nárokov na talenty. Pridajte sa a objav
+ te príležitosti\, ktoré formujú budúcnosť regiónu.\n\nhttps://www.k
+ osiceitvalley.sk/events/region-buducnosti-automotive-konferencia
+URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
+ rencia
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -138,6 +122,22 @@ URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
 DTSTART;VALUE=DATE:20260928
 END:VEVENT
 BEGIN:VEVENT
+UID:db1bff3495ca1d1110586b770fc47bed0d36b0dc@cike-events
+DTSTAMP:20250813T192957Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] HACK KOŠICE 2026
+LOCATION:Kunsthalle\, Košice
+DESCRIPTION:Hack Košice 2026 je najväčší hackathon na Slovensku (18.
+ –19. apríla v Košiciach)\, kde viac ako 150 účastníkov tvorí inova
+ tívne riešenia na reálne výzvy. Podujatie prepája talenty\, firmy a e
+ xpertov. Partnerom je aj projekt INVESTech\, podporujúci inovácie a digi
+ tálne zručnosti.\n\nhttps://www.kosiceitvalley.sk/events/hack-kosice-202
+ 6
+URL:https://www.kosiceitvalley.sk/events/hack-kosice-2026
+DTSTART;VALUE=DATE:20260418
+DTEND;VALUE=DATE:20260420
+END:VEVENT
+BEGIN:VEVENT
 UID:2c1351b26697c5ef7720fb4a7f5627370973d4dc@cike-events
 DTSTAMP:20250609T003604Z
 CATEGORIES:ITVALLEY
@@ -180,20 +180,6 @@ URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
 DTSTART;VALUE=DATE:20260414
 END:VEVENT
 BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -208,6 +194,20 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -334,6 +334,21 @@ DESCRIPTION:Zborovňa – konferencia pre STEM pedagógov sa uskutoční 19
 URL:https://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pe
  dagogov
 DTSTART;VALUE=DATE:20260219
+END:VEVENT
+BEGIN:VEVENT
+UID:79243f92998450556d36af5d241ff3c1e98452dd@cike-events
+DTSTAMP:20250919T121826Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] London Tech Week
+LOCATION:London
+DESCRIPTION:Zúčastnite sa London Tech Week 2026 od 8. do 10.júna v Lond
+ ýne a staňte sa súčasťou globálneho inovačného ekosystému. Čakaj
+ ú vás trendy\, networking aj CZ&SK meet-up. Košice IT Valley členovia 
+ získajú VIP vstup zdarma (letenky a ubytovanie individuálne).\n\nhttps:
+ //www.kosiceitvalley.sk/events/london-tech-week
+URL:https://www.kosiceitvalley.sk/events/london-tech-week
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260611
 END:VEVENT
 BEGIN:VEVENT
 UID:6914ec55d916ef834d7a3f2e8f9c34559202460f@cike-events
@@ -605,6 +620,19 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -616,19 +644,6 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -727,6 +742,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -737,18 +764,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1333,6 +1348,17 @@ DESCRIPTION:webinar organized by DHL Express\n\nhttps://amcham.sk/events/36
 URL:https://amcham.sk/events/3654/shipping-without-compromise-discover-dhl-
  special-services
 DTSTART;VALUE=DATE:20260430
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f6e2490e25565e786712682ee2e3f458e36581@cike-events
+DTSTAMP:20251004T141701Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting
+LOCATION:Lindner Hotel Bratislava - JDV by Hyatt\, Metodova 4
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3660/spee
+ d-business-meeting
+URL:https://amcham.sk/events/3660/speed-business-meeting
+DTSTART;VALUE=DATE:20260504
 END:VEVENT
 BEGIN:VEVENT
 UID:5fc0e6ebdd4295714d3066257914f7e642e78111@cike-events
@@ -2305,21 +2331,6 @@ URL:https://www.sopk.sk/event/technology-business-cooperation-days-hannover
  -messe-2026
 DTSTART:20260419T220000Z
 DTEND:20260423T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:53a6ea14de0b1a944e86e78e3280a5f83917ef8e@cike-events
-DTSTAMP:20250820T172408Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: Optimalizácia firemnej logistiky
-DESCRIPTION:Cieľ školenia: je prezentovať využívanie zjednodušených 
- postupov\, ako nástrojov k optimalizácií firemnej logistiky. Umožňuj
- ú plnenie colných formalít s vylúčením niektorých povinností\, ako
-  napríklad bez povinnosti fyzicky predkladať tovar colnému úradu pod. 
- [...] \\n\n\nhttps://www.sopk.sk/event/webinar-optimalizacia-firemnej-logi
- stiky
-URL:https://www.sopk.sk/event/webinar-optimalizacia-firemnej-logistiky
-DTSTART:20260421T070000Z
-DTEND:20260421T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:351aa2fde7ffbc3cf760e3aa94d8be2b52ef4911@cike-events
@@ -3945,6 +3956,22 @@ DESCRIPTION:Podujatie ponúka jedinečnú príležitosť pre firmy\, podnik
 URL:https://www.sopk.sk/event/meet4business-agra-2025
 DTSTART:20250827T060000Z
 DTEND:20250827T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
+DTSTAMP:20250220T183120Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
+ dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
+ rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
+ O bude človek\, ktorý presne toto dokázal. […] \\n\n\nhttps://ickk.s
+ k/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+DTSTART:20260429T150000Z
+DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
