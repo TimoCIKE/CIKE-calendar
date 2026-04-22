@@ -351,6 +351,22 @@ DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260611
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:6914ec55d916ef834d7a3f2e8f9c34559202460f@cike-events
 DTSTAMP:20250815T021923Z
 CATEGORIES:ITVALLEY
@@ -620,19 +636,6 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -644,6 +647,19 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -742,18 +758,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -764,6 +768,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1239,31 +1255,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:b0eb23bae5589759561380a86a2a321a0cfc851e@cike-events
-DTSTAMP:20250502T162049Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] How to create an experiential teambuilding that truly
-  makes a difference?
-LOCATION:The Spot\, Bottova 2\, Bratislava
-DESCRIPTION:"Líderské jednohubky" by SUVKO\n\nhttps://amcham.sk/events/36
- 39/how-to-create-an-experiential-teambuilding-that-truly-makes-a-differenc
- e
-URL:https://amcham.sk/events/3639/how-to-create-an-experiential-teambuildin
- g-that-truly-makes-a-difference
-DTSTART;VALUE=DATE:20260421
-END:VEVENT
-BEGIN:VEVENT
-UID:8aa8a4125a755615b02f1fc17fb05a9742e13b55@cike-events
-DTSTAMP:20250504T134233Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Power BI course
-LOCATION:KPMG Conference Centre\, Dvořákovo nábrežie 10\, Bratislava
-DESCRIPTION:organized by KPMG\n\nhttps://amcham.sk/events/3646/power-bi-cou
- rse
-URL:https://amcham.sk/events/3646/power-bi-course
-DTSTART;VALUE=DATE:20260421
-END:VEVENT
-BEGIN:VEVENT
 UID:12dac659dcb7b4097c951cfa01cfa2277466cdae@cike-events
 DTSTAMP:20250206T083055Z
 CATEGORIES:AMCHAM
@@ -1409,6 +1400,17 @@ DESCRIPTION:HR Learning Circle\n\nhttps://amcham.sk/events/3656/equal-pay-f
  or-equal-work-ii-directive-becomes-new-law-in-slovakia
 URL:https://amcham.sk/events/3656/equal-pay-for-equal-work-ii-directive-bec
  omes-new-law-in-slovakia
+DTSTART;VALUE=DATE:20260513
+END:VEVENT
+BEGIN:VEVENT
+UID:03cf93965985f91c697112610a35c9f4b4c45e22@cike-events
+DTSTAMP:20250215T162819Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Data-Driven Sales powered by AI
+LOCATION:boat Sundeck\, Bratislava
+DESCRIPTION:organized by Salesforce\n\nhttps://amcham.sk/events/3661/data-d
+ riven-sales-powered-by-ai
+URL:https://amcham.sk/events/3661/data-driven-sales-powered-by-ai
 DTSTART;VALUE=DATE:20260513
 END:VEVENT
 BEGIN:VEVENT
@@ -2333,20 +2335,6 @@ DTSTART:20260419T220000Z
 DTEND:20260423T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:351aa2fde7ffbc3cf760e3aa94d8be2b52ef4911@cike-events
-DTSTAMP:20250422T125002Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] PODNIKANIE V POĽSKU
-DESCRIPTION:Pozývame Vás na seminár pod záštitou Veľvyslanectva SR vo
-  Varšave\, Veľvyslanectva Poľskej republiky v Bratislave\, Generálneh
- o honorárneho konzulátu SR v Krakove PODNIKANIE V POĽSKU ZALOŽENIE SPO
- LOČNOSTI\, PODMIENKY\, LEGISLATÍVA\, DANE + INDIVIDUÁLNE KONZULTÁCIE 
- S [...] \\n\n\nhttps://www.sopk.sk/event/podnikanie-v-polsku
-URL:https://www.sopk.sk/event/podnikanie-v-polsku
-DTSTART:20260421T074500Z
-DTEND:20260421T103000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:348e64b99fdea29f910bbcfdaddbf4f82794f8af@cike-events
 DTSTAMP:20250108T213523Z
 CATEGORIES:SOPK
@@ -2363,23 +2351,6 @@ URL:https://www.sopk.sk/event/delegacia-z-maramures-zavita-do-trnavy-priest
  or-pre-nove-partnerstva-a-b2b-spolupracu
 DTSTART:20260421T220000Z
 DTEND:20260424T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:6ed23f73c961d77faa3874dfc94ea994b7b90f78@cike-events
-DTSTAMP:20251125T231748Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Seminár Trnavskej regionálnej komory SOPK: Prezentuj 
- ako líder\, prezentuj ako profesionál.
-DESCRIPTION:Trnavská regionálna komora SOPK vás pozýva na praktický se
- minár zameraný na moderné prezentačné a komunikačné zručnosti. Obj
- avíte techniky\, ktoré vám pomôžu vystupovať sebaistejšie\, presved
- čivejšie a zapamätateľnejšie – či už prezentujete pred [...] \\n\
- n\nhttps://www.sopk.sk/event/seminar-trnavskej-regionalnej-komory-sopk-pre
- zentuj-ako-lider-prezentuj-ako-profesional
-URL:https://www.sopk.sk/event/seminar-trnavskej-regionalnej-komory-sopk-pre
- zentuj-ako-lider-prezentuj-ako-profesional
-DTSTART:20260422T073000Z
-DTEND:20260422T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:86dcf9f03c37ac577b4ab1ef9545da34fc64a9b3@cike-events
@@ -2632,6 +2603,20 @@ URL:https://www.sopk.sk/event/medzinarodny-seminar-o-verejnom-obstaravani-v
  -agenturach-osn-spojeny-s-one-to-one-rokovaniami-s-nakupcami-agentur
 DTSTART:20260609T060000Z
 DTEND:20260610T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b82f931e94d644c004be73c1d6234ddc6f7561@cike-events
+DTSTAMP:20250216T021327Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: Colná problematika pre logistiku
+DESCRIPTION:Cieľ webinára: webinár určený pre zasielateľov a pracovn
+ íkov v logistike. Svojím charakterom a zameraním je vhodný a dôležit
+ ý pre získanie základnej orientácie v colnej problematike\, ktorá je 
+ rozsiahla a zložitá. Získané [...] \\n\n\nhttps://www.sopk.sk/event/we
+ binar-colna-problematika-pre-logistiku-3
+URL:https://www.sopk.sk/event/webinar-colna-problematika-pre-logistiku-3
+DTSTART:20260616T070000Z
+DTEND:20260616T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6b0a00d06032ba85e71d091fc86d046e49e07927@cike-events
