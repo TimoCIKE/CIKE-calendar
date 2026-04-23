@@ -52,8 +52,8 @@ BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Konferencia Región budúcnosti – budúcnosť reg
- iónu
+SUMMARY:🔵 [ITVALLEY] Región budúcnosti – budúcnosť regiónu je aut
+ omotive
 LOCATION:Košice\, BCT 1- Moldavská cesta 8/A
 DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
   ako kľúčový sektor pre východné Slovensko. Budeme diskutovať o vpl
@@ -63,6 +63,37 @@ DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
 DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:79243f92998450556d36af5d241ff3c1e98452dd@cike-events
+DTSTAMP:20250919T121826Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] London Tech Week
+LOCATION:London
+DESCRIPTION:Zúčastnite sa London Tech Week 2026 od 8. do 10.júna v Lond
+ ýne a staňte sa súčasťou globálneho inovačného ekosystému. Čakaj
+ ú vás trendy\, networking aj CZ&SK meet-up. Košice IT Valley členovia 
+ získajú VIP vstup zdarma (letenky a ubytovanie individuálne).\n\nhttps:
+ //www.kosiceitvalley.sk/events/london-tech-week
+URL:https://www.kosiceitvalley.sk/events/london-tech-week
+DTSTART;VALUE=DATE:20260608
+DTEND;VALUE=DATE:20260611
+END:VEVENT
+BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
 UID:39dc318c40fc4a6fd3848619a6fb9c504e954ee6@cike-events
@@ -334,37 +365,6 @@ DESCRIPTION:Zborovňa – konferencia pre STEM pedagógov sa uskutoční 19
 URL:https://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pe
  dagogov
 DTSTART;VALUE=DATE:20260219
-END:VEVENT
-BEGIN:VEVENT
-UID:79243f92998450556d36af5d241ff3c1e98452dd@cike-events
-DTSTAMP:20250919T121826Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] London Tech Week
-LOCATION:London
-DESCRIPTION:Zúčastnite sa London Tech Week 2026 od 8. do 10.júna v Lond
- ýne a staňte sa súčasťou globálneho inovačného ekosystému. Čakaj
- ú vás trendy\, networking aj CZ&SK meet-up. Košice IT Valley členovia 
- získajú VIP vstup zdarma (letenky a ubytovanie individuálne).\n\nhttps:
- //www.kosiceitvalley.sk/events/london-tech-week
-URL:https://www.kosiceitvalley.sk/events/london-tech-week
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260611
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
-DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
 UID:6914ec55d916ef834d7a3f2e8f9c34559202460f@cike-events
@@ -2454,6 +2454,23 @@ DTSTART:20260513T063000Z
 DTEND:20260513T113000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:c56c662de3f0bbc0da8d6050144a280addc587c8@cike-events
+DTSTAMP:20250628T092453Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár: Budúcnosť vášho biznisu: ako robiť rozho
+ dnutia dnes\, aby ste boli úspešní aj o 5 rokov
+DESCRIPTION:Pozývame vás na  odborný seminár: Budúcnosť vášho bizn
+ isu: ako robiť rozhodnutia dnes\, aby ste boli úspešní aj o 5 rokov St
+ e pripravení systematicky budovať budúcnosť vašej firmy? Chcete vedie
+ ť\, ako prijímať [...] \\n\n\nhttps://www.sopk.sk/event/seminar-buducno
+ st-vasho-biznisu-ako-robit-rozhodnutia-dnes-aby-ste-boli-uspesni-aj-o-5-ro
+ kov
+URL:https://www.sopk.sk/event/seminar-buducnost-vasho-biznisu-ako-robit-roz
+ hodnutia-dnes-aby-ste-boli-uspesni-aj-o-5-rokov
+DTSTART:20260514T080000Z
+DTEND:20260514T110000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:2c8e3811a24a6b36ea63804453a8f02037872914@cike-events
 DTSTAMP:20250619T004243Z
 CATEGORIES:SOPK
@@ -2523,23 +2540,6 @@ DESCRIPTION:Pozývame Vás na seminár: INCOTERMS 2020 - Nové pravidlá\,
 URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-5
 DTSTART:20260520T070000Z
 DTEND:20260520T110000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:b9e588cbb30b54a8682673f6d680d8d532196ef4@cike-events
-DTSTAMP:20250526T135603Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Trnavská regionálna komora SOPK pripravuje odborný s
- eminár o najnovších trendoch v SEO a AI optimalizácii
-DESCRIPTION:Trnavská regionálna komora SOPK organizuje 20.mája 2026 prez
- enčný odborný seminár zameraný na najnovšie trendy v oblasti SEO\, G
- EO a AI optimalizácie. Podujatie je určené pre podnikateľov\, marketin
- gových manažérov a všetkých\, ktorí [...] \\n\n\nhttps://www.sopk.sk
- /event/trnavska-regionalna-komora-sopk-pripravuje-odborny-seminar-o-najnov
- sich-trendoch-v-seo-a-ai-optimalizacii
-URL:https://www.sopk.sk/event/trnavska-regionalna-komora-sopk-pripravuje-od
- borny-seminar-o-najnovsich-trendoch-v-seo-a-ai-optimalizacii
-DTSTART:20260520T080000Z
-DTEND:20260520T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:494884461e94e53438450b90935540c28d512420@cike-events
