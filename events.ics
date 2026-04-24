@@ -33,22 +33,6 @@ DTSTART;VALUE=DATE:20260504
 DTEND;VALUE=DATE:20260506
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -62,6 +46,22 @@ DESCRIPTION:Konferencia REGIÓN BUDÚCNOSTI prináša pohľad na automotive
  osiceitvalley.sk/events/region-buducnosti-automotive-konferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1255,42 +1255,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:12dac659dcb7b4097c951cfa01cfa2277466cdae@cike-events
-DTSTAMP:20250206T083055Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] 5th Annual Restructuring Day
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3586/5th-annual-
- restructuring-day
-URL:https://amcham.sk/events/3586/5th-annual-restructuring-day
-DTSTART;VALUE=DATE:20260423
-END:VEVENT
-BEGIN:VEVENT
-UID:e944d42d82b2820321f9bbc74fce2e3cee529598@cike-events
-DTSTAMP:20250427T144322Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Team management with VisionBricks™ - unlocking a ne
- w perspective on an old problem
-LOCATION:Hurbanovo namestie 1\, Bratislava\, Restartup offices
-DESCRIPTION:workshop organized by Restartup\n\nhttps://amcham.sk/events/365
- 8/team-management-with-visionbricks-tm-unlocking-a-new-perspective-on-an-o
- ld-problem
-URL:https://amcham.sk/events/3658/team-management-with-visionbricks-tm-unlo
- cking-a-new-perspective-on-an-old-problem
-DTSTART;VALUE=DATE:20260423
-END:VEVENT
-BEGIN:VEVENT
-UID:67db263cb5e6a0c4cf713dac07bd48715f526c55@cike-events
-DTSTAMP:20250502T122148Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] AI Day 2026
-LOCATION:Aula FaF UK\, Faculty of Management\, Odbojárov 10\, Bratislava
-DESCRIPTION:organized by Comenius University Bratislava\, Faculty of Manage
- ment (FM CU)\n\nhttps://amcham.sk/events/3649/ai-day-2026
-URL:https://amcham.sk/events/3649/ai-day-2026
-DTSTART;VALUE=DATE:20260423
-END:VEVENT
-BEGIN:VEVENT
 UID:f972d9238a4f025253e51bf60676d3d4f4d289a0@cike-events
 DTSTAMP:20251212T192125Z
 CATEGORIES:AMCHAM
@@ -1563,6 +1527,18 @@ URL:https://amcham.sk/events/3605/250th-anniversary-of-the-founding-of-the-
 DTSTART;VALUE=DATE:20260618
 END:VEVENT
 BEGIN:VEVENT
+UID:9169fb0ae3274f0e0fb2074cd0520a8b8e00923c@cike-events
+DTSTAMP:20250107T052756Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] How to feel comfortable in times of discomfort
+LOCATION:Zoom Online
+DESCRIPTION:free online webinar organized by Develor\n\nhttps://amcham.sk/e
+ vents/3662/how-to-feel-comfortable-in-times-of-discomfort
+URL:https://amcham.sk/events/3662/how-to-feel-comfortable-in-times-of-disco
+ mfort
+DTSTART;VALUE=DATE:20260619
+END:VEVENT
+BEGIN:VEVENT
 UID:f9aff65d9d58ca479e4d073640d833cce549b642@cike-events
 DTSTAMP:20251104T130055Z
 CATEGORIES:AMCHAM
@@ -1585,6 +1561,17 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:12dac659dcb7b4097c951cfa01cfa2277466cdae@cike-events
+DTSTAMP:20250206T083055Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] 5th Annual Restructuring Day
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3586/5th-annual-
+ restructuring-day
+URL:https://amcham.sk/events/3586/5th-annual-restructuring-day
+DTSTART;VALUE=DATE:20260423
 END:VEVENT
 BEGIN:VEVENT
 UID:f2a7a71c2d09809910304d595525773dc63a7e09@cike-events
@@ -2318,23 +2305,6 @@ URL:https://amcham.sk/events/3481/new-construction-law-its-impacts-on-pendi
 DTSTART;VALUE=DATE:20250425
 END:VEVENT
 BEGIN:VEVENT
-UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
-DTSTAMP:20250322T030949Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Technology & Business Cooperation Days @ HANNOVER MESSE
-  2026
-LOCATION:Hannover
-DESCRIPTION:Technology & Business Cooperation Days at HANNOVER MESSE 2026 p
- oskytujú hybridnú medzinárodnú platformu na nadväzovanie kontaktov\, 
- ktorá spája malé a stredné podniky a výskumné organizácie. Ročník
-  2026 sa zameriava na kľúčové [...] \\n\n\nhttps://www.sopk.sk/event/t
- echnology-business-cooperation-days-hannover-messe-2026
-URL:https://www.sopk.sk/event/technology-business-cooperation-days-hannover
- -messe-2026
-DTSTART:20260419T220000Z
-DTEND:20260423T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:348e64b99fdea29f910bbcfdaddbf4f82794f8af@cike-events
 DTSTAMP:20250108T213523Z
 CATEGORIES:SOPK
@@ -2653,22 +2623,6 @@ DTSTART:20261001T060000Z
 DTEND:20261231T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:36601cf7d829f89cc49e1c4dc437ccf81e1e160c@cike-events
-DTSTAMP:20251021T080134Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
- ?“
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
- ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
- a bude konať  dňa 18. marca 2026 od 9:00 do 13:00 hod. v zasadačke Ban
- skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
- ravidla-stare-problemy-2
-URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-2
-DTSTART:20260318T080000Z
-DTEND:20260318T120000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:3115c4b1e91c79a40d8ae763345e8fe0d07a16b4@cike-events
 DTSTAMP:20250321T174956Z
 CATEGORIES:SOPK
@@ -2840,19 +2794,21 @@ DTSTART:20260417T070000Z
 DTEND:20260417T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
-DTSTAMP:20250811T190805Z
+UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
+DTSTAMP:20250322T030949Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
- ár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešeni
- a a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. fe
- bruára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vysk
- um-a-vyvoj-v-roku-2025
-URL:https://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025
-DTSTART:20260204T230000Z
-DTEND:20260205T225959Z
+SUMMARY:🟧 [SOPK] Technology & Business Cooperation Days @ HANNOVER MESSE
+  2026
+LOCATION:Hannover
+DESCRIPTION:Technology & Business Cooperation Days at HANNOVER MESSE 2026 p
+ oskytujú hybridnú medzinárodnú platformu na nadväzovanie kontaktov\, 
+ ktorá spája malé a stredné podniky a výskumné organizácie. Ročník
+  2026 sa zameriava na kľúčové [...] \\n\n\nhttps://www.sopk.sk/event/t
+ echnology-business-cooperation-days-hannover-messe-2026
+URL:https://www.sopk.sk/event/technology-business-cooperation-days-hannover
+ -messe-2026
+DTSTART:20260419T220000Z
+DTEND:20260423T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:408b8cb2adbddce98a06430cc69d098f81961325@cike-events
@@ -3025,17 +2981,20 @@ DTSTART:20260317T230000Z
 DTEND:20260318T225959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:bf7f67fa23a88ddd0c7fdb7f4c2716512bd923b9@cike-events
-DTSTAMP:20251115T031229Z
+UID:36601cf7d829f89cc49e1c4dc437ccf81e1e160c@cike-events
+DTSTAMP:20251021T080134Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] All in One Cocktail
-DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Coc
- ktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom
- \, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra [
- ...] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail
-URL:https://www.sopk.sk/event/all-in-one-cocktail
-DTSTART:20251126T173000Z
-DTEND:20251126T210000Z
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
+ ?“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
+ a bude konať  dňa 18. marca 2026 od 9:00 do 13:00 hod. v zasadačke Ban
+ skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
+ ravidla-stare-problemy-2
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-2
+DTSTART:20260318T080000Z
+DTEND:20260318T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb9a33b8bc902ee83e206daf63dc0fa7dea4c6b@cike-events
@@ -3214,22 +3173,19 @@ DTSTART:20260203T070000Z
 DTEND:20260206T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8ee1557c804c36dc8349490147e2ac71ae700913@cike-events
-DTSTAMP:20251102T000159Z
+UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
+DTSTAMP:20250811T190805Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] „Orientujeme sa v sankciách a odvetvových reštrikc
- iách EU\, OSN a US OFAC“
+SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
 LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
- ár „Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OS
- N a US OFAC“\, „Je možný obchod s krajinami\, kde platia odvetvové
-  a cielené reštrikcie a sankcie?“  ktorý [...] \\n\n\nhttps://www.so
- pk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a
- -us-ofac
-URL:https://www.sopk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-rest
- rikciach-eu-osn-a-us-ofac
-DTSTART:20251110T230000Z
-DTEND:20251111T225959Z
+ ár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešeni
+ a a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. fe
+ bruára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vysk
+ um-a-vyvoj-v-roku-2025
+URL:https://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025
+DTSTART:20260204T230000Z
+DTEND:20260205T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7371ba1e1e333ff8d3bec5116b130437c262e981@cike-events
@@ -3400,21 +3356,17 @@ DTSTART:20251126T080000Z
 DTEND:20251126T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e44746bfd868e8095e6e04638a73fb2271b8417a@cike-events
-DTSTAMP:20250317T084655Z
+UID:bf7f67fa23a88ddd0c7fdb7f4c2716512bd923b9@cike-events
+DTSTAMP:20251115T031229Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regio
- nálnej – komory SOPK v UVP Technicom
-DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
- s pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK
-  v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v uto
- rok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk
- .sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komor
- y-sopk-v-uvp-technicom
-URL:https://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosicke
- j-regionalnej-komory-sopk-v-uvp-technicom
-DTSTART:20251014T140000Z
-DTEND:20251014T160000Z
+SUMMARY:🟧 [SOPK] All in One Cocktail
+DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Coc
+ ktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom
+ \, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra [
+ ...] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail
+URL:https://www.sopk.sk/event/all-in-one-cocktail
+DTSTART:20251126T173000Z
+DTEND:20251126T210000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1a4a05b6381b40c9dd3b52b70e68a1495083360f@cike-events
@@ -3584,19 +3536,22 @@ DTSTART:20251105T070000Z
 DTEND:20251120T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:482ee1b2311bd976a61eb2b7ccc92b375d46f050@cike-events
-DTSTAMP:20250720T001334Z
+UID:8ee1557c804c36dc8349490147e2ac71ae700913@cike-events
+DTSTAMP:20251102T000159Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Co-Matching Virtual B2B Event 2025
-LOCATION:Online
-DESCRIPTION:Tento rok vám opäť ponúkame možnosť stretnúť turecké s
- poločnosti a pohodlne sa s nimi spojiť z vašej kancelárie alebo domova
- \, čím eliminujeme potrebu časovo náročného cestovania. Starostlivo 
- sme vybrali spoločnosti z [...] \\n\n\nhttps://www.sopk.sk/event/co-match
- ing-virtual-b2b-event-2025
-URL:https://www.sopk.sk/event/co-matching-virtual-b2b-event-2025
-DTSTART:20250828T080000Z
-DTEND:20250828T153000Z
+SUMMARY:🟧 [SOPK] „Orientujeme sa v sankciách a odvetvových reštrikc
+ iách EU\, OSN a US OFAC“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OS
+ N a US OFAC“\, „Je možný obchod s krajinami\, kde platia odvetvové
+  a cielené reštrikcie a sankcie?“  ktorý [...] \\n\n\nhttps://www.so
+ pk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a
+ -us-ofac
+URL:https://www.sopk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-rest
+ rikciach-eu-osn-a-us-ofac
+DTSTART:20251110T230000Z
+DTEND:20251111T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bfa92637d9a9bab578a0e6197425f4b9af1e1985@cike-events
@@ -3770,18 +3725,21 @@ DTSTART:20251014T140000Z
 DTEND:20251014T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:605a4816f7b113371625112947206f87eaa792a1@cike-events
-DTSTAMP:20251102T095941Z
+UID:e44746bfd868e8095e6e04638a73fb2271b8417a@cike-events
+DTSTAMP:20250317T084655Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Textile Connect 2025
-DESCRIPTION:Textile Connect je online platforma navrhnutá na podporu hodno
- tných spojení medzi spoločnosťami\, dizajnérmi a výrobnými partnerm
- i v rámci textilného priemyslu. Šiesty rok po sebe sme radi\, že môž
- eme usporiadať exkluzívne online [...] \\n\n\nhttps://www.sopk.sk/event/
- textile-connect-2025
-URL:https://www.sopk.sk/event/textile-connect-2025
-DTSTART:20250528T070000Z
-DTEND:20250529T130000Z
+SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regio
+ nálnej – komory SOPK v UVP Technicom
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
+ s pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK
+  v UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v uto
+ rok 14.10.2025 od 16:00 do 18:00. Tešíme [...] \\n\n\nhttps://www.sopk
+ .sk/event/oficialne-otvorenie-novych-priestorov-kosickej-regionalnej-komor
+ y-sopk-v-uvp-technicom
+URL:https://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosicke
+ j-regionalnej-komory-sopk-v-uvp-technicom
+DTSTART:20251014T140000Z
+DTEND:20251014T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c13e675906f41db8a3ed6a9ae86e4097898b231d@cike-events
@@ -3941,6 +3899,21 @@ DESCRIPTION:Podujatie ponúka jedinečnú príležitosť pre firmy\, podnik
 URL:https://www.sopk.sk/event/meet4business-agra-2025
 DTSTART:20250827T060000Z
 DTEND:20250827T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:482ee1b2311bd976a61eb2b7ccc92b375d46f050@cike-events
+DTSTAMP:20250720T001334Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Co-Matching Virtual B2B Event 2025
+LOCATION:Online
+DESCRIPTION:Tento rok vám opäť ponúkame možnosť stretnúť turecké s
+ poločnosti a pohodlne sa s nimi spojiť z vašej kancelárie alebo domova
+ \, čím eliminujeme potrebu časovo náročného cestovania. Starostlivo 
+ sme vybrali spoločnosti z [...] \\n\n\nhttps://www.sopk.sk/event/co-match
+ ing-virtual-b2b-event-2025
+URL:https://www.sopk.sk/event/co-matching-virtual-b2b-event-2025
+DTSTART:20250828T080000Z
+DTEND:20250828T153000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
