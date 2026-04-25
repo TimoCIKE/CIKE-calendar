@@ -1255,19 +1255,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:f972d9238a4f025253e51bf60676d3d4f4d289a0@cike-events
-DTSTAMP:20251212T192125Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Beyond Earth: How Space Research Is Transforming the 
- Future of Medicine?
-LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3641/beyond-earth-how-spac
- e-research-is-transforming-the-future-of-medicine
-URL:https://amcham.sk/events/3641/beyond-earth-how-space-research-is-transf
- orming-the-future-of-medicine
-DTSTART;VALUE=DATE:20260424
-END:VEVENT
-BEGIN:VEVENT
 UID:0d4a5ac64da7e8311dc565999d9e54e6f94450cf@cike-events
 DTSTAMP:20251002T094654Z
 CATEGORIES:AMCHAM
@@ -1561,6 +1548,19 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:f972d9238a4f025253e51bf60676d3d4f4d289a0@cike-events
+DTSTAMP:20251212T192125Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Beyond Earth: How Space Research Is Transforming the 
+ Future of Medicine?
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3641/beyond-earth-how-spac
+ e-research-is-transforming-the-future-of-medicine
+URL:https://amcham.sk/events/3641/beyond-earth-how-space-research-is-transf
+ orming-the-future-of-medicine
+DTSTART;VALUE=DATE:20260424
 END:VEVENT
 BEGIN:VEVENT
 UID:12dac659dcb7b4097c951cfa01cfa2277466cdae@cike-events
@@ -2305,24 +2305,6 @@ URL:https://amcham.sk/events/3481/new-construction-law-its-impacts-on-pendi
 DTSTART;VALUE=DATE:20250425
 END:VEVENT
 BEGIN:VEVENT
-UID:348e64b99fdea29f910bbcfdaddbf4f82794f8af@cike-events
-DTSTAMP:20250108T213523Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Delegácia z Maramureș zavíta do Trnavy: priestor pre
-  nové partnerstvá a B2B spoluprácu
-LOCATION:Trnavská RK SOPK\, Kapitulská 12\, Trnava\, Kapitulská 12\, Trn
- ava\, 91701
-DESCRIPTION:Slovenská obchodná a priemyselná komora v Trnave privíta v 
- dňoch 22. – 24. apríla 2026 delegáciu z Obchodnej a priemyselnej komo
- ry Maramureș (Rumunsko). Delegáciu povedie prezident komory Florentin Ni
- colae Tuș. Cieľom [...] \\n\n\nhttps://www.sopk.sk/event/delegacia-z-mar
- amures-zavita-do-trnavy-priestor-pre-nove-partnerstva-a-b2b-spolupracu
-URL:https://www.sopk.sk/event/delegacia-z-maramures-zavita-do-trnavy-priest
- or-pre-nove-partnerstva-a-b2b-spolupracu
-DTSTART:20260421T220000Z
-DTEND:20260424T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:86dcf9f03c37ac577b4ab1ef9545da34fc64a9b3@cike-events
 DTSTAMP:20250703T181404Z
 CATEGORIES:SOPK
@@ -2337,26 +2319,11 @@ DTSTART:20260427T070000Z
 DTEND:20260427T120000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f53fe2c4c442401fe4b29f2bbdcaa394190c3d6f@cike-events
-DTSTAMP:20250826T140927Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA + MIKROODVOD
- Y
-DESCRIPTION:28. apríl 2026\, 14. máj 2026 alebo 17. jún 2026 Lektor:  R
- NDr. Jozef Mihál Čas: 9:00 - 13:30  (v tom 30 minútová obedná prest
- ávka 11:30-12:00 a jedna 10 minútová prestávka)\, prezentácia [...] \
- \n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikr
- oodvody
-URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
- vody
-DTSTART:20260428T070000Z
-DTEND:20260428T123000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:2075f085940e1ddb808ce26ec12414941fe8bb53@cike-events
 DTSTAMP:20250628T044321Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] Seminár: COLNÁ PROBLEMATIKA PRE ROK 2026 V KOCKE
+LOCATION:ŽRK SOPK\, Žilina\, Hálkova 31\, Žilina\, 01001
 DESCRIPTION:Cieľom seminára je oboznámiť účastníkov s colnými pre
  dpismi uplatňovanými v praxi a podať informácie\, ktoré pomôžu or
  ientovať sa v colnej problematike a komunikovať s obchodnými partner
@@ -2587,6 +2554,22 @@ DESCRIPTION:Cieľ webinára: webinár určený pre zasielateľov a pracovn
 URL:https://www.sopk.sk/event/webinar-colna-problematika-pre-logistiku-3
 DTSTART:20260616T070000Z
 DTEND:20260616T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f53fe2c4c442401fe4b29f2bbdcaa394190c3d6f@cike-events
+DTSTAMP:20250826T140927Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA + MIKROODVOD
+ Y
+DESCRIPTION:17. jún 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30 
+  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová
+  prestávka)\, prezentácia bude otvorená od 8:30. Program: Daňový bonu
+ s [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimaliz
+ acia-mikroodvody
+URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
+ vody
+DTSTART:20260617T070000Z
+DTEND:20260617T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6b0a00d06032ba85e71d091fc86d046e49e07927@cike-events
