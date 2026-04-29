@@ -760,6 +760,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -770,18 +782,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,30 +1257,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:0d4a5ac64da7e8311dc565999d9e54e6f94450cf@cike-events
-DTSTAMP:20251002T094654Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] General Assembly 2026
-LOCATION:AmCham
-DESCRIPTION:Be the first to hear about AmCham achievements and activities i
- n 2025.\n\nhttps://amcham.sk/events/3598/general-assembly-2026
-URL:https://amcham.sk/events/3598/general-assembly-2026
-DTSTART;VALUE=DATE:20260428
-END:VEVENT
-BEGIN:VEVENT
-UID:6abf55f106526368cbf658cea613805f22111acc@cike-events
-DTSTAMP:20250116T074018Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Innovating the City: MIB’s Role in Bratislava’s U
- rban Transformation
-LOCATION:Štúrova 4\, Bratislava
-DESCRIPTION:Presentation\n\nhttps://amcham.sk/events/3642/innovating-the-ci
- ty-mibs-role-in-bratislavas-urban-transformation
-URL:https://amcham.sk/events/3642/innovating-the-city-mibs-role-in-bratisla
- vas-urban-transformation
-DTSTART;VALUE=DATE:20260428
-END:VEVENT
-BEGIN:VEVENT
 UID:54176080bd5196fcabfaa9600408dca7fc0cef7d@cike-events
 DTSTAMP:20250805T071714Z
 CATEGORIES:AMCHAM
@@ -1303,6 +1279,17 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3660/spee
  d-business-meeting
 URL:https://amcham.sk/events/3660/speed-business-meeting
 DTSTART;VALUE=DATE:20260504
+END:VEVENT
+BEGIN:VEVENT
+UID:39c94e36ef289682d73f26931df079b41fb55f4b@cike-events
+DTSTAMP:20250720T065905Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Spring Pharmaceutical Webinar
+LOCATION:online | Zoom
+DESCRIPTION:organized by Deloitte\n\nhttps://amcham.sk/events/3663/spring-p
+ harmaceutical-webinar
+URL:https://amcham.sk/events/3663/spring-pharmaceutical-webinar
+DTSTART;VALUE=DATE:20260507
 END:VEVENT
 BEGIN:VEVENT
 UID:5fc0e6ebdd4295714d3066257914f7e642e78111@cike-events
@@ -1466,14 +1453,15 @@ URL:https://amcham.sk/events/3652/speed-business-meeting-in-trnava
 DTSTART;VALUE=DATE:20260526
 END:VEVENT
 BEGIN:VEVENT
-UID:4ce178ceac4d63fe5e3a9ae5dd0d8c44f33e0eb5@cike-events
-DTSTAMP:20251012T192145Z
+UID:e0fcd868cb2232296b1bcdad7ef8c6b060b6f680@cike-events
+DTSTAMP:20250811T082759Z
 CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
+SUMMARY:🟢 [AMCHAM] Summer Innovation In Motion Business Cocktail
 LOCATION:Botanical Garden UPJŠ\, Mánesova 1889/23
-DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3606/summer-innovation-b
- usiness-cocktail
-URL:https://amcham.sk/events/3606/summer-innovation-business-cocktail
+DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3606/summer-innovation-i
+ n-motion-business-cocktail
+URL:https://amcham.sk/events/3606/summer-innovation-in-motion-business-cock
+ tail
 DTSTART;VALUE=DATE:20260611
 END:VEVENT
 BEGIN:VEVENT
@@ -1550,6 +1538,30 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:6abf55f106526368cbf658cea613805f22111acc@cike-events
+DTSTAMP:20250116T074018Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Innovating the City: MIB’s Role in Bratislava’s U
+ rban Transformation
+LOCATION:Štúrova 4\, Bratislava
+DESCRIPTION:Presentation\n\nhttps://amcham.sk/events/3642/innovating-the-ci
+ ty-mibs-role-in-bratislavas-urban-transformation
+URL:https://amcham.sk/events/3642/innovating-the-city-mibs-role-in-bratisla
+ vas-urban-transformation
+DTSTART;VALUE=DATE:20260428
+END:VEVENT
+BEGIN:VEVENT
+UID:0d4a5ac64da7e8311dc565999d9e54e6f94450cf@cike-events
+DTSTAMP:20251002T094654Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] General Assembly 2026
+LOCATION:AmCham
+DESCRIPTION:Be the first to hear about AmCham achievements and activities i
+ n 2025.\n\nhttps://amcham.sk/events/3598/general-assembly-2026
+URL:https://amcham.sk/events/3598/general-assembly-2026
+DTSTART;VALUE=DATE:20260428
 END:VEVENT
 BEGIN:VEVENT
 UID:f972d9238a4f025253e51bf60676d3d4f4d289a0@cike-events
@@ -1639,7 +1651,6 @@ UID:0032d1d87c251926656eb3072f6b8cfeb58d27d0@cike-events
 DTSTAMP:20250328T162007Z
 CATEGORIES:AMCHAM
 SUMMARY:🟢 [AMCHAM] Info Webinar: SelectUSA Investment Summit
-LOCATION:AmCham
 DESCRIPTION:Online Webinar\n\nhttps://amcham.sk/events/3617/info-webinar-se
  lectusa-investment-summit
 URL:https://amcham.sk/events/3617/info-webinar-selectusa-investment-summit
@@ -4310,24 +4321,6 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:87aaa27c6d1cc0746b2e45dccb10d4abfd44fbd8@cike-events
-DTSTAMP:20251025T025150Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO #15 – Peter Dosedla
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Bývalý top manažér\, dnes už skôr investor a nadšenec v
- šetkého nového\, vrátane startupovej scény. No najmä globetrotter. V
-  poslednej dobe sa aktívne podieľa ako investor a advisor v najväčšom
-  československom crowdfundingovom projekte Crowdberry\, ktorého súčas
- ťou su nové slovenské poklady ako GymBeam\, MultiplexXD\, Isadore\, Boa
- taround\, Ecocapsule a mnohé iné. Vyše dvadsať rokov plával vo vodác
- h veľkého […] \\n\n\nhttps://ickk.sk/event/odkukaj-to-15-peter-dosedla
-URL:https://ickk.sk/event/odkukaj-to-15-peter-dosedla
-DTSTART:20250428T150000Z
-DTEND:20250428T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:69fdf9f970e7dffb8b50336ce3fe6bc741d2442f@cike-events
