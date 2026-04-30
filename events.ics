@@ -132,12 +132,12 @@ UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
 SUMMARY:🔵 [ITVALLEY] Summer Night Out s Košice IT Valley
-LOCATION:TBS
+LOCATION:Hotel Barca
 DESCRIPTION:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-
  it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
-DTSTART;VALUE=DATE:20260625
+DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
 UID:4d40caa7dbe03758c174789238c9072544e3c1dc@cike-events
@@ -227,20 +227,6 @@ URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
 DTSTART;VALUE=DATE:20260414
 END:VEVENT
 BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -255,6 +241,20 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -2289,38 +2289,6 @@ LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
 DESCRIPTION:https://amcham.sk/events/3454/corporate-banking-forum-2025
 URL:https://amcham.sk/events/3454/corporate-banking-forum-2025
 DTSTART;VALUE=DATE:20250515
-END:VEVENT
-BEGIN:VEVENT
-UID:2075f085940e1ddb808ce26ec12414941fe8bb53@cike-events
-DTSTAMP:20250628T044321Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Seminár: COLNÁ PROBLEMATIKA PRE ROK 2026 V KOCKE
-LOCATION:ŽRK SOPK\, Žilina\, Hálkova 31\, Žilina\, 01001
-DESCRIPTION:Cieľom seminára je oboznámiť účastníkov s colnými pre
- dpismi uplatňovanými v praxi a podať informácie\, ktoré pomôžu or
- ientovať sa v colnej problematike a komunikovať s obchodnými partner
- mi. Program:   9:00 – 14:00    (prezencia od 8.30)  Colné režimy
-  Colné konanie - [...] \\n\n\nhttps://www.sopk.sk/event/colna-problematik
- a-pre-rok-2026-v-kocke
-URL:https://www.sopk.sk/event/colna-problematika-pre-rok-2026-v-kocke
-DTSTART:20260429T070000Z
-DTEND:20260429T120000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:25850f1753529f2269e7079463e583b65ce8107e@cike-events
-DTSTAMP:20251219T160601Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Etické využívanie AI nástrojov – odborný seminá
- r v Trnave
-DESCRIPTION:Etické využívanie AI nástrojov – odborný seminár v Trna
- ve Trnavská regionálna komora SOPK pozýva odbornú aj laickú verejnos
- ť na prezenčný seminár „Etické využívanie AI nástrojov“\, ktor
- ý sa uskutoční 30. apríla 2026 [...] \\n\n\nhttps://www.sopk.sk/event/
- eticke-vyuzivanie-ai-nastrojov-odborny-seminar-v-trnave
-URL:https://www.sopk.sk/event/eticke-vyuzivanie-ai-nastrojov-odborny-semina
- r-v-trnave
-DTSTART:20260430T080000Z
-DTEND:20260430T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1fb0c4f5e9835959dd0bdb64dcb8c83222723355@cike-events
