@@ -111,7 +111,7 @@ DESCRIPTION:Pozývame vás na finálne prezentácie projektov študentov 1.
  s/kasv-finalne-prezentacie-projektov-studentov
 URL:https://www.kosiceitvalley.sk/events/kasv-finalne-prezentacie-projektov
  -studentov
-DTSTART;VALUE=DATE:20260615
+DTSTART;VALUE=DATE:20260618
 END:VEVENT
 BEGIN:VEVENT
 UID:4b8ee7f5b62c221061d5a5f7e67561b2b310f15d@cike-events
@@ -760,18 +760,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -782,6 +770,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1257,19 +1257,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:54176080bd5196fcabfaa9600408dca7fc0cef7d@cike-events
-DTSTAMP:20250805T071714Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Shipping Without Compromise – Discover DHL Special 
- Services
-LOCATION:online
-DESCRIPTION:webinar organized by DHL Express\n\nhttps://amcham.sk/events/36
- 54/shipping-without-compromise-discover-dhl-special-services
-URL:https://amcham.sk/events/3654/shipping-without-compromise-discover-dhl-
- special-services
-DTSTART;VALUE=DATE:20260430
-END:VEVENT
-BEGIN:VEVENT
 UID:d5f6e2490e25565e786712682ee2e3f458e36581@cike-events
 DTSTAMP:20251004T141701Z
 CATEGORIES:AMCHAM
@@ -1526,6 +1513,19 @@ DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3604/welcome-back
  -to-work
 URL:https://amcham.sk/events/3604/welcome-back-to-work
 DTSTART;VALUE=DATE:20260903
+END:VEVENT
+BEGIN:VEVENT
+UID:00f2c832f948ae7e814d48c5b0bd19272d3bb25d@cike-events
+DTSTAMP:20250428T075950Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] No Workforce\, No Growth: The Social Imperative for C
+ ompetitiveness
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3664/no-workforce-no-gro
+ wth-the-social-imperative-for-competitiveness
+URL:https://amcham.sk/events/3664/no-workforce-no-growth-the-social-imperat
+ ive-for-competitiveness
+DTSTART;VALUE=DATE:20260908
 END:VEVENT
 BEGIN:VEVENT
 UID:184acc4bcefc0a0656457adb7bcf1e18d5d1b5de@cike-events
@@ -3930,40 +3930,6 @@ DTSTART:20250827T060000Z
 DTEND:20250827T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
-DTSTAMP:20250220T183120Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
- dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
- rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
- O bude človek\, ktorý presne toto dokázal. […] \\n\n\nhttps://ickk.s
- k/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-DTSTART:20260429T150000Z
-DTEND:20260429T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
 DTSTAMP:20250928T131957Z
 CATEGORIES:ICKK
@@ -4119,21 +4085,22 @@ DTSTART:20260414T150000Z
 DTEND:20260414T170000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
-DTSTAMP:20250806T181837Z
+UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
+DTSTAMP:20250220T183120Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
 LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
   04001
-DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
- novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
- ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
-  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
- eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
- oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
-URL:https://ickk.sk/event/strojarenska-zije-2-0
-DTSTART:20250618T140000Z
-DTEND:20250618T200000Z
+DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
+ dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
+ rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
+ O bude človek\, ktorý presne toto dokázal. Do Košíc prichádza Mart
+ in Švenk\, CEO slovenskej lovebrand značky Puella. Prečo by ste si to 
+ nemali nechať ujsť? Puella nie je len o voňavej bielizni. Je to […] \
+ \n\n\nhttps://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+DTSTART:20260429T150000Z
+DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
@@ -4291,6 +4258,24 @@ DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:69fdf9f970e7dffb8b50336ce3fe6bc741d2442f@cike-events
 DTSTAMP:20250129T221428Z
 CATEGORIES:ICKK
@@ -4358,5 +4343,22 @@ DESCRIPTION:Stánok ICKK\, v ktorom objavíš možnosti\, ako môžeš zís
 URL:https://ickk.sk/event/zupne-dni-ksk-kosice
 DTSTART:20250613T070000Z
 DTEND:20250613T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
+DTSTAMP:20250806T181837Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
+ novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
+ ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
+  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
+ eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
+ oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
+URL:https://ickk.sk/event/strojarenska-zije-2-0
+DTSTART:20250618T140000Z
+DTEND:20250618T200000Z
 END:VEVENT
 END:VCALENDAR
