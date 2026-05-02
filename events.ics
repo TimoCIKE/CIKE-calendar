@@ -3930,6 +3930,40 @@ DTSTART:20250827T060000Z
 DTEND:20250827T150000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
+DTSTAMP:20250220T183120Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
+ dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
+ rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
+ O bude človek\, ktorý presne toto dokázal. […] \\n\n\nhttps://ickk.s
+ k/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+DTSTART:20260429T150000Z
+DTEND:20260429T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
 DTSTAMP:20250928T131957Z
 CATEGORIES:ICKK
@@ -4085,22 +4119,21 @@ DTSTART:20260414T150000Z
 DTEND:20260414T170000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
-DTSTAMP:20250220T183120Z
+UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
+DTSTAMP:20250806T181837Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
+SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
 LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
   04001
-DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
- dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
- rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
- O bude človek\, ktorý presne toto dokázal. Do Košíc prichádza Mart
- in Švenk\, CEO slovenskej lovebrand značky Puella. Prečo by ste si to 
- nemali nechať ujsť? Puella nie je len o voňavej bielizni. Je to […] \
- \n\n\nhttps://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-DTSTART:20260429T150000Z
-DTEND:20260429T170000Z
+DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
+ novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
+ ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
+  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
+ eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
+ oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
+URL:https://ickk.sk/event/strojarenska-zije-2-0
+DTSTART:20250618T140000Z
+DTEND:20250618T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
@@ -4258,24 +4291,6 @@ DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:69fdf9f970e7dffb8b50336ce3fe6bc741d2442f@cike-events
 DTSTAMP:20250129T221428Z
 CATEGORIES:ICKK
@@ -4343,22 +4358,5 @@ DESCRIPTION:Stánok ICKK\, v ktorom objavíš možnosti\, ako môžeš zís
 URL:https://ickk.sk/event/zupne-dni-ksk-kosice
 DTSTART:20250613T070000Z
 DTEND:20250613T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
-DTSTAMP:20250806T181837Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
- novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
- ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
-  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
- eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
- oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
-URL:https://ickk.sk/event/strojarenska-zije-2-0
-DTSTART:20250618T140000Z
-DTEND:20250618T200000Z
 END:VEVENT
 END:VCALENDAR
