@@ -35,6 +35,23 @@ URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti-spolocens
 DTSTART;VALUE=DATE:20260505
 END:VEVENT
 BEGIN:VEVENT
+UID:78a13819e8642d735577b64d77f6655229c369d2@cike-events
+DTSTAMP:20250204T051633Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Business Breakfast – Efektívna práca s AI & Soc
+ iálne bývanie
+LOCATION:Kongres hotel Roca\, Košice
+DESCRIPTION:Spoločnosť ABB Solutions Slovakia v spolupráci s neziskovou 
+ organizáciou Sociálne bývanie vás pozýva na Business Breakfast. Okrem
+  chutných raňajok máme pre vás pripravené dve aktuálne a hodnotné t
+ émy\, ktoré majú praktický prínos pre vašu prácu aj pozitívny dopa
+ d na komunitu.\n\nhttps://www.kosiceitvalley.sk/events/business-breakfast-
+ efektivna-praca-s-ai-socialne-byvanie
+URL:https://www.kosiceitvalley.sk/events/business-breakfast-efektivna-praca
+ -s-ai-socialne-byvanie
+DTSTART;VALUE=DATE:20260514
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -367,6 +384,20 @@ DESCRIPTION:Zborovňa – konferencia pre STEM pedagógov sa uskutoční 19
 URL:https://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pe
  dagogov
 DTSTART;VALUE=DATE:20260219
+END:VEVENT
+BEGIN:VEVENT
+UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
+DTSTAMP:20250721T204759Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] SARIO Business Day 2026 v Košiciach
+LOCATION:Kongres hotel Roca\, Košice
+DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
+  Business Day\, zamerané na firmy\, ktoré chcú nadviazať nové obchodn
+ é partnerstvá a rozvíjať spoluprácu.\n\nhttps://www.kosiceitvalley.sk
+ /events/sario-business-day-2026-v-kosiciach
+URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
+ h
+DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:6914ec55d916ef834d7a3f2e8f9c34559202460f@cike-events
@@ -1257,17 +1288,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:d5f6e2490e25565e786712682ee2e3f458e36581@cike-events
-DTSTAMP:20251004T141701Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Speed Business Meeting
-LOCATION:Crowne Plaza Bratislava by IHG\, Hodžovo námestie 2
-DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3660/spee
- d-business-meeting
-URL:https://amcham.sk/events/3660/speed-business-meeting
-DTSTART;VALUE=DATE:20260504
-END:VEVENT
-BEGIN:VEVENT
 UID:39c94e36ef289682d73f26931df079b41fb55f4b@cike-events
 DTSTAMP:20250720T065905Z
 CATEGORIES:AMCHAM
@@ -1378,6 +1398,18 @@ URL:https://amcham.sk/events/3640/e-invoicing-in-slovakia-prepare-for-manda
 DTSTART;VALUE=DATE:20260514
 END:VEVENT
 BEGIN:VEVENT
+UID:f588a4fd2d92913a91a47ca9de9942a76ee8a840@cike-events
+DTSTAMP:20250610T082622Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Grand Opening of HAVEL & PARTNERS in Eastern Slovakia
+LOCATION:Villa Sandy Resort\, SEVEN Restaurant\, Košice
+DESCRIPTION:organized by HAVEL & PARTNERS\n\nhttps://amcham.sk/events/3666/
+ grand-opening-of-havel-partners-in-eastern-slovakia
+URL:https://amcham.sk/events/3666/grand-opening-of-havel-partners-in-easter
+ n-slovakia
+DTSTART;VALUE=DATE:20260514
+END:VEVENT
+BEGIN:VEVENT
 UID:5c4516199fd23ab7a76039da76e3e24aa87aac9a@cike-events
 DTSTAMP:20250601T002204Z
 CATEGORIES:AMCHAM
@@ -1438,6 +1470,18 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3652/spee
  d-business-meeting-in-trnava
 URL:https://amcham.sk/events/3652/speed-business-meeting-in-trnava
 DTSTART;VALUE=DATE:20260526
+END:VEVENT
+BEGIN:VEVENT
+UID:52f6a34f2693cb966f60aecfa861d7e791e3eb23@cike-events
+DTSTAMP:20250807T103740Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] ESG Best Practice Sharing - Košice edition!
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Koši
+ ce
+DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3665/esg-best-p
+ ractice-sharing-kosice-edition
+URL:https://amcham.sk/events/3665/esg-best-practice-sharing-kosice-edition
+DTSTART;VALUE=DATE:20260611
 END:VEVENT
 BEGIN:VEVENT
 UID:e0fcd868cb2232296b1bcdad7ef8c6b060b6f680@cike-events
@@ -1538,6 +1582,17 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:d5f6e2490e25565e786712682ee2e3f458e36581@cike-events
+DTSTAMP:20251004T141701Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting
+LOCATION:Crowne Plaza Bratislava by IHG\, Hodžovo námestie 2
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3660/spee
+ d-business-meeting
+URL:https://amcham.sk/events/3660/speed-business-meeting
+DTSTART;VALUE=DATE:20260504
 END:VEVENT
 BEGIN:VEVENT
 UID:6abf55f106526368cbf658cea613805f22111acc@cike-events
@@ -2305,20 +2360,6 @@ DTSTART:20260510T220000Z
 DTEND:20260513T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:32a130a5e01dec1d567a7027d00aa487728b573c@cike-events
-DTSTAMP:20250804T014225Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Podnikateľská misia PACKSHOW\, METALSHOW & TIB
-LOCATION:Bukurešť
-DESCRIPTION:Pozývame slovenské firmy na podnikateľskú misiu do Rumunska
- \, ktorá sa bude konať v dňoch 11. – 13. mája 2026. Slovenské firmy
-  budú mať príležitosť prezentovať svoje výrobky a služby potenciá
- lnym obchodným [...] \\n\n\nhttps://www.sopk.sk/event/metal-show-tib
-URL:https://www.sopk.sk/event/metal-show-tib
-DTSTART:20260510T220000Z
-DTEND:20260513T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:3757776febb864bfe7a579cc5a4cee49d6a7057f@cike-events
 DTSTAMP:20251117T085406Z
 CATEGORIES:SOPK
@@ -2393,6 +2434,23 @@ DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
 URL:https://www.sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z-2
 DTSTART:20260518T070000Z
 DTEND:20260518T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1640859716eb14a3a951992df44e37891f7662cc@cike-events
+DTSTAMP:20250807T024238Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Odborná diskusia: SKRYTÉ POKLADY NAŠICH FIRIEM – O
+ d inšpirácie k praxi
+DESCRIPTION:Pozývame vás na pokračovanie podujatia Skryté poklady na
+ šich firiem\, ktoré podporuje udržateľnosť v zmysle RE-USE\, teda ZU
+ ŽITKUJ. ​Ide o priestor\, kde spoločne hľadáme nové využitie pre 
+ odpady vznikajúce vo firmách\, s cieľom podporiť cirkularitu a [...] \
+ \n\n\nhttps://www.sopk.sk/event/odborna-diskusia-skryte-poklady-nasich-fir
+ iem-od-inspiracie-k-praxi
+URL:https://www.sopk.sk/event/odborna-diskusia-skryte-poklady-nasich-firiem
+ -od-inspiracie-k-praxi
+DTSTART:20260519T070000Z
+DTEND:20260519T090000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:143ae48d169038921db7ff5d4b9f964950dbbc66@cike-events
