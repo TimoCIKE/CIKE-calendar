@@ -386,6 +386,19 @@ URL:https://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pe
 DTSTART;VALUE=DATE:20260219
 END:VEVENT
 BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
 UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
 DTSTAMP:20250721T204759Z
 CATEGORIES:ITVALLEY
@@ -789,19 +802,6 @@ DESCRIPTION:ESG Awards 2025 od Košice IT Valley je ocenenie pre firmy a je
  .kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
-END:VEVENT
-BEGIN:VEVENT
-UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
-DTSTAMP:20250406T101717Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Startup Awards Meet-up: Košice
-LOCATION:Tabačka\, Kulturfabrik
-DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
- . júna sa v Tabačke Kulturfabrik stretnú zakladatelia\, investori\, ino
- vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
- ceitvalley.sk/events/startup-awards-meet-up-kosice
-URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
 UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
@@ -1470,6 +1470,18 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3652/spee
  d-business-meeting-in-trnava
 URL:https://amcham.sk/events/3652/speed-business-meeting-in-trnava
 DTSTART;VALUE=DATE:20260526
+END:VEVENT
+BEGIN:VEVENT
+UID:180cd51e8fabd771d0fd8986a08c66330a07d94a@cike-events
+DTSTAMP:20251001T045550Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future of Eastern Slovakia: Data\, Vision\, Decisions
+LOCATION:Tabačka Kulturfabrik\, Gorkého 2
+DESCRIPTION:A Candidate Forum for Chair of KSK and Mayor of Košice\n\nhttp
+ s://amcham.sk/events/3667/future-of-eastern-slovakia-data-vision-decisions
+URL:https://amcham.sk/events/3667/future-of-eastern-slovakia-data-vision-de
+ cisions
+DTSTART;VALUE=DATE:20260604
 END:VEVENT
 BEGIN:VEVENT
 UID:52f6a34f2693cb966f60aecfa861d7e791e3eb23@cike-events
@@ -2532,6 +2544,22 @@ DTSTART:20260520T080000Z
 DTEND:20260520T120000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:24483b63d70b087051d1988020ace35d22f858cf@cike-events
+DTSTAMP:20250522T185658Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár – Zákon o rovnakom odmeňovaní mužov a ž
+ ien
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 21.5.2026 od 09:00 - 13
+ :30 hod pozýva na webinár Zákon o rovnakom odmeňovaní mužov a žien 
+ kód: 20260521 Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v [...]
+  \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzo
+ v-a-zien
+URL:https://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzov-a-z
+ ien
+DTSTART:20260521T070000Z
+DTEND:20260521T113000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:35ca934b94b748b2513ab631778d48ad8286033f@cike-events
 DTSTAMP:20251115T080205Z
 CATEGORIES:SOPK
@@ -2602,6 +2630,20 @@ DESCRIPTION:Nitrianska regionálna komora SOPK Vás 27.5.26 od 09:00 - 13:3
 URL:https://www.sopk.sk/event/webinar-dovolenka-a-prekazky-v-praci
 DTSTART:20260527T070000Z
 DTEND:20260527T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7527597c95056b4bd57f373b6923b476e1dfeac8@cike-events
+DTSTAMP:20251212T061413Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SARIO Business Day — V regiónoch 2026 Košice
+DESCRIPTION:Objavte počas podujatia SARIO Bussines Day — V regiónoch pr
+ íležitosti pre rozvoj vašej firmy na východnom Slovensku. Pripojte sa 
+ 28. mája 2026 k lídrom štátu\, regiónu\, akademického sektora a prie
+ myslu a [...] \\n\n\nhttps://www.sopk.sk/event/sario-business-day-v-region
+ och-2026-kosice
+URL:https://www.sopk.sk/event/sario-business-day-v-regionoch-2026-kosice
+DTSTART:20260528T060000Z
+DTEND:20260528T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7e69980ea933d5c1a3133d9a2ee1f7540e4d2e67@cike-events
@@ -2678,6 +2720,24 @@ URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
  vody
 DTSTART:20260617T070000Z
 DTEND:20260617T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:9f906ba33f0f982c21928199d542eb8d7c472e98@cike-events
+DTSTAMP:20250823T134155Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Nájdite svojho nového dodávateľa na China Brand Fai
+ r 2026!
+LOCATION:Budapešť\, Hungexpo\, Budapest\, Albertirsai út 10\, 1101\, Bud
+ apest
+DESCRIPTION:Nenechajte si ujsť China Brand Fair 2026\, jedno z najvýznamn
+ ejších biznis podujatí roka\, ktoré sa uskutoční v dňoch 18. – 20
+ . júna na výstavisku Hungexpo v Budapešti. Výstava ponúka jedinečnú
+  príležitosť [...] \\n\n\nhttps://www.sopk.sk/event/najdite-svojho-nove
+ ho-dodavatela-na-china-brand-fair-2026
+URL:https://www.sopk.sk/event/najdite-svojho-noveho-dodavatela-na-china-bra
+ nd-fair-2026
+DTSTART:20260617T220000Z
+DTEND:20260620T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6b0a00d06032ba85e71d091fc86d046e49e07927@cike-events
