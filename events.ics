@@ -2661,6 +2661,41 @@ DTSTART:20260528T070000Z
 DTEND:20260528T113000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:cf38867bd7c937a54897eb53c8ad3e27a4412c3a@cike-events
+DTSTAMP:20250316T202334Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SLOVAK – SWISS DAY 2026…UMELÁ INTELIGENCIA – pr
+ íležitosti v podnikaní a vzdelávaní
+LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slo
+ venským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Brat
+ islave Vás pozývajú odborné podujatie "SLOVAK - SWISS DAY 2026 ... UME
+ LÁ INTELIGENCIA - príležitosť [...] \\n\n\nhttps://www.sopk.sk/event/s
+ lovak-swiss-day-2026umela-inteligencia-prilezitosti-v-podnikani-a-vzdelava
+ ni
+URL:https://www.sopk.sk/event/slovak-swiss-day-2026umela-inteligencia-prile
+ zitosti-v-podnikani-a-vzdelavani
+DTSTART:20260604T070000Z
+DTEND:20260604T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e253a195418b0432c5da1d098dca0757f4799b4e@cike-events
+DTSTAMP:20251108T143048Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Budúcnosť východného Slovenska: Data\, vízie\, roz
+ hodnutia
+LOCATION:Tabačka Kulturfabrik\, Gorkého 2\, Košice
+DESCRIPTION:Kandidátske fórum na predsedu KSK a primátora Košíc Akým 
+ smerom sa vydajú Košice a širší región východného Slovenska? Aké 
+ konkrétne plány majú kandidáti – a ako obstojí ich vízia v konfron
+ tácii [...] \\n\n\nhttps://www.sopk.sk/event/buducnost-vychodneho-slovens
+ ka-data-vizie-rozhodnutia
+URL:https://www.sopk.sk/event/buducnost-vychodneho-slovenska-data-vizie-roz
+ hodnutia
+DTSTART:20260604T150000Z
+DTEND:20260604T180000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:1137ce07679b4642f7029021e57ddbda4e92ea8b@cike-events
 DTSTAMP:20250718T025530Z
 CATEGORIES:SOPK
