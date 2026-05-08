@@ -804,15 +804,16 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
+UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
+DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+SUMMARY:🔵 [ITVALLEY] Startup Awards Meet-up: Košice
+LOCATION:Tabačka\, Kulturfabrik
+DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
+ . júna sa v Tabačke Kulturfabrik stretnú zakladatelia\, investori\, ino
+ vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
+ ceitvalley.sk/events/startup-awards-meet-up-kosice
+URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1288,17 +1289,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:39c94e36ef289682d73f26931df079b41fb55f4b@cike-events
-DTSTAMP:20250720T065905Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Spring Pharmaceutical Webinar
-LOCATION:online | Zoom
-DESCRIPTION:organized by Deloitte\n\nhttps://amcham.sk/events/3663/spring-p
- harmaceutical-webinar
-URL:https://amcham.sk/events/3663/spring-pharmaceutical-webinar
-DTSTART;VALUE=DATE:20260507
-END:VEVENT
-BEGIN:VEVENT
 UID:5fc0e6ebdd4295714d3066257914f7e642e78111@cike-events
 DTSTAMP:20250802T170437Z
 CATEGORIES:AMCHAM
@@ -1482,6 +1472,17 @@ DESCRIPTION:A Candidate Forum for Chair of KSK and Mayor of Košice\n\nhttp
 URL:https://amcham.sk/events/3667/future-of-eastern-slovakia-data-vision-de
  cisions
 DTSTART;VALUE=DATE:20260604
+END:VEVENT
+BEGIN:VEVENT
+UID:54d38bea3eb5a71221c327e2c932242b347bc804@cike-events
+DTSTAMP:20251120T224839Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Payroll & HR Compliance “Audit-Ready”
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3668/payroll-hr-
+ compliance-audit-ready
+URL:https://amcham.sk/events/3668/payroll-hr-compliance-audit-ready
+DTSTART;VALUE=DATE:20260610
 END:VEVENT
 BEGIN:VEVENT
 UID:52f6a34f2693cb966f60aecfa861d7e791e3eb23@cike-events
@@ -2576,6 +2577,20 @@ URL:https://www.sopk.sk/event/konferencia-digitalna-buducnost-v-banskej-bys
  trici
 DTSTART:20260521T070000Z
 DTEND:20260521T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8f45e052d4a1b3968a8e681543cae16b05a026e6@cike-events
+DTSTAMP:20250222T190522Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár Podnikáme v Grécku
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na webin
+ ár „Podnikáme v Grécku“\, ktorý sa bude konať dňa 21. 5. 2026 pr
+ ostredníctvom platformy Zoom. Podujatie sa realizuje v spolupráci so zas
+ tupiteľským úradom SR [...] \\n\n\nhttps://www.sopk.sk/event/webinar-po
+ dnikame-v-grecku
+URL:https://www.sopk.sk/event/webinar-podnikame-v-grecku
+DTSTART:20260521T073000Z
+DTEND:20260521T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f90c5cf1ef3fcbf471b77f7539e7e3b84f559e3d@cike-events
