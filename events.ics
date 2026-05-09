@@ -6,35 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:6fd6f51275365e21b35f1b3798a8326764fa3fb3@cike-events
-DTSTAMP:20250608T195521Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Lab IT Creativity Talent Camp 2026
-LOCATION:Klimapark Kysak
-DESCRIPTION:Talent Camp v rámci programu Lab IT Creativity je exkluzívne 
- dvojdňové podujatie určené pre 5 najaktívnejších stredných škôl\
- , ktoré sa dlhodobo zapájajú do programu. Uskutoční sa v termíne 4. 
- – 5. mája 2026 v Klimaparku Kysak.\n\nhttps://www.kosiceitvalley.sk/eve
- nts/lab-it-creativity-talent-camp-2026
-URL:https://www.kosiceitvalley.sk/events/lab-it-creativity-talent-camp-2026
-DTSTART;VALUE=DATE:20260504
-DTEND;VALUE=DATE:20260506
-END:VEVENT
-BEGIN:VEVENT
-UID:3e3ac83fa1323459ea7c8a5ef196c4b57282ce56@cike-events
-DTSTAMP:20250627T073928Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
-LOCATION:UVP Technicom\, Košice
-DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
- ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
- etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
- ts/klubovna-pre-nadane-deti-spolocenstvo-kempelena
-URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti-spolocens
- tvo-kempelena
-DTSTART;VALUE=DATE:20260505
-END:VEVENT
-BEGIN:VEVENT
 UID:78a13819e8642d735577b64d77f6655229c369d2@cike-events
 DTSTAMP:20250204T051633Z
 CATEGORIES:ITVALLEY
@@ -83,6 +54,33 @@ DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
 URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
  a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
+UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
+DTSTAMP:20250721T204759Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] SARIO Business Day 2026 v Košiciach
+LOCATION:Kongres hotel Roca\, Košice
+DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
+  Business Day\, zamerané na firmy\, ktoré chcú nadviazať nové obchodn
+ é partnerstvá a rozvíjať spoluprácu.\n\nhttps://www.kosiceitvalley.sk
+ /events/sario-business-day-2026-v-kosiciach
+URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
+ h
+DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:79243f92998450556d36af5d241ff3c1e98452dd@cike-events
@@ -172,6 +170,35 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:3e3ac83fa1323459ea7c8a5ef196c4b57282ce56@cike-events
+DTSTAMP:20250627T073928Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti-spolocenstvo-kempelena
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti-spolocens
+ tvo-kempelena
+DTSTART;VALUE=DATE:20260505
+END:VEVENT
+BEGIN:VEVENT
+UID:6fd6f51275365e21b35f1b3798a8326764fa3fb3@cike-events
+DTSTAMP:20250608T195521Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Lab IT Creativity Talent Camp 2026
+LOCATION:Klimapark Kysak
+DESCRIPTION:Talent Camp v rámci programu Lab IT Creativity je exkluzívne 
+ dvojdňové podujatie určené pre 5 najaktívnejších stredných škôl\
+ , ktoré sa dlhodobo zapájajú do programu. Uskutoční sa v termíne 4. 
+ – 5. mája 2026 v Klimaparku Kysak.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/lab-it-creativity-talent-camp-2026
+URL:https://www.kosiceitvalley.sk/events/lab-it-creativity-talent-camp-2026
+DTSTART;VALUE=DATE:20260504
+DTEND;VALUE=DATE:20260506
 END:VEVENT
 BEGIN:VEVENT
 UID:bc07c3ee278136c129f96dfed1953f47e79eb249@cike-events
@@ -384,33 +411,6 @@ DESCRIPTION:Zborovňa – konferencia pre STEM pedagógov sa uskutoční 19
 URL:https://www.kosiceitvalley.sk/events/zborovna-4-konferencia-pre-stem-pe
  dagogov
 DTSTART;VALUE=DATE:20260219
-END:VEVENT
-BEGIN:VEVENT
-UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
-DTSTAMP:20251108T045302Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CEO Breakfast
-LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
-DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
- ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
- nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
- ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
-URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
-DTSTART;VALUE=DATE:20260527
-END:VEVENT
-BEGIN:VEVENT
-UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
-DTSTAMP:20250721T204759Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] SARIO Business Day 2026 v Košiciach
-LOCATION:Kongres hotel Roca\, Košice
-DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
-  Business Day\, zamerané na firmy\, ktoré chcú nadviazať nové obchodn
- é partnerstvá a rozvíjať spoluprácu.\n\nhttps://www.kosiceitvalley.sk
- /events/sario-business-day-2026-v-kosiciach
-URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
- h
-DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:6914ec55d916ef834d7a3f2e8f9c34559202460f@cike-events
@@ -802,6 +802,18 @@ DESCRIPTION:ESG Awards 2025 od Košice IT Valley je ocenenie pre firmy a je
  .kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
