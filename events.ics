@@ -56,6 +56,20 @@ URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
+UID:5d35101c4361bb52af658106eb75d1289e875e4e@cike-events
+DTSTAMP:20250808T161857Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CODE MEETS INDUSTRY
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Meetup Code Meets Industry prinesie praktické pohľady na vyu
+ žitie AI\, machine learningu a automatizácie v ťažkom priemysle. Spík
+ ri z U. S. Steel Košice a M-D-J predstavia reálne riešenia\, ich príno
+ sy aj limity a skúsenosti priamo z praxe.\n\nhttps://www.kosiceitvalley.s
+ k/events/code-meets-industry
+URL:https://www.kosiceitvalley.sk/events/code-meets-industry
+DTSTART;VALUE=DATE:20260521
+END:VEVENT
+BEGIN:VEVENT
 UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
 DTSTAMP:20251108T045302Z
 CATEGORIES:ITVALLEY
@@ -83,6 +97,39 @@ URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
+UID:06eebcb1ca9e21ff1c1e1ace59c1d19966e04157@cike-events
+DTSTAMP:20251113T223438Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] WRO 2026 MAJSTROVSTVÁ SLOVENSKA MEDZINÁRODNEJ SÚ
+ ŤAŽE
+LOCATION:Košice Kulturpark
+DESCRIPTION:World Robot Olympiad (WRO) patrí medzi najväčšie medzináro
+ dné robotické súťaže pre mladé talenty v oblasti STEM\, programovani
+ a a robotiky. Súťaž prepája vzdelávanie\, inovácie a technologický 
+ rozvoj mladých ľudí vo veku od 8 do 19 rokov. Na Slovensku ju od roku 2
+ 019 organizuje Talentum Cassoviensis v spolupráci s maďarskou univerzito
+ u Edutus.\n\nhttps://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-sl
+ ovenska-medzinarodnej-sutaze
+URL:https://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-slovenska-me
+ dzinarodnej-sutaze
+DTSTART;VALUE=DATE:20260602
+END:VEVENT
+BEGIN:VEVENT
+UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
+DTSTAMP:20250703T002745Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
+LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
+ 40 11
+DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
+ stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
+ častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
+ e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/eduscrum-pre-pedagogov
+URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
+DTSTART;VALUE=DATE:20260602
+END:VEVENT
+BEGIN:VEVENT
 UID:79243f92998450556d36af5d241ff3c1e98452dd@cike-events
 DTSTAMP:20250919T121826Z
 CATEGORIES:ITVALLEY
@@ -97,6 +144,23 @@ DESCRIPTION:Príležitosť len pre členov Košice IT Valley: Zúčastnite
 URL:https://www.kosiceitvalley.sk/events/london-tech-week
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260611
+END:VEVENT
+BEGIN:VEVENT
+UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
+DTSTAMP:20250913T094249Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Finále Lab IT Creativity 5
+LOCATION:Košice
+DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
+ lógií\, kreativity a inovatívnych riešení. Študentské tímy budú p
+ rezentovať projekty\, na ktorých pracovali počas celého školského ro
+ ka pod vedením pedagógov a mentorov z praxe. Každá zapojená škola pr
+ edstaví jeden finálny projekt\, ktorý odprezentuje pred odbornou hodnot
+ iacou komisiou. Tá následne vyberie a ocení najlepšie projekty aktuál
+ neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
+ tivity-5
+URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
+DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
 UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
@@ -147,9 +211,13 @@ UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
 SUMMARY:🔵 [ITVALLEY] Summer Night Out s Košice IT Valley
-LOCATION:Hotel Barca
-DESCRIPTION:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-
- it-valley
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
+ t Out\, IT Valley Drinks\, či CEO Breakfast a v neposlednom rade vianočn
+ é večierky s nezabudnuteľnou atmosférou. Vytvárame pre našich členo
+ v a partnerov z ekosystému priestor pre vznik synapsií\, nových kontakt
+ ov\, vzájomné zdieľanie úspechov\, myšlienok\, či nápadov.\n\nhttps
+ ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
 DTSTART;VALUE=DATE:20260623
@@ -382,58 +450,6 @@ DESCRIPTION:V rámci projektu Lab IT Creativity 2.0 sa uskutočnia polročn
 URL:https://www.kosiceitvalley.sk/events/polrocne-prezentacie-projektov-lab
  -it-creativity-2-0
 DTSTART;VALUE=DATE:20260226
-END:VEVENT
-BEGIN:VEVENT
-UID:5d35101c4361bb52af658106eb75d1289e875e4e@cike-events
-DTSTAMP:20250808T161857Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CODE MEETS INDUSTRY
-LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
-DESCRIPTION:Meetup Code Meets Industry prinesie praktické pohľady na vyu
- žitie AI\, machine learningu a automatizácie v ťažkom priemysle. Spík
- ri z U. S. Steel Košice a M-D-J predstavia reálne riešenia\, ich príno
- sy aj limity a skúsenosti priamo z praxe.\n\nhttps://www.kosiceitvalley.s
- k/events/code-meets-industry
-URL:https://www.kosiceitvalley.sk/events/code-meets-industry
-DTSTART;VALUE=DATE:20260521
-END:VEVENT
-BEGIN:VEVENT
-UID:06eebcb1ca9e21ff1c1e1ace59c1d19966e04157@cike-events
-DTSTAMP:20251113T223438Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] WRO 2026 MAJSTROVSTVÁ SLOVENSKA MEDZINÁRODNEJ SÚ
- ŤAŽE
-LOCATION:Košice Kulturpark
-DESCRIPTION:World Robot Olympiad (WRO) patrí medzi najväčšie medzináro
- dné robotické súťaže pre mladé talenty v oblasti STEM\, programovani
- a a robotiky. Súťaž prepája vzdelávanie\, inovácie a technologický 
- rozvoj mladých ľudí vo veku od 8 do 19 rokov. Na Slovensku ju od roku 2
- 019 organizuje Talentum Cassoviensis v spolupráci s maďarskou univerzito
- u Edutus.\n\nhttps://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-sl
- ovenska-medzinarodnej-sutaze
-URL:https://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-slovenska-me
- dzinarodnej-sutaze
-DTSTART;VALUE=DATE:20260602
-END:VEVENT
-BEGIN:VEVENT
-UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
-DTSTAMP:20250703T002745Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
-LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
- 40 11
-DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
- stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
- častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
- e a jednotlivými Scrum ceremóniami. Prostredníctvom interaktívnych akt
- ivít a praktických cvičení si vyskúšajú fungovanie agilného tímu 
- v praxi a zažijú výhody efektívnej spolupráce\, plánovania a sebaref
- lexie. Workshop ponúka inšpiráciu\, ako flexibilne reagovať na zmeny\,
-  jednoduchšie zvládať komplexné úlohy a podporovať priebežné zlep
- šovanie tímu aj jednotlivcov.\n\nhttps://www.kosiceitvalley.sk/events/ed
- uscrum-pre-pedagogov
-URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
-DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
 UID:5c72d84ad8c4e0ae398c49be06564a4c526de2db@cike-events
@@ -1353,17 +1369,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:5fc0e6ebdd4295714d3066257914f7e642e78111@cike-events
-DTSTAMP:20250802T170437Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Navigating EU Funds & E-Invoicing
-LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
-DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3657/
- navigating-eu-funds-e-invoicing
-URL:https://amcham.sk/events/3657/navigating-eu-funds-e-invoicing
-DTSTART;VALUE=DATE:20260512
-END:VEVENT
-BEGIN:VEVENT
 UID:4ad6fe9c328ed98c21efe8414a95d78d2047f348@cike-events
 DTSTAMP:20250302T222527Z
 CATEGORIES:AMCHAM
@@ -1696,6 +1701,17 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:5fc0e6ebdd4295714d3066257914f7e642e78111@cike-events
+DTSTAMP:20250802T170437Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Navigating EU Funds & E-Invoicing
+LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5
+DESCRIPTION:Business Breakfast in Košice\n\nhttps://amcham.sk/events/3657/
+ navigating-eu-funds-e-invoicing
+URL:https://amcham.sk/events/3657/navigating-eu-funds-e-invoicing
+DTSTART;VALUE=DATE:20260512
 END:VEVENT
 BEGIN:VEVENT
 UID:d5f6e2490e25565e786712682ee2e3f458e36581@cike-events
@@ -2552,6 +2568,22 @@ DTSTART:20260519T070000Z
 DTEND:20260519T090000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:143ae48d169038921db7ff5d4b9f964950dbbc66@cike-events
+DTSTAMP:20250317T142736Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
+ ?“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
+ a bude konať  dňa 19. mája 2026 od 9:00 do 13:00 hod. v zasadačke Ban
+ skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
+ ravidla-stare-problemy-4
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-4
+DTSTART:20260519T070000Z
+DTEND:20260519T110000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:05eb0894b3c6e44097beb5c8c2502bfdfc6c25b8@cike-events
 DTSTAMP:20251119T233155Z
 CATEGORIES:SOPK
@@ -2631,6 +2663,21 @@ DTSTART:20260521T070000Z
 DTEND:20260521T113000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:e944f390aebf03e1479b08f114f65f778c5692f5@cike-events
+DTSTAMP:20250123T135412Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: ZÁKON O ROVNAKOM ODMEŇOVANÍ MUŽOV A ŽIEN
+DESCRIPTION:Žilinská regionálna komora SOPK Vás a Vašich zamestnancov 
+ pozýva na webinár s RNDr. Jozefom Mihálom: ZÁKON O ROVNAKOM ODMEŇOVAN
+ Í MUŽOV A ŽIEN Termíny: 21. máj 2026\, 12. jún 2026 alebo 23. jún 
+ [...] \\n\n\nhttps://www.sopk.sk/event/webinare-zakon-o-rovnakom-odmenovan
+ i-materska-dochodky
+URL:https://www.sopk.sk/event/webinare-zakon-o-rovnakom-odmenovani-materska
+ -dochodky
+DTSTART:20260521T070000Z
+DTEND:20260521T123000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:35ca934b94b748b2513ab631778d48ad8286033f@cike-events
 DTSTAMP:20251115T080205Z
 CATEGORIES:SOPK
@@ -2694,7 +2741,7 @@ BEGIN:VEVENT
 UID:9238c3056b429c931fa11272a2bf033e2145bdee@cike-events
 DTSTAMP:20251002T171603Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: ZÁKONNÍK PRÁCE
+SUMMARY:🟧 [SOPK] Webináre: ZÁKONNÍK PRÁCE
 DESCRIPTION:26.5.26 – Pracovná zmluva a pracovný čas 27.5.26 – Dovol
  enka a prekážky v práci 28.5.26 – Mzda\, príplatky ku mzde\, príspe
  vok na rekreáciu a športovú činnosť dieťaťa  Lektor: RNDr. Jozef M
@@ -2744,6 +2791,21 @@ DESCRIPTION:Nitrianska regionálna komora SOPK Vás 28.5.2026 od 09:00 - 13
 URL:https://www.sopk.sk/event/26373
 DTSTART:20260528T070000Z
 DTEND:20260528T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a62bc67d37e97adf5f3e5060386a2eaa402762bb@cike-events
+DTSTAMP:20251006T075506Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] HN BIZNIS FÓRUM POĽSKO – SLOVENSKO 2026
+LOCATION:Bratislava\, Hotel Sheraton\, Pribinova 12\, Bratislava
+DESCRIPTION:Žilinská regionálna komora SOPK a Slovensko-poľská obchodn
+ á komora ako partneri konferencie  HN BIZNIS FÓRUM POĽSKO - SLOVENSKO 
+ 2026 vás pozývajú na tradičné fórum podnikania\, kde sa stretávajú
+  firmy a osobnosti so [...] \\n\n\nhttps://www.sopk.sk/event/hn-biznis-for
+ um-polsko-slovensko-2026
+URL:https://www.sopk.sk/event/hn-biznis-forum-polsko-slovensko-2026
+DTSTART:20260528T070000Z
+DTEND:20260528T133000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf38867bd7c937a54897eb53c8ad3e27a4412c3a@cike-events
@@ -2816,6 +2878,19 @@ DTSTART:20260610T070000Z
 DTEND:20260610T123000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:6c1d099665a1e6e7e1ce887e4325efc50f1a6620@cike-events
+DTSTAMP:20250210T175109Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: MATERSKÁ
+DESCRIPTION:Žilinská regionálna komora SOPK Vás a Vašich zamestnancov 
+ pozýva na webinár s RNDr. Jozefom Mihálom: MATERSKÁ Termín: 10. jún
+  2026 - materská - úvodné vysvetlenie\, kedy je nárok\, ako sa vypoč
+ íta\, - [...] \\n\n\nhttps://www.sopk.sk/event/webinar-materska
+URL:https://www.sopk.sk/event/webinar-materska
+DTSTART:20260610T070000Z
+DTEND:20260610T123000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:b5b82f931e94d644c004be73c1d6234ddc6f7561@cike-events
 DTSTAMP:20250216T021327Z
 CATEGORIES:SOPK
@@ -2864,21 +2939,32 @@ DTSTART:20260617T220000Z
 DTEND:20260620T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6b0a00d06032ba85e71d091fc86d046e49e07927@cike-events
-DTSTAMP:20250924T231416Z
+UID:e432d17a68749451a3b3fc89af260259f3a0a3ac@cike-events
+DTSTAMP:20250709T193224Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Obchodná misia do Turecka (Istanbul) 2026 – zisťuje
- me predbežný záujem slovenských firiem
-DESCRIPTION:Trnavská regionálna komora SOPK zisťuje predbežný záujem 
- slovenských podnikateľov o účasť na pripravovanej obchodnej misii do 
- Turecka (Istanbul)\, ktorá je plánovaná na posledný štvrťrok 2026 (Q
- 4/2026). Podujatie bude organizované v spolupráci [...] \\n\n\nhttps://w
- ww.sopk.sk/event/obchodna-misia-do-turecka-istanbul-2026-zistujeme-predbez
- ny-zaujem-slovenskych-firiem
-URL:https://www.sopk.sk/event/obchodna-misia-do-turecka-istanbul-2026-zistu
- jeme-predbezny-zaujem-slovenskych-firiem
-DTSTART:20260901T060000Z
-DTEND:20261231T160000Z
+SUMMARY:🟧 [SOPK] Webinár: DÔCHODKY
+DESCRIPTION:Žilinská regionálna komora SOPK Vás a Vašich zamestnancov 
+ pozýva na webinár s RNDr. Jozefom Mihálom: DÔCHODKY Termín: 24. jún
+  2026 - stručný prehľad dôchodkových dávok zo Sociálnej poisťovne\
+ , so zameraním na starobný [...] \\n\n\nhttps://www.sopk.sk/event/webina
+ r-dochodky-3
+URL:https://www.sopk.sk/event/webinar-dochodky-3
+DTSTART:20260624T070000Z
+DTEND:20260624T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:553a02b11250ada0cf85b1a4c7f2e1dde3cd6c7b@cike-events
+DTSTAMP:20250205T144320Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Obchodná misia do Istanbulu
+DESCRIPTION:Vážení podnikatelia\, pozývame Vás na obchodnú misiu do I
+ stanbulu. Po komunikácii s Obchodnou a priemyselnou komorou Istanbul bol 
+ dohodnutý termín hlavného pracovného programu (prezentácie a B2B roko
+ vania firiem) na stredu 16.9.2026. [...] \\n\n\nhttps://www.sopk.sk/event/
+ 26613
+URL:https://www.sopk.sk/event/26613
+DTSTART:20260915T060000Z
+DTEND:20260918T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
@@ -4191,52 +4277,6 @@ DTSTART:20250828T080000Z
 DTEND:20250828T153000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
-DTSTAMP:20250220T183120Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
- dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
- rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
- O bude človek\, ktorý presne toto dokázal. […] \\n\n\nhttps://ickk.s
- k/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-DTSTART:20260429T150000Z
-DTEND:20260429T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:7688f6d88b68d2ace4e5a1255061752a0ecf8902@cike-events
-DTSTAMP:20250327T060049Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ZRUŠENÉ – Workshop: Ako vzniká herný svet s Matej
- om Hudákom
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Workshop z organizačných dôvodov zrušený. \\n\n\nhttps://i
- ckk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
-URL:https://ickk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
-DTSTART:20260414T150000Z
-DTEND:20260414T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2600e5f55a28bc8851e575ce9ed1886be30a5fb3@cike-events
-DTSTAMP:20250128T151844Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí. Zmeňte 
- svoj pohľad na to\, čo je „odpad“\, a objavte silu sociálneho podni
- kania v umení. Pozývame vás do priestorov ICKK na inšpiratívne […] 
- \\n\n\nhttps://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-lud
- i
-URL:https://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-ludi
-DTSTART:20260331T150000Z
-DTEND:20260331T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
 DTSTAMP:20250928T131957Z
 CATEGORIES:ICKK
@@ -4358,6 +4398,56 @@ URL:https://ickk.sk/event/odkukaj-to-s-petrom-schmiedlom-ceo-kosickej-futba
  lovej-areny
 DTSTART:20260325T160000Z
 DTEND:20260325T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2600e5f55a28bc8851e575ce9ed1886be30a5fb3@cike-events
+DTSTAMP:20250128T151844Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí. Zmeňte 
+ svoj pohľad na to\, čo je „odpad“\, a objavte silu sociálneho podni
+ kania v umení. Pozývame vás do priestorov ICKK na inšpiratívne stretn
+ utie s Petrou Nagyovou\, riaditeľkou slovenskej značky ODPADNESH. Toto p
+ odujatie nie je len obyčajnou prednáškou – je to pozvánka do sveta\,
+  kde ekológia\, dizajn a […] \\n\n\nhttps://ickk.sk/event/odpadnesh-diz
+ ajn-ktory-meni-svet-aj-osudy-ludi
+URL:https://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-ludi
+DTSTART:20260331T150000Z
+DTEND:20260331T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7688f6d88b68d2ace4e5a1255061752a0ecf8902@cike-events
+DTSTAMP:20250327T060049Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ZRUŠENÉ – Workshop: Ako vzniká herný svet s Matej
+ om Hudákom
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Workshop z organizačných dôvodov zrušený. \\n\n\nhttps://i
+ ckk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
+URL:https://ickk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
+DTSTART:20260414T150000Z
+DTEND:20260414T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
+DTSTAMP:20250220T183120Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
+ dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
+ rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
+ O bude človek\, ktorý presne toto dokázal. Do Košíc prichádza Mart
+ in Švenk\, CEO slovenskej lovebrand značky Puella. Prečo by ste si to 
+ nemali nechať ujsť? Puella nie je len o voňavej bielizni. Je to […] \
+ \n\n\nhttps://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
+DTSTART:20260429T150000Z
+DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
@@ -4531,23 +4621,6 @@ DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
 URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
 DTSTART:20251029T160000Z
 DTEND:20251029T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:69fdf9f970e7dffb8b50336ce3fe6bc741d2442f@cike-events
-DTSTAMP:20250129T221428Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] FINÁLE – Founders Challenge Competition
-LOCATION:Kunsthalle\, Košice
-DESCRIPTION:Founders Challenge Competition je inovatívny program určený 
- pre stredoškolákov v Košickom kraji\, ktorí chcú rozvíjať svoje pod
- nikateľské a kreatívne schopnosti. 13.05.2025 nás čaká veľkolepé f
- inále v Kunsthalle v Košiciach\, kde budú súťažiť o finančnú podp
- oru až do výšky 20 000 eur! Na rozdiel od tradičných súťaží\, kde
-  študenti prezentujú svoje nápady bez hlbšej realizácie\, tento […]
-  \\n\n\nhttps://ickk.sk/event/founders-challenge-competition
-URL:https://ickk.sk/event/founders-challenge-competition
-DTSTART:20250512T220000Z
-DTEND:20250513T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8b9ddf171ccde68fa7126c3e8bab2de49d8b98af@cike-events
