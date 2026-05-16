@@ -887,18 +887,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -909,6 +897,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1384,19 +1384,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:5c4516199fd23ab7a76039da76e3e24aa87aac9a@cike-events
-DTSTAMP:20250601T002204Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Why Smart People Make Bad Decisions? Practical Critic
- al Thinking for Business Professionals
-LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3655/why-smart-people-make
- -bad-decisions-practical-critical-thinking-for-business-professionals
-URL:https://amcham.sk/events/3655/why-smart-people-make-bad-decisions-pract
- ical-critical-thinking-for-business-professionals
-DTSTART;VALUE=DATE:20260515
-END:VEVENT
-BEGIN:VEVENT
 UID:632e47e0eceb1a594287c3b650654c8da76a54c2@cike-events
 DTSTAMP:20250906T052445Z
 CATEGORIES:AMCHAM
@@ -1653,6 +1640,18 @@ URL:https://amcham.sk/events/3670/scaling-in-europe-climate-tech-and-the-sl
 DTSTART;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
+UID:ba502ddb87701b08addc721df6bf7805c0648bad@cike-events
+DTSTAMP:20250912T002701Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Welcome Back to Work in Košice
+LOCATION:Dom umenia - Štátna filharmónia Košice\, Moyzesova 66\, Košic
+ e
+DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3673/welcome-back
+ -to-work-in-kosice
+URL:https://amcham.sk/events/3673/welcome-back-to-work-in-kosice
+DTSTART;VALUE=DATE:20261001
+END:VEVENT
+BEGIN:VEVENT
 UID:184acc4bcefc0a0656457adb7bcf1e18d5d1b5de@cike-events
 DTSTAMP:20250403T224408Z
 CATEGORIES:AMCHAM
@@ -1665,16 +1664,17 @@ DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
 END:VEVENT
 BEGIN:VEVENT
-UID:ba502ddb87701b08addc721df6bf7805c0648bad@cike-events
-DTSTAMP:20250912T002701Z
+UID:5c4516199fd23ab7a76039da76e3e24aa87aac9a@cike-events
+DTSTAMP:20250601T002204Z
 CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Welcome Back to Work in Košice
-LOCATION:Dom umenia - Štátna filharmónia Košice\, Moyzesova 66\, Košic
- e
-DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3673/welcome-back
- -to-work-in-kosice
-URL:https://amcham.sk/events/3673/welcome-back-to-work-in-kosice
-DTSTART;VALUE=DATE:20261001
+SUMMARY:🟢 [AMCHAM] Why Smart People Make Bad Decisions? Practical Critic
+ al Thinking for Business Professionals
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3655/why-smart-people-make
+ -bad-decisions-practical-critical-thinking-for-business-professionals
+URL:https://amcham.sk/events/3655/why-smart-people-make-bad-decisions-pract
+ ical-critical-thinking-for-business-professionals
+DTSTART;VALUE=DATE:20260515
 END:VEVENT
 BEGIN:VEVENT
 UID:3095891aa0a0126cf192118bf8a6dec3b422f8b1@cike-events
@@ -4519,24 +4519,6 @@ DTSTART:20260429T150000Z
 DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
-DTSTAMP:20250702T173416Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] INOVUJME REGIÓNY – objavte potenciál krajov
-LOCATION:Binarium\, Bratislava\, Staré Grunty 18\, Bratislava
-DESCRIPTION:Pozývame vás na konferenciu združenia Samosprávne kraje Slo
- venska (SK8) na tému INOVUJME REGIÓNY - objavte potenciál krajov. Poduj
- atie ponúkne priestor na diskusiu o tom\, ako môžu slovenské regióny 
- rozvíjať svoj potenciál prostredníctvom kvalitného vzdelávania\, med
- ziregionálnej spolupráce či pokrokových projektov. Počas jedného dň
- a zažijete panelové diskusie a prezentácie s odborníkmi na inovácie v
-  samospráve z Košíc\, […] \\n\n\nhttps://ickk.sk/event/inovujme-regio
- ny-objavte-potencial-krajov
-URL:https://ickk.sk/event/inovujme-regiony-objavte-potencial-krajov
-DTSTART:20250619T060000Z
-DTEND:20250619T150000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
 DTSTAMP:20251001T035249Z
 CATEGORIES:ICKK
@@ -4692,24 +4674,6 @@ DTSTART:20251029T160000Z
 DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:871e833ac788cd918c2726e42d3d130fde22f2e1@cike-events
-DTSTAMP:20250705T203352Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] SISA – Slovakia Innovation and Startup Awards 2025
-DESCRIPTION:Najväčšie inovačné a startupové podujatie na Slovensku!Oc
- enenie výnimočných vedcov\, inovátorov a startupov. Už 15. mája 2025
-  sa v ikonickej Kunsthalle v Košiciach uskutoční slávnostný galaveče
- r\, počas ktorého budú odovzdané prestížne ocenenia tým najlepším
- \, čo slovenská inovačná a startupová scéna ponúka. Toto výnimočn
- é podujatie\, organizované pod záštitou SK8\, Ministerstva investíci
- í\, regionálneho rozvoja a informatizácie Slovenskej republiky […] \\
- n\n\nhttps://ickk.sk/event/sisa-slovakia-innovation-and-startup-awards-202
- 5
-URL:https://ickk.sk/event/sisa-slovakia-innovation-and-startup-awards-2025
-DTSTART:20250515T150000Z
-DTEND:20250515T190000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4739,5 +4703,23 @@ DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
 URL:https://ickk.sk/event/strojarenska-zije-2-0
 DTSTART:20250618T140000Z
 DTEND:20250618T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
+DTSTAMP:20250702T173416Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] INOVUJME REGIÓNY – objavte potenciál krajov
+LOCATION:Binarium\, Bratislava\, Staré Grunty 18\, Bratislava
+DESCRIPTION:Pozývame vás na konferenciu združenia Samosprávne kraje Slo
+ venska (SK8) na tému INOVUJME REGIÓNY - objavte potenciál krajov. Poduj
+ atie ponúkne priestor na diskusiu o tom\, ako môžu slovenské regióny 
+ rozvíjať svoj potenciál prostredníctvom kvalitného vzdelávania\, med
+ ziregionálnej spolupráce či pokrokových projektov. Počas jedného dň
+ a zažijete panelové diskusie a prezentácie s odborníkmi na inovácie v
+  samospráve z Košíc\, […] \\n\n\nhttps://ickk.sk/event/inovujme-regio
+ ny-objavte-potencial-krajov
+URL:https://ickk.sk/event/inovujme-regiony-objavte-potencial-krajov
+DTSTART:20250619T060000Z
+DTEND:20250619T150000Z
 END:VEVENT
 END:VCALENDAR
