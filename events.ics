@@ -6,23 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:78a13819e8642d735577b64d77f6655229c369d2@cike-events
-DTSTAMP:20250204T051633Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Business Breakfast – Efektívna práca s AI & Soc
- iálne bývanie
-LOCATION:Kongres hotel Roca\, Košice
-DESCRIPTION:Spoločnosť ABB Solutions Slovakia v spolupráci s neziskovou 
- organizáciou Sociálne bývanie vás pozýva na Business Breakfast. Okrem
-  chutných raňajok máme pre vás pripravené dve aktuálne a hodnotné t
- émy\, ktoré majú praktický prínos pre vašu prácu aj pozitívny dopa
- d na komunitu.\n\nhttps://www.kosiceitvalley.sk/events/business-breakfast-
- efektivna-praca-s-ai-socialne-byvanie
-URL:https://www.kosiceitvalley.sk/events/business-breakfast-efektivna-praca
- -s-ai-socialne-byvanie
-DTSTART;VALUE=DATE:20260514
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -207,6 +190,21 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260619
 END:VEVENT
 BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -238,6 +236,23 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:78a13819e8642d735577b64d77f6655229c369d2@cike-events
+DTSTAMP:20250204T051633Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Business Breakfast – Efektívna práca s AI & Soc
+ iálne bývanie
+LOCATION:Kongres hotel Roca\, Košice
+DESCRIPTION:Spoločnosť ABB Solutions Slovakia v spolupráci s neziskovou 
+ organizáciou Sociálne bývanie vás pozýva na Business Breakfast. Okrem
+  chutných raňajok máme pre vás pripravené dve aktuálne a hodnotné t
+ émy\, ktoré majú praktický prínos pre vašu prácu aj pozitívny dopa
+ d na komunitu.\n\nhttps://www.kosiceitvalley.sk/events/business-breakfast-
+ efektivna-praca-s-ai-socialne-byvanie
+URL:https://www.kosiceitvalley.sk/events/business-breakfast-efektivna-praca
+ -s-ai-socialne-byvanie
+DTSTART;VALUE=DATE:20260514
 END:VEVENT
 BEGIN:VEVENT
 UID:3e3ac83fa1323459ea7c8a5ef196c4b57282ce56@cike-events
@@ -450,21 +465,6 @@ DESCRIPTION:V rámci projektu Lab IT Creativity 2.0 sa uskutočnia polročn
 URL:https://www.kosiceitvalley.sk/events/polrocne-prezentacie-projektov-lab
  -it-creativity-2-0
 DTSTART;VALUE=DATE:20260226
-END:VEVENT
-BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
-DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
 UID:5c72d84ad8c4e0ae398c49be06564a4c526de2db@cike-events
@@ -765,6 +765,19 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -776,19 +789,6 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -2465,19 +2465,6 @@ DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3501/spee
  d-business-meeting
 URL:https://amcham.sk/events/3501/speed-business-meeting
 DTSTART;VALUE=DATE:20250521
-END:VEVENT
-BEGIN:VEVENT
-UID:c3c422940d8de63acc0850a9b1246f620d730550@cike-events
-DTSTAMP:20250628T130352Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] How To Avoid Discrimination Of 50+ And Harness Their 
- Potential
-LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3500/how-to-avoid-discrimi
- nation-of-50-and-harness-their-potential
-URL:https://amcham.sk/events/3500/how-to-avoid-discrimination-of-50-and-har
- ness-their-potential
-DTSTART;VALUE=DATE:20250516
 END:VEVENT
 BEGIN:VEVENT
 UID:2c8e3811a24a6b36ea63804453a8f02037872914@cike-events
@@ -4329,44 +4316,6 @@ DTSTART:20250922T220000Z
 DTEND:20250924T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:1d45f81c19d93bdcaaad51205b9ec757aa7058bf@cike-events
-DTSTAMP:20250209T063148Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichád
- za historicky prvý Innovation and Tech Week!
-DESCRIPTION:Innovation and Tech Week: Košice sa stávajú epicentrom inov
- ácií Slovensko a špeciálne náš východný región zažije v máji ni
- ečo\, čo tu doteraz nebolo. Inšpirovaní globálnymi technologickými m
- etropolami ako New York […] \\n\n\nhttps://ickk.sk/event/kosicky-kraj-sa
- -meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-we
- ek
-URL:https://ickk.sk/event/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadz
- a-historicky-prvy-innovation-and-tech-week
-DTSTART:20260510T220000Z
-DTEND:20260515T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
-DTSTAMP:20250928T131957Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
-  mix
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
- járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
- reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
-  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
- ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
- stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
- n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
- -mix
-URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
- ix
-DTSTART:20251113T150000Z
-DTEND:20251113T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
 DTSTAMP:20250616T235150Z
 CATEGORIES:ICKK
@@ -4517,6 +4466,25 @@ DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden
 URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
 DTSTART:20260429T150000Z
 DTEND:20260429T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1d45f81c19d93bdcaaad51205b9ec757aa7058bf@cike-events
+DTSTAMP:20250209T063148Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichád
+ za historicky prvý Innovation and Tech Week!
+DESCRIPTION:Innovation and Tech Week: Košice sa stávajú epicentrom inov
+ ácií Slovensko a špeciálne náš východný región zažije v máji ni
+ ečo\, čo tu doteraz nebolo. Inšpirovaní globálnymi technologickými m
+ etropolami ako New York či San Francisco\, prinášame koncept Innovation
+  and Tech Week. Od 11. do 15. mája 2026 sa Košice a okolie stanú domovo
+ m vizionárov\, technologických gigantov a […] \\n\n\nhttps://ickk.sk/e
+ vent/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-in
+ novation-and-tech-week
+URL:https://ickk.sk/event/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadz
+ a-historicky-prvy-innovation-and-tech-week
+DTSTART:20260510T220000Z
+DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
@@ -4672,6 +4640,27 @@ DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
 URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
 DTSTART:20251029T160000Z
 DTEND:20251029T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
+DTSTAMP:20250928T131957Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
+  mix
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
+ járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
+ reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
+  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
+ ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
+ stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
+ n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
+ -mix
+URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
+ ix
+DTSTART:20251113T150000Z
+DTEND:20251113T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
