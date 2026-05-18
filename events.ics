@@ -6,6 +6,22 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -20,22 +36,6 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -2480,20 +2480,6 @@ DTSTART:20260518T060000Z
 DTEND:20260522T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d789fc53012c0262887289c80edc35f1f444d449@cike-events
-DTSTAMP:20250202T031700Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] „Bankové záruky a colné ručenia od A po Z“
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
- ár „Bankové záruky a colné ručenia od A po Z“\, ktorý sa bude ko
- nať dňa 18. mája 2026 od 9:00 do 15:30 hod. v [...] \\n\n\nhttps://www.
- sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z-2
-URL:https://www.sopk.sk/event/bankove-zaruky-a-colne-rucenia-od-a-po-z-2
-DTSTART:20260518T070000Z
-DTEND:20260518T133000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:1640859716eb14a3a951992df44e37891f7662cc@cike-events
 DTSTAMP:20250807T024238Z
 CATEGORIES:SOPK
@@ -4316,6 +4302,44 @@ DTSTART:20250922T220000Z
 DTEND:20250924T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:1d45f81c19d93bdcaaad51205b9ec757aa7058bf@cike-events
+DTSTAMP:20250209T063148Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichád
+ za historicky prvý Innovation and Tech Week!
+DESCRIPTION:Innovation and Tech Week: Košice sa stávajú epicentrom inov
+ ácií Slovensko a špeciálne náš východný región zažije v máji ni
+ ečo\, čo tu doteraz nebolo. Inšpirovaní globálnymi technologickými m
+ etropolami ako New York […] \\n\n\nhttps://ickk.sk/event/kosicky-kraj-sa
+ -meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-we
+ ek
+URL:https://ickk.sk/event/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadz
+ a-historicky-prvy-innovation-and-tech-week
+DTSTART:20260510T220000Z
+DTEND:20260515T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
+DTSTAMP:20250928T131957Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
+  mix
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
+ járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
+ reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
+  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
+ ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
+ stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
+ n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
+ -mix
+URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
+ ix
+DTSTART:20251113T150000Z
+DTEND:20251113T170000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
 DTSTAMP:20250616T235150Z
 CATEGORIES:ICKK
@@ -4468,23 +4492,22 @@ DTSTART:20260429T150000Z
 DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:1d45f81c19d93bdcaaad51205b9ec757aa7058bf@cike-events
-DTSTAMP:20250209T063148Z
+UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
+DTSTAMP:20250702T173416Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichád
- za historicky prvý Innovation and Tech Week!
-DESCRIPTION:Innovation and Tech Week: Košice sa stávajú epicentrom inov
- ácií Slovensko a špeciálne náš východný región zažije v máji ni
- ečo\, čo tu doteraz nebolo. Inšpirovaní globálnymi technologickými m
- etropolami ako New York či San Francisco\, prinášame koncept Innovation
-  and Tech Week. Od 11. do 15. mája 2026 sa Košice a okolie stanú domovo
- m vizionárov\, technologických gigantov a […] \\n\n\nhttps://ickk.sk/e
- vent/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-in
- novation-and-tech-week
-URL:https://ickk.sk/event/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadz
- a-historicky-prvy-innovation-and-tech-week
-DTSTART:20260510T220000Z
-DTEND:20260515T215959Z
+SUMMARY:🟣 [ICKK] INOVUJME REGIÓNY – objavte potenciál krajov
+LOCATION:Binarium\, Bratislava\, Staré Grunty 18\, Bratislava
+DESCRIPTION:Pozývame vás na konferenciu združenia Samosprávne kraje Slo
+ venska (SK8) na tému INOVUJME REGIÓNY - objavte potenciál krajov. Poduj
+ atie ponúkne priestor na diskusiu o tom\, ako môžu slovenské regióny 
+ rozvíjať svoj potenciál prostredníctvom kvalitného vzdelávania\, med
+ ziregionálnej spolupráce či pokrokových projektov. Počas jedného dň
+ a zažijete panelové diskusie a prezentácie s odborníkmi na inovácie v
+  samospráve z Košíc\, […] \\n\n\nhttps://ickk.sk/event/inovujme-regio
+ ny-objavte-potencial-krajov
+URL:https://ickk.sk/event/inovujme-regiony-objavte-potencial-krajov
+DTSTART:20250619T060000Z
+DTEND:20250619T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
@@ -4642,27 +4665,6 @@ DTSTART:20251029T160000Z
 DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
-DTSTAMP:20250928T131957Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
-  mix
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
- járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
- reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
-  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
- ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
- stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
- n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
- -mix
-URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
- ix
-DTSTART:20251113T150000Z
-DTEND:20251113T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4692,23 +4694,5 @@ DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
 URL:https://ickk.sk/event/strojarenska-zije-2-0
 DTSTART:20250618T140000Z
 DTEND:20250618T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
-DTSTAMP:20250702T173416Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] INOVUJME REGIÓNY – objavte potenciál krajov
-LOCATION:Binarium\, Bratislava\, Staré Grunty 18\, Bratislava
-DESCRIPTION:Pozývame vás na konferenciu združenia Samosprávne kraje Slo
- venska (SK8) na tému INOVUJME REGIÓNY - objavte potenciál krajov. Poduj
- atie ponúkne priestor na diskusiu o tom\, ako môžu slovenské regióny 
- rozvíjať svoj potenciál prostredníctvom kvalitného vzdelávania\, med
- ziregionálnej spolupráce či pokrokových projektov. Počas jedného dň
- a zažijete panelové diskusie a prezentácie s odborníkmi na inovácie v
-  samospráve z Košíc\, […] \\n\n\nhttps://ickk.sk/event/inovujme-regio
- ny-objavte-potencial-krajov
-URL:https://ickk.sk/event/inovujme-regiony-objavte-potencial-krajov
-DTSTART:20250619T060000Z
-DTEND:20250619T150000Z
 END:VEVENT
 END:VCALENDAR
