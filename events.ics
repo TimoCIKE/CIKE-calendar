@@ -6,53 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
-DTSTAMP:20250827T084058Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Región budúcnosti – budúcnosť regiónu je aut
- omotive
-LOCATION:Košice\, BCT 1- Moldavská cesta 8/A
-DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
- ľúčový sektor pre východné Slovensko. Budeme diskutovať o vplyve um
- elej inteligencie\, automatizácie a nových nárokov na talenty. Pridajte
-  sa k nám a objavte príležitosti\, ktoré formujú budúcnosť regiónu
- .\n\nhttps://www.kosiceitvalley.sk/events/region-buducnosti-automotive-kon
- ferencia
-URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
- rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:5d35101c4361bb52af658106eb75d1289e875e4e@cike-events
-DTSTAMP:20250808T161857Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CODE MEETS INDUSTRY
-LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
-DESCRIPTION:Meetup Code Meets Industry prinesie praktické pohľady na vyu
- žitie AI\, machine learningu a automatizácie v ťažkom priemysle. Spík
- ri z U. S. Steel Košice a M-D-J predstavia reálne riešenia\, ich príno
- sy aj limity a skúsenosti priamo z praxe.\n\nhttps://www.kosiceitvalley.s
- k/events/code-meets-industry
-URL:https://www.kosiceitvalley.sk/events/code-meets-industry
-DTSTART;VALUE=DATE:20260521
-END:VEVENT
-BEGIN:VEVENT
 UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
 DTSTAMP:20251108T045302Z
 CATEGORIES:ITVALLEY
@@ -77,6 +30,19 @@ DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
  /events/sario-business-day-2026-v-kosiciach
 URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
  h
+DTSTART;VALUE=DATE:20260528
+END:VEVENT
+BEGIN:VEVENT
+UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
+DTSTAMP:20251108T023138Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] MICE DAY Košice
+LOCATION:Boutique Hotel Slávia
+DESCRIPTION:Visit Košice\, pozýva odbornú verejnosť na podujatie MICE D
+ ay Košice 2026\, ktoré otvorí diskusiu o budúcnosti biznis events sekt
+ ora v Košiciach a jeho význame pre rozvoj regiónu.\n\nhttps://www.kosic
+ eitvalley.sk/events/mice-day-kosice
+URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
@@ -236,6 +202,53 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:5d35101c4361bb52af658106eb75d1289e875e4e@cike-events
+DTSTAMP:20250808T161857Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CODE MEETS INDUSTRY
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Meetup Code Meets Industry prinesie praktické pohľady na vyu
+ žitie AI\, machine learningu a automatizácie v ťažkom priemysle. Spík
+ ri z U. S. Steel Košice a M-D-J predstavia reálne riešenia\, ich príno
+ sy aj limity a skúsenosti priamo z praxe.\n\nhttps://www.kosiceitvalley.s
+ k/events/code-meets-industry
+URL:https://www.kosiceitvalley.sk/events/code-meets-industry
+DTSTART;VALUE=DATE:20260521
+END:VEVENT
+BEGIN:VEVENT
+UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
+DTSTAMP:20250827T084058Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Región budúcnosti – budúcnosť regiónu je aut
+ omotive
+LOCATION:Košice\, BCT 1- Moldavská cesta 8/A
+DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
+ ľúčový sektor pre východné Slovensko. Budeme diskutovať o vplyve um
+ elej inteligencie\, automatizácie a nových nárokov na talenty. Pridajte
+  sa k nám a objavte príležitosti\, ktoré formujú budúcnosť regiónu
+ .\n\nhttps://www.kosiceitvalley.sk/events/region-buducnosti-automotive-kon
+ ferencia
+URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
+ rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
 UID:78a13819e8642d735577b64d77f6655229c369d2@cike-events
@@ -449,19 +462,6 @@ DESCRIPTION:Ako sa z nápadu môže stať skutočný dopad? A akú úlohu p
 URL:https://www.kosiceitvalley.sk/events/from-idea-to-impact-building-with-
  ai
 DTSTART;VALUE=DATE:20260311
-END:VEVENT
-BEGIN:VEVENT
-UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
-DTSTAMP:20251108T023138Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] MICE DAY Košice
-LOCATION:Boutique Hotel Slávia
-DESCRIPTION:Visit Košice\, pozýva odbornú verejnosť na podujatie MICE D
- ay Košice 2026\, ktoré otvorí diskusiu o budúcnosti biznis events sekt
- ora v Košiciach a jeho význame pre rozvoj regiónu.\n\nhttps://www.kosic
- eitvalley.sk/events/mice-day-kosice
-URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
-DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:26833621ba6133dd47342cd2e193ea7a79811231@cike-events
@@ -900,6 +900,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -910,18 +922,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -2373,47 +2373,6 @@ URL:https://amcham.sk/events/3511/valaliky-industrial-park
 DTSTART;VALUE=DATE:20250605
 END:VEVENT
 BEGIN:VEVENT
-UID:1733a9fd73767094537db48b7f3645ab94b1b265@cike-events
-DTSTAMP:20251010T125900Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
-LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:Trust: A Key Element of Effective Collaboration and Societal Pr
- osperity\n\nhttps://amcham.sk/events/3494/future-ready-slovakia-lets-talk-
- competitiveness
-URL:https://amcham.sk/events/3494/future-ready-slovakia-lets-talk-competiti
- veness
-DTSTART;VALUE=DATE:20250523
-END:VEVENT
-BEGIN:VEVENT
-UID:d9b6f16795b9939545239a957821a01c2c6c7ef7@cike-events
-DTSTAMP:20250617T033720Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Future Ready Slovakia: Let’s Talk Competitiveness!
-LOCATION:Jurkovičova Tepláreň (Topical Stage)\, Bottova 1\, Bratislava
-DESCRIPTION:Building Trust: Business & Institutions\n\nhttps://amcham.sk/ev
- ents/3489/future-ready-slovakia-lets-talk-competitiveness
-URL:https://amcham.sk/events/3489/future-ready-slovakia-lets-talk-competiti
- veness
-DTSTART;VALUE=DATE:20250523
-END:VEVENT
-BEGIN:VEVENT
-UID:3b22ab26d09e799fb6c66259e2a49e506b31e983@cike-events
-DTSTAMP:20250311T172140Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Objavte svet tropických chutí na IFEX Philippines 202
- 6
-DESCRIPTION:Pozývame vás na 19. ročník IFEX Philippines 2026\, najväč
- ší filipínsky B2B a na export orientovaný medzinárodný veľtrh pre p
- otraviny\, nápoje a ingrediencie. Kedy: 21. - 23. máj 2026 Kde: Metro Ma
- nila\, [...] \\n\n\nhttps://www.sopk.sk/event/objavte-svet-tropickych-chut
- i-na-ifex-philippines-2026
-URL:https://www.sopk.sk/event/objavte-svet-tropickych-chuti-na-ifex-philipp
- ines-2026
-DTSTART:20260520T220000Z
-DTEND:20260523T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:f90c5cf1ef3fcbf471b77f7539e7e3b84f559e3d@cike-events
 DTSTAMP:20250721T120605Z
 CATEGORIES:SOPK
@@ -2862,20 +2821,6 @@ DTSTART:20261001T060000Z
 DTEND:20261231T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e91c3f23b6953a3d25d6747549b2d9170cd6e5e2@cike-events
-DTSTAMP:20250329T115929Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.4.2026 od 09:00 - 14
- :30 hod pozýva na  Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026  K
- ód:  20260417  Lektor:  RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v 
- tom [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-
- 8-maja-2026-2
-URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026-2
-DTSTART:20260417T070000Z
-DTEND:20260417T113000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
 DTSTAMP:20250322T030949Z
 CATEGORIES:SOPK
@@ -3019,6 +2964,22 @@ DTSTART:20260520T080000Z
 DTEND:20260520T120000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:3b22ab26d09e799fb6c66259e2a49e506b31e983@cike-events
+DTSTAMP:20250311T172140Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Objavte svet tropických chutí na IFEX Philippines 202
+ 6
+DESCRIPTION:Pozývame vás na 19. ročník IFEX Philippines 2026\, najväč
+ ší filipínsky B2B a na export orientovaný medzinárodný veľtrh pre p
+ otraviny\, nápoje a ingrediencie. Kedy: 21. - 23. máj 2026 Kde: Metro Ma
+ nila\, [...] \\n\n\nhttps://www.sopk.sk/event/objavte-svet-tropickych-chut
+ i-na-ifex-philippines-2026
+URL:https://www.sopk.sk/event/objavte-svet-tropickych-chuti-na-ifex-philipp
+ ines-2026
+DTSTART:20260520T220000Z
+DTEND:20260523T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:24483b63d70b087051d1988020ace35d22f858cf@cike-events
 DTSTAMP:20250522T185658Z
 CATEGORIES:SOPK
@@ -3047,23 +3008,6 @@ DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na webin
 URL:https://www.sopk.sk/event/webinar-podnikame-v-grecku
 DTSTART:20260521T073000Z
 DTEND:20260521T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:fec4beae1ed399e8128e60282e012ac181888705@cike-events
-DTSTAMP:20251020T202227Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Granty 2026: Ako získať financovanie ochrany DV pre V
- ašich klientov
-DESCRIPTION:Získajte finančnú podporu na ochranu vašich inovácií a zv
- ýšte svoju konkurencieschopnosť. Pozývame vás na odborný webinár or
- ganizovaný v spolupráci s Úradom priemyselného vlastníctva SR a Slove
- nskou inovačnou a energetickou agentúrou (SIEA). [...] \\n\n\nhttps://ww
- w.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-dv-pre-vasich-
- klientov
-URL:https://www.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-d
- v-pre-vasich-klientov
-DTSTART:20260317T230000Z
-DTEND:20260318T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:36601cf7d829f89cc49e1c4dc437ccf81e1e160c@cike-events
@@ -3239,21 +3183,18 @@ DTSTART:20260416T070000Z
 DTEND:20260416T083000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e0ac77e614bbd9677378746bfc013590ce626f29@cike-events
-DTSTAMP:20250531T184218Z
+UID:e91c3f23b6953a3d25d6747549b2d9170cd6e5e2@cike-events
+DTSTAMP:20250329T115929Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Medzinárodný veľtrh stavebníctva a architektúry BU
- DMA 2026 a benefity
-DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architekt
- úry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. 
- – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA 
- jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/
- event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefit
- y
-URL:https://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektu
- ry-budma-2026-a-benefity
-DTSTART:20260203T070000Z
-DTEND:20260206T160000Z
+SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.4.2026 od 09:00 - 14
+ :30 hod pozýva na  Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026  K
+ ód:  20260417  Lektor:  RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v 
+ tom [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-
+ 8-maja-2026-2
+URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026-2
+DTSTART:20260417T070000Z
+DTEND:20260417T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
@@ -3424,19 +3365,21 @@ DTSTART:20260316T230000Z
 DTEND:20260317T225959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6d99a6b87b0bec245484f89e0db8b780142ffcba@cike-events
-DTSTAMP:20251226T224114Z
+UID:fec4beae1ed399e8128e60282e012ac181888705@cike-events
+DTSTAMP:20251020T202227Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Pozvánka na odborný seminár: Colné predpisy v praxi
-DESCRIPTION:ZMENA TERMÍNU! Bratislavská regionálna komora Slovenskej obc
- hodnej a priemyselnej komory (SOPK) Vás pozýva na odborný seminár: Col
- né predpisy v praxi Dátum a čas: 26.11. (streda) 2025 v čase od 09.00 
- do [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-odborny-seminar-coln
- e-predpisy-v-praxi
-URL:https://www.sopk.sk/event/pozvanka-na-odborny-seminar-colne-predpisy-v-
- praxi
-DTSTART:20251126T080000Z
-DTEND:20251126T150000Z
+SUMMARY:🟧 [SOPK] Granty 2026: Ako získať financovanie ochrany DV pre V
+ ašich klientov
+DESCRIPTION:Získajte finančnú podporu na ochranu vašich inovácií a zv
+ ýšte svoju konkurencieschopnosť. Pozývame vás na odborný webinár or
+ ganizovaný v spolupráci s Úradom priemyselného vlastníctva SR a Slove
+ nskou inovačnou a energetickou agentúrou (SIEA). [...] \\n\n\nhttps://ww
+ w.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-dv-pre-vasich-
+ klientov
+URL:https://www.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-d
+ v-pre-vasich-klientov
+DTSTART:20260317T230000Z
+DTEND:20260318T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bf7f67fa23a88ddd0c7fdb7f4c2716512bd923b9@cike-events
@@ -3611,20 +3554,21 @@ DTSTART:20260127T153000Z
 DTEND:20260127T180000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:799347f12c9f3a6acb5589656bd0cce73376decd@cike-events
-DTSTAMP:20250412T180311Z
+UID:e0ac77e614bbd9677378746bfc013590ce626f29@cike-events
+DTSTAMP:20250531T184218Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
-LOCATION:Online
-DESCRIPTION:Partneri siete Enterprise Europe Network pozývajú organizáci
- e pôsobiace v oblasti gastronómie\, dodávateľov IT riešení a zari
- adení pre túto oblasť na online matchmaking HORECA - ENOEXPO 2025. 
- Dátum konania: 05. – 20.11.2025 Miesto konania: online Registrácia o
- tvorená do: 31.10.2025 Prihláška: Create an account [...] \\n\n\nhttp
- s://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
-URL:https://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
-DTSTART:20251105T070000Z
-DTEND:20251120T150000Z
+SUMMARY:🟧 [SOPK] Medzinárodný veľtrh stavebníctva a architektúry BU
+ DMA 2026 a benefity
+DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architekt
+ úry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. 
+ – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA 
+ jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/
+ event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefit
+ y
+URL:https://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektu
+ ry-budma-2026-a-benefity
+DTSTART:20260203T070000Z
+DTEND:20260206T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8ee1557c804c36dc8349490147e2ac71ae700913@cike-events
@@ -3798,21 +3742,19 @@ DTSTART:20251126T080000Z
 DTEND:20251126T133000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e890b06e6d29fba179ace336095dd5b7fd2468a8@cike-events
-DTSTAMP:20250803T011019Z
+UID:6d99a6b87b0bec245484f89e0db8b780142ffcba@cike-events
+DTSTAMP:20251226T224114Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regio
- nálnej komory SOPK
-LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
-DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
- s pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v
-  UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok
-  14.10.2025 od [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-
- novych-priestorov-kosickej-regionalnej-komory-sopk
-URL:https://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosicke
- j-regionalnej-komory-sopk
-DTSTART:20251014T140000Z
-DTEND:20251014T160000Z
+SUMMARY:🟧 [SOPK] Pozvánka na odborný seminár: Colné predpisy v praxi
+DESCRIPTION:ZMENA TERMÍNU! Bratislavská regionálna komora Slovenskej obc
+ hodnej a priemyselnej komory (SOPK) Vás pozýva na odborný seminár: Col
+ né predpisy v praxi Dátum a čas: 26.11. (streda) 2025 v čase od 09.00 
+ do [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-odborny-seminar-coln
+ e-predpisy-v-praxi
+URL:https://www.sopk.sk/event/pozvanka-na-odborny-seminar-colne-predpisy-v-
+ praxi
+DTSTART:20251126T080000Z
+DTEND:20251126T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e44746bfd868e8095e6e04638a73fb2271b8417a@cike-events
@@ -3983,18 +3925,20 @@ DTSTART:20251104T080000Z
 DTEND:20251104T100000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:2f7e38e61bc35ceed07dbe8974b753b2fadcab3d@cike-events
-DTSTAMP:20250630T144503Z
+UID:799347f12c9f3a6acb5589656bd0cce73376decd@cike-events
+DTSTAMP:20250412T180311Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Meet4Business AGRA 2025
-DESCRIPTION:Podujatie ponúka jedinečnú príležitosť pre firmy\, podnik
- ateľov\, organizácie a záujemcov nadviazať nové kontakty a vymeniť s
- i skúsenosti s potenciálnymi obchodnými partnermi zo Slovinska a zahran
- ičia. RIEŠENÉ TÉMY • Potraviny a nápoje [...] \\n\n\nhttps://www.so
- pk.sk/event/meet4business-agra-2025
-URL:https://www.sopk.sk/event/meet4business-agra-2025
-DTSTART:20250827T060000Z
-DTEND:20250827T150000Z
+SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
+LOCATION:Online
+DESCRIPTION:Partneri siete Enterprise Europe Network pozývajú organizáci
+ e pôsobiace v oblasti gastronómie\, dodávateľov IT riešení a zari
+ adení pre túto oblasť na online matchmaking HORECA - ENOEXPO 2025. 
+ Dátum konania: 05. – 20.11.2025 Miesto konania: online Registrácia o
+ tvorená do: 31.10.2025 Prihláška: Create an account [...] \\n\n\nhttp
+ s://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
+URL:https://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
+DTSTART:20251105T070000Z
+DTEND:20251120T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:482ee1b2311bd976a61eb2b7ccc92b375d46f050@cike-events
@@ -4166,21 +4110,71 @@ DTSTART:20251014T070000Z
 DTEND:20251014T093000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:1d45f81c19d93bdcaaad51205b9ec757aa7058bf@cike-events
-DTSTAMP:20250209T063148Z
+UID:e890b06e6d29fba179ace336095dd5b7fd2468a8@cike-events
+DTSTAMP:20250803T011019Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Oficiálne otvorenie nových priestorov Košickej regio
+ nálnej komory SOPK
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
+ s pozývame na Oficiálne otvorenie nových priestorov Košickej RK SOPK v
+  UVP Technicom\, B. Němcovej 5\, Košice\, ktoré sa uskutoční v utorok
+  14.10.2025 od [...] \\n\n\nhttps://www.sopk.sk/event/oficialne-otvorenie-
+ novych-priestorov-kosickej-regionalnej-komory-sopk
+URL:https://www.sopk.sk/event/oficialne-otvorenie-novych-priestorov-kosicke
+ j-regionalnej-komory-sopk
+DTSTART:20251014T140000Z
+DTEND:20251014T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
+DTSTAMP:20250730T071247Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichád
- za historicky prvý Innovation and Tech Week!
-DESCRIPTION:Innovation and Tech Week: Košice sa stávajú epicentrom inov
- ácií Slovensko a špeciálne náš východný región zažije v máji ni
- ečo\, čo tu doteraz nebolo. Inšpirovaní globálnymi technologickými m
- etropolami ako New York […] \\n\n\nhttps://ickk.sk/event/kosicky-kraj-sa
- -meni-na-centrum-inovacii-prichadza-historicky-prvy-innovation-and-tech-we
- ek
-URL:https://ickk.sk/event/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadz
- a-historicky-prvy-innovation-and-tech-week
-DTSTART:20260510T220000Z
-DTEND:20260515T215959Z
+SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
+ Interiérový refresh
+DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
+ iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
+ za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
+ aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
+ en-stylovo-aj-za-malo-penazi-interierovy-refresh
+URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
+ erovy-refresh
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:100934fd781335321a36724127c5112864514966@cike-events
+DTSTAMP:20250205T012214Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Inovačné raňajky IaaS4DR
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
+ u projektu IaaS4DR (Interreg). Toto neformálne stretnutie organizuje Inov
+ ačné centrum Košického kraja (ICKK) v spolupráci s Technickou univerz
+ itou v Košiciach (TUKE). Hlavným cieľom podujatia […] \\n\n\nhttps://
+ ickk.sk/event/inovacne-ranajky-iaas4dr
+URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
+DTSTART:20260529T080000Z
+DTEND:20260529T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
@@ -4356,6 +4350,56 @@ DTSTART:20260429T150000Z
 DTEND:20260429T170000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:1d45f81c19d93bdcaaad51205b9ec757aa7058bf@cike-events
+DTSTAMP:20250209T063148Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichád
+ za historicky prvý Innovation and Tech Week!
+DESCRIPTION:Innovation and Tech Week: Košice sa stávajú epicentrom inov
+ ácií Slovensko a špeciálne náš východný región zažije v máji ni
+ ečo\, čo tu doteraz nebolo. Inšpirovaní globálnymi technologickými m
+ etropolami ako New York či San Francisco\, prinášame koncept Innovation
+  and Tech Week. Od 11. do 15. mája 2026 sa Košice a okolie stanú domovo
+ m vizionárov\, technologických gigantov a […] \\n\n\nhttps://ickk.sk/e
+ vent/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-in
+ novation-and-tech-week
+URL:https://ickk.sk/event/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadz
+ a-historicky-prvy-innovation-and-tech-week
+DTSTART:20260510T220000Z
+DTEND:20260515T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
+DTSTAMP:20250907T104548Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Župné dni KSK – Košice
+DESCRIPTION:Stánok ICKK\, v ktorom objavíš možnosti\, ako môžeš zís
+ kať podporu pre rozvoj tvojho študentského projektu. Podpora je určen
+ á až do výšky 20\,000 EUR pre študentov stredných a vysokých škôl
+ . Okrem toho sa môžeš tešiť na koncert Dary Rolins a ďalších vynik
+ ajúcich interprétov. \\n\n\nhttps://ickk.sk/event/zupne-dni-ksk-kosice
+URL:https://ickk.sk/event/zupne-dni-ksk-kosice
+DTSTART:20250613T070000Z
+DTEND:20250613T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
+DTSTAMP:20250806T181837Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
+ novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
+ ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
+  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
+ eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
+ oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
+URL:https://ickk.sk/event/strojarenska-zije-2-0
+DTSTART:20250618T140000Z
+DTEND:20250618T200000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
 DTSTAMP:20250702T173416Z
 CATEGORIES:ICKK
@@ -4509,54 +4553,5 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
-DTSTAMP:20250907T104548Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Župné dni KSK – Košice
-DESCRIPTION:Stánok ICKK\, v ktorom objavíš možnosti\, ako môžeš zís
- kať podporu pre rozvoj tvojho študentského projektu. Podpora je určen
- á až do výšky 20\,000 EUR pre študentov stredných a vysokých škôl
- . Okrem toho sa môžeš tešiť na koncert Dary Rolins a ďalších vynik
- ajúcich interprétov. \\n\n\nhttps://ickk.sk/event/zupne-dni-ksk-kosice
-URL:https://ickk.sk/event/zupne-dni-ksk-kosice
-DTSTART:20250613T070000Z
-DTEND:20250613T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
-DTSTAMP:20250806T181837Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
- novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
- ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
-  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
- eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
- oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
-URL:https://ickk.sk/event/strojarenska-zije-2-0
-DTSTART:20250618T140000Z
-DTEND:20250618T200000Z
 END:VEVENT
 END:VCALENDAR
