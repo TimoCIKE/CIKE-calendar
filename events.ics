@@ -778,19 +778,6 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -802,6 +789,19 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -900,18 +900,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -922,6 +910,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -4127,77 +4127,6 @@ DTSTART:20251014T140000Z
 DTEND:20251014T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
- en-stylovo-aj-za-malo-penazi-interierovy-refresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:100934fd781335321a36724127c5112864514966@cike-events
-DTSTAMP:20250205T012214Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Inovačné raňajky IaaS4DR
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
- u projektu IaaS4DR (Interreg). Toto neformálne stretnutie organizuje Inov
- ačné centrum Košického kraja (ICKK) v spolupráci s Technickou univerz
- itou v Košiciach (TUKE). Hlavným cieľom podujatia […] \\n\n\nhttps://
- ickk.sk/event/inovacne-ranajky-iaas4dr
-URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
-DTSTART:20260529T080000Z
-DTEND:20260529T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
-DTSTAMP:20250928T131957Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
-  mix
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
- járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
- reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
-  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
- ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
- stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
- n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
- -mix
-URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
- ix
-DTSTART:20251113T150000Z
-DTEND:20251113T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
 DTSTAMP:20250616T235150Z
 CATEGORIES:ICKK
@@ -4369,55 +4298,6 @@ DTSTART:20260510T220000Z
 DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
-DTSTAMP:20250907T104548Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Župné dni KSK – Košice
-DESCRIPTION:Stánok ICKK\, v ktorom objavíš možnosti\, ako môžeš zís
- kať podporu pre rozvoj tvojho študentského projektu. Podpora je určen
- á až do výšky 20\,000 EUR pre študentov stredných a vysokých škôl
- . Okrem toho sa môžeš tešiť na koncert Dary Rolins a ďalších vynik
- ajúcich interprétov. \\n\n\nhttps://ickk.sk/event/zupne-dni-ksk-kosice
-URL:https://ickk.sk/event/zupne-dni-ksk-kosice
-DTSTART:20250613T070000Z
-DTEND:20250613T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
-DTSTAMP:20250806T181837Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
- novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
- ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
-  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
- eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
- oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
-URL:https://ickk.sk/event/strojarenska-zije-2-0
-DTSTART:20250618T140000Z
-DTEND:20250618T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
-DTSTAMP:20250702T173416Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] INOVUJME REGIÓNY – objavte potenciál krajov
-LOCATION:Binarium\, Bratislava\, Staré Grunty 18\, Bratislava
-DESCRIPTION:Pozývame vás na konferenciu združenia Samosprávne kraje Slo
- venska (SK8) na tému INOVUJME REGIÓNY - objavte potenciál krajov. Poduj
- atie ponúkne priestor na diskusiu o tom\, ako môžu slovenské regióny 
- rozvíjať svoj potenciál prostredníctvom kvalitného vzdelávania\, med
- ziregionálnej spolupráce či pokrokových projektov. Počas jedného dň
- a zažijete panelové diskusie a prezentácie s odborníkmi na inovácie v
-  samospráve z Košíc\, […] \\n\n\nhttps://ickk.sk/event/inovujme-regio
- ny-objavte-potencial-krajov
-URL:https://ickk.sk/event/inovujme-regiony-objavte-potencial-krajov
-DTSTART:20250619T060000Z
-DTEND:20250619T150000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
 DTSTAMP:20251001T035249Z
 CATEGORIES:ICKK
@@ -4553,5 +4433,93 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
+DTSTAMP:20250928T131957Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
+  mix
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
+ járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
+ reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
+  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
+ ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
+ stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
+ n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
+ -mix
+URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
+ ix
+DTSTART:20251113T150000Z
+DTEND:20251113T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
+DTSTAMP:20250907T104548Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Župné dni KSK – Košice
+DESCRIPTION:Stánok ICKK\, v ktorom objavíš možnosti\, ako môžeš zís
+ kať podporu pre rozvoj tvojho študentského projektu. Podpora je určen
+ á až do výšky 20\,000 EUR pre študentov stredných a vysokých škôl
+ . Okrem toho sa môžeš tešiť na koncert Dary Rolins a ďalších vynik
+ ajúcich interprétov. \\n\n\nhttps://ickk.sk/event/zupne-dni-ksk-kosice
+URL:https://ickk.sk/event/zupne-dni-ksk-kosice
+DTSTART:20250613T070000Z
+DTEND:20250613T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f126fc13754bddaae2879205fff984ef3f8c69d8@cike-events
+DTSTAMP:20250806T181837Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Strojárenská Žije 2.0
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Leto je tu\, a my to rozbiehame vo veľkom štýle! Otvárame I
+ novačno-kreatívnu štvrť Košického kraja. Priprav sa na deň plný z
+ ábavy\, kreativity\, biznisu a skvelej hudby – všetko v jednom a ešte
+  aj open air! Kde? Vo dvore na Strojárenskej ulici č.3 v Košiciach. Mod
+ eruje Matúš Krnčok. Program: 16:00 – Otvorenie prvého vonkajšieho c
+ oworkingu v […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-2-0
+URL:https://ickk.sk/event/strojarenska-zije-2-0
+DTSTART:20250618T140000Z
+DTEND:20250618T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d5ad840c636bd189a5b6230cf2561f067277d5fa@cike-events
+DTSTAMP:20250702T173416Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] INOVUJME REGIÓNY – objavte potenciál krajov
+LOCATION:Binarium\, Bratislava\, Staré Grunty 18\, Bratislava
+DESCRIPTION:Pozývame vás na konferenciu združenia Samosprávne kraje Slo
+ venska (SK8) na tému INOVUJME REGIÓNY - objavte potenciál krajov. Poduj
+ atie ponúkne priestor na diskusiu o tom\, ako môžu slovenské regióny 
+ rozvíjať svoj potenciál prostredníctvom kvalitného vzdelávania\, med
+ ziregionálnej spolupráce či pokrokových projektov. Počas jedného dň
+ a zažijete panelové diskusie a prezentácie s odborníkmi na inovácie v
+  samospráve z Košíc\, […] \\n\n\nhttps://ickk.sk/event/inovujme-regio
+ ny-objavte-potencial-krajov
+URL:https://ickk.sk/event/inovujme-regiony-objavte-potencial-krajov
+DTSTART:20250619T060000Z
+DTEND:20250619T150000Z
 END:VEVENT
 END:VCALENDAR
