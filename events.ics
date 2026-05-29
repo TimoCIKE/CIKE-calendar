@@ -778,19 +778,6 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -802,6 +789,19 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -2358,35 +2358,6 @@ URL:https://amcham.sk/events/3511/valaliky-industrial-park
 DTSTART;VALUE=DATE:20250605
 END:VEVENT
 BEGIN:VEVENT
-UID:7527597c95056b4bd57f373b6923b476e1dfeac8@cike-events
-DTSTAMP:20251212T061413Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] SARIO Business Day — V regiónoch 2026 Košice
-DESCRIPTION:Objavte počas podujatia SARIO Bussines Day — V regiónoch pr
- íležitosti pre rozvoj vašej firmy na východnom Slovensku. Pripojte sa 
- 28. mája 2026 k lídrom štátu\, regiónu\, akademického sektora a prie
- myslu a [...] \\n\n\nhttps://www.sopk.sk/event/sario-business-day-v-region
- och-2026-kosice
-URL:https://www.sopk.sk/event/sario-business-day-v-regionoch-2026-kosice
-DTSTART:20260528T060000Z
-DTEND:20260528T150000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:7e69980ea933d5c1a3133d9a2ee1f7540e4d2e67@cike-events
-DTSTAMP:20250910T192342Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár – Mzda\, príplatky ku mzde\, príspevok na 
- rekreáciu a športovú činnosť dieťaťa
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 28.5.2026 od 09:00 - 13
- :30 hod pozýva na webinár – Mzda\, príplatky ku mzde\, príspevok na
-  rekreáciu a športovú činnosť dieťaťa kód:20260528   Lektor: RN
- Dr. Jozef Mihál Čas: 9:00 – [...] \\n\n\nhttps://www.sopk.sk/event/26
- 373
-URL:https://www.sopk.sk/event/26373
-DTSTART:20260528T070000Z
-DTEND:20260528T113000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:813d97d54e934e0cadf1bd17b3f1da2a7299d352@cike-events
 DTSTAMP:20250119T231942Z
 CATEGORIES:SOPK
@@ -2617,24 +2588,6 @@ DTSTART:20260616T070000Z
 DTEND:20260616T130000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a82e1c11f726ee6c91c2e5adfa00828f2349f587@cike-events
-DTSTAMP:20250323T014919Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Business Club: Podnikanie v dobe AI – príležitosti 
- a hrozby pre firmy
-LOCATION:Zasadačka VUJE\, a.s.\, Okružná 5\, Trnava\, 91701
-DESCRIPTION:Trnavská regionálna komora SOPK v spolupráci s partnermi Adv
- okátska kancelária Pacalaj\, Palla a partneri\, s.r.o. a Aston ITM\, spo
- l. s r.o. pripravuje odborný Biznis klub venovaný jednej z najdiskutov
- anejších tém súčasného podnikateľského [...] \\n\n\nhttps://www.so
- pk.sk/event/business-club-podnikanie-v-dobe-ai-prilezitosti-a-hrozby-pre-f
- irmy
-URL:https://www.sopk.sk/event/business-club-podnikanie-v-dobe-ai-prilezitos
- ti-a-hrozby-pre-firmy
-DTSTART:20260617T070000Z
-DTEND:20260617T090000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:f53fe2c4c442401fe4b29f2bbdcaa394190c3d6f@cike-events
 DTSTAMP:20250826T140927Z
 CATEGORIES:SOPK
@@ -2754,22 +2707,6 @@ URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
  ny-zaujem-firiem
 DTSTART:20261001T060000Z
 DTEND:20261231T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4bb8b0fd83715ea37970067a7260378140ebcd75@cike-events
-DTSTAMP:20250807T075004Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Fórum digitálnej transformácie – podporíme Vaše 
- zmeny našimi projektami
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digi
- tálnou koalíciou Vás pozývajú na workshop: „Fórum digitálnej tran
- sformácie – podporíme Vaše zmeny našimi projektami“. Digitálna ko
- alícia je [...] \\n\n\nhttps://www.sopk.sk/event/forum-digitalnej-transfo
- rmacie-podporime-vase-zmeny-nasimi-projektami-2
-URL:https://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase
- -zmeny-nasimi-projektami-2
-DTSTART:20260519T220000Z
-DTEND:20260520T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:05eb0894b3c6e44097beb5c8c2502bfdfc6c25b8@cike-events
@@ -2906,19 +2843,6 @@ DTSTART:20260526T070000Z
 DTEND:20260526T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:9238c3056b429c931fa11272a2bf033e2145bdee@cike-events
-DTSTAMP:20251002T171603Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webináre: ZÁKONNÍK PRÁCE
-DESCRIPTION:26.5.26 – Pracovná zmluva a pracovný čas 27.5.26 – Dovol
- enka a prekážky v práci 28.5.26 – Mzda\, príplatky ku mzde\, príspe
- vok na rekreáciu a športovú činnosť dieťaťa  Lektor: RNDr. Jozef M
- ihál [...] \\n\n\nhttps://www.sopk.sk/event/webinar-zakonnik-prace
-URL:https://www.sopk.sk/event/webinar-zakonnik-prace
-DTSTART:20260526T070000Z
-DTEND:20260526T123000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:2922a1c6e37d5450dab837453683623194c26a26@cike-events
 DTSTAMP:20250524T125021Z
 CATEGORIES:SOPK
@@ -2932,18 +2856,33 @@ DTSTART:20260527T070000Z
 DTEND:20260527T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:febfa3437a047d577b8a3a553ffe055c9372e692@cike-events
-DTSTAMP:20250607T193451Z
+UID:7527597c95056b4bd57f373b6923b476e1dfeac8@cike-events
+DTSTAMP:20251212T061413Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Odborný seminár: Colné predpisy v praxi
-DESCRIPTION:Dátum a čas: 30.marec 2026 v čase 9:00 - 16:00 hod. Miesto k
- onania: Bratislavská regionálna komora\, Jašíkova 6\, Ružinov\, Brati
- slava REGISTRÁCIA TU Obsah školenia: • Úvod do colnej problematiky 
- • Prehľad [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-colne-
- predpisy-v-praxi
-URL:https://www.sopk.sk/event/odborny-seminar-colne-predpisy-v-praxi
-DTSTART:20260330T070000Z
-DTEND:20260330T140000Z
+SUMMARY:🟧 [SOPK] SARIO Business Day — V regiónoch 2026 Košice
+DESCRIPTION:Objavte počas podujatia SARIO Bussines Day — V regiónoch pr
+ íležitosti pre rozvoj vašej firmy na východnom Slovensku. Pripojte sa 
+ 28. mája 2026 k lídrom štátu\, regiónu\, akademického sektora a prie
+ myslu a [...] \\n\n\nhttps://www.sopk.sk/event/sario-business-day-v-region
+ och-2026-kosice
+URL:https://www.sopk.sk/event/sario-business-day-v-regionoch-2026-kosice
+DTSTART:20260528T060000Z
+DTEND:20260528T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7e69980ea933d5c1a3133d9a2ee1f7540e4d2e67@cike-events
+DTSTAMP:20250910T192342Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár – Mzda\, príplatky ku mzde\, príspevok na 
+ rekreáciu a športovú činnosť dieťaťa
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 28.5.2026 od 09:00 - 13
+ :30 hod pozýva na webinár – Mzda\, príplatky ku mzde\, príspevok na
+  rekreáciu a športovú činnosť dieťaťa kód:20260528   Lektor: RN
+ Dr. Jozef Mihál Čas: 9:00 – [...] \\n\n\nhttps://www.sopk.sk/event/26
+ 373
+URL:https://www.sopk.sk/event/26373
+DTSTART:20260528T070000Z
+DTEND:20260528T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fa71fc6904bf8f2340002c14f5b11799f2461065@cike-events
@@ -3121,20 +3060,20 @@ DTSTART:20260519T070000Z
 DTEND:20260519T110000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:832e1784e15050be2ca2ff3da8e3a2b53ffabaa4@cike-events
-DTSTAMP:20250130T074048Z
+UID:4bb8b0fd83715ea37970067a7260378140ebcd75@cike-events
+DTSTAMP:20250807T075004Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] VALNÉ ZHROMAŽDENIE NITRIANSKEJ REGIONÁLNEJ KOMORY SO
- PK
-DESCRIPTION:Vážený člen SOPK\, v mene predstavenstva Nitrianskej RK SOP
- K Vás pozývam na VALNÉ  ZHROMAŽDENIE NITRIANSKEJ  REGIONÁLNEJ  KOM
- ORY  SOPK Dátum: 26. február 2026 (štvrtok)\, od 14.00 hod. Miesto kon
- ania: Agrokomplex Národné výstavisko [...] \\n\n\nhttps://www.sopk.sk/e
- vent/valne-zhromazdenie-nitrianskej-regionalnej-komory-sopk
-URL:https://www.sopk.sk/event/valne-zhromazdenie-nitrianskej-regionalnej-ko
- mory-sopk
-DTSTART:20260226T130000Z
-DTEND:20260226T150000Z
+SUMMARY:🟧 [SOPK] Fórum digitálnej transformácie – podporíme Vaše 
+ zmeny našimi projektami
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digi
+ tálnou koalíciou Vás pozývajú na workshop: „Fórum digitálnej tran
+ sformácie – podporíme Vaše zmeny našimi projektami“. Digitálna ko
+ alícia je [...] \\n\n\nhttps://www.sopk.sk/event/forum-digitalnej-transfo
+ rmacie-podporime-vase-zmeny-nasimi-projektami-2
+URL:https://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase
+ -zmeny-nasimi-projektami-2
+DTSTART:20260519T220000Z
+DTEND:20260520T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:aedde273f6987edfbc8c06a6790f67587b48779e@cike-events
@@ -3307,19 +3246,18 @@ DTSTART:20260324T230000Z
 DTEND:20260326T225959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ae437b7ef722762e5e5e575cefafd3679d47dc37@cike-events
-DTSTAMP:20251228T214923Z
+UID:febfa3437a047d577b8a3a553ffe055c9372e692@cike-events
+DTSTAMP:20250607T193451Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Black Sea MultiSector Virtual B2B Event 2025
-LOCATION:Online
-DESCRIPTION:Virtuálne B2B podujatie Black Sea MultiSektor 2025\, ktoré or
- ganizuje Obchodná a priemyselná komora Trabzon v rámci siete Enterprise
-  Europe Network\, sa uskutoční online od 9. do 11. decembra 2025. Poduja
- tie spája [...] \\n\n\nhttps://www.sopk.sk/event/black-sea-multisector-vi
- rtual-b2b-event-2025
-URL:https://www.sopk.sk/event/black-sea-multisector-virtual-b2b-event-2025
-DTSTART:20251209T090000Z
-DTEND:20251211T170000Z
+SUMMARY:🟧 [SOPK] Odborný seminár: Colné predpisy v praxi
+DESCRIPTION:Dátum a čas: 30.marec 2026 v čase 9:00 - 16:00 hod. Miesto k
+ onania: Bratislavská regionálna komora\, Jašíkova 6\, Ružinov\, Brati
+ slava REGISTRÁCIA TU Obsah školenia: • Úvod do colnej problematiky 
+ • Prehľad [...] \\n\n\nhttps://www.sopk.sk/event/odborny-seminar-colne-
+ predpisy-v-praxi
+URL:https://www.sopk.sk/event/odborny-seminar-colne-predpisy-v-praxi
+DTSTART:20260330T070000Z
+DTEND:20260330T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d2928779a37106d2cef813268f1fb1575e5847aa@cike-events
@@ -3498,20 +3436,20 @@ DTSTART:20260226T080000Z
 DTEND:20260226T133000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:faaa981c38c332c8720827638b22145f186d2af6@cike-events
-DTSTAMP:20250903T024319Z
+UID:832e1784e15050be2ca2ff3da8e3a2b53ffabaa4@cike-events
+DTSTAMP:20250130T074048Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Pozvánka na online seminár: Digitalizácia malých a 
- stredných podnikov – ako na to v praxi?
-DESCRIPTION:Slovenská obchodná a priemyselná komora (SOPK) v spolupráci
-  so spoločnosťou Signi Vás pozýva na odborný online seminár na tému
- : Digitalizácia malých a stredných podnikov – ako na to v praxi? Dát
- um [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-online-seminar-digit
- alizacia-malych-a-strednych-podnikov-ako-na-to-v-praxi
-URL:https://www.sopk.sk/event/pozvanka-na-online-seminar-digitalizacia-maly
- ch-a-strednych-podnikov-ako-na-to-v-praxi
-DTSTART:20251113T090000Z
-DTEND:20251113T160000Z
+SUMMARY:🟧 [SOPK] VALNÉ ZHROMAŽDENIE NITRIANSKEJ REGIONÁLNEJ KOMORY SO
+ PK
+DESCRIPTION:Vážený člen SOPK\, v mene predstavenstva Nitrianskej RK SOP
+ K Vás pozývam na VALNÉ  ZHROMAŽDENIE NITRIANSKEJ  REGIONÁLNEJ  KOM
+ ORY  SOPK Dátum: 26. február 2026 (štvrtok)\, od 14.00 hod. Miesto kon
+ ania: Agrokomplex Národné výstavisko [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/valne-zhromazdenie-nitrianskej-regionalnej-komory-sopk
+URL:https://www.sopk.sk/event/valne-zhromazdenie-nitrianskej-regionalnej-ko
+ mory-sopk
+DTSTART:20260226T130000Z
+DTEND:20260226T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fe17d729e23faac6ec93137e5c1ddbe04e9cbe07@cike-events
@@ -3678,21 +3616,19 @@ DTSTART:20251208T160000Z
 DTEND:20251208T220000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8f1a3d9ce64a27cc0e79d914f311cedf277a813e@cike-events
-DTSTAMP:20250801T184727Z
+UID:ae437b7ef722762e5e5e575cefafd3679d47dc37@cike-events
+DTSTAMP:20251228T214923Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
-LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
-DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europ
- e Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základ
- né princípy) Cieľom školenia je oboznámiť účastníkov s legislat
- ívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním [
- ...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladn
- e-principy
-URL:https://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-princip
- y
-DTSTART:20251028T073000Z
-DTEND:20251028T130000Z
+SUMMARY:🟧 [SOPK] Black Sea MultiSector Virtual B2B Event 2025
+LOCATION:Online
+DESCRIPTION:Virtuálne B2B podujatie Black Sea MultiSektor 2025\, ktoré or
+ ganizuje Obchodná a priemyselná komora Trabzon v rámci siete Enterprise
+  Europe Network\, sa uskutoční online od 9. do 11. decembra 2025. Poduja
+ tie spája [...] \\n\n\nhttps://www.sopk.sk/event/black-sea-multisector-vi
+ rtual-b2b-event-2025
+URL:https://www.sopk.sk/event/black-sea-multisector-virtual-b2b-event-2025
+DTSTART:20251209T090000Z
+DTEND:20251211T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:43d0f83f98af3047492888da7cc24c1ab257739e@cike-events
@@ -3867,20 +3803,20 @@ DTSTART:20251113T080000Z
 DTEND:20251113T140000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f57dfe78e93fa0a1d7daf97741e419abfdc7eed0@cike-events
-DTSTAMP:20250322T005344Z
+UID:faaa981c38c332c8720827638b22145f186d2af6@cike-events
+DTSTAMP:20250903T024319Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár Daňový bonus\, príspevok na rekreáciu a na
-  športovú činnosť dieťaťa
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 30.9.2025 od 09:00 - 14
- :30 hod pozýva na webinár Daňový bonus\, príspevok na rekreáciu a na
-  športovú činnosť dieťaťa kód:20250930 Na webinári si vysvetlíme 
- pravidlá a [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovy-bonus-pr
- ispevok-na-rekreaciu-a-na-sportovu-cinnost-dietata
-URL:https://www.sopk.sk/event/webinar-danovy-bonus-prispevok-na-rekreaciu-a
- -na-sportovu-cinnost-dietata
-DTSTART:20250930T070000Z
-DTEND:20250930T123000Z
+SUMMARY:🟧 [SOPK] Pozvánka na online seminár: Digitalizácia malých a 
+ stredných podnikov – ako na to v praxi?
+DESCRIPTION:Slovenská obchodná a priemyselná komora (SOPK) v spolupráci
+  so spoločnosťou Signi Vás pozýva na odborný online seminár na tému
+ : Digitalizácia malých a stredných podnikov – ako na to v praxi? Dát
+ um [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-online-seminar-digit
+ alizacia-malych-a-strednych-podnikov-ako-na-to-v-praxi
+URL:https://www.sopk.sk/event/pozvanka-na-online-seminar-digitalizacia-maly
+ ch-a-strednych-podnikov-ako-na-to-v-praxi
+DTSTART:20251113T090000Z
+DTEND:20251113T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:db0655b12810cf465b5102ec16a7c6085c154edb@cike-events
@@ -4056,6 +3992,39 @@ DTSTART:20251026T230000Z
 DTEND:20251029T225959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:8f1a3d9ce64a27cc0e79d914f311cedf277a813e@cike-events
+DTSTAMP:20250801T184727Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] INTRASTAT-SK a Colné konanie (základné princípy)
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Prešovská regionálna komora SOPK člen site Enterprise Europ
+ e Network Vás pozýva na školenie INTRASTAT-SK a Colné konanie (základ
+ né princípy) Cieľom školenia je oboznámiť účastníkov s legislat
+ ívou upravujúcou oblasť INTRASTATU a s jej správnym uplatňovaním [
+ ...] \\n\n\nhttps://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladn
+ e-principy
+URL:https://www.sopk.sk/event/intrastat-sk-a-colne-konanie-zakladne-princip
+ y
+DTSTART:20251028T073000Z
+DTEND:20251028T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
+DTSTAMP:20250730T071247Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
+ Interiérový refresh
+DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
+ iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
+ za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
+ aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
+ en-stylovo-aj-za-malo-penazi-interierovy-refresh
+URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
+ erovy-refresh
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:100934fd781335321a36724127c5112864514966@cike-events
 DTSTAMP:20250205T012214Z
 CATEGORIES:ICKK
@@ -4070,6 +4039,24 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
@@ -4264,25 +4251,6 @@ DTSTART:20260510T220000Z
 DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, ktorá vám ukáže\, ako vdýchnuť interiéru n
- ový dych efektívne\, vkusne a hlavne bez zbytočného prievanu v peňaž
- enke. Čo sa na workshope dozviete a naučíte? Rýchle […] \\n\n\nhttps
- ://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interierovy-re
- fresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4467,23 +4435,5 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
 END:VEVENT
 END:VCALENDAR
