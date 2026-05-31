@@ -794,19 +794,6 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -818,6 +805,19 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -4025,22 +4025,6 @@ DTSTART:20251028T073000Z
 DTEND:20251028T130000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
- en-stylovo-aj-za-malo-penazi-interierovy-refresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:100934fd781335321a36724127c5112864514966@cike-events
 DTSTAMP:20250205T012214Z
 CATEGORIES:ICKK
@@ -4055,24 +4039,6 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
@@ -4267,6 +4233,25 @@ DTSTART:20260510T220000Z
 DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
+DTSTAMP:20250730T071247Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
+ Interiérový refresh
+DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
+ iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
+ za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
+ aryna Šmídt Liehkova\, ktorá vám ukáže\, ako vdýchnuť interiéru n
+ ový dych efektívne\, vkusne a hlavne bez zbytočného prievanu v peňaž
+ enke. Čo sa na workshope dozviete a naučíte? Rýchle […] \\n\n\nhttps
+ ://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interierovy-re
+ fresh
+URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
+ erovy-refresh
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4451,5 +4436,23 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
 END:VEVENT
 END:VCALENDAR
