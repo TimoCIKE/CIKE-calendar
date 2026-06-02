@@ -397,6 +397,33 @@ URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
+UID:0a8cca53aa5fdf9e53178527a2b7607432eb09e5@cike-events
+DTSTAMP:20250702T125623Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Jarný cybersecurity day
+LOCATION:Košice
+DESCRIPTION:Jarný CyberSecurityDay 2026 prinesie praktické workshopy\, od
+ borné prednášky\, diskusie a súťaže z oblasti kybernetickej bezpečn
+ osti. Podujatie spája študentov\, IT profesionálov a nadšencov\, ktor
+ í chcú získať nové poznatky\, skúsenosti a kontakty v komunite.\n\nh
+ ttps://www.kosiceitvalley.sk/events/8093
+URL:https://www.kosiceitvalley.sk/events/8093
+DTSTART;VALUE=DATE:20260606
+END:VEVENT
+BEGIN:VEVENT
+UID:a77b24ce6ffca79691df6af6cd3f315877b6e42b@cike-events
+DTSTAMP:20250506T064815Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community meetup
+LOCATION:UVP Technicom
+DESCRIPTION:Košice IT Valley spolu s UPJŠ vás pozývajú na druhé stret
+ nutie AI komunity v Košiciach\, tentokrát venované prepojeniu umelej in
+ teligencie\, strojového učenia a kybernetickej bezpečnosti.\n\nhttps://
+ www.kosiceitvalley.sk/events/ai-community-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-community-meetup
+DTSTART;VALUE=DATE:20260618
+END:VEVENT
+BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -1413,17 +1440,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:59aa75ed22f7f68da457e93d946dc4f2254f6d25@cike-events
-DTSTAMP:20250731T014102Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Tax Audit Process – What to Watch Out For
-LOCATION:online | Zoom
-DESCRIPTION:webcast organized by Deloitte\n\nhttps://amcham.sk/events/3669/
- tax-audit-process-what-to-watch-out-for
-URL:https://amcham.sk/events/3669/tax-audit-process-what-to-watch-out-for
-DTSTART;VALUE=DATE:20260602
-END:VEVENT
-BEGIN:VEVENT
 UID:180cd51e8fabd771d0fd8986a08c66330a07d94a@cike-events
 DTSTAMP:20251001T045550Z
 CATEGORIES:AMCHAM
@@ -1597,15 +1613,15 @@ URL:https://amcham.sk/events/3662/how-to-feel-comfortable-in-times-of-disco
 DTSTART;VALUE=DATE:20260619
 END:VEVENT
 BEGIN:VEVENT
-UID:71d71d192744d6aac4c7c7acecbc48ec909b606b@cike-events
-DTSTAMP:20251210T185228Z
+UID:ad669fd04f3ec19ab6c00421be7c1eaf6b3d56d2@cike-events
+DTSTAMP:20250921T062502Z
 CATEGORIES:AMCHAM
 SUMMARY:🟢 [AMCHAM] Application of the New Building Act in Practice
-LOCATION:Hotel Tatra\, Bratislava
+LOCATION:Hotel Tatra\, Námestie 1. mája 5\, Bratislava
 DESCRIPTION:Conference organized by the Association of Construction Industr
- y in Slovakia\n\nhttps://amcham.sk/events/3679/application-of-the-new-buil
+ y in Slovakia\n\nhttps://amcham.sk/events/3682/application-of-the-new-buil
  ding-act-in-practice
-URL:https://amcham.sk/events/3679/application-of-the-new-building-act-in-pr
+URL:https://amcham.sk/events/3682/application-of-the-new-building-act-in-pr
  actice
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
@@ -2417,21 +2433,6 @@ DTSTART:20260601T220000Z
 DTEND:20260604T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4d53da8813dd71d3c863b98c5f514fe3facfc2cb@cike-events
-DTSTAMP:20250901T102552Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Podnikateľská konferencia 2026 – Rast bez rizika
-LOCATION:hotel MAGNUS Trenčín\, Požarska ulica 1706/35\, Trenčín
-DESCRIPTION:Aby bolo Vaše  podnikanie ľahšie\, efektívnejšie\, ziskov
- ejšie a bez sankcii pozývame Vás  na podujte Podnikateľská konferenc
- ia 2026 - Rast bez rizika  Zameranie:  ako sa pripraviť na kontroly  d
- aňového\, živnostenského úradu či [...] \\n\n\nhttps://www.sopk.sk/e
- vent/podnikatelska-konferencia
-URL:https://www.sopk.sk/event/podnikatelska-konferencia
-DTSTART:20260602T220000Z
-DTEND:20260603T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:e8629770b07f37197cbffec07a013bf946b0992e@cike-events
 DTSTAMP:20250731T045325Z
 CATEGORIES:SOPK
@@ -2602,6 +2603,22 @@ URL:https://www.sopk.sk/event/komorove-biznis-rano-s-monikou-poussard-prve-
  stretnutie-novej-serie-podujati-ttrk-sopk
 DTSTART:20260611T073000Z
 DTEND:20260611T090000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:00230cfa40e123baaf6440789bab5f9e43b68055@cike-events
+DTSTAMP:20250721T041419Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] BUSINESS BREAKFAST Možnosti využitia AI vo firmách
+DESCRIPTION:Nitrianska regionálna komora SOPK pozýva svojich členov\, p
+ odnikateľov a partnerov na BUSINESS  BREAKFAST Možnosti využitia AI v
+ o firmách Praktické príklady\, postup nasadenia\, meranie prínosu\, be
+ zpečnosť a legislatívny rámec Dátum a čas konania:   12. jún [..
+ .] \\n\n\nhttps://www.sopk.sk/event/business-breakfast-moznosti-vyuzitia-a
+ i-vo-firmach
+URL:https://www.sopk.sk/event/business-breakfast-moznosti-vyuzitia-ai-vo-fi
+ rmach
+DTSTART:20260612T063000Z
+DTEND:20260612T083000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e944f390aebf03e1479b08f114f65f778c5692f5@cike-events
@@ -4054,22 +4071,6 @@ DTSTART:20251028T073000Z
 DTEND:20251028T130000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
- en-stylovo-aj-za-malo-penazi-interierovy-refresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:100934fd781335321a36724127c5112864514966@cike-events
 DTSTAMP:20250205T012214Z
 CATEGORIES:ICKK
@@ -4084,24 +4085,6 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
@@ -4296,6 +4279,25 @@ DTSTART:20260510T220000Z
 DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
+DTSTAMP:20250730T071247Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
+ Interiérový refresh
+DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
+ iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
+ za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
+ aryna Šmídt Liehkova\, ktorá vám ukáže\, ako vdýchnuť interiéru n
+ ový dych efektívne\, vkusne a hlavne bez zbytočného prievanu v peňaž
+ enke. Čo sa na workshope dozviete a naučíte? Rýchle […] \\n\n\nhttps
+ ://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interierovy-re
+ fresh
+URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
+ erovy-refresh
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4480,5 +4482,23 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
 END:VEVENT
 END:VCALENDAR
