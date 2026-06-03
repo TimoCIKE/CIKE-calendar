@@ -39,6 +39,20 @@ URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
+UID:0a8cca53aa5fdf9e53178527a2b7607432eb09e5@cike-events
+DTSTAMP:20250702T125623Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Jarný cybersecurity day
+LOCATION:Košice
+DESCRIPTION:Jarný CyberSecurityDay 2026 prinesie praktické workshopy\, od
+ borné prednášky\, diskusie a súťaže z oblasti kybernetickej bezpečn
+ osti. Podujatie spája študentov\, IT profesionálov a nadšencov\, ktor
+ í chcú získať nové poznatky\, skúsenosti a kontakty v komunite.\n\nh
+ ttps://www.kosiceitvalley.sk/events/8093
+URL:https://www.kosiceitvalley.sk/events/8093
+DTSTART;VALUE=DATE:20260606
+END:VEVENT
+BEGIN:VEVENT
 UID:79243f92998450556d36af5d241ff3c1e98452dd@cike-events
 DTSTAMP:20250919T121826Z
 CATEGORIES:ITVALLEY
@@ -53,6 +67,22 @@ DESCRIPTION:Príležitosť len pre členov Košice IT Valley: Zúčastnite
 URL:https://www.kosiceitvalley.sk/events/london-tech-week
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260611
+END:VEVENT
+BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
@@ -85,20 +115,17 @@ URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
+UID:a77b24ce6ffca79691df6af6cd3f315877b6e42b@cike-events
+DTSTAMP:20250506T064815Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+SUMMARY:🔵 [ITVALLEY] AI Community meetup
 LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
-DTSTART;VALUE=DATE:20260609
+DESCRIPTION:Košice IT Valley spolu s UPJŠ vás pozývajú na druhé stret
+ nutie AI komunity v Košiciach\, tentokrát venované prepojeniu umelej in
+ teligencie\, strojového učenia a kybernetickej bezpečnosti.\n\nhttps://
+ www.kosiceitvalley.sk/events/ai-community-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-community-meetup
+DTSTART;VALUE=DATE:20260618
 END:VEVENT
 BEGIN:VEVENT
 UID:39dc318c40fc4a6fd3848619a6fb9c504e954ee6@cike-events
@@ -129,6 +156,21 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260619
 END:VEVENT
 BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -142,21 +184,6 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -395,33 +422,6 @@ DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla
  raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
 URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
-UID:0a8cca53aa5fdf9e53178527a2b7607432eb09e5@cike-events
-DTSTAMP:20250702T125623Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Jarný cybersecurity day
-LOCATION:Košice
-DESCRIPTION:Jarný CyberSecurityDay 2026 prinesie praktické workshopy\, od
- borné prednášky\, diskusie a súťaže z oblasti kybernetickej bezpečn
- osti. Podujatie spája študentov\, IT profesionálov a nadšencov\, ktor
- í chcú získať nové poznatky\, skúsenosti a kontakty v komunite.\n\nh
- ttps://www.kosiceitvalley.sk/events/8093
-URL:https://www.kosiceitvalley.sk/events/8093
-DTSTART;VALUE=DATE:20260606
-END:VEVENT
-BEGIN:VEVENT
-UID:a77b24ce6ffca79691df6af6cd3f315877b6e42b@cike-events
-DTSTAMP:20250506T064815Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community meetup
-LOCATION:UVP Technicom
-DESCRIPTION:Košice IT Valley spolu s UPJŠ vás pozývajú na druhé stret
- nutie AI komunity v Košiciach\, tentokrát venované prepojeniu umelej in
- teligencie\, strojového učenia a kybernetickej bezpečnosti.\n\nhttps://
- www.kosiceitvalley.sk/events/ai-community-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-community-meetup
-DTSTART;VALUE=DATE:20260618
 END:VEVENT
 BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
@@ -2464,24 +2464,6 @@ DTSTART:20260604T070000Z
 DTEND:20260604T130000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:06ff3ba6ccda9d5df54153bdfd4dc1abf18178a0@cike-events
-DTSTAMP:20251224T175538Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] SLOVAK – SWISS DAY 2026…UMELÁ INTELIGENCIA – pr
- íležitosti v podnikaní a vzdelávaní
-LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slo
- venským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Brat
- islave Vás pozývajú odborné podujatie „SLOVAK – SWISS DAY 2026 …
-  UMELÁ INTELIGENCIA – príležitosť [...] \\n\n\nhttps://www.sopk.sk/e
- vent/slovak-swiss-day-2026umela-inteligencia-prilezitosti-v-podnikani-a-vz
- delavani-2
-URL:https://www.sopk.sk/event/slovak-swiss-day-2026umela-inteligencia-prile
- zitosti-v-podnikani-a-vzdelavani-2
-DTSTART:20260604T070000Z
-DTEND:20260604T130000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:e253a195418b0432c5da1d098dca0757f4799b4e@cike-events
 DTSTAMP:20251108T143048Z
 CATEGORIES:SOPK
@@ -4071,6 +4053,22 @@ DTSTART:20251028T073000Z
 DTEND:20251028T130000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
+DTSTAMP:20250730T071247Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
+ Interiérový refresh
+DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
+ iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
+ za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
+ aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
+ en-stylovo-aj-za-malo-penazi-interierovy-refresh
+URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
+ erovy-refresh
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:100934fd781335321a36724127c5112864514966@cike-events
 DTSTAMP:20250205T012214Z
 CATEGORIES:ICKK
@@ -4085,6 +4083,24 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
@@ -4279,25 +4295,6 @@ DTSTART:20260510T220000Z
 DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, ktorá vám ukáže\, ako vdýchnuť interiéru n
- ový dych efektívne\, vkusne a hlavne bez zbytočného prievanu v peňaž
- enke. Čo sa na workshope dozviete a naučíte? Rýchle […] \\n\n\nhttps
- ://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interierovy-re
- fresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4482,23 +4479,5 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
 END:VEVENT
 END:VCALENDAR
