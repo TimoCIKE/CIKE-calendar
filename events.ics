@@ -6,39 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:06eebcb1ca9e21ff1c1e1ace59c1d19966e04157@cike-events
-DTSTAMP:20251113T223438Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] WRO 2026 MAJSTROVSTVÁ SLOVENSKA MEDZINÁRODNEJ SÚ
- ŤAŽE
-LOCATION:Košice Kulturpark
-DESCRIPTION:World Robot Olympiad (WRO) patrí medzi najväčšie medzináro
- dné robotické súťaže pre mladé talenty v oblasti STEM\, programovani
- a a robotiky. Súťaž prepája vzdelávanie\, inovácie a technologický 
- rozvoj mladých ľudí vo veku od 8 do 19 rokov. Na Slovensku ju od roku 2
- 019 organizuje Talentum Cassoviensis v spolupráci s maďarskou univerzito
- u Edutus.\n\nhttps://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-sl
- ovenska-medzinarodnej-sutaze
-URL:https://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-slovenska-me
- dzinarodnej-sutaze
-DTSTART;VALUE=DATE:20260602
-END:VEVENT
-BEGIN:VEVENT
-UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
-DTSTAMP:20250703T002745Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
-LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
- 40 11
-DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
- stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
- častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
- e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
- nts/eduscrum-pre-pedagogov
-URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
-DTSTART;VALUE=DATE:20260602
-END:VEVENT
-BEGIN:VEVENT
 UID:0a8cca53aa5fdf9e53178527a2b7607432eb09e5@cike-events
 DTSTAMP:20250702T125623Z
 CATEGORIES:ITVALLEY
@@ -156,21 +123,6 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260619
 END:VEVENT
 BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -184,6 +136,21 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -202,6 +169,39 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:06eebcb1ca9e21ff1c1e1ace59c1d19966e04157@cike-events
+DTSTAMP:20251113T223438Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] WRO 2026 MAJSTROVSTVÁ SLOVENSKA MEDZINÁRODNEJ SÚ
+ ŤAŽE
+LOCATION:Košice Kulturpark
+DESCRIPTION:World Robot Olympiad (WRO) patrí medzi najväčšie medzináro
+ dné robotické súťaže pre mladé talenty v oblasti STEM\, programovani
+ a a robotiky. Súťaž prepája vzdelávanie\, inovácie a technologický 
+ rozvoj mladých ľudí vo veku od 8 do 19 rokov. Na Slovensku ju od roku 2
+ 019 organizuje Talentum Cassoviensis v spolupráci s maďarskou univerzito
+ u Edutus.\n\nhttps://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-sl
+ ovenska-medzinarodnej-sutaze
+URL:https://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-slovenska-me
+ dzinarodnej-sutaze
+DTSTART;VALUE=DATE:20260602
+END:VEVENT
+BEGIN:VEVENT
+UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
+DTSTAMP:20250703T002745Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
+LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
+ 40 11
+DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
+ stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
+ častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
+ e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/eduscrum-pre-pedagogov
+URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
+DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
 UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
@@ -231,6 +231,19 @@ URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
 UID:9479fbd89ee6ba1417ec4766dcf6f056c55f2627@cike-events
 DTSTAMP:20250610T013952Z
 CATEGORIES:ITVALLEY
@@ -244,19 +257,6 @@ DESCRIPTION:Online meetup člena klastra bart.sk o praktickom využití AI
  zitie-ai-v-digitalnych-rieseniach
 URL:https://www.kosiceitvalley.sk/events/strategicke-vyuzitie-ai-v-digitaln
  ych-rieseniach
-DTSTART;VALUE=DATE:20260527
-END:VEVENT
-BEGIN:VEVENT
-UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
-DTSTAMP:20251108T045302Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CEO Breakfast
-LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
-DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
- ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
- nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
- ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
-URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
 DTSTART;VALUE=DATE:20260527
 END:VEVENT
 BEGIN:VEVENT
@@ -834,6 +834,20 @@ URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
+UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
+DTSTAMP:20250206T213219Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Magnetize Conference 2025
+LOCATION:Kongres Hotel ROCA Košice
+DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
+ ničia. Konferencia MAGNETIZE 2025 prinesie riešenia pre integráciu medz
+ inárodných študentov\, prekážky na trhu práce a prepojenie vzdeláva
+ nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
+ onference-2025
+URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
 UID:151a8ea7f2f17941c2e7ae53230656d7fba37265@cike-events
 DTSTAMP:20251006T024853Z
 CATEGORIES:ITVALLEY
@@ -929,6 +943,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -939,18 +965,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1426,18 +1440,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:180cd51e8fabd771d0fd8986a08c66330a07d94a@cike-events
-DTSTAMP:20251001T045550Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Future of Eastern Slovakia: Data\, Vision\, Decisions
-LOCATION:Tabačka Kulturfabrik\, Gorkého 2
-DESCRIPTION:A Candidate Forum for Chair of KSK and Mayor of Košice\n\nhttp
- s://amcham.sk/events/3667/future-of-eastern-slovakia-data-vision-decisions
-URL:https://amcham.sk/events/3667/future-of-eastern-slovakia-data-vision-de
- cisions
-DTSTART;VALUE=DATE:20260604
-END:VEVENT
-BEGIN:VEVENT
 UID:31e2e1b5b35a0834d400f3dcddfbbc1225e055f1@cike-events
 DTSTAMP:20250621T224300Z
 CATEGORIES:AMCHAM
@@ -1612,6 +1614,19 @@ URL:https://amcham.sk/events/3682/application-of-the-new-building-act-in-pr
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
+UID:8da06d7ffde7543eb1284deb4e8e2f06a4bd20f0@cike-events
+DTSTAMP:20250829T221534Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Express speed\, economical choice. Smart logistics wi
+ th DHL Economy Select.
+LOCATION:online
+DESCRIPTION:webinar organized by DHL Express\n\nhttps://amcham.sk/events/36
+ 83/express-speed-economical-choice-smart-logistics-with-dhl-economy-select
+URL:https://amcham.sk/events/3683/express-speed-economical-choice-smart-log
+ istics-with-dhl-economy-select
+DTSTART;VALUE=DATE:20260624
+END:VEVENT
+BEGIN:VEVENT
 UID:f9aff65d9d58ca479e4d073640d833cce549b642@cike-events
 DTSTAMP:20251104T130055Z
 CATEGORIES:AMCHAM
@@ -1673,6 +1688,18 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:180cd51e8fabd771d0fd8986a08c66330a07d94a@cike-events
+DTSTAMP:20251001T045550Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Future of Eastern Slovakia: Data\, Vision\, Decisions
+LOCATION:Tabačka Kulturfabrik\, Gorkého 2
+DESCRIPTION:A Candidate Forum for Chair of KSK and Mayor of Košice\n\nhttp
+ s://amcham.sk/events/3667/future-of-eastern-slovakia-data-vision-decisions
+URL:https://amcham.sk/events/3667/future-of-eastern-slovakia-data-vision-de
+ cisions
+DTSTART;VALUE=DATE:20260604
 END:VEVENT
 BEGIN:VEVENT
 UID:0d4175b94b600cec3aca618d96b7dcf9e1f028fe@cike-events
@@ -2394,65 +2421,6 @@ URL:https://amcham.sk/events/3464/summer-innovation-business-cocktail
 DTSTART;VALUE=DATE:20250605
 END:VEVENT
 BEGIN:VEVENT
-UID:384f45eba914cd053b4042bcf36289db7d1bb0fd@cike-events
-DTSTAMP:20251015T094411Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
-LOCATION:Valaliky Industrial Park\, Valaliky
-DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3511/valaliky-industria
- l-park
-URL:https://amcham.sk/events/3511/valaliky-industrial-park
-DTSTART;VALUE=DATE:20250605
-END:VEVENT
-BEGIN:VEVENT
-UID:813d97d54e934e0cadf1bd17b3f1da2a7299d352@cike-events
-DTSTAMP:20250119T231942Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] URBIS 2026- Smart Cities Meetup
-LOCATION:Veltrhy Brno\, Výstaviště 405/1\, Brno
-DESCRIPTION:URBIS 2026: Tri dni inovácií pre obce a mestá a firmy Veľtr
- h a konferencia URBIS 2026 sa uskutoční 2.-4. júna 2026 na brnenskom v
- ýstavisku a ponúkne mestám a obciam všetkých veľkostí [...] \\n\n\n
- https://www.sopk.sk/event/urbis-2026-smart-cities-meetup
-URL:https://www.sopk.sk/event/urbis-2026-smart-cities-meetup
-DTSTART:20260601T220000Z
-DTEND:20260604T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf38867bd7c937a54897eb53c8ad3e27a4412c3a@cike-events
-DTSTAMP:20250316T202334Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] SLOVAK – SWISS DAY 2026…UMELÁ INTELIGENCIA – pr
- íležitosti v podnikaní a vzdelávaní
-LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slo
- venským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Brat
- islave Vás pozývajú odborné podujatie "SLOVAK - SWISS DAY 2026 ... UME
- LÁ INTELIGENCIA - príležitosť [...] \\n\n\nhttps://www.sopk.sk/event/s
- lovak-swiss-day-2026umela-inteligencia-prilezitosti-v-podnikani-a-vzdelava
- ni
-URL:https://www.sopk.sk/event/slovak-swiss-day-2026umela-inteligencia-prile
- zitosti-v-podnikani-a-vzdelavani
-DTSTART:20260604T070000Z
-DTEND:20260604T130000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:e253a195418b0432c5da1d098dca0757f4799b4e@cike-events
-DTSTAMP:20251108T143048Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Budúcnosť východného Slovenska: Data\, vízie\, roz
- hodnutia
-DESCRIPTION:Kandidátske fórum na predsedu KSK a primátora Košíc Akým 
- smerom sa vydajú Košice a širší región východného Slovenska? Aké 
- konkrétne plány majú kandidáti – a ako obstojí ich vízia v konfron
- tácii [...] \\n\n\nhttps://www.sopk.sk/event/buducnost-vychodneho-slovens
- ka-data-vizie-rozhodnutia
-URL:https://www.sopk.sk/event/buducnost-vychodneho-slovenska-data-vizie-roz
- hodnutia
-DTSTART:20260604T150000Z
-DTEND:20260604T180000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:1137ce07679b4642f7029021e57ddbda4e92ea8b@cike-events
 DTSTAMP:20250718T025530Z
 CATEGORIES:SOPK
@@ -2548,7 +2516,6 @@ DTSTAMP:20250118T131557Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] Komorové biznis ráno s Monikou Poussard: prvé stretn
  utie novej série podujatí TTRK SOPK
-LOCATION:IMPIQ Hotel\, B. S. Timravy 2\, Trnava\, 917 01
 DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov z regi
  ónu na prvé zo série komorových biznis raňajok\, ktoré sa uskutočni
  a 11. júna 2026 (štvrtok) od 9:30 do 11:00 v hoteli IMPIQ v Trnave. [...
@@ -2635,6 +2602,20 @@ URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
  vody-2
 DTSTART:20260617T070000Z
 DTEND:20260617T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2889dcf05bb176ec5cb35d2f8a069718e58e9562@cike-events
+DTSTAMP:20250717T163743Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár: Bude vaša firma o 5 rokov stále fungovať?
+DESCRIPTION:Na seminári „Bude vaša firma o 5 rokov stále fungovať?“
+ sa pozrieme na to\, ako robiť rozhodnutia dnes tak\, aby vaša firma nepr
+ ežívala od mesiaca k mesiacu\, ale mala jasný smer aj [...] \\n\n\nhttp
+ s://www.sopk.sk/event/seminar-bude-vasa-firma-o-5-rokov-stale-fungovat
+URL:https://www.sopk.sk/event/seminar-bude-vasa-firma-o-5-rokov-stale-fungo
+ vat
+DTSTART:20260617T080000Z
+DTEND:20260617T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9f906ba33f0f982c21928199d542eb8d7c472e98@cike-events
@@ -2905,17 +2886,22 @@ DTSTART:20260528T070000Z
 DTEND:20260528T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e8629770b07f37197cbffec07a013bf946b0992e@cike-events
-DTSTAMP:20250731T045325Z
+UID:cf38867bd7c937a54897eb53c8ad3e27a4412c3a@cike-events
+DTSTAMP:20250316T202334Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Elektronický podpis v obchodných a firemných proceso
- ch – Hackni sa skôr ako ťa hacknú
-DESCRIPTION:https://www.sopk.sk/event/elektronicky-podpis-v-obchodnych-a-fi
- remnych-procesoch-hackni-sa-skor-ako-ta-hacknu
-URL:https://www.sopk.sk/event/elektronicky-podpis-v-obchodnych-a-firemnych-
- procesoch-hackni-sa-skor-ako-ta-hacknu
+SUMMARY:🟧 [SOPK] SLOVAK – SWISS DAY 2026…UMELÁ INTELIGENCIA – pr
+ íležitosti v podnikaní a vzdelávaní
+LOCATION:Péchy Castle Hotel\, Hermanovce 296\, Hermanovce\, 08235
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so slo
+ venským veľvyslanectvom v Berne a švajčiarskym veľvyslanectvom v Brat
+ islave Vás pozývajú odborné podujatie "SLOVAK - SWISS DAY 2026 ... UME
+ LÁ INTELIGENCIA - príležitosť [...] \\n\n\nhttps://www.sopk.sk/event/s
+ lovak-swiss-day-2026umela-inteligencia-prilezitosti-v-podnikani-a-vzdelava
+ ni
+URL:https://www.sopk.sk/event/slovak-swiss-day-2026umela-inteligencia-prile
+ zitosti-v-podnikani-a-vzdelavani
 DTSTART:20260604T070000Z
-DTEND:20260604T070000Z
+DTEND:20260604T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:04d24d4d949bddeb631415fb30e964a754d2a822@cike-events
@@ -4042,22 +4028,6 @@ DTSTART:20251028T073000Z
 DTEND:20251028T130000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
- en-stylovo-aj-za-malo-penazi-interierovy-refresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:100934fd781335321a36724127c5112864514966@cike-events
 DTSTAMP:20250205T012214Z
 CATEGORIES:ICKK
@@ -4072,24 +4042,6 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
@@ -4284,6 +4236,25 @@ DTSTART:20260510T220000Z
 DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
+DTSTAMP:20250730T071247Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
+ Interiérový refresh
+DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
+ iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
+ za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
+ aryna Šmídt Liehkova\, ktorá vám ukáže\, ako vdýchnuť interiéru n
+ ový dych efektívne\, vkusne a hlavne bez zbytočného prievanu v peňaž
+ enke. Čo sa na workshope dozviete a naučíte? Rýchle […] \\n\n\nhttps
+ ://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interierovy-re
+ fresh
+URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
+ erovy-refresh
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4468,5 +4439,23 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
 END:VEVENT
 END:VCALENDAR
