@@ -10,7 +10,7 @@ UID:0a8cca53aa5fdf9e53178527a2b7607432eb09e5@cike-events
 DTSTAMP:20250702T125623Z
 CATEGORIES:ITVALLEY
 SUMMARY:🔵 [ITVALLEY] Jarný cybersecurity day
-LOCATION:Košice
+LOCATION:Jesenná 5\, Košice
 DESCRIPTION:Jarný CyberSecurityDay 2026 prinesie praktické workshopy\, od
  borné prednášky\, diskusie a súťaže z oblasti kybernetickej bezpečn
  osti. Podujatie spája študentov\, IT profesionálov a nadšencov\, ktor
@@ -36,6 +36,19 @@ DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260611
 END:VEVENT
 BEGIN:VEVENT
+UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
+DTSTAMP:20250123T002446Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
 DTSTAMP:20250922T105630Z
 CATEGORIES:ITVALLEY
@@ -49,19 +62,6 @@ DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
  ocus-groups-buducnost-je-automotive
 URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
  ve
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
-DTSTAMP:20250123T002446Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
-LOCATION:UVP Technicom
-DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
- ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
- etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
- ts/klubovna-pre-nadane-deti
-URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -123,6 +123,21 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260619
 END:VEVENT
 BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -136,21 +151,6 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -231,19 +231,6 @@ URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
-UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
-DTSTAMP:20251108T045302Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CEO Breakfast
-LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
-DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
- ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
- nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
- ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
-URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
-DTSTART;VALUE=DATE:20260527
-END:VEVENT
-BEGIN:VEVENT
 UID:9479fbd89ee6ba1417ec4766dcf6f056c55f2627@cike-events
 DTSTAMP:20250610T013952Z
 CATEGORIES:ITVALLEY
@@ -257,6 +244,19 @@ DESCRIPTION:Online meetup člena klastra bart.sk o praktickom využití AI
  zitie-ai-v-digitalnych-rieseniach
 URL:https://www.kosiceitvalley.sk/events/strategicke-vyuzitie-ai-v-digitaln
  ych-rieseniach
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
 DTSTART;VALUE=DATE:20260527
 END:VEVENT
 BEGIN:VEVENT
@@ -821,19 +821,6 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -845,6 +832,19 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -943,18 +943,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -965,6 +953,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1440,19 +1440,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:31e2e1b5b35a0834d400f3dcddfbbc1225e055f1@cike-events
-DTSTAMP:20250621T224300Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] People First\, Panic Later: Feelings & Other Workplac
- e Emergencies
-LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3675/people-first-panic-la
- ter-feelings-other-workplace-emergencies
-URL:https://amcham.sk/events/3675/people-first-panic-later-feelings-other-w
- orkplace-emergencies
-DTSTART;VALUE=DATE:20260605
-END:VEVENT
-BEGIN:VEVENT
 UID:4611789a9fadac11f4c4d86b1e43fdae90102ab5@cike-events
 DTSTAMP:20250919T100658Z
 CATEGORIES:AMCHAM
@@ -1688,6 +1675,19 @@ DESCRIPTION:30th Edition\n\nhttps://amcham.sk/events/3585/thanksgiving-char
 URL:https://amcham.sk/events/3585/thanksgiving-charity-gala-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:31e2e1b5b35a0834d400f3dcddfbbc1225e055f1@cike-events
+DTSTAMP:20250621T224300Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] People First\, Panic Later: Feelings & Other Workplac
+ e Emergencies
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3675/people-first-panic-la
+ ter-feelings-other-workplace-emergencies
+URL:https://amcham.sk/events/3675/people-first-panic-later-feelings-other-w
+ orkplace-emergencies
+DTSTART;VALUE=DATE:20260605
 END:VEVENT
 BEGIN:VEVENT
 UID:180cd51e8fabd771d0fd8986a08c66330a07d94a@cike-events
@@ -2399,28 +2399,6 @@ URL:https://amcham.sk/events/3487/arbitration-conference
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:7dcbcebcbbfc3a1bc0d91e9d750046db0ce890f0@cike-events
-DTSTAMP:20251215T024953Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Valaliky Industrial Park
-LOCATION:Valaliky Industrial Park\, Valaliky
-DESCRIPTION:Member Tour\n\nhttps://amcham.sk/events/3512/valaliky-industria
- l-park
-URL:https://amcham.sk/events/3512/valaliky-industrial-park
-DTSTART;VALUE=DATE:20250606
-END:VEVENT
-BEGIN:VEVENT
-UID:2102965b2bcf352e4b7d01d0d2fffe9a5c578230@cike-events
-DTSTAMP:20250302T185017Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Summer Innovation Business Cocktail
-LOCATION:Botanical Garden UPJŠ\, Mánesova 1889/23
-DESCRIPTION:in Košice\n\nhttps://amcham.sk/events/3464/summer-innovation-b
- usiness-cocktail
-URL:https://amcham.sk/events/3464/summer-innovation-business-cocktail
-DTSTART;VALUE=DATE:20250605
-END:VEVENT
-BEGIN:VEVENT
 UID:1137ce07679b4642f7029021e57ddbda4e92ea8b@cike-events
 DTSTAMP:20250718T025530Z
 CATEGORIES:SOPK
@@ -2483,8 +2461,8 @@ BEGIN:VEVENT
 UID:421d6e6fe272a4c6c6bfcf3b4a5fe9756e9ccd4f@cike-events
 DTSTAMP:20250510T191149Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] PRIPRAVENÍ NA SPOTREBITEĽSKÉ PRÁVO NEXT (CONSUMER L
- AW READY NEXT)
+SUMMARY:🟧 [SOPK] ZRUŠENÉ podujatie!! PRIPRAVENÍ NA SPOTREBITEĽSKÉ P
+ RÁVO NEXT (CONSUMER LAW READY NEXT)
 LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
 DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so  S
  poločnosťou ochrany spotrebiteľov Vás pozývajú na odborné školenie
@@ -2691,6 +2669,24 @@ DESCRIPTION:Nitrianska regionálna komora SOPK Vás 24.6.2026 od 09:00 - 14
 URL:https://www.sopk.sk/event/webinar-dochodky-4
 DTSTART:20260624T070000Z
 DTEND:20260624T123000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:81f1ec886e2f8320d30cef4ee0a0881063d6995f@cike-events
+DTSTAMP:20250206T070613Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Klub ŽRK SOPK s VLADIMÍROM ŠIMOŇÁKOM\, štátnym t
+ ajomníkom Ministerstva hospodárstva SR
+LOCATION:Žilina\, SOPK\, Hálkova 31\, Žilina\, 01001
+DESCRIPTION:Dovoľujeme si Vás pozvať na Klub ŽRK SOPK s VLADIMÍROM ŠI
+ MOŇÁKOM\, štátnym tajomníkom Ministerstva hospodárstva SR. Ako štá
+ tny tajomník sa špecializuje na medzinárodné vzťahy\, európske zále
+ žitosti a priemyselnú politiku. Termín:  7. júl [...] \\n\n\nhttps:/
+ /www.sopk.sk/event/klub-zrk-sopk-s-vladimirom-simonakom-statnym-tajomnikom
+ -ministerstva-hospodarstva-sr
+URL:https://www.sopk.sk/event/klub-zrk-sopk-s-vladimirom-simonakom-statnym-
+ tajomnikom-ministerstva-hospodarstva-sr
+DTSTART:20260707T080000Z
+DTEND:20260707T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:553a02b11250ada0cf85b1a4c7f2e1dde3cd6c7b@cike-events
@@ -4028,6 +4024,22 @@ DTSTART:20251028T073000Z
 DTEND:20251028T130000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
+DTSTAMP:20250730T071247Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
+ Interiérový refresh
+DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
+ iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
+ za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
+ aryna Šmídt Liehkova\, […] \\n\n\nhttps://ickk.sk/event/workshop-tovar
+ en-stylovo-aj-za-malo-penazi-interierovy-refresh
+URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
+ erovy-refresh
+DTSTART:20260526T150000Z
+DTEND:20260526T170000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:100934fd781335321a36724127c5112864514966@cike-events
 DTSTAMP:20250205T012214Z
 CATEGORIES:ICKK
@@ -4042,6 +4054,24 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
@@ -4236,25 +4266,6 @@ DTSTART:20260510T220000Z
 DTEND:20260515T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, ktorá vám ukáže\, ako vdýchnuť interiéru n
- ový dych efektívne\, vkusne a hlavne bez zbytočného prievanu v peňaž
- enke. Čo sa na workshope dozviete a naučíte? Rýchle […] \\n\n\nhttps
- ://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interierovy-re
- fresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:8d639e3761c5b482e39eaf4736c5068d942d0cd0@cike-events
 DTSTAMP:20250907T104548Z
 CATEGORIES:ICKK
@@ -4439,23 +4450,5 @@ DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
 URL:https://ickk.sk/event/animatorsky-workshop
 DTSTART:20251022T140000Z
 DTEND:20251022T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
 END:VEVENT
 END:VCALENDAR
