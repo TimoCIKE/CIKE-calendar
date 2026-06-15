@@ -20,18 +20,18 @@ URL:https://www.kosiceitvalley.sk/events/sask-meetup-prichadza-do-kosic
 DTSTART;VALUE=DATE:20260616
 END:VEVENT
 BEGIN:VEVENT
-UID:39dc318c40fc4a6fd3848619a6fb9c504e954ee6@cike-events
-DTSTAMP:20250808T034642Z
+UID:549840751a7f6969e021e76921c1681e8ec62762@cike-events
+DTSTAMP:20251115T154337Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] KASV: Finálne prezentácie projektov študentov
-LOCATION:UVP Technicom\, Košice
-DESCRIPTION:Pozývame vás na finálne prezentácie projektov študentov 1.
-  ročníka programu Košická akadémia softvérového vývoja (KASV)\, kt
- oré sa uskutočnia 15. júna 2026.\n\nhttps://www.kosiceitvalley.sk/event
- s/kasv-finalne-prezentacie-projektov-studentov
-URL:https://www.kosiceitvalley.sk/events/kasv-finalne-prezentacie-projektov
- -studentov
-DTSTART;VALUE=DATE:20260618
+SUMMARY:🔵 [ITVALLEY] UX/PIKNIK
+LOCATION:KC PONQ\, Hrnčiarska 21\, Košice
+DESCRIPTION:UX komunita sa opäť stretne na letnom UX meetupe v KC PONQ. 
+ Čaká vás networking\, obľúbený UX kvíz\, grilovačka a príjemná a
+ tmosféra medzi dizajnérmi a UX nadšencami. Prines vlastnú špecialitu 
+ či knihu do komunitnej knižnice a uži si večer plný inšpirácie. Vst
+ up je zdarma.\n\nhttps://www.kosiceitvalley.sk/events/ux-piknik
+URL:https://www.kosiceitvalley.sk/events/ux-piknik
+DTSTART;VALUE=DATE:20260616
 END:VEVENT
 BEGIN:VEVENT
 UID:a77b24ce6ffca79691df6af6cd3f315877b6e42b@cike-events
@@ -47,32 +47,18 @@ URL:https://www.kosiceitvalley.sk/events/ai-community-meetup
 DTSTART;VALUE=DATE:20260618
 END:VEVENT
 BEGIN:VEVENT
-UID:4b8ee7f5b62c221061d5a5f7e67561b2b310f15d@cike-events
-DTSTAMP:20250218T083735Z
+UID:39dc318c40fc4a6fd3848619a6fb9c504e954ee6@cike-events
+DTSTAMP:20250808T034642Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] KASV: Slávnostné odovzdávanie diplomov
-LOCATION:Košice
-DESCRIPTION:Slávnostné odovzdávanie diplomov absolventom programu Košic
- ká akadémia softvérového vývoja sa uskutoční 19. júna 2026.\n\nhtt
- ps://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplomov
-URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
- mov
-DTSTART;VALUE=DATE:20260619
-END:VEVENT
-BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
-DTSTART;VALUE=DATE:20260623
+SUMMARY:🔵 [ITVALLEY] KASV: Finálne prezentácie projektov študentov
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Pozývame vás na finálne prezentácie projektov študentov 1.
+  ročníka programu Košická akadémia softvérového vývoja (KASV)\, kt
+ oré sa uskutočnia 22. júna 2026.\n\nhttps://www.kosiceitvalley.sk/event
+ s/kasv-finalne-prezentacie-projektov-studentov
+URL:https://www.kosiceitvalley.sk/events/kasv-finalne-prezentacie-projektov
+ -studentov
+DTSTART;VALUE=DATE:20260622
 END:VEVENT
 BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
@@ -88,6 +74,21 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -121,6 +122,19 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8ee7f5b62c221061d5a5f7e67561b2b310f15d@cike-events
+DTSTAMP:20250218T083735Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] KASV: Slávnostné odovzdávanie diplomov
+LOCATION:Košice
+DESCRIPTION:Slávnostné odovzdávanie diplomov absolventom programu Košic
+ ká akadémia softvérového vývoja sa uskutoční 12. júna 2026.\n\nhtt
+ ps://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplomov
+URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
+ mov
+DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
 UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
@@ -199,6 +213,21 @@ URL:https://www.kosiceitvalley.sk/events/8093
 DTSTART;VALUE=DATE:20260606
 END:VEVENT
 BEGIN:VEVENT
+UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
+DTSTAMP:20250703T002745Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
+LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
+ 40 11
+DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
+ stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
+ častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
+ e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/eduscrum-pre-pedagogov
+URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
+DTSTART;VALUE=DATE:20260602
+END:VEVENT
+BEGIN:VEVENT
 UID:06eebcb1ca9e21ff1c1e1ace59c1d19966e04157@cike-events
 DTSTAMP:20251113T223438Z
 CATEGORIES:ITVALLEY
@@ -214,21 +243,6 @@ DESCRIPTION:World Robot Olympiad (WRO) patrí medzi najväčšie medzináro
  ovenska-medzinarodnej-sutaze
 URL:https://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-slovenska-me
  dzinarodnej-sutaze
-DTSTART;VALUE=DATE:20260602
-END:VEVENT
-BEGIN:VEVENT
-UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
-DTSTAMP:20250703T002745Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
-LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
- 40 11
-DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
- stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
- častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
- e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
- nts/eduscrum-pre-pedagogov
-URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
@@ -259,19 +273,6 @@ URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
-UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
-DTSTAMP:20251108T045302Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CEO Breakfast
-LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
-DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
- ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
- nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
- ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
-URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
-DTSTART;VALUE=DATE:20260527
-END:VEVENT
-BEGIN:VEVENT
 UID:9479fbd89ee6ba1417ec4766dcf6f056c55f2627@cike-events
 DTSTAMP:20250610T013952Z
 CATEGORIES:ITVALLEY
@@ -285,6 +286,19 @@ DESCRIPTION:Online meetup člena klastra bart.sk o praktickom využití AI
  zitie-ai-v-digitalnych-rieseniach
 URL:https://www.kosiceitvalley.sk/events/strategicke-vyuzitie-ai-v-digitaln
  ych-rieseniach
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
 DTSTART;VALUE=DATE:20260527
 END:VEVENT
 BEGIN:VEVENT
@@ -350,20 +364,6 @@ DESCRIPTION:Spoločnosť ABB Solutions Slovakia v spolupráci s neziskovou
 URL:https://www.kosiceitvalley.sk/events/business-breakfast-efektivna-praca
  -s-ai-socialne-byvanie
 DTSTART;VALUE=DATE:20260514
-END:VEVENT
-BEGIN:VEVENT
-UID:549840751a7f6969e021e76921c1681e8ec62762@cike-events
-DTSTAMP:20251115T154337Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX/PIKNIK
-LOCATION:KC PONQ\, Hrnčiarska 21\, Košice
-DESCRIPTION:UX komunita sa opäť stretne na letnom UX meetupe v KC PONQ. 
- Čaká vás networking\, obľúbený UX kvíz\, grilovačka a príjemná a
- tmosféra medzi dizajnérmi a UX nadšencami. Prines vlastnú špecialitu 
- či knihu do komunitnej knižnice a uži si večer plný inšpirácie. Vst
- up je zdarma.\n\nhttps://www.kosiceitvalley.sk/events/ux-piknik
-URL:https://www.kosiceitvalley.sk/events/ux-piknik
-DTSTART;VALUE=DATE:20260616
 END:VEVENT
 BEGIN:VEVENT
 UID:3e3ac83fa1323459ea7c8a5ef196c4b57282ce56@cike-events
@@ -985,18 +985,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -1007,6 +995,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -3945,8 +3945,8 @@ DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
   spolupráce. Tento rok dávame priestor […] \\n\n\nhttps://ickk.sk/even
  t/strojarenska-zije-3-0
 URL:https://ickk.sk/event/strojarenska-zije-3-0
-DTSTART:20260625T150000Z
-DTEND:20260625T200000Z
+DTSTART:20260618T150000Z
+DTEND:20260618T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
