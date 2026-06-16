@@ -863,19 +863,6 @@ URL:https://www.kosiceitvalley.sk/events/ux-pivo-16-budovanie-ux-timu
 DTSTART;VALUE=DATE:20251014
 END:VEVENT
 BEGIN:VEVENT
-UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
-DTSTAMP:20250524T202159Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
-LOCATION:Coworking Poprad
-DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
- a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
- rencieschopné. Večer doplní networking a konzultácie so špecialistami
-  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
-URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
-DTSTART;VALUE=DATE:20251009
-END:VEVENT
-BEGIN:VEVENT
 UID:a0f77f28d1c0299a1433cdd52885f4342adcd364@cike-events
 DTSTAMP:20250206T213219Z
 CATEGORIES:ITVALLEY
@@ -887,6 +874,19 @@ DESCRIPTION:Košice potrebujú udržať talent\, ktorý prichádza zo zahra
  nia s potrebami praxe.\n\nhttps://www.kosiceitvalley.sk/events/magnetize-c
  onference-2025
 URL:https://www.kosiceitvalley.sk/events/magnetize-conference-2025
+DTSTART;VALUE=DATE:20251009
+END:VEVENT
+BEGIN:VEVENT
+UID:ac0f30662e182ef264e5bfdc935ebfc4fc206a66@cike-events
+DTSTAMP:20250524T202159Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] INNOPSIES Poprad
+LOCATION:Coworking Poprad
+DESCRIPTION:Innopsies 9. októbra 2025 v Coworking Poprad ukáže\, ako AI 
+ a digitalizácia pomáhajú malým a stredným firmám rásť a byť konku
+ rencieschopné. Večer doplní networking a konzultácie so špecialistami
+  EDIH Cassovium.\n\nhttps://www.kosiceitvalley.sk/events/innopsies-poprad
+URL:https://www.kosiceitvalley.sk/events/innopsies-poprad
 DTSTART;VALUE=DATE:20251009
 END:VEVENT
 BEGIN:VEVENT
@@ -1480,31 +1480,6 @@ DESCRIPTION:Veľmi nás teší\, že naše pozvanie byť večernou lektorko
 URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
  ing
 DTSTART;VALUE=DATE:20240516
-END:VEVENT
-BEGIN:VEVENT
-UID:73dbb533322bc082474afbb708ff763e4c32ef7a@cike-events
-DTSTAMP:20250409T010245Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Líderské jednohubky
-LOCATION:The Spot\, Sky Park\, Bratislava
-DESCRIPTION:workshop organized by SUVKO\n\nhttps://amcham.sk/events/3684/li
- derske-jednohubky
-URL:https://amcham.sk/events/3684/liderske-jednohubky
-DTSTART;VALUE=DATE:20260616
-END:VEVENT
-BEGIN:VEVENT
-UID:71f2cb676819246a1f90383dafecbb8af51990ce@cike-events
-DTSTAMP:20250911T102424Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Amendment to the Act on the Residence of Foreigners: 
- What Changes from 15 July 2026
-LOCATION:online (Zoom)
-DESCRIPTION:webcast organized by Deloitte\n\nhttps://amcham.sk/events/3685/
- amendment-to-the-act-on-the-residence-of-foreigners-what-changes-from-15-j
- uly-2026
-URL:https://amcham.sk/events/3685/amendment-to-the-act-on-the-residence-of-
- foreigners-what-changes-from-15-july-2026
-DTSTART;VALUE=DATE:20260616
 END:VEVENT
 BEGIN:VEVENT
 UID:50a756e8c1c32482401014d20056f92cee002521@cike-events
@@ -2387,20 +2362,6 @@ DESCRIPTION:Be the first to hear about AmCham achievements and activities i
  n 2024.\n\nhttps://amcham.sk/events/3490/general-assembly-2025
 URL:https://amcham.sk/events/3490/general-assembly-2025
 DTSTART;VALUE=DATE:20250619
-END:VEVENT
-BEGIN:VEVENT
-UID:b5b82f931e94d644c004be73c1d6234ddc6f7561@cike-events
-DTSTAMP:20250216T021327Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: Colná problematika pre logistiku
-DESCRIPTION:Cieľ webinára: webinár určený pre zasielateľov a pracovn
- íkov v logistike. Svojím charakterom a zameraním je vhodný a dôležit
- ý pre získanie základnej orientácie v colnej problematike\, ktorá je 
- rozsiahla a zložitá. Získané [...] \\n\n\nhttps://www.sopk.sk/event/we
- binar-colna-problematika-pre-logistiku-3
-URL:https://www.sopk.sk/event/webinar-colna-problematika-pre-logistiku-3
-DTSTART:20260616T070000Z
-DTEND:20260616T130000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1a0fb6056948d291c3d35a11da0621209bcb73ee@cike-events
@@ -3945,8 +3906,8 @@ DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
   spolupráce. Tento rok dávame priestor […] \\n\n\nhttps://ickk.sk/even
  t/strojarenska-zije-3-0
 URL:https://ickk.sk/event/strojarenska-zije-3-0
-DTSTART:20260618T150000Z
-DTEND:20260618T200000Z
+DTSTART:20260625T150000Z
+DTEND:20260625T200000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
