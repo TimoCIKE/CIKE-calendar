@@ -985,6 +985,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -995,18 +1007,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1607,6 +1607,19 @@ DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3673/welcome-back
  -to-work-in-kosice
 URL:https://amcham.sk/events/3673/welcome-back-to-work-in-kosice
 DTSTART;VALUE=DATE:20261001
+END:VEVENT
+BEGIN:VEVENT
+UID:5fbf3f48394e8eab962845fecca2d61aebb85ead@cike-events
+DTSTAMP:20250603T014121Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AmCham BSCF 12th Annual Business Centers Conference
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:From Efficiency to Impact: Talent\, Technology & Transformation
+ \n\nhttps://amcham.sk/events/3686/amcham-bscf-12th-annual-business-centers
+ -conference
+URL:https://amcham.sk/events/3686/amcham-bscf-12th-annual-business-centers-
+ conference
+DTSTART;VALUE=DATE:20261015
 END:VEVENT
 BEGIN:VEVENT
 UID:184acc4bcefc0a0656457adb7bcf1e18d5d1b5de@cike-events
@@ -2378,22 +2391,6 @@ DESCRIPTION:Mesto Poprad v spolupráci s Poľsko-slovenskou obchodnou a pri
 URL:https://www.sopk.sk/event/biznis-bez-hranic-polsko
 DTSTART:20260617T070000Z
 DTEND:20260617T120000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:f53fe2c4c442401fe4b29f2bbdcaa394190c3d6f@cike-events
-DTSTAMP:20250826T140927Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: DAŇOVO-ODVODOVÁ OPTIMALIZÁCIA + MIKROODVOD
- Y
-DESCRIPTION:17. jún 2026 Lektor:  RNDr. Jozef Mihál Čas: 9:00 - 13:30 
-  (v tom 30 minútová obedná prestávka 11:30-12:00 a jedna 10 minútová
-  prestávka)\, prezentácia bude otvorená od 8:30. Program: Daňový bonu
- s [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimaliz
- acia-mikroodvody
-URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
- vody
-DTSTART:20260617T070000Z
-DTEND:20260617T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:933ed7f5b0b3ff69c5c4bc229e178cb96915b405@cike-events
