@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:39dc318c40fc4a6fd3848619a6fb9c504e954ee6@cike-events
-DTSTAMP:20250808T034642Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] KASV: Finálne prezentácie projektov študentov
-LOCATION:UVP Technicom\, Košice
-DESCRIPTION:Pozývame vás na finálne prezentácie projektov študentov 1.
-  ročníka programu Košická akadémia softvérového vývoja (KASV)\, kt
- oré sa uskutočnia 22. júna 2026.\n\nhttps://www.kosiceitvalley.sk/event
- s/kasv-finalne-prezentacie-projektov-studentov
-URL:https://www.kosiceitvalley.sk/events/kasv-finalne-prezentacie-projektov
- -studentov
-DTSTART;VALUE=DATE:20260622
-END:VEVENT
-BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -81,6 +67,35 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:39dc318c40fc4a6fd3848619a6fb9c504e954ee6@cike-events
+DTSTAMP:20250808T034642Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] KASV: Finálne prezentácie projektov študentov
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Pozývame vás na finálne prezentácie projektov študentov 1.
+  ročníka programu Košická akadémia softvérového vývoja (KASV)\, kt
+ oré sa uskutočnia 22. júna 2026.\n\nhttps://www.kosiceitvalley.sk/event
+ s/kasv-finalne-prezentacie-projektov-studentov
+URL:https://www.kosiceitvalley.sk/events/kasv-finalne-prezentacie-projektov
+ -studentov
+DTSTART;VALUE=DATE:20260622
+END:VEVENT
+BEGIN:VEVENT
+UID:6d4925af417abc50e02f01ec15a94fa8b359a816@cike-events
+DTSTAMP:20251212T184403Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Deloitte Technology Fast 50 CE
+LOCATION:Košice
+DESCRIPTION:Deloitte Technology Fast 50 CE 2026 oceňuje najrýchlejšie ra
+ stúce technologické firmy v strednej Európe. Program ponúka medzináro
+ dné uznanie\, zviditeľnenie a nové obchodné príležitosti pre startup
+ y aj etablované spoločnosti. Prihlásiť sa môžu firmy z rôznych obla
+ stí technológií vrátane AI\, fintechu či kyberbezpečnosti.\n\nhttps:
+ //www.kosiceitvalley.sk/events/deloitte-technology-fast-50-ce
+URL:https://www.kosiceitvalley.sk/events/deloitte-technology-fast-50-ce
+DTSTART;VALUE=DATE:20260622
 END:VEVENT
 BEGIN:VEVENT
 UID:a77b24ce6ffca79691df6af6cd3f315877b6e42b@cike-events
@@ -153,6 +168,19 @@ URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
+UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
+DTSTAMP:20250123T002446Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
 DTSTAMP:20250913T094249Z
 CATEGORIES:ITVALLEY
@@ -167,19 +195,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
-DTSTAMP:20250123T002446Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
-LOCATION:UVP Technicom
-DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
- ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
- etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
- ts/klubovna-pre-nadane-deti
-URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -246,20 +261,6 @@ URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
-UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
-DTSTAMP:20250721T204759Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] SARIO Business Day 2026 v Košiciach
-LOCATION:Kongres hotel Roca\, Košice
-DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
-  Business Day\, zamerané na firmy\, ktoré chcú nadviazať nové obchodn
- é partnerstvá a rozvíjať spoluprácu.\n\nhttps://www.kosiceitvalley.sk
- /events/sario-business-day-2026-v-kosiciach
-URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
- h
-DTSTART;VALUE=DATE:20260528
-END:VEVENT
-BEGIN:VEVENT
 UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
 DTSTAMP:20251108T023138Z
 CATEGORIES:ITVALLEY
@@ -273,17 +274,18 @@ URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
-UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
-DTSTAMP:20251108T045302Z
+UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
+DTSTAMP:20250721T204759Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CEO Breakfast
-LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
-DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
- ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
- nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
- ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
-URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
-DTSTART;VALUE=DATE:20260527
+SUMMARY:🔵 [ITVALLEY] SARIO Business Day 2026 v Košiciach
+LOCATION:Kongres hotel Roca\, Košice
+DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
+  Business Day\, zamerané na firmy\, ktoré chcú nadviazať nové obchodn
+ é partnerstvá a rozvíjať spoluprácu.\n\nhttps://www.kosiceitvalley.sk
+ /events/sario-business-day-2026-v-kosiciach
+URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
+ h
+DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:9479fbd89ee6ba1417ec4766dcf6f056c55f2627@cike-events
@@ -299,6 +301,19 @@ DESCRIPTION:Online meetup člena klastra bart.sk o praktickom využití AI
  zitie-ai-v-digitalnych-rieseniach
 URL:https://www.kosiceitvalley.sk/events/strategicke-vyuzitie-ai-v-digitaln
  ych-rieseniach
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
 DTSTART;VALUE=DATE:20260527
 END:VEVENT
 BEGIN:VEVENT
@@ -2420,6 +2435,22 @@ DTSTART:20260707T080000Z
 DTEND:20260707T120000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:89bb902713651a33b149d283d756095a9148a3c6@cike-events
+DTSTAMP:20250307T031932Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár – Zákon o rovnakom odmeňovaní mužov a ž
+ ien
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 16.7.2026 od 09:00 - 13
+ :30 hod pozýva na webinár Zákon o rovnakom odmeňovaní mužov a žien 
+ kód: 20260716 Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v [...]
+  \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzo
+ v-a-zien-2
+URL:https://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzov-a-z
+ ien-2
+DTSTART:20260716T070000Z
+DTEND:20260716T113000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:d4ab8727f27c7fb6fe9ef2ec5f7a442012ed49a8@cike-events
 DTSTAMP:20250412T163519Z
 CATEGORIES:SOPK
@@ -2461,6 +2492,22 @@ DESCRIPTION:Vážení podnikatelia\, pozývame Vás na obchodnú misiu do I
 URL:https://www.sopk.sk/event/26613
 DTSTART:20260915T060000Z
 DTEND:20260918T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1660dc67edb0d9aa7075dfed09216f8639d7c015@cike-events
+DTSTAMP:20251022T072736Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár – Zákon o rovnakom odmeňovaní mužov a ž
+ ien
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.9.2026 od 09:00 - 13
+ :30 hod pozýva na webinár Zákon o rovnakom odmeňovaní mužov a žien 
+ kód: 20260917 Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v [...]
+  \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzo
+ v-a-zien-3
+URL:https://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzov-a-z
+ ien-3
+DTSTART:20260917T070000Z
+DTEND:20260917T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e3c5a131ae7f02fc1f2ee227b76f48facad37b04@cike-events
