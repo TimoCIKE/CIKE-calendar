@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:783e41ec4eec44757a4b4e649f9f9dac89426cda@cike-events
-DTSTAMP:20250226T164505Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Lokálne korene\, globálne možnosti
-LOCATION:Klubovňa Gymnázia Konštantínova\, Stropkov
-DESCRIPTION:Je možné budovať úspešnú kariéru\, pracovať pre medzin
- árodné firmy a podieľať sa na zaujímavých projektoch aj bez toho\, a
- by človek opustil svoj región? Diskusia prinesie študentom inšpiratív
- ne príbehy ľudí\, ktorí dokazujú\, že kvalitná kariéra a život m
- ôžu ísť ruka v ruke aj mimo veľkých miest.\n\nhttps://www.kosiceitva
- lley.sk/events/lokalne-korene-globalne-moznosti
-URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
-DTSTART;VALUE=DATE:20260625
-END:VEVENT
-BEGIN:VEVENT
 UID:6d4925af417abc50e02f01ec15a94fa8b359a816@cike-events
 DTSTAMP:20251212T184403Z
 CATEGORIES:ITVALLEY
@@ -51,6 +36,21 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
+UID:783e41ec4eec44757a4b4e649f9f9dac89426cda@cike-events
+DTSTAMP:20250226T164505Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Lokálne korene\, globálne možnosti
+LOCATION:Klubovňa Gymnázia Konštantínova\, Stropkov
+DESCRIPTION:Je možné budovať úspešnú kariéru\, pracovať pre medzin
+ árodné firmy a podieľať sa na zaujímavých projektoch aj bez toho\, a
+ by človek opustil svoj región? Diskusia prinesie študentom inšpiratív
+ ne príbehy ľudí\, ktorí dokazujú\, že kvalitná kariéra a život m
+ ôžu ísť ruka v ruke aj mimo veľkých miest.\n\nhttps://www.kosiceitva
+ lley.sk/events/lokalne-korene-globalne-moznosti
+URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
+DTSTART;VALUE=DATE:20260625
 END:VEVENT
 BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
@@ -152,6 +152,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -179,22 +195,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -261,19 +261,6 @@ URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
-UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
-DTSTAMP:20251108T023138Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] MICE DAY Košice
-LOCATION:Boutique Hotel Slávia
-DESCRIPTION:Visit Košice\, pozýva odbornú verejnosť na podujatie MICE D
- ay Košice 2026\, ktoré otvorí diskusiu o budúcnosti biznis events sekt
- ora v Košiciach a jeho význame pre rozvoj regiónu.\n\nhttps://www.kosic
- eitvalley.sk/events/mice-day-kosice
-URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
-DTSTART;VALUE=DATE:20260528
-END:VEVENT
-BEGIN:VEVENT
 UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
 DTSTAMP:20250721T204759Z
 CATEGORIES:ITVALLEY
@@ -285,6 +272,19 @@ DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
  /events/sario-business-day-2026-v-kosiciach
 URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
  h
+DTSTART;VALUE=DATE:20260528
+END:VEVENT
+BEGIN:VEVENT
+UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
+DTSTAMP:20251108T023138Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] MICE DAY Košice
+LOCATION:Boutique Hotel Slávia
+DESCRIPTION:Visit Košice\, pozýva odbornú verejnosť na podujatie MICE D
+ ay Košice 2026\, ktoré otvorí diskusiu o budúcnosti biznis events sekt
+ ora v Košiciach a jeho význame pre rozvoj regiónu.\n\nhttps://www.kosic
+ eitvalley.sk/events/mice-day-kosice
+URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
@@ -1506,6 +1506,17 @@ DESCRIPTION:250th anniversary of the founding of the United States of Ameri
  ca\n\nhttps://amcham.sk/events/3687/independence-day
 URL:https://amcham.sk/events/3687/independence-day
 DTSTART;VALUE=DATE:20260704
+END:VEVENT
+BEGIN:VEVENT
+UID:53c55c6d31f8a11ac6968817f0cdebcf234b2ed2@cike-events
+DTSTAMP:20250409T094325Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Financing Energy Efficiency Projects
+LOCATION:online
+DESCRIPTION:webinar organized by Deloitte\n\nhttps://amcham.sk/events/3688/
+ financing-energy-efficiency-projects
+URL:https://amcham.sk/events/3688/financing-energy-efficiency-projects
+DTSTART;VALUE=DATE:20260714
 END:VEVENT
 BEGIN:VEVENT
 UID:f9aff65d9d58ca479e4d073640d833cce549b642@cike-events
