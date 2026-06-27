@@ -331,6 +331,22 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -345,22 +361,6 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -2344,17 +2344,6 @@ URL:https://amcham.sk/events/3521/welcome-back-to-work
 DTSTART;VALUE=DATE:20250904
 END:VEVENT
 BEGIN:VEVENT
-UID:9aaa2ac0beff731dafebeddc14a34892d7c23532@cike-events
-DTSTAMP:20250913T145159Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] European Health Data Space
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3514/european-heal
- th-data-space
-URL:https://amcham.sk/events/3514/european-health-data-space
-DTSTART;VALUE=DATE:20250626
-END:VEVENT
-BEGIN:VEVENT
 UID:3405f6396a1aec0b6072038eb6511aa93e4b75f2@cike-events
 DTSTAMP:20250204T163730Z
 CATEGORIES:SOPK
@@ -3809,38 +3798,6 @@ DTSTART:20251120T083000Z
 DTEND:20251120T133000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:2b2eb5db2af61b08c600f19349f12984ec9185b4@cike-events
-DTSTAMP:20250701T211413Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 3.0
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
- Pozývame vás na jedinečný komunitný event\, ktorý premení dvor na S
- trojárenskej na živé centrum inovácií\, inšpirácií\, networkingu a
-  spolupráce. Tento rok dávame priestor […] \\n\n\nhttps://ickk.sk/even
- t/strojarenska-zije-3-0
-URL:https://ickk.sk/event/strojarenska-zije-3-0
-DTSTART:20260625T150000Z
-DTEND:20260625T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
-DTSTAMP:20250616T235150Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
-DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
- eet & Salty prichádza DEŇ D – večer\, na ktorom startupy z Košickéh
- o kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od ICKK.
-  Na veľkom pódiu\, pred odbornou porotou a publikom\, odprezentujú svoj
- e Pitch Decky. Programom bude sprevádzať moderátor Matúš Krnčok\, at
- mosféru doplní Ego\, Rudeboys Radio a hudobno-tanečné […] \\n\n\nhtt
- ps://ickk.sk/event/sweet-salty-den-d
-URL:https://ickk.sk/event/sweet-salty-den-d
-DTSTART:20251120T170000Z
-DTEND:20251120T213000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
 DTSTAMP:20251211T031940Z
 CATEGORIES:ICKK
@@ -4034,6 +3991,24 @@ DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:2b2eb5db2af61b08c600f19349f12984ec9185b4@cike-events
+DTSTAMP:20250701T211413Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Strojárenská Žije 3.0
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
+ Pozývame vás na jedinečný komunitný event\, ktorý premení dvor na S
+ trojárenskej na živé centrum inovácií\, inšpirácií\, networkingu a
+  spolupráce. Tento rok dávame priestor niečomu hlbšiemu\, predstavíme
+  aktérov\, ktorí na Strojárenskej sídlia a denne formujú jej výnimo
+ čný charakter. Prídťe sa presvedčiť o tom\, že nás nespája len sp
+ oločná adresa\, […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-3-0
+URL:https://ickk.sk/event/strojarenska-zije-3-0
+DTSTART:20260625T150000Z
+DTEND:20260625T200000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
 DTSTAMP:20251001T035249Z
 CATEGORIES:ICKK
@@ -4208,5 +4183,21 @@ URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
  ix
 DTSTART:20251113T150000Z
 DTEND:20251113T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
+DTSTAMP:20250616T235150Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
+DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
+ eet & Salty prichádza DEŇ D – večer\, na ktorom startupy z Košickéh
+ o kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od ICKK.
+  Na veľkom pódiu\, pred odbornou porotou a publikom\, odprezentujú svoj
+ e Pitch Decky. Programom bude sprevádzať moderátor Matúš Krnčok\, at
+ mosféru doplní Ego\, Rudeboys Radio a hudobno-tanečné […] \\n\n\nhtt
+ ps://ickk.sk/event/sweet-salty-den-d
+URL:https://ickk.sk/event/sweet-salty-den-d
+DTSTART:20251120T170000Z
+DTEND:20251120T213000Z
 END:VEVENT
 END:VCALENDAR
