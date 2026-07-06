@@ -152,6 +152,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -179,22 +195,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -465,20 +465,6 @@ DESCRIPTION:Študenti dokážu vybudovať reálnu firmu už počas štúdia
 URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
  udent
 DTSTART;VALUE=DATE:20260415
-END:VEVENT
-BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
@@ -3781,6 +3767,21 @@ DESCRIPTION:Nitrianska regionálna komora SOPK Vás 21.11.2025 od 09:00 - 1
 URL:https://www.sopk.sk/event/webinar-zakon-o-socialnom-poisteni-3
 DTSTART:20251121T080000Z
 DTEND:20251121T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
+ ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
