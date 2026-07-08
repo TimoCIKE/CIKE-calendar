@@ -152,22 +152,6 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -195,6 +179,22 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -228,6 +228,21 @@ URL:https://www.kosiceitvalley.sk/events/8093
 DTSTART;VALUE=DATE:20260606
 END:VEVENT
 BEGIN:VEVENT
+UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
+DTSTAMP:20250703T002745Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
+LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
+ 40 11
+DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
+ stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
+ častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
+ e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/eduscrum-pre-pedagogov
+URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
+DTSTART;VALUE=DATE:20260602
+END:VEVENT
+BEGIN:VEVENT
 UID:06eebcb1ca9e21ff1c1e1ace59c1d19966e04157@cike-events
 DTSTAMP:20251113T223438Z
 CATEGORIES:ITVALLEY
@@ -243,21 +258,6 @@ DESCRIPTION:World Robot Olympiad (WRO) patrí medzi najväčšie medzináro
  ovenska-medzinarodnej-sutaze
 URL:https://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-slovenska-me
  dzinarodnej-sutaze
-DTSTART;VALUE=DATE:20260602
-END:VEVENT
-BEGIN:VEVENT
-UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
-DTSTAMP:20250703T002745Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
-LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
- 40 11
-DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
- stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
- častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
- e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
- nts/eduscrum-pre-pedagogov
-URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
@@ -478,23 +478,6 @@ DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla
  nadšencov umelej inteligencie – od študentov až po profesionálov z p
  raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
 URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
-UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
-DTSTAMP:20250618T072022Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Odborný webinár – transparentnosť odmeňovania
-  (smernica EU)
-LOCATION:online
-DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
- Ú o transparentnosti odmeňovania\, ktorá prinesie nové povinnosti pre 
- zamestnávateľov v oblasti reportovania rozdielov v odmeňovaní\, poskyt
- ovania informácií zamestnancom a nastavovania systémov odmeňovania.\n\
- nhttps://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-odme
- novania-smernica-eu
-URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
- menovania-smernica-eu
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -1000,18 +983,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -1022,6 +993,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -2353,23 +2336,6 @@ DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3521/welcome-back
  -to-work
 URL:https://amcham.sk/events/3521/welcome-back-to-work
 DTSTART;VALUE=DATE:20250904
-END:VEVENT
-BEGIN:VEVENT
-UID:81f1ec886e2f8320d30cef4ee0a0881063d6995f@cike-events
-DTSTAMP:20250206T070613Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Klub ŽRK SOPK s VLADIMÍROM ŠIMOŇÁKOM\, štátnym t
- ajomníkom Ministerstva hospodárstva SR
-DESCRIPTION:Dovoľujeme si Vás pozvať na Klub ŽRK SOPK s VLADIMÍROM ŠI
- MOŇÁKOM\, štátnym tajomníkom Ministerstva hospodárstva SR. Ako štá
- tny tajomník sa špecializuje na medzinárodné vzťahy\, európske zále
- žitosti a priemyselnú politiku. Termín:  7. júl [...] \\n\n\nhttps:/
- /www.sopk.sk/event/klub-zrk-sopk-s-vladimirom-simonakom-statnym-tajomnikom
- -ministerstva-hospodarstva-sr
-URL:https://www.sopk.sk/event/klub-zrk-sopk-s-vladimirom-simonakom-statnym-
- tajomnikom-ministerstva-hospodarstva-sr
-DTSTART:20260707T080000Z
-DTEND:20260707T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:89bb902713651a33b149d283d756095a9148a3c6@cike-events
