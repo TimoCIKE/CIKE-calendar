@@ -152,6 +152,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -179,22 +195,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -331,22 +331,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -361,6 +345,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -478,23 +478,6 @@ DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla
  nadšencov umelej inteligencie – od študentov až po profesionálov z p
  raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
 URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
-UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
-DTSTAMP:20250618T072022Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Odborný webinár – transparentnosť odmeňovania
-  (smernica EU)
-LOCATION:online
-DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
- Ú o transparentnosti odmeňovania\, ktorá prinesie nové povinnosti pre 
- zamestnávateľov v oblasti reportovania rozdielov v odmeňovaní\, poskyt
- ovania informácií zamestnancom a nastavovania systémov odmeňovania.\n\
- nhttps://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-odme
- novania-smernica-eu
-URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
- menovania-smernica-eu
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -2385,6 +2368,21 @@ DTSTART:20260820T220000Z
 DTEND:20260823T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:59f16e97ef51e70e7280705c3dfb8c36f5980128@cike-events
+DTSTAMP:20251229T063354Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Meet4Business AGRA 2026
+LOCATION:Hybrid
+DESCRIPTION:Sme radi\, že môžeme spojiť spoločnosti\, odborníkov\, in
+ ovátorov\, inštitúcie a organizácie na podporu podnikania z oblasti po
+ ľnohospodárstva\, poľovníctva a rybolovu a súvisiacich služieb na dy
+ namickom jednodňovom podujatí plnom inšpiratívnych prednášok\, prakt
+ ických [...] \\n\n\nhttps://www.sopk.sk/event/meet4business-agra-2026
+URL:https://www.sopk.sk/event/meet4business-agra-2026
+DTSTART:20260823T220000Z
+DTEND:20260903T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:0d19d9355505340cc2d015da81b55b218431f7b9@cike-events
 DTSTAMP:20250301T135059Z
 CATEGORIES:SOPK
@@ -2398,6 +2396,24 @@ DESCRIPTION:Virtuálne podujatie Co-Matching sa uskutoční 27. augusta 202
 URL:https://www.sopk.sk/event/co-matching-virtual-b2b-event-2026
 DTSTART:20260826T220000Z
 DTEND:20260827T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:8d0429085ac6c9c941aab1d230cfc657290cce7f@cike-events
+DTSTAMP:20250501T125426Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] MetaLink 2026 – medzinárodné B2B stretnutia pre kov
+ ospracujúci a zlievárenský priemysel
+LOCATION:Online
+DESCRIPTION:Spojte sa so správnymi partnermi a premeňte rozhovory na skut
+ očné obchodné príležitosti. Podujatie\, ktoré organizuje Staropoľsk
+ á obchodná a priemyselná komora v Kielciach\, koordinátor regionálnej
+  inteligentnej špecializácie v kovospracujúcom a zlievarníckom priemys
+ le\, [...] \\n\n\nhttps://www.sopk.sk/event/metalink-2026-medzinarodne-b2b
+ -stretnutia-pre-kovospracujuci-a-zlievarensky-priemysel
+URL:https://www.sopk.sk/event/metalink-2026-medzinarodne-b2b-stretnutia-pre
+ -kovospracujuci-a-zlievarensky-priemysel
+DTSTART:20260830T220000Z
+DTEND:20260904T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d61daca55e9549729cefd57440c016d2f7c775ef@cike-events
