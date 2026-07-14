@@ -26,7 +26,7 @@ DTSTAMP:20251014T214818Z
 CATEGORIES:ITVALLEY
 SUMMARY:🔵 [ITVALLEY] Business Inspiration Mission: Boston & New York (US
  A)
-LOCATION:Boston\, New York
+LOCATION:Boston & New York\, USA
 DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
  nspiration Mission do Bostonu a New Yorku (28. 9. – 2. 10. 2026). Progra
  m ponúka inšpiráciu z top inovačných ekosystémov\, návštevy MIT č
@@ -36,6 +36,7 @@ DESCRIPTION:Košice IT Valley v spolupráci so SAPIE organizujú Business I
 URL:https://www.kosiceitvalley.sk/events/business-inspiration-mission-bosto
  n-new-york-usa
 DTSTART;VALUE=DATE:20260928
+DTEND;VALUE=DATE:20261003
 END:VEVENT
 BEGIN:VEVENT
 UID:783e41ec4eec44757a4b4e649f9f9dac89426cda@cike-events
@@ -331,22 +332,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -361,6 +346,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -465,6 +466,20 @@ DESCRIPTION:Študenti dokážu vybudovať reálnu firmu už počas štúdia
 URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
  udent
 DTSTART;VALUE=DATE:20260415
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
+DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
@@ -2341,6 +2356,23 @@ URL:https://amcham.sk/events/3521/welcome-back-to-work
 DTSTART;VALUE=DATE:20250904
 END:VEVENT
 BEGIN:VEVENT
+UID:92ca8e25ea9cd5d694b87da14e1560cadfa8196c@cike-events
+DTSTAMP:20250817T010536Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Deň otvorených dverí v ADRIAN GROUP prepojí odborn
+ é témy s inováciami v praxi
+LOCATION:ADRIAN GROUP s.r.o.\, Lazovná 53\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK pozýva širokú odbor
+ nú a podnikateľskú verejnosť na Deň otvorených dverí našej člensk
+ ej spoločnosti ADRIAN GROUP s. r. o. Podujatie sa uskutoční vo štvrtok
+  16. júla 2026 od [...] \\n\n\nhttps://www.sopk.sk/event/den-otvorenych-d
+ veri-v-adrian-group-prepoji-odborne-temy-s-inovaciami-v-praxi
+URL:https://www.sopk.sk/event/den-otvorenych-dveri-v-adrian-group-prepoji-o
+ dborne-temy-s-inovaciami-v-praxi
+DTSTART:20260715T220000Z
+DTEND:20260716T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:89bb902713651a33b149d283d756095a9148a3c6@cike-events
 DTSTAMP:20250307T031932Z
 CATEGORIES:SOPK
@@ -3794,21 +3826,6 @@ DESCRIPTION:Nitrianska regionálna komora SOPK Vás 21.11.2025 od 09:00 - 1
 URL:https://www.sopk.sk/event/webinar-zakon-o-socialnom-poisteni-3
 DTSTART:20251121T080000Z
 DTEND:20251121T133000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
- ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
