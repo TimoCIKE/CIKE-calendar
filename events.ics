@@ -3817,6 +3817,21 @@ DTSTART:20251121T080000Z
 DTEND:20251121T133000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
+ ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
 DTSTAMP:20251211T031940Z
 CATEGORIES:ICKK
