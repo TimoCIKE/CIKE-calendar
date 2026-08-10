@@ -1013,6 +1013,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -1023,18 +1035,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -3994,19 +3994,18 @@ DTSTART:20251126T080000Z
 DTEND:20251126T133000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
+UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
+DTSTAMP:20251211T031940Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
- ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
+SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
+DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
+ davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
+ om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
+  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
+ -tokarcik
+URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
+DTSTART:20251127T160000Z
+DTEND:20251127T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
@@ -4396,19 +4395,5 @@ DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
 URL:https://ickk.sk/event/sweet-salty-den-d
 DTSTART:20251120T170000Z
 DTEND:20251120T213000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
-DTSTAMP:20251211T031940Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
-DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
- davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
- om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
-  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
- -tokarcik
-URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
-DTSTART:20251127T160000Z
-DTEND:20251127T180000Z
 END:VEVENT
 END:VCALENDAR
