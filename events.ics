@@ -165,22 +165,6 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -208,6 +192,22 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -274,20 +274,6 @@ URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
-UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
-DTSTAMP:20250721T204759Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] SARIO Business Day 2026 v Košiciach
-LOCATION:Kongres hotel Roca\, Košice
-DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
-  Business Day\, zamerané na firmy\, ktoré chcú nadviazať nové obchodn
- é partnerstvá a rozvíjať spoluprácu.\n\nhttps://www.kosiceitvalley.sk
- /events/sario-business-day-2026-v-kosiciach
-URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
- h
-DTSTART;VALUE=DATE:20260528
-END:VEVENT
-BEGIN:VEVENT
 UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
 DTSTAMP:20251108T023138Z
 CATEGORIES:ITVALLEY
@@ -301,17 +287,18 @@ URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
-UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
-DTSTAMP:20251108T045302Z
+UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
+DTSTAMP:20250721T204759Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CEO Breakfast
-LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
-DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
- ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
- nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
- ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
-URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
-DTSTART;VALUE=DATE:20260527
+SUMMARY:🔵 [ITVALLEY] SARIO Business Day 2026 v Košiciach
+LOCATION:Kongres hotel Roca\, Košice
+DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
+  Business Day\, zamerané na firmy\, ktoré chcú nadviazať nové obchodn
+ é partnerstvá a rozvíjať spoluprácu.\n\nhttps://www.kosiceitvalley.sk
+ /events/sario-business-day-2026-v-kosiciach
+URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
+ h
+DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
 UID:9479fbd89ee6ba1417ec4766dcf6f056c55f2627@cike-events
@@ -327,6 +314,19 @@ DESCRIPTION:Online meetup člena klastra bart.sk o praktickom využití AI
  zitie-ai-v-digitalnych-rieseniach
 URL:https://www.kosiceitvalley.sk/events/strategicke-vyuzitie-ai-v-digitaln
  ych-rieseniach
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
 DTSTART;VALUE=DATE:20260527
 END:VEVENT
 BEGIN:VEVENT
@@ -1013,6 +1013,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -1023,18 +1035,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -2660,23 +2660,6 @@ DTSTART:20260927T220000Z
 DTEND:20260929T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
-DTSTAMP:20250205T151542Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Obchodná misia do Indonézie: Zisťujeme predbežný z
- áujem firiem
-DESCRIPTION:Zisťujeme predbežný záujem slovenských firiem o obchodnú 
- misiu do Indonézie - Jakarta koncom roka 2026 (Q4). V spolupráci s veľv
- yslanectvami a partnerskými organizáciami pripravujeme program zahŕňaj
- úci B2B rokovania\, návštevu obchodnej komory [...] \\n\n\nhttps://www.
- sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbezny-zaujem-firie
- m
-URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
- ny-zaujem-firiem
-DTSTART:20261001T060000Z
-DTEND:20261231T160000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:ab4a60e7a34f0a68b593ae22efa2e60d483dfd94@cike-events
 DTSTAMP:20250609T214102Z
 CATEGORIES:SOPK
@@ -2691,6 +2674,42 @@ URL:https://www.sopk.sk/event/prezentujte-svoju-firmu-na-africa-commerce-an
  d-industry-summit-2026-v-kenskom-nairobi
 DTSTART:20261013T220000Z
 DTEND:20261016T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:63e43a082e18cbdfac84db0b79b5d56b87fc831f@cike-events
+DTSTAMP:20250217T023851Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Praktické využitie mediácie v podnikateľskom prostr
+ edí – odborný seminár SOPK v Trnave
+LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 9170
+ 1
+DESCRIPTION:Trnavská regionálna komora SOPK pripravuje pre podnikateľsk
+ ú verejnosť prezenčný odborný seminár „Praktické využitie mediá
+ cie v podnikateľskom prostredí“\, ktorý sa uskutoční 22. októbra 2
+ 026 o 9:30 hod. v zasadačke Trnavského samosprávneho kraja [...] \\n\n\
+ nhttps://www.sopk.sk/event/prakticke-vyuzitie-mediacie-v-podnikatelskom-pr
+ ostredi-odborny-seminar-sopk-v-trnave
+URL:https://www.sopk.sk/event/prakticke-vyuzitie-mediacie-v-podnikatelskom-
+ prostredi-odborny-seminar-sopk-v-trnave
+DTSTART:20261022T073000Z
+DTEND:20261022T113000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
+DTSTAMP:20250205T151542Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Obchodná misia do Indonézie: Zisťujeme predbežný z
+ áujem firiem
+DESCRIPTION:Zisťujeme predbežný záujem slovenských firiem o obchodnú 
+ misiu do Indonézie - Jakarta koncom roka 2026 (Q4). V spolupráci s veľv
+ yslanectvami a partnerskými organizáciami pripravujeme program zahŕňaj
+ úci B2B rokovania\, návštevu obchodnej komory [...] \\n\n\nhttps://www.
+ sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbezny-zaujem-firie
+ m
+URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
+ ny-zaujem-firiem
+DTSTART:20261101T070000Z
+DTEND:20261231T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3e27700829647315d04c60424033425fd6aa1bb5@cike-events
