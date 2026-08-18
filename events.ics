@@ -241,21 +241,6 @@ URL:https://www.kosiceitvalley.sk/events/8093
 DTSTART;VALUE=DATE:20260606
 END:VEVENT
 BEGIN:VEVENT
-UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
-DTSTAMP:20250703T002745Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
-LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
- 40 11
-DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
- stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
- častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
- e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
- nts/eduscrum-pre-pedagogov
-URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
-DTSTART;VALUE=DATE:20260602
-END:VEVENT
-BEGIN:VEVENT
 UID:06eebcb1ca9e21ff1c1e1ace59c1d19966e04157@cike-events
 DTSTAMP:20251113T223438Z
 CATEGORIES:ITVALLEY
@@ -271,6 +256,21 @@ DESCRIPTION:World Robot Olympiad (WRO) patrí medzi najväčšie medzináro
  ovenska-medzinarodnej-sutaze
 URL:https://www.kosiceitvalley.sk/events/wro-2026-majstrovstva-slovenska-me
  dzinarodnej-sutaze
+DTSTART;VALUE=DATE:20260602
+END:VEVENT
+BEGIN:VEVENT
+UID:62ba98e778d88c3f3247c1716a6d41c8a5fc2d0e@cike-events
+DTSTAMP:20250703T002745Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] EduScrum pre pedagógov
+LOCATION:Deutsche Telekom IT Solutions Slovakia - Moldavská 8B\, Košice 0
+ 40 11
+DESCRIPTION:Workshop predstavuje Scrum a eduScrum ako moderné agilné prí
+ stupy využiteľné v školskom prostredí aj pri tímovej spolupráci. Ú
+ častníci sa oboznámia so základnými princípmi Scrumu\, rolami v tím
+ e a jednotlivými Scrum ceremóniami.\n\nhttps://www.kosiceitvalley.sk/eve
+ nts/eduscrum-pre-pedagogov
+URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
@@ -344,22 +344,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -374,6 +358,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1510,6 +1510,19 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
+UID:8131859cb83f15a5f743a092b9e94de36f079d7e@cike-events
+DTSTAMP:20251016T211557Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] E-invoicing in Slovakia Quickly and Easily Directly i
+ n SAP
+LOCATION:online | Zoom
+DESCRIPTION:webinar organized by Deloitte\n\nhttps://amcham.sk/events/3702/
+ e-invoicing-in-slovakia-quickly-and-easily-directly-in-sap
+URL:https://amcham.sk/events/3702/e-invoicing-in-slovakia-quickly-and-easil
+ y-directly-in-sap
+DTSTART;VALUE=DATE:20260903
+END:VEVENT
+BEGIN:VEVENT
 UID:45b2890622daa067bf81cc8d31eaf88e90df6917@cike-events
 DTSTAMP:20250511T221816Z
 CATEGORIES:AMCHAM
@@ -2579,6 +2592,24 @@ URL:https://www.sopk.sk/event/metalink-2026-medzinarodne-b2b-stretnutia-pre
  -kovospracujuci-a-zlievarensky-priemysel
 DTSTART:20260830T220000Z
 DTEND:20260904T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:50b8cf21e393704db130a5cabbf32dd5beb281f2@cike-events
+DTSTAMP:20250908T022303Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SMART FUNDING FORUM: Úverový nástroj\, financovanie 
+ sociálnych inovácií a regionálneho ekosystému
+LOCATION:Inovačné partnerské centrum\, Levočská 1\, Prešov
+DESCRIPTION:Inovačné partnerské centrum v spolupráci so Slovenskou obch
+ odnou a priemyselnou komorou (SOPK)\, Slovenskou sporiteľnou (SLSP) a Min
+ isterstvom práce\, sociálnych vecí a rodiny SR Vás srdečne pozýva na
+  workshop SMART FUNDING FORUM: Úverový [...] \\n\n\nhttps://www.sopk.sk
+ /event/smart-funding-forum-uverovy-nastroj-financovanie-socialnych-inovaci
+ i-a-regionalneho-ekosystemu
+URL:https://www.sopk.sk/event/smart-funding-forum-uverovy-nastroj-financova
+ nie-socialnych-inovacii-a-regionalneho-ekosystemu
+DTSTART:20260909T063000Z
+DTEND:20260909T103000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:553a02b11250ada0cf85b1a4c7f2e1dde3cd6c7b@cike-events
@@ -4013,51 +4044,19 @@ DTSTART:20251126T080000Z
 DTEND:20251126T133000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f47165c75c6f34811d0fe8ce1dc7ce7667bb1524@cike-events
-DTSTAMP:20250103T233346Z
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSION – PROGRAM NA AUGUST
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
 LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
   04001
-DESCRIPTION:Aj v auguste pokračujeme s eventami v našom parku na Strojár
- enskej 3. Vstup na podujatia je zdarma a bez registrácie.  Program na j
- úl: 5/8 (Streda) o 17:00 | CESTOVATEĽSKÉ KINO: […] \\n\n\nhttps://ick
- k.sk/event/park-session-program-na-august
-URL:https://ickk.sk/event/park-session-program-na-august
-DTSTART:20260804T220000Z
-DTEND:20260827T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:07a86db1ba5e83f93f16f189c4751f4eaa8d0290@cike-events
-DTSTAMP:20251205T171133Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO: Chceš vedieť\, ako sa buduje miliónový 
- IT startup?
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Milí inovátori\, kreatívci a nadšenci biznisu\, pozývame v
- ás na ďalší zo série obľúbených meetupov ODKUKAJ.TO\, kde spoločn
- e spoznávame príbehy úspešných ľudí a odkrývame tajomstvá budovan
- ia fungujúcich projektov z prvej ruky. […] \\n\n\nhttps://ickk.sk/event
- /odkukaj-to-chces-vediet-ako-sa-buduje-milionovy-it-startup
-URL:https://ickk.sk/event/odkukaj-to-chces-vediet-ako-sa-buduje-milionovy-i
- t-startup
-DTSTART:20260827T150000Z
-DTEND:20260827T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
-DTSTAMP:20251211T031940Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
-DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
- davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
- om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
-  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
- -tokarcik
-URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
-DTSTART:20251127T160000Z
-DTEND:20251127T180000Z
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
+ ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
@@ -4447,5 +4446,19 @@ DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
 URL:https://ickk.sk/event/sweet-salty-den-d
 DTSTART:20251120T170000Z
 DTEND:20251120T213000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
+DTSTAMP:20251211T031940Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
+DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
+ davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
+ om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
+  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
+ -tokarcik
+URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
+DTSTART:20251127T160000Z
+DTEND:20251127T180000Z
 END:VEVENT
 END:VCALENDAR
