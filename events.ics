@@ -33,6 +33,22 @@ URL:https://www.kosiceitvalley.sk/events/firmy-vs-gen-z-hra-o-talenty
 DTSTART;VALUE=DATE:20260910
 END:VEVENT
 BEGIN:VEVENT
+UID:334586f7ba34cb49761a5f4112b36cb3bfc4d0bf@cike-events
+DTSTAMP:20250924T124526Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] EASTMED 2026: Where Science Meets Business
+LOCATION:UVP Technicom
+DESCRIPTION:EASTMED 2026 prepája vedu\, medicínu\, technológie a biznis.
+  Ukáže\, ako sa výskum mení na produkty s reálnym dopadom\, čo rozho
+ duje o ich úspechu na trhu a akú úlohu zohráva spolupráca univerzít\
+ , firiem a ďalších aktérov pri tvorbe budúcnosti zdravotníctva.\n\nh
+ ttps://www.kosiceitvalley.sk/events/eastmed-2026-where-science-meets-busin
+ ess
+URL:https://www.kosiceitvalley.sk/events/eastmed-2026-where-science-meets-b
+ usiness
+DTSTART;VALUE=DATE:20260923
+END:VEVENT
+BEGIN:VEVENT
 UID:4d40caa7dbe03758c174789238c9072544e3c1dc@cike-events
 DTSTAMP:20251014T214818Z
 CATEGORIES:ITVALLEY
@@ -165,6 +181,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -192,22 +224,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -344,6 +360,22 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -358,22 +390,6 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -478,20 +494,6 @@ DESCRIPTION:Študenti dokážu vybudovať reálnu firmu už počas štúdia
 URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
  udent
 DTSTART;VALUE=DATE:20260415
-END:VEVENT
-BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
@@ -1656,6 +1658,17 @@ URL:https://amcham.sk/events/3670/scaling-in-europe-climate-tech-and-the-sl
 DTSTART;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
+UID:953a81a9cc077d73c16d2e8b9dba2f74df390a6e@cike-events
+DTSTAMP:20250926T134112Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting
+LOCATION:Clarion Congress Hotel Bratislava\, Žabotova 2\, Bratislava
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3703/spee
+ d-business-meeting
+URL:https://amcham.sk/events/3703/speed-business-meeting
+DTSTART;VALUE=DATE:20260928
+END:VEVENT
+BEGIN:VEVENT
 UID:36950eed4ccf63c6cd3061f7d28d32e9fe9ab222@cike-events
 DTSTAMP:20250128T141916Z
 CATEGORIES:AMCHAM
@@ -2689,6 +2702,25 @@ URL:https://www.sopk.sk/event/webinar-colne-konanie-komplexne-colne-zatried
  enie-colna-hodnota-povod-tovaru-2-dni
 DTSTART:20260927T220000Z
 DTEND:20260929T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:92504a5fbd531bc58709cf9ddcba94d239fc0c23@cike-events
+DTSTAMP:20250930T062632Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Know-how firmy pod kontrolou: Ako zabrániť odchodu fi
+ remných vedomostí a vybudovať odolnú organizáciu
+LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 9170
+ 1
+DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov na prez
+ enčný odborný seminár „Know-how firmy pod kontrolou alebo Ako zaisti
+ ť\, aby vedomosti neodchádzali s ľuďmi a firemná pamäť sa stala va
+ ším najlepším zamestnancom“\, ktorý [...] \\n\n\nhttps://www.sopk.s
+ k/event/know-how-firmy-pod-kontrolou-ako-zabranit-odchodu-firemnych-vedomo
+ sti-a-vybudovat-odolnu-organizaciu
+URL:https://www.sopk.sk/event/know-how-firmy-pod-kontrolou-ako-zabranit-odc
+ hodu-firemnych-vedomosti-a-vybudovat-odolnu-organizaciu
+DTSTART:20261008T080000Z
+DTEND:20261008T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:ab4a60e7a34f0a68b593ae22efa2e60d483dfd94@cike-events
@@ -4044,19 +4076,37 @@ DTSTART:20251126T080000Z
 DTEND:20251126T133000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
+UID:f47165c75c6f34811d0fe8ce1dc7ce7667bb1524@cike-events
+DTSTAMP:20250103T233346Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+SUMMARY:🟣 [ICKK] PARK SESSION – PROGRAM NA AUGUST
 LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
   04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
- ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
+DESCRIPTION:Aj v auguste pokračujeme s eventami v našom parku na Strojár
+ enskej 3. Vstup na podujatia je zdarma a bez registrácie.  Program na j
+ úl: 5/8 (Streda) o 17:00 | CESTOVATEĽSKÉ KINO: […] \\n\n\nhttps://ick
+ k.sk/event/park-session-program-na-august
+URL:https://ickk.sk/event/park-session-program-na-august
+DTSTART:20260804T220000Z
+DTEND:20260827T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:07a86db1ba5e83f93f16f189c4751f4eaa8d0290@cike-events
+DTSTAMP:20251205T171133Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ.TO: Chceš vedieť\, ako sa buduje miliónový 
+ IT startup?
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Milí inovátori\, kreatívci a nadšenci biznisu\, pozývame v
+ ás na ďalší zo série obľúbených meetupov ODKUKAJ.TO\, kde spoločn
+ e spoznávame príbehy úspešných ľudí a odkrývame tajomstvá budovan
+ ia fungujúcich projektov z prvej ruky. […] \\n\n\nhttps://ickk.sk/event
+ /odkukaj-to-chces-vediet-ako-sa-buduje-milionovy-it-startup
+URL:https://ickk.sk/event/odkukaj-to-chces-vediet-ako-sa-buduje-milionovy-i
+ t-startup
+DTSTART:20260827T150000Z
+DTEND:20260827T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
@@ -4254,6 +4304,24 @@ DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
 URL:https://ickk.sk/event/strojarenska-zije-3-0
 DTSTART:20260625T150000Z
 DTEND:20260625T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z Park Sessions svoj no
+ vý letný rituál!  Program na júl: 7/7 (Utorok) o 16:30 | COMMUNITY TO
+ VÁREŇ RUN Žiadne preteky\, len čistá radosť zo spoločného behu. [
+ …] \\n\n\nhttps://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-rese
+ t-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
