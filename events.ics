@@ -360,22 +360,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -390,6 +374,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -494,6 +494,20 @@ DESCRIPTION:Študenti dokážu vybudovať reálnu firmu už počas štúdia
 URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
  udent
 DTSTART;VALUE=DATE:20260415
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
+DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
@@ -1620,6 +1634,17 @@ URL:https://amcham.sk/events/3699/transitioning-employees-from-temporary-re
 DTSTART;VALUE=DATE:20260909
 END:VEVENT
 BEGIN:VEVENT
+UID:ed3e8824fb369a59253cb3096c7c39e551ad21f9@cike-events
+DTSTAMP:20250614T000429Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] ManpowerGroup Employment Outlook Survey
+LOCATION:Landererova 12\, Bratislava / Online via ZOOM
+DESCRIPTION:organized by Manpower\n\nhttps://amcham.sk/events/3704/manpower
+ group-employment-outlook-survey
+URL:https://amcham.sk/events/3704/manpowergroup-employment-outlook-survey
+DTSTART;VALUE=DATE:20260909
+END:VEVENT
+BEGIN:VEVENT
 UID:11e1d08078975488b05bf8cd438f705307b517ae@cike-events
 DTSTAMP:20251120T163916Z
 CATEGORIES:AMCHAM
@@ -2668,6 +2693,24 @@ DESCRIPTION:Žilinská regionálna komora SOPK\, Veľvyslanectvo Českej re
 URL:https://www.sopk.sk/event/cesko-slovenske-podnikatelske-forum-2026
 DTSTART:20260923T070000Z
 DTEND:20260923T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4d234dc080e025ea3518b7e2055476563eecf5ef@cike-events
+DTSTAMP:20250603T004254Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Atómové komorové biznis raňajky: Nové príležitos
+ ti pre firmy v Trnavskom kraji
+LOCATION:IMPIQ Hotel\, B. S. Timravy 2\, Trnava\, 91701
+DESCRIPTION:Slovenská obchodná a priemyselná komora – Trnavská region
+ álna komora pripravuje odborné podujatie „Atómové komorové biznis r
+ áno“\, ktoré prinesie firmám aktuálne informácie o pripravovanom pr
+ ojekte nového jadrového zdroja v Jaslovských Bohuniciach. Projekt [...]
+  \\n\n\nhttps://www.sopk.sk/event/atomove-komorove-biznis-ranajky-nove-pri
+ lezitosti-pre-firmy-v-trnavskom-kraji
+URL:https://www.sopk.sk/event/atomove-komorove-biznis-ranajky-nove-prilezit
+ osti-pre-firmy-v-trnavskom-kraji
+DTSTART:20260923T073000Z
+DTEND:20260923T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0e7df99d7154679c7747fec820617fad9b950f0b@cike-events
@@ -4076,37 +4119,18 @@ DTSTART:20251126T080000Z
 DTEND:20251126T133000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:f47165c75c6f34811d0fe8ce1dc7ce7667bb1524@cike-events
-DTSTAMP:20250103T233346Z
+UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
+DTSTAMP:20251211T031940Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSION – PROGRAM NA AUGUST
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Aj v auguste pokračujeme s eventami v našom parku na Strojár
- enskej 3. Vstup na podujatia je zdarma a bez registrácie.  Program na j
- úl: 5/8 (Streda) o 17:00 | CESTOVATEĽSKÉ KINO: […] \\n\n\nhttps://ick
- k.sk/event/park-session-program-na-august
-URL:https://ickk.sk/event/park-session-program-na-august
-DTSTART:20260804T220000Z
-DTEND:20260827T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:07a86db1ba5e83f93f16f189c4751f4eaa8d0290@cike-events
-DTSTAMP:20251205T171133Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO: Chceš vedieť\, ako sa buduje miliónový 
- IT startup?
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Milí inovátori\, kreatívci a nadšenci biznisu\, pozývame v
- ás na ďalší zo série obľúbených meetupov ODKUKAJ.TO\, kde spoločn
- e spoznávame príbehy úspešných ľudí a odkrývame tajomstvá budovan
- ia fungujúcich projektov z prvej ruky. […] \\n\n\nhttps://ickk.sk/event
- /odkukaj-to-chces-vediet-ako-sa-buduje-milionovy-it-startup
-URL:https://ickk.sk/event/odkukaj-to-chces-vediet-ako-sa-buduje-milionovy-i
- t-startup
-DTSTART:20260827T150000Z
-DTEND:20260827T170000Z
+SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
+DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
+ davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
+ om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
+  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
+ -tokarcik
+URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
+DTSTART:20251127T160000Z
+DTEND:20251127T180000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
@@ -4306,42 +4330,6 @@ DTSTART:20260625T150000Z
 DTEND:20260625T200000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z Park Sessions svoj no
- vý letný rituál!  Program na júl: 7/7 (Utorok) o 16:30 | COMMUNITY TO
- VÁREŇ RUN Žiadne preteky\, len čistá radosť zo spoločného behu. [
- …] \\n\n\nhttps://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-rese
- t-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:23faa1630721f2918edfca4a6424f051472bb5b9@cike-events
-DTSTAMP:20251001T035249Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Wine&Paint
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:V auguste sa naše priestory stanú dejiskom Wine & Paint s 
- Lindou van Dalen z CHAT – večera\, ktorý prirodzene spája umenie\, d
- obré víno a ľudí so spoločnou vášňou pre tvorivosť. Podujatie pon
- úkne neformálne\, no inšpiratívne prostredie\, kde sa kreatívni ľudi
- a môžu stretnúť\, nadviazať nové kontakty a objavovať rôzne príst
- upy k umeleckému vyjadreniu.Sme úprimne radi\, že sa takýto večer [
- …] \\n\n\nhttps://ickk.sk/event/winepaint
-URL:https://ickk.sk/event/winepaint
-DTSTART:20250819T150000Z
-DTEND:20250819T190000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:a111b46d5a13ff3b539c6e3b945a473ea2785d78@cike-events
 DTSTAMP:20250218T191304Z
 CATEGORIES:ICKK
@@ -4514,19 +4502,5 @@ DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
 URL:https://ickk.sk/event/sweet-salty-den-d
 DTSTART:20251120T170000Z
 DTEND:20251120T213000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
-DTSTAMP:20251211T031940Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
-DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
- davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
- om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
-  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
- -tokarcik
-URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
-DTSTART:20251127T160000Z
-DTEND:20251127T180000Z
 END:VEVENT
 END:VCALENDAR
