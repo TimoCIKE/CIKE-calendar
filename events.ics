@@ -181,6 +181,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -208,22 +224,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -496,20 +496,17 @@ URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
 DTSTART;VALUE=DATE:20260415
 END:VEVENT
 BEGIN:VEVENT
-UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
-DTSTAMP:20250618T072022Z
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
 CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Odborný webinár – transparentnosť odmeňovania
-  (smernica EU)
-LOCATION:online
-DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
- Ú o transparentnosti odmeňovania\, ktorá prinesie nové povinnosti pre 
- zamestnávateľov v oblasti reportovania rozdielov v odmeňovaní\, poskyt
- ovania informácií zamestnancom a nastavovania systémov odmeňovania.\n\
- nhttps://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-odme
- novania-smernica-eu
-URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
- menovania-smernica-eu
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -1015,18 +1012,6 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -1037,6 +1022,18 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -2565,21 +2562,6 @@ URL:https://amcham.sk/events/3521/welcome-back-to-work
 DTSTART;VALUE=DATE:20250904
 END:VEVENT
 BEGIN:VEVENT
-UID:833e2421d86e62bbca23d0d7dde01df3b4c0d9be@cike-events
-DTSTAMP:20250402T133345Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Misia slovenských podnikateľov na STYL – KABO
-LOCATION:Veltrhy Brno\, Výstaviště 405/1\, Brno
-DESCRIPTION:Dodávatelia\, majitelia butikov s ošatením\, módnymi doplnk
- ami a obuvou majú príležitosť obnoviť svoj sortiment na  kontraktač
- nom veľtrhu STYL- KABO v Brne. Pre slovenské firmy so záujmom vystavova
- ť je možnosť využiť samostatné [...] \\n\n\nhttps://www.sopk.sk/even
- t/styl-kabo
-URL:https://www.sopk.sk/event/styl-kabo
-DTSTART:20260820T220000Z
-DTEND:20260823T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:59f16e97ef51e70e7280705c3dfb8c36f5980128@cike-events
 DTSTAMP:20251229T063354Z
 CATEGORIES:SOPK
@@ -2830,19 +2812,6 @@ DTSTART:20261101T070000Z
 DTEND:20261231T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:3e27700829647315d04c60424033425fd6aa1bb5@cike-events
-DTSTAMP:20250320T214844Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár – Materská
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 10.6.2026 od 09:00 - 14
- :30 hod pozýva na webinár - Materská  kód: 20260610 Lektor: RNDr. Joz
- ef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná [...] \\n\n\
- nhttps://www.sopk.sk/event/webinar-materska-2
-URL:https://www.sopk.sk/event/webinar-materska-2
-DTSTART:20260610T063000Z
-DTEND:20260610T123000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:1210db84d936f44ca3c5000b81c555fce8620c07@cike-events
 DTSTAMP:20250406T145804Z
 CATEGORIES:SOPK
@@ -3011,20 +2980,19 @@ DTSTART:20260716T070000Z
 DTEND:20260716T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:24483b63d70b087051d1988020ace35d22f858cf@cike-events
-DTSTAMP:20250522T185658Z
+UID:833e2421d86e62bbca23d0d7dde01df3b4c0d9be@cike-events
+DTSTAMP:20250402T133345Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár – Zákon o rovnakom odmeňovaní mužov a ž
- ien
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 21.5.2026 od 09:00 - 13
- :30 hod pozýva na webinár Zákon o rovnakom odmeňovaní mužov a žien 
- kód: 20260521 Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v [...]
-  \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzo
- v-a-zien
-URL:https://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzov-a-z
- ien
-DTSTART:20260521T070000Z
-DTEND:20260521T113000Z
+SUMMARY:🟧 [SOPK] Misia slovenských podnikateľov na STYL – KABO
+LOCATION:Veltrhy Brno\, Výstaviště 405/1\, Brno
+DESCRIPTION:Dodávatelia\, majitelia butikov s ošatením\, módnymi doplnk
+ ami a obuvou majú príležitosť obnoviť svoj sortiment na  kontraktač
+ nom veľtrhu STYL- KABO v Brne. Pre slovenské firmy so záujmom vystavova
+ ť je možnosť využiť samostatné [...] \\n\n\nhttps://www.sopk.sk/even
+ t/styl-kabo
+URL:https://www.sopk.sk/event/styl-kabo
+DTSTART:20260820T220000Z
+DTEND:20260823T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8f45e052d4a1b3968a8e681543cae16b05a026e6@cike-events
@@ -3193,18 +3161,17 @@ DTSTART:20260609T073000Z
 DTEND:20260609T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e91c3f23b6953a3d25d6747549b2d9170cd6e5e2@cike-events
-DTSTAMP:20250329T115929Z
+UID:3e27700829647315d04c60424033425fd6aa1bb5@cike-events
+DTSTAMP:20250320T214844Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.4.2026 od 09:00 - 14
- :30 hod pozýva na  Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026  K
- ód:  20260417  Lektor:  RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v 
- tom [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-
- 8-maja-2026-2
-URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026-2
-DTSTART:20260417T070000Z
-DTEND:20260417T113000Z
+SUMMARY:🟧 [SOPK] webinár – Materská
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 10.6.2026 od 09:00 - 14
+ :30 hod pozýva na webinár - Materská  kód: 20260610 Lektor: RNDr. Joz
+ ef Mihál Čas: 9:00 – 14:30  (v tom 30 minútová obedná [...] \\n\n\
+ nhttps://www.sopk.sk/event/webinar-materska-2
+URL:https://www.sopk.sk/event/webinar-materska-2
+DTSTART:20260610T063000Z
+DTEND:20260610T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
@@ -3382,21 +3349,20 @@ DTSTART:20260520T220000Z
 DTEND:20260523T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:fec4beae1ed399e8128e60282e012ac181888705@cike-events
-DTSTAMP:20251020T202227Z
+UID:24483b63d70b087051d1988020ace35d22f858cf@cike-events
+DTSTAMP:20250522T185658Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Granty 2026: Ako získať financovanie ochrany DV pre V
- ašich klientov
-DESCRIPTION:Získajte finančnú podporu na ochranu vašich inovácií a zv
- ýšte svoju konkurencieschopnosť. Pozývame vás na odborný webinár or
- ganizovaný v spolupráci s Úradom priemyselného vlastníctva SR a Slove
- nskou inovačnou a energetickou agentúrou (SIEA). [...] \\n\n\nhttps://ww
- w.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-dv-pre-vasich-
- klientov
-URL:https://www.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-d
- v-pre-vasich-klientov
-DTSTART:20260317T230000Z
-DTEND:20260318T225959Z
+SUMMARY:🟧 [SOPK] webinár – Zákon o rovnakom odmeňovaní mužov a ž
+ ien
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 21.5.2026 od 09:00 - 13
+ :30 hod pozýva na webinár Zákon o rovnakom odmeňovaní mužov a žien 
+ kód: 20260521 Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v [...]
+  \\n\n\nhttps://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzo
+ v-a-zien
+URL:https://www.sopk.sk/event/webinar-zakon-o-rovnakom-odmenovani-muzov-a-z
+ ien
+DTSTART:20260521T070000Z
+DTEND:20260521T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:36601cf7d829f89cc49e1c4dc437ccf81e1e160c@cike-events
@@ -3572,21 +3538,18 @@ DTSTART:20260416T070000Z
 DTEND:20260416T083000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e0ac77e614bbd9677378746bfc013590ce626f29@cike-events
-DTSTAMP:20250531T184218Z
+UID:e91c3f23b6953a3d25d6747549b2d9170cd6e5e2@cike-events
+DTSTAMP:20250329T115929Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Medzinárodný veľtrh stavebníctva a architektúry BU
- DMA 2026 a benefity
-DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architekt
- úry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. 
- – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA 
- jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/
- event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefit
- y
-URL:https://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektu
- ry-budma-2026-a-benefity
-DTSTART:20260203T070000Z
-DTEND:20260206T160000Z
+SUMMARY:🟧 [SOPK] Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.4.2026 od 09:00 - 14
+ :30 hod pozýva na  Webinár: PRÁCA ZAMESTNANCOV DŇA 8. MÁJA 2026  K
+ ód:  20260417  Lektor:  RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v 
+ tom [...] \\n\n\nhttps://www.sopk.sk/event/webinar-praca-zamestnancov-dna-
+ 8-maja-2026-2
+URL:https://www.sopk.sk/event/webinar-praca-zamestnancov-dna-8-maja-2026-2
+DTSTART:20260417T070000Z
+DTEND:20260417T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
@@ -3757,19 +3720,21 @@ DTSTART:20260316T230000Z
 DTEND:20260317T225959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:6d99a6b87b0bec245484f89e0db8b780142ffcba@cike-events
-DTSTAMP:20251226T224114Z
+UID:fec4beae1ed399e8128e60282e012ac181888705@cike-events
+DTSTAMP:20251020T202227Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Pozvánka na odborný seminár: Colné predpisy v praxi
-DESCRIPTION:ZMENA TERMÍNU! Bratislavská regionálna komora Slovenskej obc
- hodnej a priemyselnej komory (SOPK) Vás pozýva na odborný seminár: Col
- né predpisy v praxi Dátum a čas: 26.11. (streda) 2025 v čase od 09.00 
- do [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-odborny-seminar-coln
- e-predpisy-v-praxi
-URL:https://www.sopk.sk/event/pozvanka-na-odborny-seminar-colne-predpisy-v-
- praxi
-DTSTART:20251126T080000Z
-DTEND:20251126T150000Z
+SUMMARY:🟧 [SOPK] Granty 2026: Ako získať financovanie ochrany DV pre V
+ ašich klientov
+DESCRIPTION:Získajte finančnú podporu na ochranu vašich inovácií a zv
+ ýšte svoju konkurencieschopnosť. Pozývame vás na odborný webinár or
+ ganizovaný v spolupráci s Úradom priemyselného vlastníctva SR a Slove
+ nskou inovačnou a energetickou agentúrou (SIEA). [...] \\n\n\nhttps://ww
+ w.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-dv-pre-vasich-
+ klientov
+URL:https://www.sopk.sk/event/granty-2026-ako-ziskat-financovanie-ochrany-d
+ v-pre-vasich-klientov
+DTSTART:20260317T230000Z
+DTEND:20260318T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bf7f67fa23a88ddd0c7fdb7f4c2716512bd923b9@cike-events
@@ -3944,20 +3909,21 @@ DTSTART:20260127T153000Z
 DTEND:20260127T180000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:799347f12c9f3a6acb5589656bd0cce73376decd@cike-events
-DTSTAMP:20250412T180311Z
+UID:e0ac77e614bbd9677378746bfc013590ce626f29@cike-events
+DTSTAMP:20250531T184218Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] HORECA – ENOEXPO 2025 – matchmaking
-LOCATION:Online
-DESCRIPTION:Partneri siete Enterprise Europe Network pozývajú organizáci
- e pôsobiace v oblasti gastronómie\, dodávateľov IT riešení a zari
- adení pre túto oblasť na online matchmaking HORECA - ENOEXPO 2025. 
- Dátum konania: 05. – 20.11.2025 Miesto konania: online Registrácia o
- tvorená do: 31.10.2025 Prihláška: Create an account [...] \\n\n\nhttp
- s://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
-URL:https://www.sopk.sk/event/horeca-enoexpo-2025-matchmaking
-DTSTART:20251105T070000Z
-DTEND:20251120T150000Z
+SUMMARY:🟧 [SOPK] Medzinárodný veľtrh stavebníctva a architektúry BU
+ DMA 2026 a benefity
+DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architekt
+ úry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. 
+ – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA 
+ jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/
+ event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefit
+ y
+URL:https://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektu
+ ry-budma-2026-a-benefity
+DTSTART:20260203T070000Z
+DTEND:20260206T160000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8ee1557c804c36dc8349490147e2ac71ae700913@cike-events
@@ -4129,6 +4095,21 @@ DESCRIPTION:Nitrianska regionálna komora SOPK Vás 26.11.2025 od 09:00 - 1
 URL:https://www.sopk.sk/event/webinar-zakon-o-zdravotnom-poisteni-3
 DTSTART:20251126T080000Z
 DTEND:20251126T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6d99a6b87b0bec245484f89e0db8b780142ffcba@cike-events
+DTSTAMP:20251226T224114Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Pozvánka na odborný seminár: Colné predpisy v praxi
+DESCRIPTION:ZMENA TERMÍNU! Bratislavská regionálna komora Slovenskej obc
+ hodnej a priemyselnej komory (SOPK) Vás pozýva na odborný seminár: Col
+ né predpisy v praxi Dátum a čas: 26.11. (streda) 2025 v čase od 09.00 
+ do [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-na-odborny-seminar-coln
+ e-predpisy-v-praxi
+URL:https://www.sopk.sk/event/pozvanka-na-odborny-seminar-colne-predpisy-v-
+ praxi
+DTSTART:20251126T080000Z
+DTEND:20251126T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
