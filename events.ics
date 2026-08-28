@@ -404,22 +404,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -434,6 +418,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -551,6 +551,23 @@ DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla
  nadšencov umelej inteligencie – od študentov až po profesionálov z p
  raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
 URL:https://www.kosiceitvalley.sk/events/ai-meetup
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
+DTSTAMP:20250618T072022Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Odborný webinár – transparentnosť odmeňovania
+  (smernica EU)
+LOCATION:online
+DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
+ Ú o transparentnosti odmeňovania\, ktorá prinesie nové povinnosti pre 
+ zamestnávateľov v oblasti reportovania rozdielov v odmeňovaní\, poskyt
+ ovania informácií zamestnancom a nastavovania systémov odmeňovania.\n\
+ nhttps://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-odme
+ novania-smernica-eu
+URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
+ menovania-smernica-eu
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -2632,21 +2649,6 @@ DTSTART:20260823T220000Z
 DTEND:20260903T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:0d19d9355505340cc2d015da81b55b218431f7b9@cike-events
-DTSTAMP:20250301T135059Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Co-Matching Virtual B2B Event 2026
-LOCATION:Online
-DESCRIPTION:Virtuálne podujatie Co-Matching sa uskutoční 27. augusta 202
- 6 a organizuje ho Obchodná komora Kocaeli a ABİGEM East Marmara v úzkej
-  spolupráci s partnermi siete Enterprise Europe Network. Opäť vám pon
- úka možnosť [...] \\n\n\nhttps://www.sopk.sk/event/co-matching-virtual-
- b2b-event-2026
-URL:https://www.sopk.sk/event/co-matching-virtual-b2b-event-2026
-DTSTART:20260826T220000Z
-DTEND:20260827T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:8d0429085ac6c9c941aab1d230cfc657290cce7f@cike-events
 DTSTAMP:20250501T125426Z
 CATEGORIES:SOPK
@@ -2768,8 +2770,6 @@ DTSTAMP:20250930T062632Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] Know-how firmy pod kontrolou: Ako zabrániť odchodu fi
  remných vedomostí a vybudovať odolnú organizáciu
-LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 9170
- 1
 DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov na prez
  enčný odborný seminár „Know-how firmy pod kontrolou alebo Ako zaisti
  ť\, aby vedomosti neodchádzali s ľuďmi a firemná pamäť sa stala va
@@ -2821,8 +2821,6 @@ DTSTAMP:20250217T023851Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] Praktické využitie mediácie v podnikateľskom prostr
  edí – odborný seminár SOPK v Trnave
-LOCATION:Trnavský samosprávny kraj\, Starohájska 6868/10\, Trnava\, 9170
- 1
 DESCRIPTION:Trnavská regionálna komora SOPK pripravuje pre podnikateľsk
  ú verejnosť prezenčný odborný seminár „Praktické využitie mediá
  cie v podnikateľskom prostredí“\, ktorý sa uskutoční 22. októbra 2
@@ -2850,21 +2848,6 @@ URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
  ny-zaujem-firiem
 DTSTART:20261101T070000Z
 DTEND:20261231T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:1210db84d936f44ca3c5000b81c555fce8620c07@cike-events
-DTSTAMP:20250406T145804Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Interpoma Online Business Match 2026
-LOCATION:Online
-DESCRIPTION:Vitajte na online medzinárodnom podujatí zameranom na nadväz
- ovanie kontaktov venovanom celému sektoru ovocia \, globálnom mieste str
- etnutia\, kde sa stretávajú inovácie a technológie hodnotového reťaz
- ca jabĺk. Podujatie B2B bude zamerané najmä [...] \\n\n\nhttps://www.so
- pk.sk/event/interpoma-online-business-match-2026
-URL:https://www.sopk.sk/event/interpoma-online-business-match-2026
-DTSTART:20260610T220000Z
-DTEND:20260612T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:00230cfa40e123baaf6440789bab5f9e43b68055@cike-events
@@ -3035,18 +3018,19 @@ DTSTART:20260820T220000Z
 DTEND:20260823T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8f45e052d4a1b3968a8e681543cae16b05a026e6@cike-events
-DTSTAMP:20250222T190522Z
+UID:0d19d9355505340cc2d015da81b55b218431f7b9@cike-events
+DTSTAMP:20250301T135059Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár Podnikáme v Grécku
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na webin
- ár „Podnikáme v Grécku“\, ktorý sa bude konať dňa 21. 5. 2026 pr
- ostredníctvom platformy Zoom. Podujatie sa realizuje v spolupráci so zas
- tupiteľským úradom SR [...] \\n\n\nhttps://www.sopk.sk/event/webinar-po
- dnikame-v-grecku
-URL:https://www.sopk.sk/event/webinar-podnikame-v-grecku
-DTSTART:20260521T073000Z
-DTEND:20260521T100000Z
+SUMMARY:🟧 [SOPK] Co-Matching Virtual B2B Event 2026
+LOCATION:Online
+DESCRIPTION:Virtuálne podujatie Co-Matching sa uskutoční 27. augusta 202
+ 6 a organizuje ho Obchodná komora Kocaeli a ABİGEM East Marmara v úzkej
+  spolupráci s partnermi siete Enterprise Europe Network. Opäť vám pon
+ úka možnosť [...] \\n\n\nhttps://www.sopk.sk/event/co-matching-virtual-
+ b2b-event-2026
+URL:https://www.sopk.sk/event/co-matching-virtual-b2b-event-2026
+DTSTART:20260826T220000Z
+DTEND:20260827T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:f90c5cf1ef3fcbf471b77f7539e7e3b84f559e3d@cike-events
@@ -3214,21 +3198,19 @@ DTSTART:20260610T063000Z
 DTEND:20260610T123000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
-DTSTAMP:20250322T030949Z
+UID:1210db84d936f44ca3c5000b81c555fce8620c07@cike-events
+DTSTAMP:20250406T145804Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Technology & Business Cooperation Days @ HANNOVER MESSE
-  2026
-LOCATION:Hannover
-DESCRIPTION:Technology & Business Cooperation Days at HANNOVER MESSE 2026 p
- oskytujú hybridnú medzinárodnú platformu na nadväzovanie kontaktov\, 
- ktorá spája malé a stredné podniky a výskumné organizácie. Ročník
-  2026 sa zameriava na kľúčové [...] \\n\n\nhttps://www.sopk.sk/event/t
- echnology-business-cooperation-days-hannover-messe-2026
-URL:https://www.sopk.sk/event/technology-business-cooperation-days-hannover
- -messe-2026
-DTSTART:20260419T220000Z
-DTEND:20260423T215959Z
+SUMMARY:🟧 [SOPK] Interpoma Online Business Match 2026
+LOCATION:Online
+DESCRIPTION:Vitajte na online medzinárodnom podujatí zameranom na nadväz
+ ovanie kontaktov venovanom celému sektoru ovocia \, globálnom mieste str
+ etnutia\, kde sa stretávajú inovácie a technológie hodnotového reťaz
+ ca jabĺk. Podujatie B2B bude zamerané najmä [...] \\n\n\nhttps://www.so
+ pk.sk/event/interpoma-online-business-match-2026
+URL:https://www.sopk.sk/event/interpoma-online-business-match-2026
+DTSTART:20260610T220000Z
+DTEND:20260612T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3757776febb864bfe7a579cc5a4cee49d6a7057f@cike-events
@@ -3405,20 +3387,18 @@ DTSTART:20260521T070000Z
 DTEND:20260521T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:36601cf7d829f89cc49e1c4dc437ccf81e1e160c@cike-events
-DTSTAMP:20251021T080134Z
+UID:8f45e052d4a1b3968a8e681543cae16b05a026e6@cike-events
+DTSTAMP:20250222T190522Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
- ?“
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
- ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
- a bude konať  dňa 18. marca 2026 od 9:00 do 13:00 hod. v zasadačke Ban
- skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
- ravidla-stare-problemy-2
-URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-2
-DTSTART:20260318T080000Z
-DTEND:20260318T120000Z
+SUMMARY:🟧 [SOPK] Webinár Podnikáme v Grécku
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na webin
+ ár „Podnikáme v Grécku“\, ktorý sa bude konať dňa 21. 5. 2026 pr
+ ostredníctvom platformy Zoom. Podujatie sa realizuje v spolupráci so zas
+ tupiteľským úradom SR [...] \\n\n\nhttps://www.sopk.sk/event/webinar-po
+ dnikame-v-grecku
+URL:https://www.sopk.sk/event/webinar-podnikame-v-grecku
+DTSTART:20260521T073000Z
+DTEND:20260521T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3115c4b1e91c79a40d8ae763345e8fe0d07a16b4@cike-events
@@ -3592,19 +3572,21 @@ DTSTART:20260417T070000Z
 DTEND:20260417T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
-DTSTAMP:20250811T190805Z
+UID:18e2a6f4f54e7b3fd81ae813fa8a989c84558cf9@cike-events
+DTSTAMP:20250322T030949Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
-LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
-DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
- ár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešeni
- a a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. fe
- bruára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vysk
- um-a-vyvoj-v-roku-2025
-URL:https://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025
-DTSTART:20260204T230000Z
-DTEND:20260205T225959Z
+SUMMARY:🟧 [SOPK] Technology & Business Cooperation Days @ HANNOVER MESSE
+  2026
+LOCATION:Hannover
+DESCRIPTION:Technology & Business Cooperation Days at HANNOVER MESSE 2026 p
+ oskytujú hybridnú medzinárodnú platformu na nadväzovanie kontaktov\, 
+ ktorá spája malé a stredné podniky a výskumné organizácie. Ročník
+  2026 sa zameriava na kľúčové [...] \\n\n\nhttps://www.sopk.sk/event/t
+ echnology-business-cooperation-days-hannover-messe-2026
+URL:https://www.sopk.sk/event/technology-business-cooperation-days-hannover
+ -messe-2026
+DTSTART:20260419T220000Z
+DTEND:20260423T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:408b8cb2adbddce98a06430cc69d098f81961325@cike-events
@@ -3777,17 +3759,20 @@ DTSTART:20260317T230000Z
 DTEND:20260318T225959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:bf7f67fa23a88ddd0c7fdb7f4c2716512bd923b9@cike-events
-DTSTAMP:20251115T031229Z
+UID:36601cf7d829f89cc49e1c4dc437ccf81e1e160c@cike-events
+DTSTAMP:20251021T080134Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] All in One Cocktail
-DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Coc
- ktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom
- \, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra [
- ...] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail
-URL:https://www.sopk.sk/event/all-in-one-cocktail
-DTSTART:20251126T173000Z
-DTEND:20251126T210000Z
+SUMMARY:🟧 [SOPK] „INCOTERMS 2020: Nové pravidlá – staré problémy
+ ?“
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „INCOTERMS 2020: Nové pravidlá – staré problémy?“\, ktorý s
+ a bude konať  dňa 18. marca 2026 od 9:00 do 13:00 hod. v zasadačke Ban
+ skobystrickej [...] \\n\n\nhttps://www.sopk.sk/event/incoterms-2020-nove-p
+ ravidla-stare-problemy-2
+URL:https://www.sopk.sk/event/incoterms-2020-nove-pravidla-stare-problemy-2
+DTSTART:20260318T080000Z
+DTEND:20260318T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:8eb9a33b8bc902ee83e206daf63dc0fa7dea4c6b@cike-events
@@ -3966,22 +3951,19 @@ DTSTART:20260203T070000Z
 DTEND:20260206T160000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:8ee1557c804c36dc8349490147e2ac71ae700913@cike-events
-DTSTAMP:20251102T000159Z
+UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
+DTSTAMP:20250811T190805Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] „Orientujeme sa v sankciách a odvetvových reštrikc
- iách EU\, OSN a US OFAC“
+SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
 LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
 DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
- ár „Orientujeme sa v sankciách a odvetvových reštrikciách EU\, OS
- N a US OFAC“\, „Je možný obchod s krajinami\, kde platia odvetvové
-  a cielené reštrikcie a sankcie?“  ktorý [...] \\n\n\nhttps://www.so
- pk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-restrikciach-eu-osn-a
- -us-ofac
-URL:https://www.sopk.sk/event/orientujeme-sa-v-sankciach-a-odvetvovych-rest
- rikciach-eu-osn-a-us-ofac
-DTSTART:20251110T230000Z
-DTEND:20251111T225959Z
+ ár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešeni
+ a a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. fe
+ bruára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vysk
+ um-a-vyvoj-v-roku-2025
+URL:https://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025
+DTSTART:20260204T230000Z
+DTEND:20260205T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7371ba1e1e333ff8d3bec5116b130437c262e981@cike-events
@@ -4150,6 +4132,34 @@ URL:https://www.sopk.sk/event/pozvanka-na-odborny-seminar-colne-predpisy-v-
  praxi
 DTSTART:20251126T080000Z
 DTEND:20251126T150000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7f67fa23a88ddd0c7fdb7f4c2716512bd923b9@cike-events
+DTSTAMP:20251115T031229Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] All in One Cocktail
+DESCRIPTION:Všetkých (ne)členov a priateľov pozývame na All in One Coc
+ ktail\, podujatie\, počas ktorého sa Košice na jeden deň stanú mestom
+ \, kde sa všetko spája. Podujatie sa uskutoční v stredu 26. novembra [
+ ...] \\n\n\nhttps://www.sopk.sk/event/all-in-one-cocktail
+URL:https://www.sopk.sk/event/all-in-one-cocktail
+DTSTART:20251126T173000Z
+DTEND:20251126T210000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
+ ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
@@ -4349,24 +4359,6 @@ DTSTART:20260625T150000Z
 DTEND:20260625T200000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z Park Sessions svoj no
- vý letný rituál!  Program na júl: 7/7 (Utorok) o 16:30 | COMMUNITY TO
- VÁREŇ RUN Žiadne preteky\, len čistá radosť zo spoločného behu. [
- …] \\n\n\nhttps://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-rese
- t-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:a111b46d5a13ff3b539c6e3b945a473ea2785d78@cike-events
 DTSTAMP:20250218T191304Z
 CATEGORIES:ICKK
@@ -4539,5 +4531,19 @@ DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
 URL:https://ickk.sk/event/sweet-salty-den-d
 DTSTART:20251120T170000Z
 DTEND:20251120T213000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
+DTSTAMP:20251211T031940Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
+DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
+ davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
+ om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
+  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
+ -tokarcik
+URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
+DTSTART:20251127T160000Z
+DTEND:20251127T180000Z
 END:VEVENT
 END:VCALENDAR
