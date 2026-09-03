@@ -33,6 +33,23 @@ URL:https://www.kosiceitvalley.sk/events/aicko-bezplatny-prakticky-workshop
 DTSTART;VALUE=DATE:20260911
 END:VEVENT
 BEGIN:VEVENT
+UID:e7afc0d3bb9db8c2271f8d0f1747b6e4acba0585@cike-events
+DTSTAMP:20250822T053500Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Živé IT projekty: Firmy môžu prihlásiť svoje 
+ projekty
+LOCATION:Košice
+DESCRIPTION:Je otvorené prihlasovanie projektov do 12. ročníka Živých 
+ IT projektov. Firmy môžu prihlásiť vlastné zadanie alebo poskytnúť 
+ technologického mentora neziskovej organizácii. Pomôžte študentom vyt
+ voriť riešenie\, ktoré bude mať reálne využitie a pozitívny dopad.\
+ n\nhttps://www.kosiceitvalley.sk/events/zive-it-projekty-firmy-mozu-prihla
+ sit-svoje-projekty
+URL:https://www.kosiceitvalley.sk/events/zive-it-projekty-firmy-mozu-prihla
+ sit-svoje-projekty
+DTSTART;VALUE=DATE:20260914
+END:VEVENT
+BEGIN:VEVENT
 UID:d58f0471d8a26c1df1e72a6dc1687d01c6ba6478@cike-events
 DTSTAMP:20250318T063715Z
 CATEGORIES:ITVALLEY
@@ -59,6 +76,23 @@ DESCRIPTION:EASTMED 2026 prepája vedu\, medicínu\, technológie a biznis.
 URL:https://www.kosiceitvalley.sk/events/eastmed-2026-where-science-meets-b
  usiness
 DTSTART;VALUE=DATE:20260923
+END:VEVENT
+BEGIN:VEVENT
+UID:c6e231d83c61cb5a0ca09d7fce99bb8b74d9d370@cike-events
+DTSTAMP:20250115T091918Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Spoveď Agile Coacha\, ktorý sa stal Delivery Mana
+ gerom: Čo ma 10 rokov praxe naučilo o skutočnej agilite
+LOCATION:UVP Technicom\, Němcovej 5
+DESCRIPTION:Úprimný a pragmatický pohľad na prepájanie agilného kouč
+ ingu s projektovým riadením. Zistite\, ako rámce SAFe a Nexus fungujú 
+ pod tlakom reálneho prostredia a čo znamená skutočná agilita naprieč
+  celou organizáciou.\n\nhttps://www.kosiceitvalley.sk/events/spoved-agile
+ -coacha-ktory-sa-stal-delivery-managerom-co-ma-10-rokov-praxe-naucilo-o-sk
+ utocnej-agilite
+URL:https://www.kosiceitvalley.sk/events/spoved-agile-coacha-ktory-sa-stal-
+ delivery-managerom-co-ma-10-rokov-praxe-naucilo-o-skutocnej-agilite
+DTSTART;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:4d40caa7dbe03758c174789238c9072544e3c1dc@cike-events
@@ -208,22 +242,6 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -251,6 +269,22 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -1056,6 +1090,18 @@ URL:https://www.kosiceitvalley.sk/events/esg-awards-udelovanie-oceneni
 DTSTART;VALUE=DATE:20250612
 END:VEVENT
 BEGIN:VEVENT
+UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
+DTSTAMP:20250929T144953Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
+LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
+DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
+ málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
+ /ux-piknik-4
+URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
+DTSTART;VALUE=DATE:20250610
+END:VEVENT
+BEGIN:VEVENT
 UID:c82d79d45eb402ccb8f19574fa5001600e957a8f@cike-events
 DTSTAMP:20250406T101717Z
 CATEGORIES:ITVALLEY
@@ -1066,18 +1112,6 @@ DESCRIPTION:Zaujíma vás svet startupov\, technológií a podnikania? 10\\
  vátori a všetci\, ktorí posúvajú Slovensko vpred.\n\nhttps://www.kosi
  ceitvalley.sk/events/startup-awards-meet-up-kosice
 URL:https://www.kosiceitvalley.sk/events/startup-awards-meet-up-kosice
-DTSTART;VALUE=DATE:20250610
-END:VEVENT
-BEGIN:VEVENT
-UID:f30dfa35c0cb3e5d6e2d46074c5ceb1172c95c58@cike-events
-DTSTAMP:20250929T144953Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] UX / PIKNIK #4
-LOCATION:Záhradné kino\, pasáž medzi Hlavnou 80 a Mäsiarskou 37
-DESCRIPTION:Opäť je čas na letný meetup košickej UX komunity – nefor
- málne\, vonku a v dobrej nálade.\n\nhttps://www.kosiceitvalley.sk/events
- /ux-piknik-4
-URL:https://www.kosiceitvalley.sk/events/ux-piknik-4
 DTSTART;VALUE=DATE:20250610
 END:VEVENT
 BEGIN:VEVENT
@@ -1705,6 +1739,19 @@ DESCRIPTION:Conference organized by Swiss Re\n\nhttps://amcham.sk/events/37
 URL:https://amcham.sk/events/3701/industry-connect-2026-resilience-and-rele
  vance-in-times-of-uncertainty
 DTSTART;VALUE=DATE:20260922
+END:VEVENT
+BEGIN:VEVENT
+UID:070d12ba24b4d58aa786bb41fc367fcb1bb3ee6d@cike-events
+DTSTAMP:20250524T100735Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] PPWR in Practice: Obligations\, Deadlines and Risks f
+ or Businesses
+LOCATION:online | Zoom
+DESCRIPTION:webcast organized by Deloitte\n\nhttps://amcham.sk/events/3708/
+ ppwr-in-practice-obligations-deadlines-and-risks-for-businesses
+URL:https://amcham.sk/events/3708/ppwr-in-practice-obligations-deadlines-an
+ d-risks-for-businesses
+DTSTART;VALUE=DATE:20260923
 END:VEVENT
 BEGIN:VEVENT
 UID:a375312356d91e9b60ee39cced7b03c8bb2cc965@cike-events
@@ -2650,6 +2697,22 @@ DTSTART:20260830T220000Z
 DTEND:20260904T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:2762250538395d7842d34d91dbc4f0824bc3163d@cike-events
+DTSTAMP:20250611T054207Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Prvá krajská podnikateľská akadémia Košického kr
+ aja
+DESCRIPTION:Štartuje Krajská podnikateľská akadémia: Posuňte svoje po
+ dnikanie na nový level\, zvýšte tržby a získajte nových zákazníkov
+  Máte v hlave odvážny podnikateľský nápad\, ktorému chýba finálny
+  štartovací impulz? Alebo už vediete vlastnú [...] \\n\n\nhttps://www.
+ sopk.sk/event/prva-krajska-podnikatelska-akademia-kosickeho-kraja
+URL:https://www.sopk.sk/event/prva-krajska-podnikatelska-akademia-kosickeho
+ -kraja
+DTSTART:20260906T220000Z
+DTEND:20261003T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:50b8cf21e393704db130a5cabbf32dd5beb281f2@cike-events
 DTSTAMP:20250908T022303Z
 CATEGORIES:SOPK
@@ -2846,7 +2909,6 @@ DTSTAMP:20250318T161128Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] Biznis klub SOPK : Umenie akvizície – od prvého kon
  taktu až po stretnutie
-LOCATION:Academy of Coffee\, Bulharská 7626/37D\, Trnava\, 91701
 DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov\, obcho
  dníkov a vedúcich obchodných tímov na ďalšie stretnutie v rámci Biz
  nis klubu podnikateľov. Tentokrát sa zameriame na jednu z najdôležitej
