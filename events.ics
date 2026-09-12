@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:b2034dc68344ac590b7ca2edde306fbe70fd4cda@cike-events
-DTSTAMP:20250616T043629Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AIčko+\, bezplatný praktický workshop pre učite
- ľov a školských digitálnych koordinátorov
-LOCATION:UVP Technicom\, Němcovej 5\, Košice
-DESCRIPTION:AI už žiaci používajú. Otázkou teda nie je\, či ju v šk
- ole riešiť\, ale ako o nej učiť tak\, aby jej rozumeli a vedeli ju pou
- žívať zodpovedne.\n\nhttps://www.kosiceitvalley.sk/events/aicko-bezplat
- ny-prakticky-workshop-pre-ucitelov-a-skolskych-digitalnych-koordinatorov
-URL:https://www.kosiceitvalley.sk/events/aicko-bezplatny-prakticky-workshop
- -pre-ucitelov-a-skolskych-digitalnych-koordinatorov
-DTSTART;VALUE=DATE:20260911
-END:VEVENT
-BEGIN:VEVENT
 UID:e7afc0d3bb9db8c2271f8d0f1747b6e4acba0585@cike-events
 DTSTAMP:20250822T053500Z
 CATEGORIES:ITVALLEY
@@ -131,6 +116,21 @@ URL:https://www.kosiceitvalley.sk/events/ai-punk-meetup-ai-bublina-existuje
 DTSTART;VALUE=DATE:20261013
 END:VEVENT
 BEGIN:VEVENT
+UID:b2034dc68344ac590b7ca2edde306fbe70fd4cda@cike-events
+DTSTAMP:20250616T043629Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AIčko+\, bezplatný praktický workshop pre učite
+ ľov a školských digitálnych koordinátorov
+LOCATION:UVP Technicom\, Němcovej 5\, Košice
+DESCRIPTION:AI už žiaci používajú. Otázkou teda nie je\, či ju v šk
+ ole riešiť\, ale ako o nej učiť tak\, aby jej rozumeli a vedeli ju pou
+ žívať zodpovedne.\n\nhttps://www.kosiceitvalley.sk/events/aicko-bezplat
+ ny-prakticky-workshop-pre-ucitelov-a-skolskych-digitalnych-koordinatorov
+URL:https://www.kosiceitvalley.sk/events/aicko-bezplatny-prakticky-workshop
+ -pre-ucitelov-a-skolskych-digitalnych-koordinatorov
+DTSTART;VALUE=DATE:20260911
+END:VEVENT
+BEGIN:VEVENT
 UID:baa247116abce916a6a669c21d6443ada6299b67@cike-events
 DTSTAMP:20251101T182110Z
 CATEGORIES:ITVALLEY
@@ -173,6 +173,21 @@ URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
 DTSTART;VALUE=DATE:20260625
 END:VEVENT
 BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -186,21 +201,6 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -272,6 +272,23 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
+DTSTAMP:20250913T094249Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Finále Lab IT Creativity 5
+LOCATION:Košice
+DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
+ lógií\, kreativity a inovatívnych riešení. Študentské tímy budú p
+ rezentovať projekty\, na ktorých pracovali počas celého školského ro
+ ka pod vedením pedagógov a mentorov z praxe. Každá zapojená škola pr
+ edstaví jeden finálny projekt\, ktorý odprezentuje pred odbornou hodnot
+ iacou komisiou. Tá následne vyberie a ocení najlepšie projekty aktuál
+ neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
+ tivity-5
+URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -298,23 +315,6 @@ DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
  ocus-groups-buducnost-je-automotive
 URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
  ve
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
-DTSTAMP:20250913T094249Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Finále Lab IT Creativity 5
-LOCATION:Košice
-DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
- lógií\, kreativity a inovatívnych riešení. Študentské tímy budú p
- rezentovať projekty\, na ktorých pracovali počas celého školského ro
- ka pod vedením pedagógov a mentorov z praxe. Každá zapojená škola pr
- edstaví jeden finálny projekt\, ktorý odprezentuje pred odbornou hodnot
- iacou komisiou. Tá následne vyberie a ocení najlepšie projekty aktuál
- neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
- tivity-5
-URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -2979,6 +2979,22 @@ URL:https://www.sopk.sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-k
  ontaktu-az-po-stretnutie
 DTSTART:20261015T080000Z
 DTEND:20261015T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:a36fa36dda9d6907b805617d90e638731ab34f73@cike-events
+DTSTAMP:20250317T140441Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] 10 tipov\, ako budovať dôveryhodnosť produktu / slu
+ žby v online svete
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „10 tipov\, ako budovať dôveryhodnosť produktu / služby v online
+  svete“\, ktorý sa bude konať  dňa 20.októbra 2026 od 9.00h do 12.0
+ 0h. v [...] \\n\n\nhttps://www.sopk.sk/event/10-tipov-ako-budovat-doveryho
+ dnost-produktu-sluzby-v-online-svete
+URL:https://www.sopk.sk/event/10-tipov-ako-budovat-doveryhodnost-produktu-s
+ luzby-v-online-svete
+DTSTART:20261020T070000Z
+DTEND:20261020T100000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:63e43a082e18cbdfac84db0b79b5d56b87fc831f@cike-events
