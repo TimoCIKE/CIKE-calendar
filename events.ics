@@ -6,18 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:d58f0471d8a26c1df1e72a6dc1687d01c6ba6478@cike-events
-DTSTAMP:20250318T063715Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] IT Pub Quiz
-LOCATION:Tabačka Kulturfabrik\, Gorkého 2
-DESCRIPTION:Košická IT scéna má svoj kvíz. Poďte si zmerať sily s ko
- legami z iných firiem a zároveň pomôcť tam\, kde je to najviac potreb
- né.\n\nhttps://www.kosiceitvalley.sk/events/it-pub-quiz
-URL:https://www.kosiceitvalley.sk/events/it-pub-quiz
-DTSTART;VALUE=DATE:20260915
-END:VEVENT
-BEGIN:VEVENT
 UID:334586f7ba34cb49761a5f4112b36cb3bfc4d0bf@cike-events
 DTSTAMP:20250924T124526Z
 CATEGORIES:ITVALLEY
@@ -83,6 +71,22 @@ URL:https://www.kosiceitvalley.sk/events/dam-quality-matters
 DTSTART;VALUE=DATE:20261001
 END:VEVENT
 BEGIN:VEVENT
+UID:e1d7237cceca7fc7841e3ebd0241a73b3681eb63@cike-events
+DTSTAMP:20250805T215605Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Konferencia Líderky 2026
+LOCATION:Hotel Yasmin\, Košice
+DESCRIPTION:Dlhodobo pracujeme s témami rozvoja talentu\, vzdelávania\, i
+ novácií a budovania technologickej komunity. Súčasťou tejto práce je
+  pre nás aj vytváranie prostredia\, v ktorom majú ženy priestor vstupo
+ vať do technológií\, budovať kariéru\, podnikať\, viesť tímy\, zak
+ ladať firmy a podieľať sa na rozhodnutiach\, ktoré formujú budúcnos
+ ť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/liderky-2026
+URL:https://www.kosiceitvalley.sk/events/liderky-2026
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261010
+END:VEVENT
+BEGIN:VEVENT
 UID:40aeeed97e71d9979b79b13b92abf79352c06d87@cike-events
 DTSTAMP:20250531T010006Z
 CATEGORIES:ITVALLEY
@@ -97,6 +101,18 @@ DESCRIPTION:Je AI skutočne revolúcia\, alebo len technologická bublina?
 URL:https://www.kosiceitvalley.sk/events/ai-punk-meetup-ai-bublina-existuje
  -vobec
 DTSTART;VALUE=DATE:20261013
+END:VEVENT
+BEGIN:VEVENT
+UID:d58f0471d8a26c1df1e72a6dc1687d01c6ba6478@cike-events
+DTSTAMP:20250318T063715Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] IT Pub Quiz
+LOCATION:Tabačka Kulturfabrik\, Gorkého 2
+DESCRIPTION:Košická IT scéna má svoj kvíz. Poďte si zmerať sily s ko
+ legami z iných firiem a zároveň pomôcť tam\, kde je to najviac potreb
+ né.\n\nhttps://www.kosiceitvalley.sk/events/it-pub-quiz
+URL:https://www.kosiceitvalley.sk/events/it-pub-quiz
+DTSTART;VALUE=DATE:20260915
 END:VEVENT
 BEGIN:VEVENT
 UID:e7afc0d3bb9db8c2271f8d0f1747b6e4acba0585@cike-events
@@ -272,23 +288,6 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
-UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
-DTSTAMP:20250913T094249Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Finále Lab IT Creativity 5
-LOCATION:Košice
-DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
- lógií\, kreativity a inovatívnych riešení. Študentské tímy budú p
- rezentovať projekty\, na ktorých pracovali počas celého školského ro
- ka pod vedením pedagógov a mentorov z praxe. Každá zapojená škola pr
- edstaví jeden finálny projekt\, ktorý odprezentuje pred odbornou hodnot
- iacou komisiou. Tá následne vyberie a ocení najlepšie projekty aktuál
- neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
- tivity-5
-URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -315,6 +314,23 @@ DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
  ocus-groups-buducnost-je-automotive
 URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
  ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
+UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
+DTSTAMP:20250913T094249Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Finále Lab IT Creativity 5
+LOCATION:Košice
+DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
+ lógií\, kreativity a inovatívnych riešení. Študentské tímy budú p
+ rezentovať projekty\, na ktorých pracovali počas celého školského ro
+ ka pod vedením pedagógov a mentorov z praxe. Každá zapojená škola pr
+ edstaví jeden finálny projekt\, ktorý odprezentuje pred odbornou hodnot
+ iacou komisiou. Tá následne vyberie a ocení najlepšie projekty aktuál
+ neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
+ tivity-5
+URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -967,23 +983,6 @@ URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
 DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
-UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
-DTSTAMP:20251203T163550Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] DAM: Entrepreneurship as a possibility for Data Ana
- lysts
-LOCATION:Jesenná 566/5\, 040 01 Košice
-DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
- odnikateľské myslenie vo svojej práci a využiť svoje zručnosti na tv
- orbu inovácií a hodnoty v organizácii. Rečníkom je Ludwig Stendahl\, 
- skúsený konzultant\, podnikateľ a mentor so 40-ročnou praxou v podpore
-  startupov po celej Európe.\n\nhttps://www.kosiceitvalley.sk/events/dam-e
- ntrepreneurship-as-a-possibility-for-data-analysts
-URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
- ity-for-data-analysts
-DTSTART;VALUE=DATE:20251022
-END:VEVENT
-BEGIN:VEVENT
 UID:ae5313e38ea3e0aa7303997cfbcee700371ea668@cike-events
 DTSTAMP:20250903T012356Z
 CATEGORIES:ITVALLEY
@@ -1617,17 +1616,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:878c41741ecc16ddba04a024863631888dc6f4c0@cike-events
-DTSTAMP:20250106T023527Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Lovebrands
-LOCATION:Kino Sterio\, Košice
-DESCRIPTION:Business Breakfast organized by SUVKO\n\nhttps://amcham.sk/even
- ts/3707/lovebrands
-URL:https://amcham.sk/events/3707/lovebrands
-DTSTART;VALUE=DATE:20260916
-END:VEVENT
-BEGIN:VEVENT
 UID:11e1d08078975488b05bf8cd438f705307b517ae@cike-events
 DTSTAMP:20251120T163916Z
 CATEGORIES:AMCHAM
@@ -1760,6 +1748,18 @@ DESCRIPTION:HR Breakfast organized by Pro Relocation\n\nhttps://amcham.sk/e
 URL:https://amcham.sk/events/3700/practical-guide-to-employer-obligations-f
  or-foreign-employees
 DTSTART;VALUE=DATE:20261007
+END:VEVENT
+BEGIN:VEVENT
+UID:1fec612585e85d2fbc95d2d08f9c41873ac3ba81@cike-events
+DTSTAMP:20250618T071757Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Business Ladies Day
+LOCATION:PenatiClub\, Agátová 33\, Bratislava
+DESCRIPTION:14th year of a unique event intended especially for women who w
+ ork in the business environment\n\nhttps://amcham.sk/events/3714/business-
+ ladies-day
+URL:https://amcham.sk/events/3714/business-ladies-day
+DTSTART;VALUE=DATE:20261008
 END:VEVENT
 BEGIN:VEVENT
 UID:ba502ddb87701b08addc721df6bf7805c0648bad@cike-events
