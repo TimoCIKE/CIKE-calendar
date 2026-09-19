@@ -96,8 +96,8 @@ DESCRIPTION:Je AI skutočne revolúcia\, alebo len technologická bublina?
  Na AI PUNK meetupe sa pozrieme na súčasný AI hype\, reálnu hodnotu pre
   firmy aj náklady na implementáciu. Keynote predstaví Michal Valko\, po
   ktorej bude nasledovať diskusia s Tomášom Valom z AT&T a Michalom Valk
- om. Moderuje zástupca DTITSO.\n\nhttps://www.kosiceitvalley.sk/events/ai-
- punk-meetup-ai-bublina-existuje-vobec
+ om. Moderuje zástupca Deutsche Telekom IT Solutions Slovakia.\n\nhttps://
+ www.kosiceitvalley.sk/events/ai-punk-meetup-ai-bublina-existuje-vobec
 URL:https://www.kosiceitvalley.sk/events/ai-punk-meetup-ai-bublina-existuje
  -vobec
 DTSTART;VALUE=DATE:20261013
@@ -603,6 +603,20 @@ URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
 DTSTART;VALUE=DATE:20260415
 END:VEVENT
 BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -617,20 +631,6 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -1633,17 +1633,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:11e1d08078975488b05bf8cd438f705307b517ae@cike-events
-DTSTAMP:20251120T163916Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Golftrophy 2026
-LOCATION:Sedín Golf Resort\, Veľké Úľany
-DESCRIPTION:organized by the Association Chamber of Chambers (CHAMCHAM)\n\n
- https://amcham.sk/events/3689/golftrophy-2026
-URL:https://amcham.sk/events/3689/golftrophy-2026
-DTSTART;VALUE=DATE:20260918
-END:VEVENT
-BEGIN:VEVENT
 UID:8426d9a00c14d9e0e2b187aab3bfdb42b913b5f4@cike-events
 DTSTAMP:20250903T050959Z
 CATEGORIES:AMCHAM
@@ -1770,11 +1759,23 @@ BEGIN:VEVENT
 UID:4658569ec40e734fef6255534e189f4a768dc8ac@cike-events
 DTSTAMP:20251005T003345Z
 CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] PERUN Member Tour
+SUMMARY:🟢 [AMCHAM] Perún Member Tour
 LOCATION:PERUN Supercomputer Center at the Technical University of Košice\
  , Němcovej 3\, Košice
 DESCRIPTION:https://amcham.sk/events/3715/perun-member-tour
 URL:https://amcham.sk/events/3715/perun-member-tour
+DTSTART;VALUE=DATE:20261008
+END:VEVENT
+BEGIN:VEVENT
+UID:e49e75c8a9ce12abee65b346ec7df2eaf4208a68@cike-events
+DTSTAMP:20250507T112418Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Autumn Macroeconomic Forecast 2026
+LOCATION:Perún Supercomputer Center\, Technical University of Košice\, N
+ ěmcovej 3
+DESCRIPTION:A discussion with Michal Horváth\, National Bank of Slovakia\n
+ \nhttps://amcham.sk/events/3718/autumn-macroeconomic-forecast-2026
+URL:https://amcham.sk/events/3718/autumn-macroeconomic-forecast-2026
 DTSTART;VALUE=DATE:20261008
 END:VEVENT
 BEGIN:VEVENT
@@ -1910,6 +1911,17 @@ DESCRIPTION:Dream. Dare. Do! Stories That Shine!\n\nhttps://amcham.sk/event
 URL:https://amcham.sk/events/3585/thanksgiving-gala-charity-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:11e1d08078975488b05bf8cd438f705307b517ae@cike-events
+DTSTAMP:20251120T163916Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Golftrophy 2026
+LOCATION:Sedín Golf Resort\, Veľké Úľany
+DESCRIPTION:organized by the Association Chamber of Chambers (CHAMCHAM)\n\n
+ https://amcham.sk/events/3689/golftrophy-2026
+URL:https://amcham.sk/events/3689/golftrophy-2026
+DTSTART;VALUE=DATE:20260918
 END:VEVENT
 BEGIN:VEVENT
 UID:4837ba151b009c24aa4ca1a757e887a07f35c22e@cike-events
@@ -2715,17 +2727,6 @@ URL:https://amcham.sk/events/3541/building-and-or-use-of-ai-systems-for-med
 DTSTART;VALUE=DATE:20250922
 END:VEVENT
 BEGIN:VEVENT
-UID:3001daeb7f4331fa0ceb49239ff3ad4a9826674f@cike-events
-DTSTAMP:20251209T144828Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Golftrophy 2025
-LOCATION:Sedín Golf Resort\, Veľké Úľany
-DESCRIPTION:organized by the Association Chamber of Chambers (CHAMCHAM)\n\n
- https://amcham.sk/events/3525/golftrophy-2025
-URL:https://amcham.sk/events/3525/golftrophy-2025
-DTSTART;VALUE=DATE:20250919
-END:VEVENT
-BEGIN:VEVENT
 UID:2762250538395d7842d34d91dbc4f0824bc3163d@cike-events
 DTSTAMP:20250611T054207Z
 CATEGORIES:SOPK
@@ -2869,6 +2870,21 @@ DTSTART:20260929T070000Z
 DTEND:20260929T103000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:1b61afa545998060f99b05f347e3ba996662500a@cike-events
+DTSTAMP:20250401T224222Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] IPR & Technology Transfer Awareness
+LOCATION:Trenčianska univerzita A. Dubčeka- FUNGLASS
+DESCRIPTION:Pozývame na podujatie  vzdelávacieho programu GlaCerHub s n
+ ázvom „Úvod do problematiky práv duševného vlastníctva (IPR) a pre
+ nosu technológií“ (GlaCerHub Training Programme – Introduction to IP
+ R & Technology Transfer Awareness)\, ktoré sa [...] \\n\n\nhttps://www.so
+ pk.sk/event/glacerhub-ipr
+URL:https://www.sopk.sk/event/glacerhub-ipr
+DTSTART:20260929T220000Z
+DTEND:20261002T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:95fb27c80a26ca28995dc9e203874891d1fc5129@cike-events
 DTSTAMP:20250220T031906Z
 CATEGORIES:SOPK
@@ -2919,6 +2935,23 @@ DTSTART:20261001T070000Z
 DTEND:20261001T120000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:c38a41476e5a636963f96e701f8ff281fe3c0ca7@cike-events
+DTSTAMP:20250719T161013Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] VIRTUAL BROKERAGE EVENT @ INNOVATION VILLAGE 2026
+LOCATION:Online
+DESCRIPTION:VIRTUAL BROKERAGE EVENT @ INNOVATION VILLAGE 2026 so zameraní
+ m na energetickú transformáciu\, letecký a kozmický priemysel\, cesto
+ vný ruch a kultúrne dedičstvo Dátum konania: 5. – 16. október 2026
+  Miesto konania: on-line Web stránka podujatia: https://www.b2match.com/
+ e/virtual-brokerage-event-innovation-village [...] \\n\n\nhttps://www.sopk
+ .sk/event/virtual-brokerage-event-innovation-village-2026
+URL:https://www.sopk.sk/event/virtual-brokerage-event-innovation-village-20
+ 26
+DTSTART:20261004T220000Z
+DTEND:20261016T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:dc6072a6f25f61bc8bb24d20d63194e4273b7bbd@cike-events
 DTSTAMP:20250606T071849Z
 CATEGORIES:SOPK
@@ -2950,6 +2983,23 @@ URL:https://www.sopk.sk/event/bezpecna-preprava-nebezpecnych-materialov-v-o
  brannom-priemysle
 DTSTART:20261006T070000Z
 DTEND:20261006T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:6106bd8a0dae71a2e4aba3ec075906b3b00953b3@cike-events
+DTSTAMP:20250109T121220Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] ENVIRONTEC powered by ÖKOINDUSTRIA 2026 B2B Event
+LOCATION:Online
+DESCRIPTION:Pozývame vás na druhý ročník medzinárodného veľtrhu ENV
+ IRONTEC powered by ÖKOINDUSTRIA zameraného na environmentálne technol
+ ógie\, odpad\, vodu a udržateľnosť\, v rámci ktorého sa zároveň
+  uskutoční B2B podujatie. Dátum konania: 7. – 9. október 2026 Miest
+ o konania: Budapešť\, [...] \\n\n\nhttps://www.sopk.sk/event/environtec
+ -powered-by-okoindustria-2026-b2b-event
+URL:https://www.sopk.sk/event/environtec-powered-by-okoindustria-2026-b2b-e
+ vent
+DTSTART:20261006T220000Z
+DTEND:20261009T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:df4fc02d5bdd368f744ded9c7c573ab2ee45644f@cike-events
@@ -4513,6 +4563,51 @@ DTSTART:20251208T160000Z
 DTEND:20251208T220000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:12c28608294e940012ba7bdf4e6bb720cd62a1a9@cike-events
+DTSTAMP:20250726T034517Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Level Up: Minecraft\, Roblox a svet programovania
+DESCRIPTION:Továreň workshopy sú po letnej prestávke späť! Chcete ved
+ ieť ako môžeme využiť hry\, ktoré deti milujú\, na rozvoj digitáln
+ ych\, kreatívnych a programátorských zručností? Workshop predstaví m
+ ožnosti moderného digitálneho vzdelávania a […] \\n\n\nhttps://ickk.
+ sk/event/level-up-minecraft-roblox-a-svet-programovania
+URL:https://ickk.sk/event/level-up-minecraft-roblox-a-svet-programovania
+DTSTART:20260916T150000Z
+DTEND:20260916T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
+ ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2eb5db2af61b08c600f19349f12984ec9185b4@cike-events
+DTSTAMP:20250701T211413Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Strojárenská Žije 3.0
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
+ Pozývame vás na jedinečný komunitný event\, ktorý premení dvor na S
+ trojárenskej na živé centrum inovácií\, inšpirácií\, networkingu a
+  spolupráce. Tento rok dávame priestor […] \\n\n\nhttps://ickk.sk/even
+ t/strojarenska-zije-3-0
+URL:https://ickk.sk/event/strojarenska-zije-3-0
+DTSTART:20260625T150000Z
+DTEND:20260625T200000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:a6cf6c8492c7a924207cd57c0f1e777a945b9e6d@cike-events
 DTSTAMP:20250820T002928Z
 CATEGORIES:ICKK
@@ -4669,59 +4764,6 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2b2eb5db2af61b08c600f19349f12984ec9185b4@cike-events
-DTSTAMP:20250701T211413Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 3.0
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
- Pozývame vás na jedinečný komunitný event\, ktorý premení dvor na S
- trojárenskej na živé centrum inovácií\, inšpirácií\, networkingu a
-  spolupráce. Tento rok dávame priestor niečomu hlbšiemu\, predstavíme
-  aktérov\, ktorí na Strojárenskej sídlia a denne formujú jej výnimo
- čný charakter. Prídťe sa presvedčiť o tom\, že nás nespája len sp
- oločná adresa\, […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-3-0
-URL:https://ickk.sk/event/strojarenska-zije-3-0
-DTSTART:20260625T150000Z
-DTEND:20260625T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z Park Sessions svoj no
- vý letný rituál!  Program na júl: 7/7 (Utorok) o 16:30 | COMMUNITY TO
- VÁREŇ RUN Žiadne preteky\, len čistá radosť zo spoločného behu. [
- …] \\n\n\nhttps://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-rese
- t-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:12c28608294e940012ba7bdf4e6bb720cd62a1a9@cike-events
-DTSTAMP:20250726T034517Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Level Up: Minecraft\, Roblox a svet programovania
-DESCRIPTION:Továreň workshopy sú po letnej prestávke späť! Chcete ved
- ieť ako môžeme využiť hry\, ktoré deti milujú\, na rozvoj digitáln
- ych\, kreatívnych a programátorských zručností? Workshop predstaví m
- ožnosti moderného digitálneho vzdelávania a ukáže\, že Minecraft č
- i Roblox nemusia byť iba voľnočasovou zábavou\, ale môžu fungovať a
- j ako nástroje na učenie\, tvorivosť\, logické myslenie a prvé kroky 
- k […] \\n\n\nhttps://ickk.sk/event/level-up-minecraft-roblox-a-svet-prog
- ramovania
-URL:https://ickk.sk/event/level-up-minecraft-roblox-a-svet-programovania
-DTSTART:20260916T150000Z
-DTEND:20260916T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a3c7b8d4dfe66cfc85b4aaaf7247303c132933d7@cike-events
