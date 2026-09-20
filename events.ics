@@ -983,23 +983,6 @@ URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
 DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
-UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
-DTSTAMP:20251203T163550Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] DAM: Entrepreneurship as a possibility for Data Ana
- lysts
-LOCATION:Jesenná 566/5\, 040 01 Košice
-DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
- odnikateľské myslenie vo svojej práci a využiť svoje zručnosti na tv
- orbu inovácií a hodnoty v organizácii. Rečníkom je Ludwig Stendahl\, 
- skúsený konzultant\, podnikateľ a mentor so 40-ročnou praxou v podpore
-  startupov po celej Európe.\n\nhttps://www.kosiceitvalley.sk/events/dam-e
- ntrepreneurship-as-a-possibility-for-data-analysts
-URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
- ity-for-data-analysts
-DTSTART;VALUE=DATE:20251022
-END:VEVENT
-BEGIN:VEVENT
 UID:ae5313e38ea3e0aa7303997cfbcee700371ea668@cike-events
 DTSTAMP:20250903T012356Z
 CATEGORIES:ITVALLEY
@@ -4563,51 +4546,6 @@ DTSTART:20251208T160000Z
 DTEND:20251208T220000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:12c28608294e940012ba7bdf4e6bb720cd62a1a9@cike-events
-DTSTAMP:20250726T034517Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Level Up: Minecraft\, Roblox a svet programovania
-DESCRIPTION:Továreň workshopy sú po letnej prestávke späť! Chcete ved
- ieť ako môžeme využiť hry\, ktoré deti milujú\, na rozvoj digitáln
- ych\, kreatívnych a programátorských zručností? Workshop predstaví m
- ožnosti moderného digitálneho vzdelávania a […] \\n\n\nhttps://ickk.
- sk/event/level-up-minecraft-roblox-a-svet-programovania
-URL:https://ickk.sk/event/level-up-minecraft-roblox-a-svet-programovania
-DTSTART:20260916T150000Z
-DTEND:20260916T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
- ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2b2eb5db2af61b08c600f19349f12984ec9185b4@cike-events
-DTSTAMP:20250701T211413Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 3.0
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
- Pozývame vás na jedinečný komunitný event\, ktorý premení dvor na S
- trojárenskej na živé centrum inovácií\, inšpirácií\, networkingu a
-  spolupráce. Tento rok dávame priestor […] \\n\n\nhttps://ickk.sk/even
- t/strojarenska-zije-3-0
-URL:https://ickk.sk/event/strojarenska-zije-3-0
-DTSTART:20260625T150000Z
-DTEND:20260625T200000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:a6cf6c8492c7a924207cd57c0f1e777a945b9e6d@cike-events
 DTSTAMP:20250820T002928Z
 CATEGORIES:ICKK
@@ -4764,6 +4702,59 @@ DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
 URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
 DTSTART:20260529T080000Z
 DTEND:20260529T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:2b2eb5db2af61b08c600f19349f12984ec9185b4@cike-events
+DTSTAMP:20250701T211413Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Strojárenská Žije 3.0
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
+ Pozývame vás na jedinečný komunitný event\, ktorý premení dvor na S
+ trojárenskej na živé centrum inovácií\, inšpirácií\, networkingu a
+  spolupráce. Tento rok dávame priestor niečomu hlbšiemu\, predstavíme
+  aktérov\, ktorí na Strojárenskej sídlia a denne formujú jej výnimo
+ čný charakter. Prídťe sa presvedčiť o tom\, že nás nespája len sp
+ oločná adresa\, […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-3-0
+URL:https://ickk.sk/event/strojarenska-zije-3-0
+DTSTART:20260625T150000Z
+DTEND:20260625T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z Park Sessions svoj no
+ vý letný rituál!  Program na júl: 7/7 (Utorok) o 16:30 | COMMUNITY TO
+ VÁREŇ RUN Žiadne preteky\, len čistá radosť zo spoločného behu. [
+ …] \\n\n\nhttps://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-rese
+ t-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:12c28608294e940012ba7bdf4e6bb720cd62a1a9@cike-events
+DTSTAMP:20250726T034517Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Level Up: Minecraft\, Roblox a svet programovania
+DESCRIPTION:Továreň workshopy sú po letnej prestávke späť! Chcete ved
+ ieť ako môžeme využiť hry\, ktoré deti milujú\, na rozvoj digitáln
+ ych\, kreatívnych a programátorských zručností? Workshop predstaví m
+ ožnosti moderného digitálneho vzdelávania a ukáže\, že Minecraft č
+ i Roblox nemusia byť iba voľnočasovou zábavou\, ale môžu fungovať a
+ j ako nástroje na učenie\, tvorivosť\, logické myslenie a prvé kroky 
+ k […] \\n\n\nhttps://ickk.sk/event/level-up-minecraft-roblox-a-svet-prog
+ ramovania
+URL:https://ickk.sk/event/level-up-minecraft-roblox-a-svet-programovania
+DTSTART:20260916T150000Z
+DTEND:20260916T170000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a3c7b8d4dfe66cfc85b4aaaf7247303c132933d7@cike-events
