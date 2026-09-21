@@ -603,20 +603,6 @@ URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
 DTSTART;VALUE=DATE:20260415
 END:VEVENT
 BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -631,6 +617,20 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -980,6 +980,23 @@ DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu
  o-stavat-a-spravovat-ai-systemy
 URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
  spravovat-ai-systemy
+DTSTART;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
+UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
+DTSTAMP:20251203T163550Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DAM: Entrepreneurship as a possibility for Data Ana
+ lysts
+LOCATION:Jesenná 566/5\, 040 01 Košice
+DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
+ odnikateľské myslenie vo svojej práci a využiť svoje zručnosti na tv
+ orbu inovácií a hodnoty v organizácii. Rečníkom je Ludwig Stendahl\, 
+ skúsený konzultant\, podnikateľ a mentor so 40-ročnou praxou v podpore
+  startupov po celej Európe.\n\nhttps://www.kosiceitvalley.sk/events/dam-e
+ ntrepreneurship-as-a-possibility-for-data-analysts
+URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
+ ity-for-data-analysts
 DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
