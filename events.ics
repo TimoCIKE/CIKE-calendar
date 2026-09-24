@@ -6,22 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:334586f7ba34cb49761a5f4112b36cb3bfc4d0bf@cike-events
-DTSTAMP:20250924T124526Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] EASTMED 2026: Where Science Meets Business
-LOCATION:UVP Technicom
-DESCRIPTION:EASTMED 2026 prepája vedu\, medicínu\, technológie a biznis.
-  Ukáže\, ako sa výskum mení na produkty s reálnym dopadom\, čo rozho
- duje o ich úspechu na trhu a akú úlohu zohráva spolupráca univerzít\
- , firiem a ďalších aktérov pri tvorbe budúcnosti zdravotníctva.\n\nh
- ttps://www.kosiceitvalley.sk/events/eastmed-2026-where-science-meets-busin
- ess
-URL:https://www.kosiceitvalley.sk/events/eastmed-2026-where-science-meets-b
- usiness
-DTSTART;VALUE=DATE:20260923
-END:VEVENT
-BEGIN:VEVENT
 UID:c6e231d83c61cb5a0ca09d7fce99bb8b74d9d370@cike-events
 DTSTAMP:20250115T091918Z
 CATEGORIES:ITVALLEY
@@ -119,6 +103,22 @@ URL:https://www.kosiceitvalley.sk/events/business-breakfast
 DTSTART;VALUE=DATE:20261015
 END:VEVENT
 BEGIN:VEVENT
+UID:334586f7ba34cb49761a5f4112b36cb3bfc4d0bf@cike-events
+DTSTAMP:20250924T124526Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] EASTMED 2026: Where Science Meets Business
+LOCATION:UVP Technicom
+DESCRIPTION:EASTMED 2026 prepája vedu\, medicínu\, technológie a biznis.
+  Ukáže\, ako sa výskum mení na produkty s reálnym dopadom\, čo rozho
+ duje o ich úspechu na trhu a akú úlohu zohráva spolupráca univerzít\
+ , firiem a ďalších aktérov pri tvorbe budúcnosti zdravotníctva.\n\nh
+ ttps://www.kosiceitvalley.sk/events/eastmed-2026-where-science-meets-busin
+ ess
+URL:https://www.kosiceitvalley.sk/events/eastmed-2026-where-science-meets-b
+ usiness
+DTSTART;VALUE=DATE:20260923
+END:VEVENT
+BEGIN:VEVENT
 UID:d58f0471d8a26c1df1e72a6dc1687d01c6ba6478@cike-events
 DTSTAMP:20250318T063715Z
 CATEGORIES:ITVALLEY
@@ -205,21 +205,6 @@ URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
 DTSTART;VALUE=DATE:20260625
 END:VEVENT
 BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -233,6 +218,21 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -318,19 +318,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
-DTSTAMP:20250123T002446Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
-LOCATION:UVP Technicom
-DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
- ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
- etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
- ts/klubovna-pre-nadane-deti
-URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -483,6 +470,22 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -497,22 +500,6 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1661,17 +1648,6 @@ DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 END:VEVENT
 BEGIN:VEVENT
-UID:d8fe1f10da21b46d27dffeed6d264ef0cb803651@cike-events
-DTSTAMP:20251208T175013Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] AI-Ready Talent
-LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:A discussion with Dr. Jeff Kuhn\, Ohio University\, USA\n\nhttp
- s://amcham.sk/events/3713/ai-ready-talent
-URL:https://amcham.sk/events/3713/ai-ready-talent
-DTSTART;VALUE=DATE:20260924
-END:VEVENT
-BEGIN:VEVENT
 UID:a375312356d91e9b60ee39cced7b03c8bb2cc965@cike-events
 DTSTAMP:20250418T075518Z
 CATEGORIES:AMCHAM
@@ -1925,6 +1901,17 @@ DESCRIPTION:Dream. Dare. Do! Stories That Shine!\n\nhttps://amcham.sk/event
 URL:https://amcham.sk/events/3585/thanksgiving-gala-charity-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:d8fe1f10da21b46d27dffeed6d264ef0cb803651@cike-events
+DTSTAMP:20251208T175013Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AI-Ready Talent
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:A discussion with Dr. Jeff Kuhn\, Ohio University\, USA\n\nhttp
+ s://amcham.sk/events/3713/ai-ready-talent
+URL:https://amcham.sk/events/3713/ai-ready-talent
+DTSTART;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:11e1d08078975488b05bf8cd438f705307b517ae@cike-events
@@ -2690,32 +2677,6 @@ URL:https://amcham.sk/events/3540/live-from-nyc-actions-for-a-sustainable-f
 DTSTART;VALUE=DATE:20250926
 END:VEVENT
 BEGIN:VEVENT
-UID:af83c990ac2f32b063d392ce0929ead5e11fb98c@cike-events
-DTSTAMP:20250331T194244Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Transform Your Business - Sustainability Business Sim
- ulation
-LOCATION:The Spot Cowork\, 7th floor\, Bottova 2/A\, Bratislava
-DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3536/transfor
- m-your-business-sustainability-business-simulation
-URL:https://amcham.sk/events/3536/transform-your-business-sustainability-bu
- siness-simulation
-DTSTART;VALUE=DATE:20250923
-END:VEVENT
-BEGIN:VEVENT
-UID:b20d258db70341e2277d68c290b5d926dc3c3d1b@cike-events
-DTSTAMP:20250721T022031Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Social in ESG: An Experience That Changes Perspective
- s
-LOCATION:The Spot Cowork\, 8th floor\, Bottova 2/A\, Bratislava
-DESCRIPTION:Focus Topical Session\n\nhttps://amcham.sk/events/3537/social-i
- n-esg-an-experience-that-changes-perspectives
-URL:https://amcham.sk/events/3537/social-in-esg-an-experience-that-changes-
- perspectives
-DTSTART;VALUE=DATE:20250923
-END:VEVENT
-BEGIN:VEVENT
 UID:2762250538395d7842d34d91dbc4f0824bc3163d@cike-events
 DTSTAMP:20250611T054207Z
 CATEGORIES:SOPK
@@ -2730,21 +2691,6 @@ URL:https://www.sopk.sk/event/prva-krajska-podnikatelska-akademia-kosickeho
  -kraja
 DTSTART:20260906T220000Z
 DTEND:20261003T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:33783c6f08e0111c32c1b09fdf1e0c1583649143@cike-events
-DTSTAMP:20250227T044948Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] ČESKO-SLOVENSKÉ PODNIKATEĽSKÉ FÓRUM 2026
-LOCATION:Žilina\, Športová 2\, Žilina
-DESCRIPTION:Žilinská regionálna komora SOPK\, Veľvyslanectvo Českej re
- publiky v SR a agentúra SARIO v spolupráci s Ministerstvom priemyslu a o
- bchodu ČR a českými hospodárskymi komorami si Vás dovoľujú pozvať 
- na: ČESKO-SLOVENSKÉ PODNIKATEĽSKÉ [...] \\n\n\nhttps://www.sopk.sk/eve
- nt/cesko-slovenske-podnikatelske-forum-2026
-URL:https://www.sopk.sk/event/cesko-slovenske-podnikatelske-forum-2026
-DTSTART:20260923T070000Z
-DTEND:20260923T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:b0a2f60ae7f467a3abb69d8299b272b73dfd81f3@cike-events
@@ -3070,6 +3016,25 @@ DTSTART:20261015T080000Z
 DTEND:20261015T120000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:691166b808e3c53ea484f4258b1b5af99f5bb4d3@cike-events
+DTSTAMP:20250318T171713Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] RIZIKÁ A PRÍLEŽITOSTI AI – Ako efektívne implemen
+ tovať umelú inteligenciu bez rizika pre vaše dáta
+LOCATION:Zasadačka Žilinskej regionálnej komory SOPK\, Hálkova 31\, Ži
+ lina\, 01001
+DESCRIPTION:Žilinská regionálna komora SOPK si Vás dovoľuje pozvať na
+  seminár RIZIKÁ A PRÍLEŽITOSTI AI Termín: 15. október 2026 o 10.00 h
+ od Miesto: Žilinská regionálna komora SOPK\, Hálkova 31\, Žilina Tema
+ tické zameranie: [...] \\n\n\nhttps://www.sopk.sk/event/rizika-a-prilezit
+ osti-ai-ako-efektivne-implementovat-umelu-inteligenciu-bez-rizika-pre-vase
+ -data
+URL:https://www.sopk.sk/event/rizika-a-prilezitosti-ai-ako-efektivne-implem
+ entovat-umelu-inteligenciu-bez-rizika-pre-vase-data
+DTSTART:20261015T080000Z
+DTEND:20261015T120000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:2d03afdee9bd14ededdb35874c1bbd9df9890041@cike-events
 DTSTAMP:20250518T155732Z
 CATEGORIES:SOPK
@@ -3233,23 +3198,6 @@ DTSTART:20261029T080000Z
 DTEND:20261029T110000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
-DTSTAMP:20250205T151542Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Obchodná misia do Indonézie: Zisťujeme predbežný z
- áujem firiem
-DESCRIPTION:Zisťujeme predbežný záujem slovenských firiem o obchodnú 
- misiu do Indonézie - Jakarta koncom roka 2026 (Q4). V spolupráci s veľv
- yslanectvami a partnerskými organizáciami pripravujeme program zahŕňaj
- úci B2B rokovania\, návštevu obchodnej komory [...] \\n\n\nhttps://www.
- sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbezny-zaujem-firie
- m
-URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
- ny-zaujem-firiem
-DTSTART:20261101T070000Z
-DTEND:20261231T160000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:3c93e0bacc159bbe534a29746c07d683313cbcde@cike-events
 DTSTAMP:20250905T054501Z
 CATEGORIES:SOPK
@@ -3280,8 +3228,24 @@ DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
  a-digitalizacia-b2b-komunikacie-top-trendy-buducnosti
 URL:https://www.sopk.sk/event/personalizacia-a-digitalizacia-b2b-komunikaci
  e-top-trendy-buducnosti
-DTSTART:20261124T070000Z
+DTSTART:20261124T080000Z
 DTEND:20261124T110000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
+DTSTAMP:20250205T151542Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Zmena termínu obchodnej misie – Jakarta\, máj 2027
+DESCRIPTION:Zisťujeme predbežný záujem slovenských firiem o obchodnú 
+ misiu do Indonézie – Jakarta\, ktorá sa uskutoční v máji 2027. V sp
+ olupráci s veľvyslanectvami a partnerskými organizáciami pripravujeme 
+ program zahŕňajúci B2B rokovania\, návštevu [...] \\n\n\nhttps://www.
+ sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbezny-zaujem-firie
+ m
+URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
+ ny-zaujem-firiem
+DTSTART:20270512T060000Z
+DTEND:20270515T150000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:fb273cb422a26e52797c681087d5abbf79ba4752@cike-events
@@ -4582,6 +4546,21 @@ DTSTART:20251209T090000Z
 DTEND:20251211T170000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
+ ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
+END:VEVENT
+BEGIN:VEVENT
 UID:a6cf6c8492c7a924207cd57c0f1e777a945b9e6d@cike-events
 DTSTAMP:20250820T002928Z
 CATEGORIES:ICKK
@@ -4756,24 +4735,6 @@ DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
 URL:https://ickk.sk/event/strojarenska-zije-3-0
 DTSTART:20260625T150000Z
 DTEND:20260625T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
-DTSTAMP:20251015T210716Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
- ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
- darma a bez registrácie. Zober kamošov a urob si z Park Sessions svoj no
- vý letný rituál!  Program na júl: 7/7 (Utorok) o 16:30 | COMMUNITY TO
- VÁREŇ RUN Žiadne preteky\, len čistá radosť zo spoločného behu. [
- …] \\n\n\nhttps://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-rese
- t-v-parku
-URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
-DTSTART:20260706T220000Z
-DTEND:20260729T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:12c28608294e940012ba7bdf4e6bb720cd62a1a9@cike-events
