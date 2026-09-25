@@ -6,23 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:c6e231d83c61cb5a0ca09d7fce99bb8b74d9d370@cike-events
-DTSTAMP:20250115T091918Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Spoveď Agile Coacha\, ktorý sa stal Delivery Mana
- gerom: Čo ma 10 rokov praxe naučilo o skutočnej agilite
-LOCATION:UVP Technicom\, Němcovej 5
-DESCRIPTION:Úprimný a pragmatický pohľad na prepájanie agilného kouč
- ingu s projektovým riadením. Zistite\, ako rámce SAFe a Nexus fungujú 
- pod tlakom reálneho prostredia a čo znamená skutočná agilita naprieč
-  celou organizáciou.\n\nhttps://www.kosiceitvalley.sk/events/spoved-agile
- -coacha-ktory-sa-stal-delivery-managerom-co-ma-10-rokov-praxe-naucilo-o-sk
- utocnej-agilite
-URL:https://www.kosiceitvalley.sk/events/spoved-agile-coacha-ktory-sa-stal-
- delivery-managerom-co-ma-10-rokov-praxe-naucilo-o-skutocnej-agilite
-DTSTART;VALUE=DATE:20260924
-END:VEVENT
-BEGIN:VEVENT
 UID:4d40caa7dbe03758c174789238c9072544e3c1dc@cike-events
 DTSTAMP:20251014T214818Z
 CATEGORIES:ITVALLEY
@@ -96,11 +79,28 @@ LOCATION:UVP Technicom
 DESCRIPTION:Ako budovať osobnú značku\, ktorá posilňuje reputáciu\, d
  ôveru a odbornú autoritu? Lucia Pekaríková ukáže\, ako premeniť odb
  ornosť na rešpektovanú osobnú značku a nové príležitosti. 15. 10. 
- 2026 o 9:00 hod v UVP Technicom. Zaregistrujte sa a príďte načerpať pr
- aktické tipy pre svoj profesionálny rast.\n\nhttps://www.kosiceitvalley.
- sk/events/business-breakfast
+ 2026 od 8:30 hod v UVP Technicom. Zaregistrujte sa a príďte načerpať p
+ raktické tipy pre svoj profesionálny rast.\n\nhttps://www.kosiceitvalley
+ .sk/events/business-breakfast
 URL:https://www.kosiceitvalley.sk/events/business-breakfast
 DTSTART;VALUE=DATE:20261015
+END:VEVENT
+BEGIN:VEVENT
+UID:c6e231d83c61cb5a0ca09d7fce99bb8b74d9d370@cike-events
+DTSTAMP:20250115T091918Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Spoveď Agile Coacha\, ktorý sa stal Delivery Mana
+ gerom: Čo ma 10 rokov praxe naučilo o skutočnej agilite
+LOCATION:UVP Technicom\, Němcovej 5
+DESCRIPTION:Úprimný a pragmatický pohľad na prepájanie agilného kouč
+ ingu s projektovým riadením. Zistite\, ako rámce SAFe a Nexus fungujú 
+ pod tlakom reálneho prostredia a čo znamená skutočná agilita naprieč
+  celou organizáciou.\n\nhttps://www.kosiceitvalley.sk/events/spoved-agile
+ -coacha-ktory-sa-stal-delivery-managerom-co-ma-10-rokov-praxe-naucilo-o-sk
+ utocnej-agilite
+URL:https://www.kosiceitvalley.sk/events/spoved-agile-coacha-ktory-sa-stal-
+ delivery-managerom-co-ma-10-rokov-praxe-naucilo-o-skutocnej-agilite
+DTSTART;VALUE=DATE:20260924
 END:VEVENT
 BEGIN:VEVENT
 UID:334586f7ba34cb49761a5f4112b36cb3bfc4d0bf@cike-events
@@ -321,6 +321,19 @@ URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
+UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
+DTSTAMP:20250123T002446Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
 DTSTAMP:20250922T105630Z
 CATEGORIES:ITVALLEY
@@ -470,22 +483,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -500,6 +497,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1648,20 +1661,6 @@ DTSTART;VALUE=DATE:20260921
 DTEND;VALUE=DATE:20260926
 END:VEVENT
 BEGIN:VEVENT
-UID:a375312356d91e9b60ee39cced7b03c8bb2cc965@cike-events
-DTSTAMP:20250418T075518Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Scaling in Europe: Climate Tech and the Slovakia Adva
- ntage
-LOCATION:Consulate General of the Slovak Republic in New York\, East 73rd S
- treet 167\, New York
-DESCRIPTION:AmCham Slovakia at NYC Climate Week\n\nhttps://amcham.sk/events
- /3670/scaling-in-europe-climate-tech-and-the-slovakia-advantage
-URL:https://amcham.sk/events/3670/scaling-in-europe-climate-tech-and-the-sl
- ovakia-advantage
-DTSTART;VALUE=DATE:20260925
-END:VEVENT
-BEGIN:VEVENT
 UID:953a81a9cc077d73c16d2e8b9dba2f74df390a6e@cike-events
 DTSTAMP:20250926T134112Z
 CATEGORIES:AMCHAM
@@ -1806,6 +1805,18 @@ URL:https://amcham.sk/events/3720/pay-transparency-from-legal-compliance-to
 DTSTART;VALUE=DATE:20261013
 END:VEVENT
 BEGIN:VEVENT
+UID:fcb9cac97d6591e72d0487a1570d91a953020076@cike-events
+DTSTAMP:20250109T114204Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Early Years Open Day
+LOCATION:The British International School Bratislava\, Pekníkova 6\, Brati
+ slava
+DESCRIPTION:organized by the British International School Bratislava\n\nhtt
+ ps://amcham.sk/events/3722/early-years-open-day
+URL:https://amcham.sk/events/3722/early-years-open-day
+DTSTART;VALUE=DATE:20261014
+END:VEVENT
+BEGIN:VEVENT
 UID:5fbf3f48394e8eab962845fecca2d61aebb85ead@cike-events
 DTSTAMP:20250603T014121Z
 CATEGORIES:AMCHAM
@@ -1901,6 +1912,20 @@ DESCRIPTION:Dream. Dare. Do! Stories That Shine!\n\nhttps://amcham.sk/event
 URL:https://amcham.sk/events/3585/thanksgiving-gala-charity-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:a375312356d91e9b60ee39cced7b03c8bb2cc965@cike-events
+DTSTAMP:20250418T075518Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Scaling in Europe: Climate Tech and the Slovakia Adva
+ ntage
+LOCATION:Consulate General of the Slovak Republic in New York\, East 73rd S
+ treet 167\, New York
+DESCRIPTION:AmCham Slovakia at NYC Climate Week\n\nhttps://amcham.sk/events
+ /3670/scaling-in-europe-climate-tech-and-the-slovakia-advantage
+URL:https://amcham.sk/events/3670/scaling-in-europe-climate-tech-and-the-sl
+ ovakia-advantage
+DTSTART;VALUE=DATE:20260925
 END:VEVENT
 BEGIN:VEVENT
 UID:d8fe1f10da21b46d27dffeed6d264ef0cb803651@cike-events
@@ -2709,20 +2734,6 @@ DTSTART:20260923T220000Z
 DTEND:20260925T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e188a835378f8857e1baf952d5b61666be77b065@cike-events
-DTSTAMP:20250118T183707Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Manažérsky seminár: STRATÉGIA * ĽUDIA * ODOLNOSŤ
-DESCRIPTION:Dvojdňový praktický manažérsky seminár zameraný na strat
- egické riadenie ľudí\, KPI\, AI v HR\, scenárové plánovanie a budova
- nie odolnosti firmy. Účastníci si vytvoria vlastný KPI systém\, scen
- árovú analýzu rizík a konkrétny akčný [...] \\n\n\nhttps://www.sopk
- .sk/event/manazersky-seminar-strategia-ludia-odolnost
-URL:https://www.sopk.sk/event/manazersky-seminar-strategia-ludia-odolnost
-DTSTART:20260923T220000Z
-DTEND:20260925T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:e3c5a131ae7f02fc1f2ee227b76f48facad37b04@cike-events
 DTSTAMP:20250810T161922Z
 CATEGORIES:SOPK
@@ -2745,8 +2756,6 @@ DTSTAMP:20250120T233454Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] Digitálna budúcnosť prichádza do Piešťan: konfere
  ncia o moderných zručnostiach a dvojitej transformácii
-LOCATION:Hotel Esplanade\, Piešťany\, Spa Island\, Kúpeľný ostrov\, Pi
- ešťany\, 921 29
 DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov\, mana
  žérov a odbornú verejnosť na konferenciu Digitálna budúcnosť\, ktor
  á sa uskutoční 29. septembra 2026 v hoteli Esplanade v Piešťanoch. Po
@@ -2887,6 +2896,20 @@ URL:https://www.sopk.sk/event/bezpecna-preprava-nebezpecnych-materialov-v-o
  brannom-priemysle
 DTSTART:20261006T070000Z
 DTEND:20261006T100000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ac320f03b783c783405e1aa7417cc21b54996ed9@cike-events
+DTSTAMP:20251112T040636Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] „Patentové rešerše krok za krokom“
+DESCRIPTION:Dovoľujeme si Vás pozvať na pravidelný webinár o ochrane d
+ uševného vlastníctva. Témou stretnutia je "Patentové rešerše krok z
+ a krokom" . Webinár sa uskutoční 06.10.2026 o 10:00. Webinár bude zam
+ eraný na: význam patentových [...] \\n\n\nhttps://www.sopk.sk/event/pat
+ entove-reserse-krok-za-krokom
+URL:https://www.sopk.sk/event/patentove-reserse-krok-za-krokom
+DTSTART:20261006T080000Z
+DTEND:20261006T090000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:6106bd8a0dae71a2e4aba3ec075906b3b00953b3@cike-events
@@ -4559,343 +4582,5 @@ DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
 URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
 DTSTART:20260706T220000Z
 DTEND:20260729T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:a6cf6c8492c7a924207cd57c0f1e777a945b9e6d@cike-events
-DTSTAMP:20250820T002928Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Využitie VR a herných enginov v umení – KC Továre
- ň
-DESCRIPTION:Workshop predstaví VR a herné enginy ako súčasné nástroje
-  umeleckej tvorby. Na praktických ukážkach sa dozviete\, ako možno v v
- irtuálnych a herných prostrediach vytvárať diela\, identity a zážitk
- y.   VSTUP ZDARMA. Registrujte sa. \\n\n\nhttps://ickk.sk/event/vyuzitie-
- vr-a-hernych-enginov-v-umeni-kc-tovaren
-URL:https://ickk.sk/event/vyuzitie-vr-a-hernych-enginov-v-umeni-kc-tovaren
-DTSTART:20260218T160000Z
-DTEND:20260218T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:a1cb943af4799586e677640d8238671cf94a5aa8@cike-events
-DTSTAMP:20250814T224619Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO so šéfkuchárom Martinom Záhumenským
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na meetupe Odkukaj.To privítame Martina Zahumenského – šé
- fkuchára\, dnes stojaceho za reštauráciou Pappa Mia pri Prešove. Poroz
- práva o svojej ceste a o tom\, ako prináša svetovú gastronómiu na vý
- chod Slovenska. Vstup je zdarma\, potrebné je registrovať sa.\n\nhttps:/
- /ickk.sk/event/odkukaj-to-so-sefkucharom-martinom-zahumenskym
-URL:https://ickk.sk/event/odkukaj-to-so-sefkucharom-martinom-zahumenskym
-DTSTART:20260226T160000Z
-DTEND:20260226T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:afd286ad783f92ff4453622ef733c169588117b3@cike-events
-DTSTAMP:20250125T222925Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Petrom Schmiedlom – CEO Košickej futbal
- ovej arény
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:⚽️ Chceš vidieť do zákulisia KFA? Odkukaj to! Zaujíma 
- ťa\, ako sa riadi moderný futbalový štadión a čo všetko obnáša ma
- nažment v športovom priemysle? Máme pre Teba jedinečnú príležitosť
-  učiť sa od toho najpovolanejšieho! Pozývame Ťa na ďalšie stretnuti
- e zo série ODKUKAJ.TO\, kde bude naším hosťom Peter Schmiedl\, CEO Ko
- šickej Futbalovej Arény. Kedy: 25. marca […] \\n\n\nhttps://ickk.sk/ev
- ent/odkukaj-to-s-petrom-schmiedlom-ceo-kosickej-futbalovej-areny
-URL:https://ickk.sk/event/odkukaj-to-s-petrom-schmiedlom-ceo-kosickej-futba
- lovej-areny
-DTSTART:20260325T160000Z
-DTEND:20260325T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2600e5f55a28bc8851e575ce9ed1886be30a5fb3@cike-events
-DTSTAMP:20250128T151844Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:ODPADNESH: Dizajn\, ktorý mení svet aj osudy ľudí. Zmeňte 
- svoj pohľad na to\, čo je „odpad“\, a objavte silu sociálneho podni
- kania v umení. Pozývame vás do priestorov ICKK na inšpiratívne stretn
- utie s Petrou Nagyovou\, riaditeľkou slovenskej značky ODPADNESH. Toto p
- odujatie nie je len obyčajnou prednáškou – je to pozvánka do sveta\,
-  kde ekológia\, dizajn a […] \\n\n\nhttps://ickk.sk/event/odpadnesh-diz
- ajn-ktory-meni-svet-aj-osudy-ludi
-URL:https://ickk.sk/event/odpadnesh-dizajn-ktory-meni-svet-aj-osudy-ludi
-DTSTART:20260331T150000Z
-DTEND:20260331T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:7688f6d88b68d2ace4e5a1255061752a0ecf8902@cike-events
-DTSTAMP:20250327T060049Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ZRUŠENÉ – Workshop: Ako vzniká herný svet s Matej
- om Hudákom
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Workshop z organizačných dôvodov zrušený. \\n\n\nhttps://i
- ckk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
-URL:https://ickk.sk/event/workshop-ako-vznika-herny-svet-s-matejom-hudakom
-DTSTART:20260414T150000Z
-DTEND:20260414T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:31f3295a99e6e2e075926259f664f9c3fa36547a@cike-events
-DTSTAMP:20250220T183120Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ.TO s Martinom Švenkom – CEO Puella
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Ahojte\, nadšenci inovácií a biznisu! Niekedy stačí jeden 
- dobrý nápad a odvaha zmeniť zabehnuté pravidlá\, aby vznikol medziná
- rodný fenomén. Naším ďalším hosťom v obľúbenej sérii ODKUKAJ.T
- O bude človek\, ktorý presne toto dokázal. Do Košíc prichádza Mart
- in Švenk\, CEO slovenskej lovebrand značky Puella. Prečo by ste si to 
- nemali nechať ujsť? Puella nie je len o voňavej bielizni. Je to […] \
- \n\n\nhttps://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-URL:https://ickk.sk/event/odkukaj-to-s-martinom-svenkom-ceo-puella
-DTSTART:20260429T150000Z
-DTEND:20260429T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:1d45f81c19d93bdcaaad51205b9ec757aa7058bf@cike-events
-DTSTAMP:20250209T063148Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Košický kraj sa mení na centrum inovácií: Prichád
- za historicky prvý Innovation and Tech Week!
-DESCRIPTION:Innovation and Tech Week: Košice sa stávajú epicentrom inov
- ácií Slovensko a špeciálne náš východný región zažije v máji ni
- ečo\, čo tu doteraz nebolo. Inšpirovaní globálnymi technologickými m
- etropolami ako New York či San Francisco\, prinášame koncept Innovation
-  and Tech Week. Od 11. do 15. mája 2026 sa Košice a okolie stanú domovo
- m vizionárov\, technologických gigantov a […] \\n\n\nhttps://ickk.sk/e
- vent/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadza-historicky-prvy-in
- novation-and-tech-week
-URL:https://ickk.sk/event/kosicky-kraj-sa-meni-na-centrum-inovacii-prichadz
- a-historicky-prvy-innovation-and-tech-week
-DTSTART:20260510T220000Z
-DTEND:20260515T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:a09bb768bc445ab12c75ec8fb2160be2182af58f@cike-events
-DTSTAMP:20250730T071247Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop Továreň – Štýlovo aj za málo peňazí: 
- Interiérový refresh
-DESCRIPTION:Pozývame vás na ďalší inšpiratívny workshop v našich pr
- iestoroch\, tentoraz zameraný na interiérový dizajn. 🏡 Štýlovo aj 
- za málo peňazí: Interiérový refresh Našou hostkou a mentorkou bude M
- aryna Šmídt Liehkova\, ktorá vám ukáže\, ako vdýchnuť interiéru n
- ový dych efektívne\, vkusne a hlavne bez zbytočného prievanu v peňaž
- enke. Čo sa na workshope dozviete a naučíte? Rýchle […] \\n\n\nhttps
- ://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interierovy-re
- fresh
-URL:https://ickk.sk/event/workshop-tovaren-stylovo-aj-za-malo-penazi-interi
- erovy-refresh
-DTSTART:20260526T150000Z
-DTEND:20260526T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:100934fd781335321a36724127c5112864514966@cike-events
-DTSTAMP:20250205T012214Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Inovačné raňajky IaaS4DR
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Pozývame vás na Inovačné raňajky venované medzinárodném
- u projektu IaaS4DR (Interreg). Toto neformálne stretnutie organizuje Inov
- ačné centrum Košického kraja (ICKK) v spolupráci s Technickou univerz
- itou v Košiciach (TUKE). Hlavným cieľom podujatia je predstaviť kľú
- čové výstupy a doterajšie pilotné aktivity projektu. Spoločne sa poz
- rieme na overené regionálne prístupy\, zhodnotíme získané skúsenost
- i a otvoríme diskusiu o tom\, čo […] \\n\n\nhttps://ickk.sk/event/inov
- acne-ranajky-iaas4dr
-URL:https://ickk.sk/event/inovacne-ranajky-iaas4dr
-DTSTART:20260529T080000Z
-DTEND:20260529T100000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2b2eb5db2af61b08c600f19349f12984ec9185b4@cike-events
-DTSTAMP:20250701T211413Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Strojárenská Žije 3.0
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
- Pozývame vás na jedinečný komunitný event\, ktorý premení dvor na S
- trojárenskej na živé centrum inovácií\, inšpirácií\, networkingu a
-  spolupráce. Tento rok dávame priestor niečomu hlbšiemu\, predstavíme
-  aktérov\, ktorí na Strojárenskej sídlia a denne formujú jej výnimo
- čný charakter. Prídťe sa presvedčiť o tom\, že nás nespája len sp
- oločná adresa\, […] \\n\n\nhttps://ickk.sk/event/strojarenska-zije-3-0
-URL:https://ickk.sk/event/strojarenska-zije-3-0
-DTSTART:20260625T150000Z
-DTEND:20260625T200000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:12c28608294e940012ba7bdf4e6bb720cd62a1a9@cike-events
-DTSTAMP:20250726T034517Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Level Up: Minecraft\, Roblox a svet programovania
-DESCRIPTION:Továreň workshopy sú po letnej prestávke späť! Chcete ved
- ieť ako môžeme využiť hry\, ktoré deti milujú\, na rozvoj digitáln
- ych\, kreatívnych a programátorských zručností? Workshop predstaví m
- ožnosti moderného digitálneho vzdelávania a ukáže\, že Minecraft č
- i Roblox nemusia byť iba voľnočasovou zábavou\, ale môžu fungovať a
- j ako nástroje na učenie\, tvorivosť\, logické myslenie a prvé kroky 
- k […] \\n\n\nhttps://ickk.sk/event/level-up-minecraft-roblox-a-svet-prog
- ramovania
-URL:https://ickk.sk/event/level-up-minecraft-roblox-a-svet-programovania
-DTSTART:20260916T150000Z
-DTEND:20260916T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:a3c7b8d4dfe66cfc85b4aaaf7247303c132933d7@cike-events
-DTSTAMP:20250401T225638Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #17 – Milo Klíma (HC Košice)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na najbližšom meetupe Odkukaj.To privítame Miloslava Klímu\
- , výkonného riaditeľa HC Košice – lídra\, ktorého príbeh je rovna
- ko napínavý ako hokejový zápas. 🏒 Porozpráva nám o svojej fascinu
- júcej životnej ceste\, ktorá ho priviedla späť domov\, a o tom\, ako 
- sa z medzinárodného manažéra stal líder prinášajúci do HC Košice 
- novú energiu a víziu. 🚀 Príďte si […] \\n\n\nhttps://ickk.sk/even
- t/odkukaj-to-17
-URL:https://ickk.sk/event/odkukaj-to-17
-DTSTART:20250924T150000Z
-DTEND:20250924T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:38ebc77199528e42c8084f2b1eee033de5e2b28b@cike-events
-DTSTAMP:20250213T160817Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop – Od produkcie ku klientovi
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Pozývame vás na filmový workshop! Počas tohto workshopu sa 
- účastníci oboznámia s analýzou klientského zadania\, základmi filmo
- vého jazyka\, princípmi strihovej skladby a simulovaným postprodukčný
- m workflowom štúdia Onomatopoje. Spoločne vytvoríme dočasné filmové
-  štúdio\, v ktorom natočíme krátky spot na základe zadania a priamo 
- na mieste ho „odovzdáme“ fiktívnemu klientovi. Workshop povedie lekt
- or Palko Matia a nebude […] \\n\n\nhttps://ickk.sk/event/workshop-od-pro
- dukcie-ku-klientovi
-URL:https://ickk.sk/event/workshop-od-produkcie-ku-klientovi
-DTSTART:20250930T140000Z
-DTEND:20250930T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:7b9982d6bf687920969a6448d6445104a66e371c@cike-events
-DTSTAMP:20251107T122115Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Animátorský workshop
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
-  tvorby animovaných spotov pre klientov\, predstavenie profesionálnych p
- ostupov a softvéru\, ako aj možnosť vyskúšať si vytvoriť vlastnú j
- ednoduchú animáciu pod vedením lektora Miroslava Feka z firmy Flamigos.
-  Dátum: 22.10.2025 o 16:00 hod. Miesto: Startup Campus\, Strojárenská 
- 3\, Košice VSTUP JE ZDARMA. Potrebné je registrovať sa: \\n\n\nhttps://
- ickk.sk/event/animatorsky-workshop
-URL:https://ickk.sk/event/animatorsky-workshop
-DTSTART:20251022T140000Z
-DTEND:20251022T160000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
-DTSTAMP:20251128T124417Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
- nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
- aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
- ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
-  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
- íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
-  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
-DTSTART:20251029T160000Z
-DTEND:20251029T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
-DTSTAMP:20250928T131957Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
-  mix
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
- járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
- reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
-  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
- ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
- stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
- n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
- -mix
-URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
- ix
-DTSTART:20251113T150000Z
-DTEND:20251113T170000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
-DTSTAMP:20250616T235150Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
-DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
- eet & Salty prichádza DEŇ D – večer\, na ktorom startupy z Košickéh
- o kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od ICKK.
-  Na veľkom pódiu\, pred odbornou porotou a publikom\, odprezentujú svoj
- e Pitch Decky. Programom bude sprevádzať moderátor Matúš Krnčok\, at
- mosféru doplní Ego\, Rudeboys Radio a hudobno-tanečné […] \\n\n\nhtt
- ps://ickk.sk/event/sweet-salty-den-d
-URL:https://ickk.sk/event/sweet-salty-den-d
-DTSTART:20251120T170000Z
-DTEND:20251120T213000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
-DTSTAMP:20251211T031940Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
-DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
- davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
- om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
-  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
- -tokarcik
-URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
-DTSTART:20251127T160000Z
-DTEND:20251127T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
-DTSTAMP:20250820T235055Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ. TO Meetup s MUDr. Veronika Bánoci Magočová\
- , PhD.\, neurochirurgičkou a členkou Forbes 30 pod 30
-LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
-  04001
-DESCRIPTION:🧠 Operuje mozgy\, búra mýty a inovuje medicínu: Príď si
-  „odkukať“ know-how od Veroniky Magočovej! Hovorí sa\, že neurochi
- rurgia je jedna z najťažších disciplín na svete. Pre MUDr. Veroniku 
- Bánoci Magočovú\, PhD.\, členku prestížneho rebríčka Forbes 30 po
- d 30\, je to však každodenná realita. Má na konte stovky úspešných 
- zákrokov a pohľad na inovácie\, ktorý vám vyrazí […] \\n\n\nhttps:
- //ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova-phd-neur
- ochirurgickou-a-clenkou-forbes-30-pod-30
-URL:https://ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova
- -phd-neurochirurgickou-a-clenkou-forbes-30-pod-30
-DTSTART:20260129T160000Z
-DTEND:20260129T180000Z
 END:VEVENT
 END:VCALENDAR
