@@ -67,6 +67,19 @@ URL:https://www.kosiceitvalley.sk/events/business-breakfast
 DTSTART;VALUE=DATE:20261015
 END:VEVENT
 BEGIN:VEVENT
+UID:c799308a42b23d5b5bbf594b6d526fdd01610a2c@cike-events
+DTSTAMP:20250224T220735Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Kvapka krvi – Spojme sa pre dobrú vec
+LOCATION:Letná 45\, 3.poschodie
+DESCRIPTION:Naša komunita má silu pomáhať. Tentoraz sa spojíme pri dar
+ ovaní krvi – pre ľudí\, ktorí ju potrebujú.\n\nhttps://www.kosiceit
+ valley.sk/events/kvapka-krvi-spojme-sa-pre-dobru-vec
+URL:https://www.kosiceitvalley.sk/events/kvapka-krvi-spojme-sa-pre-dobru-ve
+ c
+DTSTART;VALUE=DATE:20261021
+END:VEVENT
+BEGIN:VEVENT
 UID:4d40caa7dbe03758c174789238c9072544e3c1dc@cike-events
 DTSTAMP:20251014T214818Z
 CATEGORIES:ITVALLEY
@@ -204,21 +217,6 @@ URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
 DTSTART;VALUE=DATE:20260625
 END:VEVENT
 BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -232,6 +230,21 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -303,23 +316,6 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
-UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
-DTSTAMP:20250913T094249Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Finále Lab IT Creativity 5
-LOCATION:Košice
-DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
- lógií\, kreativity a inovatívnych riešení. Študentské tímy budú p
- rezentovať projekty\, na ktorých pracovali počas celého školského ro
- ka pod vedením pedagógov a mentorov z praxe. Každá zapojená škola pr
- edstaví jeden finálny projekt\, ktorý odprezentuje pred odbornou hodnot
- iacou komisiou. Tá následne vyberie a ocení najlepšie projekty aktuál
- neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
- tivity-5
-URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -346,6 +342,23 @@ DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
  ocus-groups-buducnost-je-automotive
 URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
  ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
+UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
+DTSTAMP:20250913T094249Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Finále Lab IT Creativity 5
+LOCATION:Košice
+DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
+ lógií\, kreativity a inovatívnych riešení. Študentské tímy budú p
+ rezentovať projekty\, na ktorých pracovali počas celého školského ro
+ ka pod vedením pedagógov a mentorov z praxe. Každá zapojená škola pr
+ edstaví jeden finálny projekt\, ktorý odprezentuje pred odbornou hodnot
+ iacou komisiou. Tá následne vyberie a ocení najlepšie projekty aktuál
+ neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
+ tivity-5
+URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -2643,29 +2656,6 @@ URL:https://amcham.sk/events/3528/employment-of-marginalized-and-long-term-
 DTSTART;VALUE=DATE:20251002
 END:VEVENT
 BEGIN:VEVENT
-UID:353334878e0bcf3b47ccd96d7ac71d66f7a71fb4@cike-events
-DTSTAMP:20250318T193414Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] E-Invoicing in Slovakia – From Law to Practice
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3535/e-invoicing
- -in-slovakia-from-law-to-practice
-URL:https://amcham.sk/events/3535/e-invoicing-in-slovakia-from-law-to-pract
- ice
-DTSTART;VALUE=DATE:20250930
-END:VEVENT
-BEGIN:VEVENT
-UID:bcf9e273e698b75e12513b42306e1de829cba117@cike-events
-DTSTAMP:20250825T051556Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Speed Business Meeting
-LOCATION:Clarion Congress Hotel Bratislava\, Žabotova 2\, Bratislava
-DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3538/spee
- d-business-meeting
-URL:https://amcham.sk/events/3538/speed-business-meeting
-DTSTART;VALUE=DATE:20250929
-END:VEVENT
-BEGIN:VEVENT
 UID:2762250538395d7842d34d91dbc4f0824bc3163d@cike-events
 DTSTAMP:20250611T054207Z
 CATEGORIES:SOPK
@@ -4501,39 +4491,19 @@ DTSTART:20260112T080000Z
 DTEND:20260112T143000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
-DTSTAMP:20251211T031940Z
+UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
+DTSTAMP:20251015T210716Z
 CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
-DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
- davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
- om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
-  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
- -tokarcik
-URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
-DTSTART:20251127T160000Z
-DTEND:20251127T180000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
-DTSTAMP:20250820T235055Z
-CATEGORIES:ICKK
-SUMMARY:🟣 [ICKK] ODKUKAJ. TO Meetup s MUDr. Veronika Bánoci Magočová\
- , PhD.\, neurochirurgičkou a členkou Forbes 30 pod 30
+SUMMARY:🟣 [ICKK] PARK SESSIONS | Tvoj pravidelný letný reset v parku!
 LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
   04001
-DESCRIPTION:🧠 Operuje mozgy\, búra mýty a inovuje medicínu: Príď si
-  „odkukať“ know-how od Veroniky Magočovej! Hovorí sa\, že neurochi
- rurgia je jedna z najťažších disciplín na svete. Pre MUDr. Veroniku 
- Bánoci Magočovú\, PhD.\, členku prestížneho rebríčka Forbes 30 po
- d 30\, je to však každodenná realita. Má na konte stovky úspešných 
- zákrokov a pohľad na inovácie\, ktorý vám vyrazí […] \\n\n\nhttps:
- //ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova-phd-neur
- ochirurgickou-a-clenkou-forbes-30-pod-30
-URL:https://ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova
- -phd-neurochirurgickou-a-clenkou-forbes-30-pod-30
-DTSTART:20260129T160000Z
-DTEND:20260129T180000Z
+DESCRIPTION:Továreň sa sťahuje na čerstvý vzduch a prináša pravideln
+ ú dávku všetkého\, čo k dobrému letu patrí. Vstup na podujatia je z
+ darma a bez registrácie. Zober kamošov a urob si z […] \\n\n\nhttps://
+ ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+URL:https://ickk.sk/event/park-sessions-tvoj-pravidelny-letny-reset-v-parku
+DTSTART:20260706T220000Z
+DTEND:20260729T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:a6cf6c8492c7a924207cd57c0f1e777a945b9e6d@cike-events
@@ -4710,5 +4680,149 @@ DESCRIPTION:Strojárenská Žije 3.0: Podujatie\, kde sa prepája komunita.
 URL:https://ickk.sk/event/strojarenska-zije-3-0
 DTSTART:20260625T150000Z
 DTEND:20260625T200000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:12c28608294e940012ba7bdf4e6bb720cd62a1a9@cike-events
+DTSTAMP:20250726T034517Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Level Up: Minecraft\, Roblox a svet programovania
+DESCRIPTION:Továreň workshopy sú po letnej prestávke späť! Chcete ved
+ ieť ako môžeme využiť hry\, ktoré deti milujú\, na rozvoj digitáln
+ ych\, kreatívnych a programátorských zručností? Workshop predstaví m
+ ožnosti moderného digitálneho vzdelávania a ukáže\, že Minecraft č
+ i Roblox nemusia byť iba voľnočasovou zábavou\, ale môžu fungovať a
+ j ako nástroje na učenie\, tvorivosť\, logické myslenie a prvé kroky 
+ k […] \\n\n\nhttps://ickk.sk/event/level-up-minecraft-roblox-a-svet-prog
+ ramovania
+URL:https://ickk.sk/event/level-up-minecraft-roblox-a-svet-programovania
+DTSTART:20260916T150000Z
+DTEND:20260916T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:38ebc77199528e42c8084f2b1eee033de5e2b28b@cike-events
+DTSTAMP:20250213T160817Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop – Od produkcie ku klientovi
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Pozývame vás na filmový workshop! Počas tohto workshopu sa 
+ účastníci oboznámia s analýzou klientského zadania\, základmi filmo
+ vého jazyka\, princípmi strihovej skladby a simulovaným postprodukčný
+ m workflowom štúdia Onomatopoje. Spoločne vytvoríme dočasné filmové
+  štúdio\, v ktorom natočíme krátky spot na základe zadania a priamo 
+ na mieste ho „odovzdáme“ fiktívnemu klientovi. Workshop povedie lekt
+ or Palko Matia a nebude […] \\n\n\nhttps://ickk.sk/event/workshop-od-pro
+ dukcie-ku-klientovi
+URL:https://ickk.sk/event/workshop-od-produkcie-ku-klientovi
+DTSTART:20250930T140000Z
+DTEND:20250930T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:7b9982d6bf687920969a6448d6445104a66e371c@cike-events
+DTSTAMP:20251107T122115Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Animátorský workshop
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Workshop zameraný na animáciu ponúkne pohľad do zákulisia
+  tvorby animovaných spotov pre klientov\, predstavenie profesionálnych p
+ ostupov a softvéru\, ako aj možnosť vyskúšať si vytvoriť vlastnú j
+ ednoduchú animáciu pod vedením lektora Miroslava Feka z firmy Flamigos.
+  Dátum: 22.10.2025 o 16:00 hod. Miesto: Startup Campus\, Strojárenská 
+ 3\, Košice VSTUP JE ZDARMA. Potrebné je registrovať sa: \\n\n\nhttps://
+ ickk.sk/event/animatorsky-workshop
+URL:https://ickk.sk/event/animatorsky-workshop
+DTSTART:20251022T140000Z
+DTEND:20251022T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:363a32392bdcc196ad89f55efba3c14abff684b1@cike-events
+DTSTAMP:20251128T124417Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To #18 – Natália Selveková (ENVY Klinika)
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Na októbrovom meetupe Odkukaj.to privítame inšpiratívnu pod
+ nikateľku Natáliu Selvekovú – ženu\, ktorá vybudovala sieť renomov
+ aných estetických kliník ENVY a stojí aj za úspešnou značkou profes
+ ionálnej kozmetiky ENVY Therapy. Svoje podnikanie začala už v roku 2008
+  a dnes patrí medzi najvýraznejšie osobnosti v oblasti estetickej medic
+ íny na Slovensku. Ako už býva zvykom\, po rozhovore bude priestor […]
+  \\n\n\nhttps://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+URL:https://ickk.sk/event/odkukaj-to-18-natalia-selvekova-envy-klinika
+DTSTART:20251029T160000Z
+DTEND:20251029T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ad14726807f638e8dc09130d06d3e9b67c7d9f4e@cike-events
+DTSTAMP:20250928T131957Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Workshop: Ako vzniká zvuk – od nahrávky po finálny
+  mix
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:Prvá časť workshopu sa uskutoční v Startup Campuse na Stro
+ járenskej\, kde si povieme\, ako prebieha proces nahrávania podcastov\, 
+ reklamných spotov a hudobných skladieb. Následne sa spolu presunieme do
+  hudobného štúdia v Tabačke\, aby ste si celý proces mohli vyskúša
+ ť naživo a zažiť atmosféru originálneho nahrávacieho prostredia. Zi
+ stíte\, čo všetko ovplyvňuje kvalitu zvuku\, ako prebieha mix […] \\
+ n\n\nhttps://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny
+ -mix
+URL:https://ickk.sk/event/workshop-ako-vznika-zvuk-od-nahravky-po-finalny-m
+ ix
+DTSTART:20251113T150000Z
+DTEND:20251113T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cf320ba5508b6f69b2a978525b521f67152710d9@cike-events
+DTSTAMP:20250616T235150Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Sweet & Salty – DEŇ D
+DESCRIPTION:​Po troch mesiacoch intenzívneho akceleračného programu Sw
+ eet & Salty prichádza DEŇ D – večer\, na ktorom startupy z Košickéh
+ o kraja zabojujú o titul víťaza a finančnú podporu 10.000€ od ICKK.
+  Na veľkom pódiu\, pred odbornou porotou a publikom\, odprezentujú svoj
+ e Pitch Decky. Programom bude sprevádzať moderátor Matúš Krnčok\, at
+ mosféru doplní Ego\, Rudeboys Radio a hudobno-tanečné […] \\n\n\nhtt
+ ps://ickk.sk/event/sweet-salty-den-d
+URL:https://ickk.sk/event/sweet-salty-den-d
+DTSTART:20251120T170000Z
+DTEND:20251120T213000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:036d0f560b38c412129e9a82c0d24022dacfbc41@cike-events
+DTSTAMP:20251211T031940Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] Odkukaj.To – Miroslav Tokarčík
+DESCRIPTION:Na meetupe Odkukaj.To privítame Miroslava Tokarčíka\, CEO vy
+ davateľstva TAKTIK. Porozpráva nám o svojej podnikateľskej ceste a o t
+ om\, ako sa dá budovať moderné vzdelávanie cez kvalitné publikácie a
+  inovácie. Registrácia: \\n\n\nhttps://ickk.sk/event/odkukaj-to-miroslav
+ -tokarcik
+URL:https://ickk.sk/event/odkukaj-to-miroslav-tokarcik
+DTSTART:20251127T160000Z
+DTEND:20251127T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:63ec2c4d7284a53a3f569428e10e4740663c1f7f@cike-events
+DTSTAMP:20250820T235055Z
+CATEGORIES:ICKK
+SUMMARY:🟣 [ICKK] ODKUKAJ. TO Meetup s MUDr. Veronika Bánoci Magočová\
+ , PhD.\, neurochirurgičkou a členkou Forbes 30 pod 30
+LOCATION:Inovačné centrum Košického kraja\, Strojárenská 3\, Kosice\,
+  04001
+DESCRIPTION:🧠 Operuje mozgy\, búra mýty a inovuje medicínu: Príď si
+  „odkukať“ know-how od Veroniky Magočovej! Hovorí sa\, že neurochi
+ rurgia je jedna z najťažších disciplín na svete. Pre MUDr. Veroniku 
+ Bánoci Magočovú\, PhD.\, členku prestížneho rebríčka Forbes 30 po
+ d 30\, je to však každodenná realita. Má na konte stovky úspešných 
+ zákrokov a pohľad na inovácie\, ktorý vám vyrazí […] \\n\n\nhttps:
+ //ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova-phd-neur
+ ochirurgickou-a-clenkou-forbes-30-pod-30
+URL:https://ickk.sk/event/odkukaj-to-meetup-s-mudr-veronika-banoci-magocova
+ -phd-neurochirurgickou-a-clenkou-forbes-30-pod-30
+DTSTART:20260129T160000Z
+DTEND:20260129T180000Z
 END:VEVENT
 END:VCALENDAR
