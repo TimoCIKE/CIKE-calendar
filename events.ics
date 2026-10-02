@@ -6,20 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:e26a58f44a5aac9ab41860719edd88b47523000f@cike-events
-DTSTAMP:20250608T081946Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] DAM: Quality Matters
-LOCATION:Jesenná 5\, 040 01 Košice
-DESCRIPTION:Ako môžu dáta a AI zefektívniť IT služby? Na partnerskom 
- DAM meetupe Robert Kostka z Deutsche Telekom IT Solutions predstaví\, ako
-  analytika\, automatizácia a AI pomáhajú odhaľovať príležitosti na 
- zlepšenie\, zvyšovať kvalitu služieb a uvoľniť potenciál odborníko
- v.\n\nhttps://www.kosiceitvalley.sk/events/dam-quality-matters
-URL:https://www.kosiceitvalley.sk/events/dam-quality-matters
-DTSTART;VALUE=DATE:20261001
-END:VEVENT
-BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
 DTSTAMP:20250123T002446Z
 CATEGORIES:ITVALLEY
@@ -91,6 +77,20 @@ DESCRIPTION:Naša komunita má silu pomáhať. Tentoraz sa spojíme pri dar
 URL:https://www.kosiceitvalley.sk/events/kvapka-krvi-spojme-sa-pre-dobru-ve
  c
 DTSTART;VALUE=DATE:20261021
+END:VEVENT
+BEGIN:VEVENT
+UID:e26a58f44a5aac9ab41860719edd88b47523000f@cike-events
+DTSTAMP:20250608T081946Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] DAM: Quality Matters
+LOCATION:Jesenná 5\, 040 01 Košice
+DESCRIPTION:Ako môžu dáta a AI zefektívniť IT služby? Na partnerskom 
+ DAM meetupe Robert Kostka z Deutsche Telekom IT Solutions predstaví\, ako
+  analytika\, automatizácia a AI pomáhajú odhaľovať príležitosti na 
+ zlepšenie\, zvyšovať kvalitu služieb a uvoľniť potenciál odborníko
+ v.\n\nhttps://www.kosiceitvalley.sk/events/dam-quality-matters
+URL:https://www.kosiceitvalley.sk/events/dam-quality-matters
+DTSTART;VALUE=DATE:20261001
 END:VEVENT
 BEGIN:VEVENT
 UID:4d40caa7dbe03758c174789238c9072544e3c1dc@cike-events
@@ -329,6 +329,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
 DTSTAMP:20250913T094249Z
 CATEGORIES:ITVALLEY
@@ -343,22 +359,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -995,6 +995,22 @@ URL:https://www.kosiceitvalley.sk/events/fail-fast-grow-smart
 DTSTART;VALUE=DATE:20251027
 END:VEVENT
 BEGIN:VEVENT
+UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
+DTSTAMP:20250725T223408Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
+ systémy
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
+ na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
+ osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
+ Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
+ o-stavat-a-spravovat-ai-systemy
+URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
+ spravovat-ai-systemy
+DTSTART;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
 UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
 DTSTAMP:20251203T163550Z
 CATEGORIES:ITVALLEY
@@ -1009,22 +1025,6 @@ DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
  ntrepreneurship-as-a-possibility-for-data-analysts
 URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
  ity-for-data-analysts
-DTSTART;VALUE=DATE:20251022
-END:VEVENT
-BEGIN:VEVENT
-UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
-DTSTAMP:20250725T223408Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
- systémy
-LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
-DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
- na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
- osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
- Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
- o-stavat-a-spravovat-ai-systemy
-URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
- spravovat-ai-systemy
 DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
@@ -2665,20 +2665,6 @@ URL:https://amcham.sk/events/3523/welcome-back-to-work-in-kosice
 DTSTART;VALUE=DATE:20251002
 END:VEVENT
 BEGIN:VEVENT
-UID:512c70a3921fa9b35a191825d1b69d2ce30c74ac@cike-events
-DTSTAMP:20251010T154713Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Employment of Marginalized and Long-term Unemployed G
- roups
-LOCATION:Univerzitný vedecký park TECHNICOM\, Boženy Němcovej 5\, Koši
- ce
-DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3528/employment
- -of-marginalized-and-long-term-unemployed-groups
-URL:https://amcham.sk/events/3528/employment-of-marginalized-and-long-term-
- unemployed-groups
-DTSTART;VALUE=DATE:20251002
-END:VEVENT
-BEGIN:VEVENT
 UID:2762250538395d7842d34d91dbc4f0824bc3163d@cike-events
 DTSTAMP:20250611T054207Z
 CATEGORIES:SOPK
@@ -2708,20 +2694,6 @@ DESCRIPTION:Pozývame na podujatie  vzdelávacieho programu GlaCerHub s n
 URL:https://www.sopk.sk/event/glacerhub-ipr
 DTSTART:20260929T220000Z
 DTEND:20261002T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:b429db8a7146bc88317204468926d887918a3aba@cike-events
-DTSTAMP:20250215T035224Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: Manažment zmeny
-DESCRIPTION:Pozývame Vás na vzdelávací webinár Manažment zmeny\, ktor
- ý Vám poskytne praktické nástroje a stratégie na úspešné zvládani
- e organizačných aj osobných zmien. Dátum a čas: 1.10.2026 v čase 9:0
- 0 - 14:00 Forma: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-manazment-
- zmeny
-URL:https://www.sopk.sk/event/webinar-manazment-zmeny
-DTSTART:20261001T070000Z
-DTEND:20261001T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:c38a41476e5a636963f96e701f8ff281fe3c0ca7@cike-events
@@ -3060,6 +3032,22 @@ DTSTART:20261021T220000Z
 DTEND:20261022T215959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:021b9cc15e76a2b4efa2377dcc8cfd3d5a986582@cike-events
+DTSTAMP:20250111T061446Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Seminár: ŠIKANOVANIE NA ŠKOLÁCH
+LOCATION:Zasadačka Žilinskej regionálnej komory SOPK\, Hálkova 31\, Ži
+ lina\, 01001
+DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na odborný sem
+ inár: ŠIKANOVANIE NA ŠKOLÁCH Dátum a miesto: 22.10.2026\, Žilinská 
+ RK SOPK\, Hálkova 31\, Žilina Seminár je určený pre: riaditeľov SOŠ
+ \, ich zástupcov\, výchovných [...] \\n\n\nhttps://www.sopk.sk/event/se
+ minar-sikanovanie-na-skolach
+URL:https://www.sopk.sk/event/seminar-sikanovanie-na-skolach
+DTSTART:20261022T070000Z
+DTEND:20261022T130000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:63e43a082e18cbdfac84db0b79b5d56b87fc831f@cike-events
 DTSTAMP:20250217T023851Z
 CATEGORIES:SOPK
@@ -3161,23 +3149,6 @@ URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
  ny-zaujem-firiem
 DTSTART:20270512T060000Z
 DTEND:20270515T150000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:92ca8e25ea9cd5d694b87da14e1560cadfa8196c@cike-events
-DTSTAMP:20250817T010536Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Deň otvorených dverí v ADRIAN GROUP prepojí odborn
- é témy s inováciami v praxi
-LOCATION:ADRIAN GROUP s.r.o.\, Lazovná 53\, Banská Bystrica\, 974 01
-DESCRIPTION:Banskobystrická regionálna komora SOPK pozýva širokú odbor
- nú a podnikateľskú verejnosť na Deň otvorených dverí našej člensk
- ej spoločnosti ADRIAN GROUP s. r. o. Podujatie sa uskutoční vo štvrtok
-  16. júla 2026 od [...] \\n\n\nhttps://www.sopk.sk/event/den-otvorenych-d
- veri-v-adrian-group-prepoji-odborne-temy-s-inovaciami-v-praxi
-URL:https://www.sopk.sk/event/den-otvorenych-dveri-v-adrian-group-prepoji-o
- dborne-temy-s-inovaciami-v-praxi
-DTSTART:20260715T220000Z
-DTEND:20260716T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:89bb902713651a33b149d283d756095a9148a3c6@cike-events
@@ -3354,22 +3325,18 @@ DTSTART:20260930T080000Z
 DTEND:20260930T110000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:421d6e6fe272a4c6c6bfcf3b4a5fe9756e9ccd4f@cike-events
-DTSTAMP:20250510T191149Z
+UID:b429db8a7146bc88317204468926d887918a3aba@cike-events
+DTSTAMP:20250215T035224Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] ONLINE podujatie!! PRIPRAVENÍ NA SPOTREBITEĽSKÉ PRÁ
- VO NEXT (CONSUMER LAW READY NEXT)
-LOCATION:Online
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so  S
- poločnosťou ochrany spotrebiteľov Vás pozývajú na odborné školenie
- : PRIPRAVENÍ NA SPOTREBITEĽSKÉ PRÁVO NEXT (CONSUMER LAW READY NEXT) Sp
- otrebiteľské právo chráni nakupujúcich ako slabšiu [...] \\n\n\nhttp
- s://www.sopk.sk/event/pripraveni-na-spotrebitelske-pravo-next-consumer-law
- -ready-next
-URL:https://www.sopk.sk/event/pripraveni-na-spotrebitelske-pravo-next-consu
- mer-law-ready-next
-DTSTART:20260609T070000Z
-DTEND:20260609T123000Z
+SUMMARY:🟧 [SOPK] Webinár: Manažment zmeny
+DESCRIPTION:Pozývame Vás na vzdelávací webinár Manažment zmeny\, ktor
+ ý Vám poskytne praktické nástroje a stratégie na úspešné zvládani
+ e organizačných aj osobných zmien. Dátum a čas: 1.10.2026 v čase 9:0
+ 0 - 14:00 Forma: [...] \\n\n\nhttps://www.sopk.sk/event/webinar-manazment-
+ zmeny
+URL:https://www.sopk.sk/event/webinar-manazment-zmeny
+DTSTART:20261001T070000Z
+DTEND:20261001T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cd6e98f0fb860d159b785f995a1b41094e04eb08@cike-events
@@ -3535,22 +3502,21 @@ DTSTART:20260630T220000Z
 DTEND:20260702T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:494884461e94e53438450b90935540c28d512420@cike-events
-DTSTAMP:20251007T154008Z
+UID:92ca8e25ea9cd5d694b87da14e1560cadfa8196c@cike-events
+DTSTAMP:20250817T010536Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] POZOR ZMENA: Fórum digitálnej transformácie – podp
- oríme Vaše zmeny našimi projektami
-LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
-DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digi
- tálnou koalíciou Vás pozývajú na workshop: "Fórum digitálnej transf
- ormácie – podporíme Vaše zmeny našimi projektami". Digitálna koalí
- cia je národná iniciatíva\, ktorá bola založená [...] \\n\n\nhttps:/
- /www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase-zmeny-nas
- imi-projektami
-URL:https://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase
- -zmeny-nasimi-projektami
-DTSTART:20260520T080000Z
-DTEND:20260520T120000Z
+SUMMARY:🟧 [SOPK] Deň otvorených dverí v ADRIAN GROUP prepojí odborn
+ é témy s inováciami v praxi
+LOCATION:ADRIAN GROUP s.r.o.\, Lazovná 53\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK pozýva širokú odbor
+ nú a podnikateľskú verejnosť na Deň otvorených dverí našej člensk
+ ej spoločnosti ADRIAN GROUP s. r. o. Podujatie sa uskutoční vo štvrtok
+  16. júla 2026 od [...] \\n\n\nhttps://www.sopk.sk/event/den-otvorenych-d
+ veri-v-adrian-group-prepoji-odborne-temy-s-inovaciami-v-praxi
+URL:https://www.sopk.sk/event/den-otvorenych-dveri-v-adrian-group-prepoji-o
+ dborne-temy-s-inovaciami-v-praxi
+DTSTART:20260715T220000Z
+DTEND:20260716T215959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:3b22ab26d09e799fb6c66259e2a49e506b31e983@cike-events
@@ -3718,21 +3684,22 @@ DTSTART:20260609T060000Z
 DTEND:20260610T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:20323f341ddd53b1feb01e5c0798b9fc4f6f9a51@cike-events
-DTSTAMP:20250126T080447Z
+UID:421d6e6fe272a4c6c6bfcf3b4a5fe9756e9ccd4f@cike-events
+DTSTAMP:20250510T191149Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Connect2Slovenia 2026: Metal&Plastic
-DESCRIPTION:Pozývame vás na kooperačné podujatie Connect2Slovenia: Met
- al & Plastic\, ktoré sa uskutoční v rámci medzinárodného priemyseln
- ého veľtrhu v odvetví spracovania kovov a plastov. Dátum konania: 1
- 5. apríl 2026 Miesto konania: Celje\, Slovinsko Registrácia: https://w
- ww.b2match.com/e/connect2slovenia-2026-metal-plastic/sign-up/create-accoun
- t Web stránka podujatia: https://www.b2match.com/e/connect2slovenia-2026
- -metal-plastic/components/65360 Podujatie [...] \\n\n\nhttps://www.sopk.sk
- /event/connect2slovenia-2026-metalplastic
-URL:https://www.sopk.sk/event/connect2slovenia-2026-metalplastic
-DTSTART:20260415T070000Z
-DTEND:20260415T140000Z
+SUMMARY:🟧 [SOPK] ONLINE podujatie!! PRIPRAVENÍ NA SPOTREBITEĽSKÉ PRÁ
+ VO NEXT (CONSUMER LAW READY NEXT)
+LOCATION:Online
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci so  S
+ poločnosťou ochrany spotrebiteľov Vás pozývajú na odborné školenie
+ : PRIPRAVENÍ NA SPOTREBITEĽSKÉ PRÁVO NEXT (CONSUMER LAW READY NEXT) Sp
+ otrebiteľské právo chráni nakupujúcich ako slabšiu [...] \\n\n\nhttp
+ s://www.sopk.sk/event/pripraveni-na-spotrebitelske-pravo-next-consumer-law
+ -ready-next
+URL:https://www.sopk.sk/event/pripraveni-na-spotrebitelske-pravo-next-consu
+ mer-law-ready-next
+DTSTART:20260609T070000Z
+DTEND:20260609T123000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2cc284f36f85feff103790c8b179dd2b1836ae57@cike-events
@@ -3905,21 +3872,22 @@ DTSTART:20260520T070000Z
 DTEND:20260520T110000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:9b234ccd2295c543fa4927127ac1c410f21bb6ba@cike-events
-DTSTAMP:20250911T104541Z
+UID:494884461e94e53438450b90935540c28d512420@cike-events
+DTSTAMP:20251007T154008Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: Prečo sa súdiť\, keď sa viete dohodnúť?
-  Ako riešiť firemné konflikty a nezaplatené faktúry pomocou mediácie
-DESCRIPTION:V spolupráci s Mediačným centrom MEANA\, s.r.o. Vás pozýva
- me na Webinár: Prečo sa súdiť\, keď sa viete dohodnúť? Ako riešiť
-  firemné konflikty a nezaplatené faktúry pomocou mediácie Dátum a ča
- s: 16.marec [...] \\n\n\nhttps://www.sopk.sk/event/webinar-preco-sa-sudit-
- ked-sa-viete-dohodnut-ako-riesit-firemne-konflikty-a-nezaplatene-faktury-p
- omocou-mediacie
-URL:https://www.sopk.sk/event/webinar-preco-sa-sudit-ked-sa-viete-dohodnut-
- ako-riesit-firemne-konflikty-a-nezaplatene-faktury-pomocou-mediacie
-DTSTART:20260316T123000Z
-DTEND:20260316T140000Z
+SUMMARY:🟧 [SOPK] POZOR ZMENA: Fórum digitálnej transformácie – podp
+ oríme Vaše zmeny našimi projektami
+LOCATION:Prešovská regionálna komora\, Vajanského 10\, Prešov\, 080 01
+DESCRIPTION:Slovenská obchodná a priemyselná komora v spolupráci s Digi
+ tálnou koalíciou Vás pozývajú na workshop: "Fórum digitálnej transf
+ ormácie – podporíme Vaše zmeny našimi projektami". Digitálna koalí
+ cia je národná iniciatíva\, ktorá bola založená [...] \\n\n\nhttps:/
+ /www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase-zmeny-nas
+ imi-projektami
+URL:https://www.sopk.sk/event/forum-digitalnej-transformacie-podporime-vase
+ -zmeny-nasimi-projektami
+DTSTART:20260520T080000Z
+DTEND:20260520T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:2e8ef862cd9e198f65a6ef8c9d7f5f7718e23645@cike-events
@@ -4094,21 +4062,21 @@ DTSTART:20260410T110000Z
 DTEND:20260410T120000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:ef59bd99ec2a96d016b8f487928063e81376dccb@cike-events
-DTSTAMP:20250517T142358Z
+UID:20323f341ddd53b1feb01e5c0798b9fc4f6f9a51@cike-events
+DTSTAMP:20250126T080447Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Delegačná cesta na tému „Systémy skladovania ener
- gie“ 13.-16. apríla 2026 v Berlíne.
-DESCRIPTION:Program delegácie Berlín 2026 Slovensko-nemecká obchodná a 
- priemyselná komora (AHK Slowakei) v spolupráci s Bratislavskou regionál
- nou komorou Vás pozýva na delegačnú cestu na tému „Systémy skladov
- ania energie“\, ktorá sa uskutoční v [...] \\n\n\nhttps://www.sopk.sk
- /event/delegacna-cesta-na-temu-systemy-skladovania-energie-13-16-aprila-20
- 26-v-berline
-URL:https://www.sopk.sk/event/delegacna-cesta-na-temu-systemy-skladovania-e
- nergie-13-16-aprila-2026-v-berline
-DTSTART:20260126T070000Z
-DTEND:20260218T160000Z
+SUMMARY:🟧 [SOPK] Connect2Slovenia 2026: Metal&Plastic
+DESCRIPTION:Pozývame vás na kooperačné podujatie Connect2Slovenia: Met
+ al & Plastic\, ktoré sa uskutoční v rámci medzinárodného priemyseln
+ ého veľtrhu v odvetví spracovania kovov a plastov. Dátum konania: 1
+ 5. apríl 2026 Miesto konania: Celje\, Slovinsko Registrácia: https://w
+ ww.b2match.com/e/connect2slovenia-2026-metal-plastic/sign-up/create-accoun
+ t Web stránka podujatia: https://www.b2match.com/e/connect2slovenia-2026
+ -metal-plastic/components/65360 Podujatie [...] \\n\n\nhttps://www.sopk.sk
+ /event/connect2slovenia-2026-metalplastic
+URL:https://www.sopk.sk/event/connect2slovenia-2026-metalplastic
+DTSTART:20260415T070000Z
+DTEND:20260415T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:5f8d8192b622099498e00721d3f4548370040ea6@cike-events
@@ -4281,18 +4249,21 @@ DTSTART:20260312T080000Z
 DTEND:20260314T140000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:b5233f258a3caa28f709c822a574b11ba08099ba@cike-events
-DTSTAMP:20250325T151048Z
+UID:9b234ccd2295c543fa4927127ac1c410f21bb6ba@cike-events
+DTSTAMP:20250911T104541Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Pozvánka: Stretnutie trebišovského ekosystému
-DESCRIPTION:Košická regionálna komora SOPK a primátor mesta Trebišov o
- rganizujú pracovno-priateľské stretnutie lídrov regiónu – primátor
- ov\, starostov\, podnikateľov a škôl. Dátum a čas: 25. 11. 2025 o 13:
- 00 Miesto:  Mestský úrad Trebišov\, [...] \\n\n\nhttps://www.sopk.sk/e
- vent/pozvanka-stretnutie-trebisovskeho-ekosystemu
-URL:https://www.sopk.sk/event/pozvanka-stretnutie-trebisovskeho-ekosystemu
-DTSTART:20251125T120000Z
-DTEND:20251125T140000Z
+SUMMARY:🟧 [SOPK] Webinár: Prečo sa súdiť\, keď sa viete dohodnúť?
+  Ako riešiť firemné konflikty a nezaplatené faktúry pomocou mediácie
+DESCRIPTION:V spolupráci s Mediačným centrom MEANA\, s.r.o. Vás pozýva
+ me na Webinár: Prečo sa súdiť\, keď sa viete dohodnúť? Ako riešiť
+  firemné konflikty a nezaplatené faktúry pomocou mediácie Dátum a ča
+ s: 16.marec [...] \\n\n\nhttps://www.sopk.sk/event/webinar-preco-sa-sudit-
+ ked-sa-viete-dohodnut-ako-riesit-firemne-konflikty-a-nezaplatene-faktury-p
+ omocou-mediacie
+URL:https://www.sopk.sk/event/webinar-preco-sa-sudit-ked-sa-viete-dohodnut-
+ ako-riesit-firemne-konflikty-a-nezaplatene-faktury-pomocou-mediacie
+DTSTART:20260316T123000Z
+DTEND:20260316T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:cfd014a38fe494a9abc1b0950862af9477e05937@cike-events
@@ -4461,5 +4432,22 @@ URL:https://www.sopk.sk/event/kyberneticka-bezpecnost-vyzva-pre-firmy-a-ver
  ejnu-spravu
 DTSTART:20260121T230000Z
 DTEND:20260123T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ef59bd99ec2a96d016b8f487928063e81376dccb@cike-events
+DTSTAMP:20250517T142358Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Delegačná cesta na tému „Systémy skladovania ener
+ gie“ 13.-16. apríla 2026 v Berlíne.
+DESCRIPTION:Program delegácie Berlín 2026 Slovensko-nemecká obchodná a 
+ priemyselná komora (AHK Slowakei) v spolupráci s Bratislavskou regionál
+ nou komorou Vás pozýva na delegačnú cestu na tému „Systémy skladov
+ ania energie“\, ktorá sa uskutoční v [...] \\n\n\nhttps://www.sopk.sk
+ /event/delegacna-cesta-na-temu-systemy-skladovania-energie-13-16-aprila-20
+ 26-v-berline
+URL:https://www.sopk.sk/event/delegacna-cesta-na-temu-systemy-skladovania-e
+ nergie-13-16-aprila-2026-v-berline
+DTSTART:20260126T070000Z
+DTEND:20260218T160000Z
 END:VEVENT
 END:VCALENDAR
