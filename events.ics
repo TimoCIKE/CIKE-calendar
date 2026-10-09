@@ -6,22 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:e1d7237cceca7fc7841e3ebd0241a73b3681eb63@cike-events
-DTSTAMP:20250805T215605Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Konferencia Líderky 2026
-LOCATION:Hotel Yasmin\, Košice
-DESCRIPTION:Dlhodobo pracujeme s témami rozvoja talentu\, vzdelávania\, i
- novácií a budovania technologickej komunity. Súčasťou tejto práce je
-  pre nás aj vytváranie prostredia\, v ktorom majú ženy priestor vstupo
- vať do technológií\, budovať kariéru\, podnikať\, viesť tímy\, zak
- ladať firmy a podieľať sa na rozhodnutiach\, ktoré formujú budúcnos
- ť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/liderky-2026
-URL:https://www.kosiceitvalley.sk/events/liderky-2026
-DTSTART;VALUE=DATE:20261008
-DTEND;VALUE=DATE:20261010
-END:VEVENT
-BEGIN:VEVENT
 UID:40aeeed97e71d9979b79b13b92abf79352c06d87@cike-events
 DTSTAMP:20250531T010006Z
 CATEGORIES:ITVALLEY
@@ -81,6 +65,22 @@ DESCRIPTION:Navštívte Industry 4.0 Showroom Mitsubishi Electric v Krakove
 URL:https://www.kosiceitvalley.sk/events/industry-4-0-showroom-mitsubishi-e
  lectric-inovacie-automatizacia-a-buducnost-priemyslu
 DTSTART;VALUE=DATE:20261124
+END:VEVENT
+BEGIN:VEVENT
+UID:e1d7237cceca7fc7841e3ebd0241a73b3681eb63@cike-events
+DTSTAMP:20250805T215605Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Konferencia Líderky 2026
+LOCATION:Hotel Yasmin\, Košice
+DESCRIPTION:Dlhodobo pracujeme s témami rozvoja talentu\, vzdelávania\, i
+ novácií a budovania technologickej komunity. Súčasťou tejto práce je
+  pre nás aj vytváranie prostredia\, v ktorom majú ženy priestor vstupo
+ vať do technológií\, budovať kariéru\, podnikať\, viesť tímy\, zak
+ ladať firmy a podieľať sa na rozhodnutiach\, ktoré formujú budúcnos
+ ť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/liderky-2026
+URL:https://www.kosiceitvalley.sk/events/liderky-2026
+DTSTART;VALUE=DATE:20261008
+DTEND;VALUE=DATE:20261010
 END:VEVENT
 BEGIN:VEVENT
 UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
@@ -346,6 +346,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
 DTSTAMP:20250913T094249Z
 CATEGORIES:ITVALLEY
@@ -360,22 +376,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -1678,41 +1678,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:8d9086fa57c43b3337012411cbc6934d0d3b2ba1@cike-events
-DTSTAMP:20250915T044307Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Equal Pay Day Slovakia
-LOCATION:Moyzesova sieň\, Bratislava
-DESCRIPTION:organized by Akčné ženy\n\nhttps://amcham.sk/events/3719/equ
- al-pay-day-slovakia
-URL:https://amcham.sk/events/3719/equal-pay-day-slovakia
-DTSTART;VALUE=DATE:20261008
-END:VEVENT
-BEGIN:VEVENT
-UID:1fec612585e85d2fbc95d2d08f9c41873ac3ba81@cike-events
-DTSTAMP:20250618T071757Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Business Ladies Day
-LOCATION:PenatiClub\, Agátová 33\, Bratislava
-DESCRIPTION:14th year of a unique event intended especially for women who w
- ork in the business environment\n\nhttps://amcham.sk/events/3714/business-
- ladies-day
-URL:https://amcham.sk/events/3714/business-ladies-day
-DTSTART;VALUE=DATE:20261008
-END:VEVENT
-BEGIN:VEVENT
-UID:ba502ddb87701b08addc721df6bf7805c0648bad@cike-events
-DTSTAMP:20250912T002701Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Welcome Back to Work in Košice
-LOCATION:Dom umenia - Štátna filharmónia Košice\, Moyzesova 66\, Košic
- e
-DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3673/welcome-back
- -to-work-in-kosice
-URL:https://amcham.sk/events/3673/welcome-back-to-work-in-kosice
-DTSTART;VALUE=DATE:20261008
-END:VEVENT
-BEGIN:VEVENT
 UID:8857bb32cb708a4fa84006db34a3b222be359ba9@cike-events
 DTSTAMP:20250510T112142Z
 CATEGORIES:AMCHAM
@@ -1892,6 +1857,30 @@ DESCRIPTION:Dream. Dare. Do! Stories That Shine!\n\nhttps://amcham.sk/event
 URL:https://amcham.sk/events/3585/thanksgiving-gala-charity-dinner
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261129
+END:VEVENT
+BEGIN:VEVENT
+UID:ba502ddb87701b08addc721df6bf7805c0648bad@cike-events
+DTSTAMP:20250912T002701Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Welcome Back to Work in Košice
+LOCATION:Dom umenia - Štátna filharmónia Košice\, Moyzesova 66\, Košic
+ e
+DESCRIPTION:Business Cocktail\n\nhttps://amcham.sk/events/3673/welcome-back
+ -to-work-in-kosice
+URL:https://amcham.sk/events/3673/welcome-back-to-work-in-kosice
+DTSTART;VALUE=DATE:20261008
+END:VEVENT
+BEGIN:VEVENT
+UID:1fec612585e85d2fbc95d2d08f9c41873ac3ba81@cike-events
+DTSTAMP:20250618T071757Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Business Ladies Day
+LOCATION:PenatiClub\, Agátová 33\, Bratislava
+DESCRIPTION:14th year of a unique event intended especially for women who w
+ ork in the business environment\n\nhttps://amcham.sk/events/3714/business-
+ ladies-day
+URL:https://amcham.sk/events/3714/business-ladies-day
+DTSTART;VALUE=DATE:20261008
 END:VEVENT
 BEGIN:VEVENT
 UID:e49e75c8a9ce12abee65b346ec7df2eaf4208a68@cike-events
@@ -2686,21 +2675,6 @@ DTSTART:20261004T220000Z
 DTEND:20261016T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:dc6072a6f25f61bc8bb24d20d63194e4273b7bbd@cike-events
-DTSTAMP:20250606T071849Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] KONTAKT- KONTRAKT a MSV Brno
-LOCATION:Veltrhy Brno\, Výstaviště 405/1\, Brno
-DESCRIPTION:Kontakt-Kontrakt MSV 2026 – získajte nové obchodné kontakt
- y v Brne Trenčianska regionálna komora SOPK pozýva slovenské firmy na 
- medzinárodné B2B rokovania Kontakt-Kontrakt MSV 2026\, ktoré sa uskuto
- čnia 6. – 9. októbra 2026 [...] \\n\n\nhttps://www.sopk.sk/event/kont
- akt-kontrakt-a-msv-brno
-URL:https://www.sopk.sk/event/kontakt-kontrakt-a-msv-brno
-DTSTART:20261005T220000Z
-DTEND:20261009T215959Z
-END:VEVENT
-BEGIN:VEVENT
 UID:6106bd8a0dae71a2e4aba3ec075906b3b00953b3@cike-events
 DTSTAMP:20250109T121220Z
 CATEGORIES:SOPK
@@ -2716,34 +2690,6 @@ URL:https://www.sopk.sk/event/environtec-powered-by-okoindustria-2026-b2b-e
  vent
 DTSTART:20261006T220000Z
 DTEND:20261009T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:4773de5cd27ef18def219935594a0edbe8203fa3@cike-events
-DTSTAMP:20250811T194201Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] workshop – program budovania kapacít LEADER-CE
-DESCRIPTION:Pozývame Vás zapojiť sa do programu budovania kapacít proje
- ktu LEADER-CE Projekt LEADER-CE podporuje digitálnu transformáciu organi
- zácií sociálnej ekonomiky vo vidieckych oblastiach strednej Európy. Ke
- ďže tieto regióny majú svoje špecifiká\, pripravili sme [...] \\n\n\
- nhttps://www.sopk.sk/event/workshop-digitalna-transformacia
-URL:https://www.sopk.sk/event/workshop-digitalna-transformacia
-DTSTART:20261007T220000Z
-DTEND:20261008T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:1f46999267e387d67cdcaa0060abaaff1af55311@cike-events
-DTSTAMP:20250313T043247Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: Riadenie času
-DESCRIPTION:Pozývame Vás na praktický webinár Riadenie času\, ktorý V
- ám poskytne efektívne nástroje na zníženie stresu\, elimináciu časo
- vých strát a vybudovanie dlhodobých produktívnych návykov. Dátum a 
- čas: 8. 10. 2026 v čase [...] \\n\n\nhttps://www.sopk.sk/event/webinar-r
- iadenie-casu
-URL:https://www.sopk.sk/event/webinar-riadenie-casu
-DTSTART:20261008T070000Z
-DTEND:20261008T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:669c0ef836250bd631d77f863fb7fbd9b8959c7d@cike-events
@@ -2806,23 +2752,6 @@ URL:https://www.sopk.sk/event/prezentujte-svoju-firmu-na-africa-commerce-an
  d-industry-summit-2026-v-kenskom-nairobi
 DTSTART:20261013T220000Z
 DTEND:20261016T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:f072f5608d709e344e3df6d0dba27547d4e18ede@cike-events
-DTSTAMP:20250318T161128Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Biznis klub SOPK : Umenie akvizície – od prvého kon
- taktu až po stretnutie
-DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov\, obcho
- dníkov a vedúcich obchodných tímov na ďalšie stretnutie v rámci Biz
- nis klubu podnikateľov. Tentokrát sa zameriame na jednu z najdôležitej
- ších tém obchodného rastu – akvizíciu [...] \\n\n\nhttps://www.sopk
- .sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-kontaktu-az-po-stret
- nutie
-URL:https://www.sopk.sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-k
- ontaktu-az-po-stretnutie
-DTSTART:20261015T080000Z
-DTEND:20261015T120000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:691166b808e3c53ea484f4258b1b5af99f5bb4d3@cike-events
@@ -2987,6 +2916,22 @@ DTSTART:20261022T080000Z
 DTEND:20261022T110000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:423837c674aac5426b71c787034f1afadb6d2620@cike-events
+DTSTAMP:20250326T170509Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: DUAL USE Kontrola vývozu položiek s dvojak
+ ým použitím
+DESCRIPTION:Cieľ školenia: venuje sa položkám s dvojakým použitím\, 
+ ktorými sú tovar\, vrátane softvéru a technológie\, ktoré možno pou
+ žiť ako na civilné\, tak na vojenské účely. EÚ kontroluje vývoz\, 
+ tranzit\, sprostredkovateľské služby [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/webinar-dual-use-kontrola-vyvozu-poloziek-s-dvojakym-pouzitim
+URL:https://www.sopk.sk/event/webinar-dual-use-kontrola-vyvozu-poloziek-s-d
+ vojakym-pouzitim
+DTSTART:20261027T080000Z
+DTEND:20261027T140000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:bf97c6e76b49a6b858bc6b5cf492e8689d3c9d96@cike-events
 DTSTAMP:20250103T105759Z
 CATEGORIES:SOPK
@@ -3036,6 +2981,23 @@ DTSTART:20261029T080000Z
 DTEND:20261029T110000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:604a4e78604aa69eb03b40ea480f9ab3a085793b@cike-events
+DTSTAMP:20251103T141800Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Biznis klub SOPK : Umenie akvizície – od prvého kon
+ taktu až po stretnutie-duplicate-1
+DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov\, obcho
+ dníkov a vedúcich obchodných tímov na ďalšie stretnutie v rámci Biz
+ nis klubu podnikateľov. Tentokrát sa zameriame na jednu z najdôležitej
+ ších tém obchodného rastu – akvizíciu [...] \\n\n\nhttps://www.sopk
+ .sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-kontaktu-az-po-stret
+ nutie-duplicate-1-2
+URL:https://www.sopk.sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-k
+ ontaktu-az-po-stretnutie-duplicate-1-2
+DTSTART:20261103T090000Z
+DTEND:20261103T130000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:3d33507a2f2667f4061d4180090c8bd655c7fcb5@cike-events
 DTSTAMP:20250629T020424Z
 CATEGORIES:SOPK
@@ -3056,6 +3018,27 @@ DTSTART:20261110T090000Z
 DTEND:20261110T140000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:3402aed230b9983bec48f7b362cefae03e2264de@cike-events
+DTSTAMP:20250131T160617Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Duálne technológie\, licencie a exportná kontrola bu
+ dú témou odborného seminára ZBOP SR a Sekcie výrobcov obranného prie
+ myslu SR SOPK
+LOCATION:Hotel Senec Aqua Resort\, Slnečné jazerá 1 – sever\, Senec\, 
+ 90301
+DESCRIPTION:Združenie bezpečnostného a obranného priemyslu Slovenskej r
+ epubliky (ZBOP SR) v spolupráci so Sekciou výrobcov obranného priemyslu
+  SR SOPK (SVOP SR SOPK) pripravuje odborný seminár „DUÁLNE TECHNOLÓG
+ IE: LICENCIE A EXPORTNÁ KONTROLA – [...] \\n\n\nhttps://www.sopk.sk/eve
+ nt/dualne-technologie-licencie-a-exportna-kontrola-budu-temou-odborneho-se
+ minara-zbop-sr-a-sekcie-vyrobcov-obranneho-priemyslu-sr-sopk
+URL:https://www.sopk.sk/event/dualne-technologie-licencie-a-exportna-kontro
+ la-budu-temou-odborneho-seminara-zbop-sr-a-sekcie-vyrobcov-obranneho-priem
+ yslu-sr-sopk
+DTSTART:20261118T090000Z
+DTEND:20261118T140000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
 DTSTAMP:20250205T151542Z
 CATEGORIES:SOPK
@@ -3070,39 +3053,6 @@ URL:https://www.sopk.sk/event/obchodna-misia-do-indonezie-zistujeme-predbez
  ny-zaujem-firiem
 DTSTART:20270512T060000Z
 DTEND:20270515T150000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2762250538395d7842d34d91dbc4f0824bc3163d@cike-events
-DTSTAMP:20250611T054207Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Prvá krajská podnikateľská akadémia Košického kr
- aja
-DESCRIPTION:Štartuje Krajská podnikateľská akadémia: Posuňte svoje po
- dnikanie na nový level\, zvýšte tržby a získajte nových zákazníkov
-  Máte v hlave odvážny podnikateľský nápad\, ktorému chýba finálny
-  štartovací impulz? Alebo už vediete vlastnú [...] \\n\n\nhttps://www.
- sopk.sk/event/prva-krajska-podnikatelska-akademia-kosickeho-kraja
-URL:https://www.sopk.sk/event/prva-krajska-podnikatelska-akademia-kosickeho
- -kraja
-DTSTART:20260906T220000Z
-DTEND:20261003T215959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:50b8cf21e393704db130a5cabbf32dd5beb281f2@cike-events
-DTSTAMP:20250908T022303Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] SMART FUNDING FORUM: Úverový nástroj\, financovanie 
- sociálnych inovácií a regionálneho ekosystému
-DESCRIPTION:Inovačné partnerské centrum v spolupráci so Slovenskou obch
- odnou a priemyselnou komorou (SOPK)\, Slovenskou sporiteľnou (SLSP) a Min
- isterstvom práce\, sociálnych vecí a rodiny SR Vás srdečne pozýva na
-  workshop SMART FUNDING FORUM: Úverový [...] \\n\n\nhttps://www.sopk.sk
- /event/smart-funding-forum-uverovy-nastroj-financovanie-socialnych-inovaci
- i-a-regionalneho-ekosystemu
-URL:https://www.sopk.sk/event/smart-funding-forum-uverovy-nastroj-financova
- nie-socialnych-inovacii-a-regionalneho-ekosystemu
-DTSTART:20260909T063000Z
-DTEND:20260909T103000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:1660dc67edb0d9aa7075dfed09216f8639d7c015@cike-events
@@ -3243,6 +3193,34 @@ DTSTART:20261007T070000Z
 DTEND:20261007T090000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:4773de5cd27ef18def219935594a0edbe8203fa3@cike-events
+DTSTAMP:20250811T194201Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] workshop – program budovania kapacít LEADER-CE
+DESCRIPTION:Pozývame Vás zapojiť sa do programu budovania kapacít proje
+ ktu LEADER-CE Projekt LEADER-CE podporuje digitálnu transformáciu organi
+ zácií sociálnej ekonomiky vo vidieckych oblastiach strednej Európy. Ke
+ ďže tieto regióny majú svoje špecifiká\, pripravili sme [...] \\n\n\
+ nhttps://www.sopk.sk/event/workshop-digitalna-transformacia
+URL:https://www.sopk.sk/event/workshop-digitalna-transformacia
+DTSTART:20261007T220000Z
+DTEND:20261008T215959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1f46999267e387d67cdcaa0060abaaff1af55311@cike-events
+DTSTAMP:20250313T043247Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: Riadenie času
+DESCRIPTION:Pozývame Vás na praktický webinár Riadenie času\, ktorý V
+ ám poskytne efektívne nástroje na zníženie stresu\, elimináciu časo
+ vých strát a vybudovanie dlhodobých produktívnych návykov. Dátum a 
+ čas: 8. 10. 2026 v čase [...] \\n\n\nhttps://www.sopk.sk/event/webinar-r
+ iadenie-casu
+URL:https://www.sopk.sk/event/webinar-riadenie-casu
+DTSTART:20261008T070000Z
+DTEND:20261008T120000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:89edfa8e2728848e0ddfb599954949932d20c16e@cike-events
 DTSTAMP:20250407T213138Z
 CATEGORIES:SOPK
@@ -3257,36 +3235,6 @@ URL:https://www.sopk.sk/event/webcast-elektronicka-fakturacia-a-digitalne-o
  znamovanie-udajov-z-faktur
 DTSTART:20261008T080000Z
 DTEND:20261008T083000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:933ed7f5b0b3ff69c5c4bc229e178cb96915b405@cike-events
-DTSTAMP:20250914T145634Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár – Daňovo-odvodová optimalizácia + mikrood
- vody
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.6.2026 od 09:00 - 14
- :30 hod pozýva na webinár - Daňovo-odvodová optimalizácia + mikroodvo
- dy kód: 20260617 Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom
-  [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimaliza
- cia-mikroodvody-2
-URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
- vody-2
-DTSTART:20260617T070000Z
-DTEND:20260617T123000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:2889dcf05bb176ec5cb35d2f8a069718e58e9562@cike-events
-DTSTAMP:20250717T163743Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Seminár: Bude vaša firma o 5 rokov stále fungovať?
-DESCRIPTION:Na seminári „Bude vaša firma o 5 rokov stále fungovať?“
- sa pozrieme na to\, ako robiť rozhodnutia dnes tak\, aby vaša firma nepr
- ežívala od mesiaca k mesiacu\, ale mala jasný smer aj [...] \\n\n\nhttp
- s://www.sopk.sk/event/seminar-bude-vasa-firma-o-5-rokov-stale-fungovat
-URL:https://www.sopk.sk/event/seminar-bude-vasa-firma-o-5-rokov-stale-fungo
- vat
-DTSTART:20260617T080000Z
-DTEND:20260617T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:9f906ba33f0f982c21928199d542eb8d7c472e98@cike-events
@@ -3443,30 +3391,37 @@ DTSTART:20260830T220000Z
 DTEND:20260904T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:992faf22f7f0589d0dfac22c4f71d08cf57ee11e@cike-events
-DTSTAMP:20250914T112903Z
+UID:2762250538395d7842d34d91dbc4f0824bc3163d@cike-events
+DTSTAMP:20250611T054207Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár – Pracovná zmluva a pracovný čas
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 26.5.2026 od 09:00 - 13
- :30 hod pozýva na webinár – Pracovná zmluva a pracovný čas kód:20
- 260526   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v tom 30 [..
- .] \\n\n\nhttps://www.sopk.sk/event/webinar-pracovna-zmluva-a-pracovny-cas
-URL:https://www.sopk.sk/event/webinar-pracovna-zmluva-a-pracovny-cas
-DTSTART:20260526T070000Z
-DTEND:20260526T113000Z
+SUMMARY:🟧 [SOPK] Prvá krajská podnikateľská akadémia Košického kr
+ aja
+DESCRIPTION:Štartuje Krajská podnikateľská akadémia: Posuňte svoje po
+ dnikanie na nový level\, zvýšte tržby a získajte nových zákazníkov
+  Máte v hlave odvážny podnikateľský nápad\, ktorému chýba finálny
+  štartovací impulz? Alebo už vediete vlastnú [...] \\n\n\nhttps://www.
+ sopk.sk/event/prva-krajska-podnikatelska-akademia-kosickeho-kraja
+URL:https://www.sopk.sk/event/prva-krajska-podnikatelska-akademia-kosickeho
+ -kraja
+DTSTART:20260906T220000Z
+DTEND:20261003T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:2922a1c6e37d5450dab837453683623194c26a26@cike-events
-DTSTAMP:20250524T125021Z
+UID:50b8cf21e393704db130a5cabbf32dd5beb281f2@cike-events
+DTSTAMP:20250908T022303Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár – Dovolenka a prekážky v práci
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás 27.5.26 od 09:00 - 13:3
- 0 hod pozýva na webinár – Dovolenka a prekážky v práci kód:2026052
- 7  Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v tom 30 [...] \\n
- \n\nhttps://www.sopk.sk/event/webinar-dovolenka-a-prekazky-v-praci
-URL:https://www.sopk.sk/event/webinar-dovolenka-a-prekazky-v-praci
-DTSTART:20260527T070000Z
-DTEND:20260527T113000Z
+SUMMARY:🟧 [SOPK] SMART FUNDING FORUM: Úverový nástroj\, financovanie 
+ sociálnych inovácií a regionálneho ekosystému
+DESCRIPTION:Inovačné partnerské centrum v spolupráci so Slovenskou obch
+ odnou a priemyselnou komorou (SOPK)\, Slovenskou sporiteľnou (SLSP) a Min
+ isterstvom práce\, sociálnych vecí a rodiny SR Vás srdečne pozýva na
+  workshop SMART FUNDING FORUM: Úverový [...] \\n\n\nhttps://www.sopk.sk
+ /event/smart-funding-forum-uverovy-nastroj-financovanie-socialnych-inovaci
+ i-a-regionalneho-ekosystemu
+URL:https://www.sopk.sk/event/smart-funding-forum-uverovy-nastroj-financova
+ nie-socialnych-inovacii-a-regionalneho-ekosystemu
+DTSTART:20260909T063000Z
+DTEND:20260909T103000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:7527597c95056b4bd57f373b6923b476e1dfeac8@cike-events
@@ -3626,34 +3581,34 @@ DTSTART:20260617T070000Z
 DTEND:20260617T120000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:2c8e3811a24a6b36ea63804453a8f02037872914@cike-events
-DTSTAMP:20250619T004243Z
+UID:933ed7f5b0b3ff69c5c4bc229e178cb96915b405@cike-events
+DTSTAMP:20250914T145634Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] EU Business Hub @ ENVEX 2026 v Soule
-DESCRIPTION:Staňte sa súčasťou EU Business Hub @ ENVEX 2026 v Soule! 18
- . – 22. máj 2026 Chcete rozšíriť svoje podnikanie do Ázie a predsta
- viť svoje technológie na jednom z najväčších environmentálnych [...
- ] \\n\n\nhttps://www.sopk.sk/event/eu-business-hub-envex-2026-v-soule
-URL:https://www.sopk.sk/event/eu-business-hub-envex-2026-v-soule
-DTSTART:20260518T060000Z
-DTEND:20260522T150000Z
+SUMMARY:🟧 [SOPK] webinár – Daňovo-odvodová optimalizácia + mikrood
+ vody
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.6.2026 od 09:00 - 14
+ :30 hod pozýva na webinár - Daňovo-odvodová optimalizácia + mikroodvo
+ dy kód: 20260617 Lektor: RNDr. Jozef Mihál Čas: 9:00 – 14:30  (v tom
+  [...] \\n\n\nhttps://www.sopk.sk/event/webinar-danovo-odvodova-optimaliza
+ cia-mikroodvody-2
+URL:https://www.sopk.sk/event/webinar-danovo-odvodova-optimalizacia-mikrood
+ vody-2
+DTSTART:20260617T070000Z
+DTEND:20260617T123000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:1640859716eb14a3a951992df44e37891f7662cc@cike-events
-DTSTAMP:20250807T024238Z
+UID:2889dcf05bb176ec5cb35d2f8a069718e58e9562@cike-events
+DTSTAMP:20250717T163743Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Odborná diskusia: SKRYTÉ POKLADY NAŠICH FIRIEM – O
- d inšpirácie k praxi
-DESCRIPTION:Pozývame vás na pokračovanie podujatia Skryté poklady na
- šich firiem\, ktoré podporuje udržateľnosť v zmysle RE-USE\, teda ZU
- ŽITKUJ. ​Ide o priestor\, kde spoločne hľadáme nové využitie pre 
- odpady vznikajúce vo firmách\, s cieľom podporiť cirkularitu a [...] \
- \n\n\nhttps://www.sopk.sk/event/odborna-diskusia-skryte-poklady-nasich-fir
- iem-od-inspiracie-k-praxi
-URL:https://www.sopk.sk/event/odborna-diskusia-skryte-poklady-nasich-firiem
- -od-inspiracie-k-praxi
-DTSTART:20260519T070000Z
-DTEND:20260519T090000Z
+SUMMARY:🟧 [SOPK] Seminár: Bude vaša firma o 5 rokov stále fungovať?
+DESCRIPTION:Na seminári „Bude vaša firma o 5 rokov stále fungovať?“
+ sa pozrieme na to\, ako robiť rozhodnutia dnes tak\, aby vaša firma nepr
+ ežívala od mesiaca k mesiacu\, ale mala jasný smer aj [...] \\n\n\nhttp
+ s://www.sopk.sk/event/seminar-bude-vasa-firma-o-5-rokov-stale-fungovat
+URL:https://www.sopk.sk/event/seminar-bude-vasa-firma-o-5-rokov-stale-fungo
+ vat
+DTSTART:20260617T080000Z
+DTEND:20260617T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:143ae48d169038921db7ff5d4b9f964950dbbc66@cike-events
@@ -3809,35 +3764,30 @@ DTSTART:20260525T220000Z
 DTEND:20260527T215959Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e13792f54afad81cbbf394930a5ce0834db5d7c0@cike-events
-DTSTAMP:20250304T082203Z
+UID:992faf22f7f0589d0dfac22c4f71d08cf57ee11e@cike-events
+DTSTAMP:20250914T112903Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Kurz: Speak like a leader. Ako sa efektívne prezentova
- ť a predstaviť sa v biznise tak\, aby si nás druhí zapamätali
-DESCRIPTION:V spolupráci so Zdužením podnikateliek a manažérok Vás po
- zývame na kurz: Speak like a leader. Ako sa efektívne prezentovať a pre
- dstaviť sa v biznise tak\, aby si nás druhí zapamätali Dátum [...] \\
- n\n\nhttps://www.sopk.sk/event/kurz-speak-like-a-leader-ako-sa-efektivne-p
- rezentovat-a-predstavit-sa-v-biznise-tak-aby-si-nas-druhi-zapamatali
-URL:https://www.sopk.sk/event/kurz-speak-like-a-leader-ako-sa-efektivne-pre
- zentovat-a-predstavit-sa-v-biznise-tak-aby-si-nas-druhi-zapamatali
-DTSTART:20260324T080000Z
-DTEND:20260324T130000Z
+SUMMARY:🟧 [SOPK] webinár – Pracovná zmluva a pracovný čas
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 26.5.2026 od 09:00 - 13
+ :30 hod pozýva na webinár – Pracovná zmluva a pracovný čas kód:20
+ 260526   Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v tom 30 [..
+ .] \\n\n\nhttps://www.sopk.sk/event/webinar-pracovna-zmluva-a-pracovny-cas
+URL:https://www.sopk.sk/event/webinar-pracovna-zmluva-a-pracovny-cas
+DTSTART:20260526T070000Z
+DTEND:20260526T113000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:e846fdbbfa578a01ea4ddd26314f917b528045c8@cike-events
-DTSTAMP:20250224T214502Z
+UID:2922a1c6e37d5450dab837453683623194c26a26@cike-events
+DTSTAMP:20250524T125021Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Health Tech Hub Styria 2026
-LOCATION:Graz
-DESCRIPTION:Pozývame vás na podujatie\, ktoré bude spájať popredných 
- odborníkov\, výskumníkov\, startupy a investorov z celej Európy\, s ci
- eľom spoločnej komunikácie\, ako technológie\, dáta a ľudská vynali
- ezavosť formujú budúcnosť zdravotníctva. Dátum konania: 25. [...] \
- \n\n\nhttps://www.sopk.sk/event/health-tech-hub-styria-2026
-URL:https://www.sopk.sk/event/health-tech-hub-styria-2026
-DTSTART:20260324T230000Z
-DTEND:20260326T225959Z
+SUMMARY:🟧 [SOPK] webinár – Dovolenka a prekážky v práci
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 27.5.26 od 09:00 - 13:3
+ 0 hod pozýva na webinár – Dovolenka a prekážky v práci kód:2026052
+ 7  Lektor: RNDr. Jozef Mihál Čas: 9:00 – 13:30  (v tom 30 [...] \\n
+ \n\nhttps://www.sopk.sk/event/webinar-dovolenka-a-prekazky-v-praci
+URL:https://www.sopk.sk/event/webinar-dovolenka-a-prekazky-v-praci
+DTSTART:20260527T070000Z
+DTEND:20260527T113000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:febfa3437a047d577b8a3a553ffe055c9372e692@cike-events
@@ -4000,34 +3950,34 @@ DTSTART:20260514T080000Z
 DTEND:20260514T110000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:774bf941af77f8583f2134e8c5ce5352ff5f7070@cike-events
-DTSTAMP:20250821T225900Z
+UID:2c8e3811a24a6b36ea63804453a8f02037872914@cike-events
+DTSTAMP:20250619T004243Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Valné zhromaždenie PRK SOPK 2026
-DESCRIPTION:Vážení členovia obchodnej komory\, v súlade so Stanovami 
- SOPK schválenými Zhromaždením delegátov SOPK dňa 29.4.1999 v Bratis
- lave\, zvoláva Predstavenstvo Prešovskej regionálnej komory Slovenskej 
- obchodnej a priemyselnej komory (PRK SOPK) Valné zhromaždenie PRK SOPK 
- (VZ [...] \\n\n\nhttps://www.sopk.sk/event/valne-zhromazdenie-2026
-URL:https://www.sopk.sk/event/valne-zhromazdenie-2026
-DTSTART:20260217T083000Z
-DTEND:20260217T130000Z
+SUMMARY:🟧 [SOPK] EU Business Hub @ ENVEX 2026 v Soule
+DESCRIPTION:Staňte sa súčasťou EU Business Hub @ ENVEX 2026 v Soule! 18
+ . – 22. máj 2026 Chcete rozšíriť svoje podnikanie do Ázie a predsta
+ viť svoje technológie na jednom z najväčších environmentálnych [...
+ ] \\n\n\nhttps://www.sopk.sk/event/eu-business-hub-envex-2026-v-soule
+URL:https://www.sopk.sk/event/eu-business-hub-envex-2026-v-soule
+DTSTART:20260518T060000Z
+DTEND:20260522T150000Z
 END:VEVENT
 BEGIN:VEVENT
-UID:1875eccd1d2d34de6ea3deabc72b4509cb9e4029@cike-events
-DTSTAMP:20250514T041226Z
+UID:1640859716eb14a3a951992df44e37891f7662cc@cike-events
+DTSTAMP:20250807T024238Z
 CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatív
- ne zmeny na rok 2026
-DESCRIPTION:Nitrianska regionálna komora SOPK Vás pozýva na niekoľko we
- binárov (s termínom konania 23.1.2026\, 26.1.2026\, 30.1.2026\, 5.2.2026
- \, 12.2.2026\, alebo 26.2.2026) na tému Ročné zúčtovanie za rok 2025 
- + Legislatívne zmeny na rok [...] \\n\n\nhttps://www.sopk.sk/event/rocne-
- zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026
-URL:https://www.sopk.sk/event/rocne-zuctovanie-za-rok-2025-legislativne-zme
- ny-na-rok-2026
-DTSTART:20260226T080000Z
-DTEND:20260226T133000Z
+SUMMARY:🟧 [SOPK] Odborná diskusia: SKRYTÉ POKLADY NAŠICH FIRIEM – O
+ d inšpirácie k praxi
+DESCRIPTION:Pozývame vás na pokračovanie podujatia Skryté poklady na
+ šich firiem\, ktoré podporuje udržateľnosť v zmysle RE-USE\, teda ZU
+ ŽITKUJ. ​Ide o priestor\, kde spoločne hľadáme nové využitie pre 
+ odpady vznikajúce vo firmách\, s cieľom podporiť cirkularitu a [...] \
+ \n\n\nhttps://www.sopk.sk/event/odborna-diskusia-skryte-poklady-nasich-fir
+ iem-od-inspiracie-k-praxi
+URL:https://www.sopk.sk/event/odborna-diskusia-skryte-poklady-nasich-firiem
+ -od-inspiracie-k-praxi
+DTSTART:20260519T070000Z
+DTEND:20260519T090000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:832e1784e15050be2ca2ff3da8e3a2b53ffabaa4@cike-events
@@ -4183,6 +4133,228 @@ URL:https://www.sopk.sk/event/kooperacna-burza-s-rakuskymi-obchodnymi-agent
  mi
 DTSTART:20260318T110000Z
 DTEND:20260318T153000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e13792f54afad81cbbf394930a5ce0834db5d7c0@cike-events
+DTSTAMP:20250304T082203Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Kurz: Speak like a leader. Ako sa efektívne prezentova
+ ť a predstaviť sa v biznise tak\, aby si nás druhí zapamätali
+DESCRIPTION:V spolupráci so Zdužením podnikateliek a manažérok Vás po
+ zývame na kurz: Speak like a leader. Ako sa efektívne prezentovať a pre
+ dstaviť sa v biznise tak\, aby si nás druhí zapamätali Dátum [...] \\
+ n\n\nhttps://www.sopk.sk/event/kurz-speak-like-a-leader-ako-sa-efektivne-p
+ rezentovat-a-predstavit-sa-v-biznise-tak-aby-si-nas-druhi-zapamatali
+URL:https://www.sopk.sk/event/kurz-speak-like-a-leader-ako-sa-efektivne-pre
+ zentovat-a-predstavit-sa-v-biznise-tak-aby-si-nas-druhi-zapamatali
+DTSTART:20260324T080000Z
+DTEND:20260324T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e846fdbbfa578a01ea4ddd26314f917b528045c8@cike-events
+DTSTAMP:20250224T214502Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Health Tech Hub Styria 2026
+LOCATION:Graz
+DESCRIPTION:Pozývame vás na podujatie\, ktoré bude spájať popredných 
+ odborníkov\, výskumníkov\, startupy a investorov z celej Európy\, s ci
+ eľom spoločnej komunikácie\, ako technológie\, dáta a ľudská vynali
+ ezavosť formujú budúcnosť zdravotníctva. Dátum konania: 25. [...] \
+ \n\n\nhttps://www.sopk.sk/event/health-tech-hub-styria-2026
+URL:https://www.sopk.sk/event/health-tech-hub-styria-2026
+DTSTART:20260324T230000Z
+DTEND:20260326T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ae437b7ef722762e5e5e575cefafd3679d47dc37@cike-events
+DTSTAMP:20251228T214923Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Black Sea MultiSector Virtual B2B Event 2025
+LOCATION:Online
+DESCRIPTION:Virtuálne B2B podujatie Black Sea MultiSektor 2025\, ktoré or
+ ganizuje Obchodná a priemyselná komora Trabzon v rámci siete Enterprise
+  Europe Network\, sa uskutoční online od 9. do 11. decembra 2025. Poduja
+ tie spája [...] \\n\n\nhttps://www.sopk.sk/event/black-sea-multisector-vi
+ rtual-b2b-event-2025
+URL:https://www.sopk.sk/event/black-sea-multisector-virtual-b2b-event-2025
+DTSTART:20251209T090000Z
+DTEND:20251211T170000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d2928779a37106d2cef813268f1fb1575e5847aa@cike-events
+DTSTAMP:20250819T070923Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatív
+ ne zmeny na rok 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 17.12.2025 (resp. ten i
+ stý webinár sa koná aj 18.12.2025)  od 09:00 - 14:30 hod pozýva na we
+ binár Ročné zúčtovanie za rok 2025 + Legislatívne zmeny na [...] \\n
+ \n\nhttps://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legisla
+ tivne-zmeny-na-rok-2026
+URL:https://www.sopk.sk/event/webinar-rocne-zuctovanie-za-rok-2025-legislat
+ ivne-zmeny-na-rok-2026
+DTSTART:20251217T080000Z
+DTEND:20251217T133000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f3efddb5900820db720734be543601de9f3bd39a@cike-events
+DTSTAMP:20250628T061503Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] seminár Ročné zúčtovanie za rok 2025 + Legislatív
+ ne zmeny na rok 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás 12.01.2026 od 09:00 - 1
+ 5:30 hod pozýva na seminár Ročné zúčtovanie za rok 2025 + Legislatí
+ vne zmeny na rok 2026   Kód:  20260112 Miesto: Nitra 12.01.2026\, [...]
+  \\n\n\nhttps://www.sopk.sk/event/seminar-rocne-zuctovanie-za-rok-2025-leg
+ islativne-zmeny-na-rok-2026
+URL:https://www.sopk.sk/event/seminar-rocne-zuctovanie-za-rok-2025-legislat
+ ivne-zmeny-na-rok-2026
+DTSTART:20260112T080000Z
+DTEND:20260112T143000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:32d976fe8d267680980909b4761849776fa9d87f@cike-events
+DTSTAMP:20250629T225431Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Kybernetická bezpečnosť – výzva pre firmy a verej
+ nú správu
+DESCRIPTION:Milí priatelia Sekcie kybernetickej bezpečnosti a digitalizá
+ cie Pozývame Vás na konferenciu Kybernetická bezpečnosť – výzva p
+ re firmy a verejnú správu\, ktorej cieľom je podporiť zavádzanie bezp
+ ečných digitálnych riešení v malých a stredných [...] \\n\n\nhttps:
+ //www.sopk.sk/event/kyberneticka-bezpecnost-vyzva-pre-firmy-a-verejnu-spra
+ vu
+URL:https://www.sopk.sk/event/kyberneticka-bezpecnost-vyzva-pre-firmy-a-ver
+ ejnu-spravu
+DTSTART:20260121T230000Z
+DTEND:20260123T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:ef59bd99ec2a96d016b8f487928063e81376dccb@cike-events
+DTSTAMP:20250517T142358Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Delegačná cesta na tému „Systémy skladovania ener
+ gie“ 13.-16. apríla 2026 v Berlíne.
+DESCRIPTION:Program delegácie Berlín 2026 Slovensko-nemecká obchodná a 
+ priemyselná komora (AHK Slowakei) v spolupráci s Bratislavskou regionál
+ nou komorou Vás pozýva na delegačnú cestu na tému „Systémy skladov
+ ania energie“\, ktorá sa uskutoční v [...] \\n\n\nhttps://www.sopk.sk
+ /event/delegacna-cesta-na-temu-systemy-skladovania-energie-13-16-aprila-20
+ 26-v-berline
+URL:https://www.sopk.sk/event/delegacna-cesta-na-temu-systemy-skladovania-e
+ nergie-13-16-aprila-2026-v-berline
+DTSTART:20260126T070000Z
+DTEND:20260218T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8d8192b622099498e00721d3f4548370040ea6@cike-events
+DTSTAMP:20250108T111539Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Pozvánka: Networkingový večer s Košickou RK SOPK
+LOCATION:UVP Technicom Košice\, Němcovej 5\, Košice\, 04200
+DESCRIPTION:Milí členovia\, partneri\, klienti a priatelia\, srdečne vá
+ s pozývame na Networkingový večer spojený s ochutnávkou kávy od Zlat
+ ého zrnka v UVP Technicom\, B. Němcovej 5\, Košice\, ktorý sa uskutoč
+ ní v utorok [...] \\n\n\nhttps://www.sopk.sk/event/pozvanka-networkingovy
+ -vecer-s-kosickou-rk-sopk
+URL:https://www.sopk.sk/event/pozvanka-networkingovy-vecer-s-kosickou-rk-so
+ pk
+DTSTART:20260127T153000Z
+DTEND:20260127T180000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ac77e614bbd9677378746bfc013590ce626f29@cike-events
+DTSTAMP:20250531T184218Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Medzinárodný veľtrh stavebníctva a architektúry BU
+ DMA 2026 a benefity
+DESCRIPTION:Pozývame slovenské firmy z oblasti stavebníctva a architekt
+ úry na medzinárodný veľtrh BUDMA 2026\, ktorý sa bude konať 3. 
+ – 6. februára 2026 v Poznani\, Poľsko. Už viac ako 30 rokov je BUDMA 
+ jedným z najdôležitejších podujatí [...] \\n\n\nhttps://www.sopk.sk/
+ event/medzinarodny-veltrh-stavebnictva-a-architektury-budma-2026-a-benefit
+ y
+URL:https://www.sopk.sk/event/medzinarodny-veltrh-stavebnictva-a-architektu
+ ry-budma-2026-a-benefity
+DTSTART:20260203T070000Z
+DTEND:20260206T160000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:d197f30ce062fcfc3b76949da1961ca620ab6df7@cike-events
+DTSTAMP:20250811T190805Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SUPERODPOČET na výskum a vývoj v roku 2025
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár SUPERODPOČET na výskum a vývoj v roku 2025: best-practise riešeni
+ a a skúsenosti z daňových kontrol\, ktorý sa bude konať  dňa 05. fe
+ bruára 2026 v [...] \\n\n\nhttps://www.sopk.sk/event/superodpocet-na-vysk
+ um-a-vyvoj-v-roku-2025
+URL:https://www.sopk.sk/event/superodpocet-na-vyskum-a-vyvoj-v-roku-2025
+DTSTART:20260204T230000Z
+DTEND:20260205T225959Z
+END:VEVENT
+BEGIN:VEVENT
+UID:408b8cb2adbddce98a06430cc69d098f81961325@cike-events
+DTSTAMP:20250823T191322Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Webinár: Uhlíkové clo a mechanizmus CBAM (Carbon Bor
+ der Adjustment Mechanism)
+DESCRIPTION:Odborný webinár so zámerom vysvetliť všetky súvislosti na
+ riadenia EP a Rady (EÚ) 2023/956 a vykonávacieho nariadenia Komisie (EÚ
+ ) 2023/1773 k mechanizmu uhlíkovej platby na hraniciach (CBAM)\, prevedie
+ me Vás celým mechanizmom prechodného [...] \\n\n\nhttps://www.sopk.sk/e
+ vent/webinar-uhlikove-clo-a-mechanizmus-cbam-carbon-border-adjustment-mech
+ anism
+URL:https://www.sopk.sk/event/webinar-uhlikove-clo-a-mechanizmus-cbam-carbo
+ n-border-adjustment-mechanism
+DTSTART:20260210T080000Z
+DTEND:20260210T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:cb58948dca69a03c5b1caf0b5ff7a34c714246d5@cike-events
+DTSTAMP:20250420T223432Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] OCHRANA ZDRAVIA PRI PRÁCI
+LOCATION:BBRK SOPK\, Nám. Š. Moysesa 4\, Banská Bystrica\, 974 01
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár Ochrana zdravia pri práci - nové legislatívne úpravy s účinnosť
+ ou v II.polroku 2026\, transpozícia smerníc EÚ ktorý sa bude konať  
+ dňa 12. februára [...] \\n\n\nhttps://www.sopk.sk/event/ochrana-zdravia-
+ pri-praci
+URL:https://www.sopk.sk/event/ochrana-zdravia-pri-praci
+DTSTART:20260212T090000Z
+DTEND:20260212T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:774bf941af77f8583f2134e8c5ce5352ff5f7070@cike-events
+DTSTAMP:20250821T225900Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Valné zhromaždenie PRK SOPK 2026
+DESCRIPTION:Vážení členovia obchodnej komory\, v súlade so Stanovami 
+ SOPK schválenými Zhromaždením delegátov SOPK dňa 29.4.1999 v Bratis
+ lave\, zvoláva Predstavenstvo Prešovskej regionálnej komory Slovenskej 
+ obchodnej a priemyselnej komory (PRK SOPK) Valné zhromaždenie PRK SOPK 
+ (VZ [...] \\n\n\nhttps://www.sopk.sk/event/valne-zhromazdenie-2026
+URL:https://www.sopk.sk/event/valne-zhromazdenie-2026
+DTSTART:20260217T083000Z
+DTEND:20260217T130000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:1875eccd1d2d34de6ea3deabc72b4509cb9e4029@cike-events
+DTSTAMP:20250514T041226Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] webinár Ročné zúčtovanie za rok 2025 + Legislatív
+ ne zmeny na rok 2026
+DESCRIPTION:Nitrianska regionálna komora SOPK Vás pozýva na niekoľko we
+ binárov (s termínom konania 23.1.2026\, 26.1.2026\, 30.1.2026\, 5.2.2026
+ \, 12.2.2026\, alebo 26.2.2026) na tému Ročné zúčtovanie za rok 2025 
+ + Legislatívne zmeny na rok [...] \\n\n\nhttps://www.sopk.sk/event/rocne-
+ zuctovanie-za-rok-2025-legislativne-zmeny-na-rok-2026
+URL:https://www.sopk.sk/event/rocne-zuctovanie-za-rok-2025-legislativne-zme
+ ny-na-rok-2026
+DTSTART:20260226T080000Z
+DTEND:20260226T133000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:4ee3e65bccf577e61b44dac4dc045c82b01c2485@cike-events
