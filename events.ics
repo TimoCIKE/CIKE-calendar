@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:b2f0e10dd5d990f101864f0bb1338a9144ec3da4@cike-events
-DTSTAMP:20250721T222958Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Business Breakfast s Luciou Pekaríkovou
-LOCATION:UVP Technicom
-DESCRIPTION:Ako budovať osobnú značku\, ktorá posilňuje reputáciu\, d
- ôveru a odbornú autoritu? Lucia Pekaríková ukáže\, ako premeniť odb
- ornosť na rešpektovanú osobnú značku a nové príležitosti. 15. 10. 
- 2026 od 8:30 hod v UVP Technicom. Zaregistrujte sa a príďte načerpať p
- raktické tipy pre svoj profesionálny rast.\n\nhttps://www.kosiceitvalley
- .sk/events/business-breakfast
-URL:https://www.kosiceitvalley.sk/events/business-breakfast
-DTSTART;VALUE=DATE:20261015
-END:VEVENT
-BEGIN:VEVENT
 UID:c799308a42b23d5b5bbf594b6d526fdd01610a2c@cike-events
 DTSTAMP:20250224T220735Z
 CATEGORIES:ITVALLEY
@@ -62,6 +47,21 @@ DESCRIPTION:Navštívte Industry 4.0 Showroom Mitsubishi Electric v Krakove
 URL:https://www.kosiceitvalley.sk/events/industry-4-0-showroom-mitsubishi-e
  lectric-inovacie-automatizacia-a-buducnost-priemyslu
 DTSTART;VALUE=DATE:20261124
+END:VEVENT
+BEGIN:VEVENT
+UID:b2f0e10dd5d990f101864f0bb1338a9144ec3da4@cike-events
+DTSTAMP:20250721T222958Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Business Breakfast s Luciou Pekaríkovou
+LOCATION:UVP Technicom
+DESCRIPTION:Ako budovať osobnú značku\, ktorá posilňuje reputáciu\, d
+ ôveru a odbornú autoritu? Lucia Pekaríková ukáže\, ako premeniť odb
+ ornosť na rešpektovanú osobnú značku a nové príležitosti. 15. 10. 
+ 2026 od 8:30 hod v UVP Technicom. Zaregistrujte sa a príďte načerpať p
+ raktické tipy pre svoj profesionálny rast.\n\nhttps://www.kosiceitvalley
+ .sk/events/business-breakfast
+URL:https://www.kosiceitvalley.sk/events/business-breakfast
+DTSTART;VALUE=DATE:20261015
 END:VEVENT
 BEGIN:VEVENT
 UID:e1d7237cceca7fc7841e3ebd0241a73b3681eb63@cike-events
@@ -1675,30 +1675,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:5fbf3f48394e8eab962845fecca2d61aebb85ead@cike-events
-DTSTAMP:20250603T014121Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] AmCham BSCF 12th Annual Business Centers Conference
-LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
-DESCRIPTION:From Efficiency to Impact: Talent\, Technology & Transformation
- \n\nhttps://amcham.sk/events/3686/amcham-bscf-12th-annual-business-centers
- -conference
-URL:https://amcham.sk/events/3686/amcham-bscf-12th-annual-business-centers-
- conference
-DTSTART;VALUE=DATE:20261015
-END:VEVENT
-BEGIN:VEVENT
-UID:fa61414b1f18f52d677f3438e49570b855c70894@cike-events
-DTSTAMP:20250915T060239Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Košice
-LOCATION:Košice Hotel\, Moldavská cesta 51\, Košice
-DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3694/spee
- d-business-meeting-in-kosice
-URL:https://amcham.sk/events/3694/speed-business-meeting-in-kosice
-DTSTART;VALUE=DATE:20261015
-END:VEVENT
-BEGIN:VEVENT
 UID:bd0e416189bd66e7142bfb11d89f6eee0078906c@cike-events
 DTSTAMP:20250802T235816Z
 CATEGORIES:AMCHAM
@@ -1840,6 +1816,19 @@ URL:https://amcham.sk/events/3716/real-estate-vision-trends
 DTSTART;VALUE=DATE:20261112
 END:VEVENT
 BEGIN:VEVENT
+UID:6ddc2c3d5621d2bfea831561b3a3b056de5345ba@cike-events
+DTSTAMP:20251010T134530Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Employee Experience: From Engagement to Business Impa
+ ct
+LOCATION:Jurkovičova Tepláreň (Second Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Workshop\n\nhttps://amcham.sk/events/3733/employee-experience-f
+ rom-engagement-to-business-impact
+URL:https://amcham.sk/events/3733/employee-experience-from-engagement-to-bu
+ siness-impact
+DTSTART;VALUE=DATE:20261120
+END:VEVENT
+BEGIN:VEVENT
 UID:cc822efc78c4895cd5ade84d58e72351176f9211@cike-events
 DTSTAMP:20250315T070339Z
 CATEGORIES:AMCHAM
@@ -1872,6 +1861,30 @@ DESCRIPTION:conference organized by Trust Women\n\nhttps://amcham.sk/events
  /3730/i-see-me-2026
 URL:https://amcham.sk/events/3730/i-see-me-2026
 DTSTART;VALUE=DATE:20261128
+END:VEVENT
+BEGIN:VEVENT
+UID:fa61414b1f18f52d677f3438e49570b855c70894@cike-events
+DTSTAMP:20250915T060239Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Speed Business Meeting in Košice
+LOCATION:Košice Hotel\, Moldavská cesta 51\, Košice
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3694/spee
+ d-business-meeting-in-kosice
+URL:https://amcham.sk/events/3694/speed-business-meeting-in-kosice
+DTSTART;VALUE=DATE:20261015
+END:VEVENT
+BEGIN:VEVENT
+UID:5fbf3f48394e8eab962845fecca2d61aebb85ead@cike-events
+DTSTAMP:20250603T014121Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AmCham BSCF 12th Annual Business Centers Conference
+LOCATION:Jurkovičova Tepláreň\, Bottova 1\, Bratislava
+DESCRIPTION:From Efficiency to Impact: Talent\, Technology & Transformation
+ \n\nhttps://amcham.sk/events/3686/amcham-bscf-12th-annual-business-centers
+ -conference
+URL:https://amcham.sk/events/3686/amcham-bscf-12th-annual-business-centers-
+ conference
+DTSTART;VALUE=DATE:20261015
 END:VEVENT
 BEGIN:VEVENT
 UID:8857bb32cb708a4fa84006db34a3b222be359ba9@cike-events
@@ -2658,20 +2671,6 @@ DESCRIPTION:Business Seminar\n\nhttps://amcham.sk/events/3534/crisis-compli
 URL:https://amcham.sk/events/3534/crisis-compliance-navigating-bribery-sanc
  tions-and-cross-border-risk
 DTSTART;VALUE=DATE:20251017
-END:VEVENT
-BEGIN:VEVENT
-UID:1afbcd1a07520b3ad7c123bab6958713e0835600@cike-events
-DTSTAMP:20250401T090813Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Branding & Attractiveness of Eastern Slovakia - Acces
- sibility and Visibility
-LOCATION:Holcim European Business Services s.r.o.\, Hlavná 69/111\, Košic
- e
-DESCRIPTION:Workshop in Košice\n\nhttps://amcham.sk/events/3556/branding-a
- ttractiveness-of-eastern-slovakia-accessibility-and-visibility
-URL:https://amcham.sk/events/3556/branding-attractiveness-of-eastern-slovak
- ia-accessibility-and-visibility
-DTSTART;VALUE=DATE:20251016
 END:VEVENT
 BEGIN:VEVENT
 UID:c38a41476e5a636963f96e701f8ff281fe3c0ca7@cike-events
