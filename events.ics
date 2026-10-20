@@ -357,6 +357,22 @@ URL:https://www.kosiceitvalley.sk/events/kasv-slavnostne-odovzdavanie-diplo
 DTSTART;VALUE=DATE:20260612
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:9d34d1d055cf416785b510116a32ef8a6a0ff349@cike-events
 DTSTAMP:20250913T094249Z
 CATEGORIES:ITVALLEY
@@ -371,22 +387,6 @@ DESCRIPTION:Finále projektu Lab IT Creativity 5 prinesie deň plný techno
  neho ročníka.\n\nhttps://www.kosiceitvalley.sk/events/finale-lab-it-crea
  tivity-5
 URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
-DTSTART;VALUE=DATE:20260609
-END:VEVENT
-BEGIN:VEVENT
-UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
-DTSTAMP:20250922T105630Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
-LOCATION:UVP Technicom
-DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
- adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
- iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
- nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
- šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
- ocus-groups-buducnost-je-automotive
-URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
- ve
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
@@ -523,6 +523,22 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -537,22 +553,6 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1795,6 +1795,17 @@ URL:https://amcham.sk/events/3728/expert-finance-tax-forum
 DTSTART;VALUE=DATE:20261028
 END:VEVENT
 BEGIN:VEVENT
+UID:c805dbc5b12b1c4458b517e2e70a9446fb74119f@cike-events
+DTSTAMP:20251005T045526Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Workshop & Breakfast
+LOCATION:Hotel Ponteo Activity Park\, Rusovce
+DESCRIPTION:organized by Neoxx\n\nhttps://amcham.sk/events/3734/workshop-br
+ eakfast
+URL:https://amcham.sk/events/3734/workshop-breakfast
+DTSTART;VALUE=DATE:20261105
+END:VEVENT
+BEGIN:VEVENT
 UID:561b88b0ecdc3967a5bba817e4b287e5040ab710@cike-events
 DTSTAMP:20250304T224509Z
 CATEGORIES:AMCHAM
@@ -2674,37 +2685,6 @@ URL:https://amcham.sk/events/3526/business-ladies-day
 DTSTART;VALUE=DATE:20251030
 END:VEVENT
 BEGIN:VEVENT
-UID:326a3285166fd876726a27ac01f14750d8c097e6@cike-events
-DTSTAMP:20251028T013141Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] ZÁKON O ODPADOCH\, Nakladanie s odpadmi – súčasný
-  právny stav a pripravované zmeny právnych predpisov
-DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na odborný web
- inár “ZÁKON O ODPADOCH\, Nakladanie s odpadmi – súčasný právny s
- tav a pripravované zmeny právnych predpisov”\, ktorý sa bude konať d
- ňa 19. októbra [...] \\n\n\nhttps://www.sopk.sk/event/zakon-o-odpadoch-n
- akladanie-s-odpadmi-sucasny-pravny-stav-a-pripravovane-zmeny-pravnych-pred
- pisov
-URL:https://www.sopk.sk/event/zakon-o-odpadoch-nakladanie-s-odpadmi-sucasny
- -pravny-stav-a-pripravovane-zmeny-pravnych-predpisov
-DTSTART:20261019T070000Z
-DTEND:20261019T120000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:f090692e00a652c640e4080a33b9c8fca93d18a7@cike-events
-DTSTAMP:20250918T194229Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: Colné konanie pri dovoze a vývoze
-DESCRIPTION:Cieľ webinára: poskytnúť účastníkom informácie o správ
- nom uplatňovaní platných colných a daňových predpisov Európskej ún
- ie\, o procesných úkonoch\, právach a povinnostiach deklaranta v colnom
-  konaní pri dovoze a vývoze v rámci [...] \\n\n\nhttps://www.sopk.sk/ev
- ent/webinar-colne-konanie-pri-dovoze-a-vyvoze-2
-URL:https://www.sopk.sk/event/webinar-colne-konanie-pri-dovoze-a-vyvoze-2
-DTSTART:20261020T070000Z
-DTEND:20261020T130000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:bbb7b91726a1054755a95b7d410a9bc1a8801896@cike-events
 DTSTAMP:20250702T062538Z
 CATEGORIES:SOPK
@@ -2819,6 +2799,21 @@ DTSTART:20261028T090000Z
 DTEND:20261028T100000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:0916bd0c375189425bba69e73f9c1db35223d7b6@cike-events
+DTSTAMP:20250330T182339Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] CEZAU – Cena za udržateľnosť
+LOCATION:Kultúrno-kreatívne centrum Hviezda v Trenčíne
+DESCRIPTION:Trenčianska regionálna komora SOPK ako partner podujatia si V
+ ás dovoľuje pozvať na slávnostné vyhlásenie víťazov ocenenia CEZAU
+  – Ceny za udržateľnosť. Podujatie organizuje Klub lídrov udržateľ
+ nosti.   Oceňovať budeme projekty a [...] \\n\n\nhttps://www.sopk.sk/ev
+ ent/cezau-cena-za-udrzatelnost
+URL:https://www.sopk.sk/event/cezau-cena-za-udrzatelnost
+DTSTART:20261028T153000Z
+DTEND:20261028T190000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:c1f06c53aae64ab9fb7331a39cad4616957e5f50@cike-events
 DTSTAMP:20250516T001750Z
 CATEGORIES:SOPK
@@ -2849,6 +2844,19 @@ URL:https://www.sopk.sk/event/ai-transformacia-firiem-rozhodnutia-ktore-mus
  i-manazment-urobit-pred-prvou-licenciou
 DTSTART:20261029T080000Z
 DTEND:20261029T110000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:f57ec463415863bdaa4f01702094e9224328eec8@cike-events
+DTSTAMP:20250418T220113Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] E-fakturácia
+DESCRIPTION:Trenčianska regionálna komora SOPK pozýva svojich členov\, 
+ podnikateľov a partnerov na BUSINESS  BREAKFAST s témou E-fakturácia -
+  elektronická fakturácia a digitálne oznamovanie údajov z faktúr – 
+ ako sa týka Vás a [...] \\n\n\nhttps://www.sopk.sk/event/e-fakturacia
+URL:https://www.sopk.sk/event/e-fakturacia
+DTSTART:20261030T080000Z
+DTEND:20261030T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:59e69bd4e1d5436047c221656616361c807cdd9c@cike-events
