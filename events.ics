@@ -2838,6 +2838,24 @@ DTSTART:20261103T090000Z
 DTEND:20261103T130000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:604a4e78604aa69eb03b40ea480f9ab3a085793b@cike-events
+DTSTAMP:20251103T141800Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Biznis klub SOPK : Umenie akvizície: od prvého kontak
+ tu až po stretnutie
+LOCATION:TTSK\, Starohájska 10\, Trnava
+DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov\, obcho
+ dníkov a vedúcich obchodných tímov na ďalšie stretnutie v rámci Biz
+ nis klubu podnikateľov. Tentokrát sa zameriame na jednu z najdôležitej
+ ších tém obchodného rastu – akvizíciu [...] \\n\n\nhttps://www.sopk
+ .sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-kontaktu-az-po-stret
+ nutie-duplicate-1-2
+URL:https://www.sopk.sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-k
+ ontaktu-az-po-stretnutie-duplicate-1-2
+DTSTART:20261103T090000Z
+DTEND:20261103T140000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:2fe1f33b0f3b23b47f0c9c48f1ed42a56a39227c@cike-events
 DTSTAMP:20250508T225520Z
 CATEGORIES:SOPK
@@ -3059,6 +3077,23 @@ URL:https://www.sopk.sk/event/akademia-efektivneho-riadenia-firmy-ako-pripr
  avit-firmu-na-odchod-majitela
 DTSTART:20261126T090000Z
 DTEND:20261126T120000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3204293caa8437ef481f6eb9245b6997ce6508@cike-events
+DTSTAMP:20250723T040101Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Daňové a nedaňové výdavky v praxi: Ako sa vyhnúť
+  najčastejším chybám
+LOCATION:Daňový úrad Trnava\, Hlboká 8\, Trnava
+DESCRIPTION:Viete\, ktoré výdavky sú z pohľadu zákona o dani z príjmo
+ v daňovo uznateľné a ktoré nie? Práve nesprávne posúdenie výdavkov
+  patrí medzi najčastejšie dôvody dodatočných vyrubení dane pri daň
+ ových kontrolách. Finančné [...] \\n\n\nhttps://www.sopk.sk/event/dano
+ ve-a-nedanove-vydavky-v-praxi-ako-sa-vyhnut-najcastejsim-chybam
+URL:https://www.sopk.sk/event/danove-a-nedanove-vydavky-v-praxi-ako-sa-vyhn
+ ut-najcastejsim-chybam
+DTSTART:20261201T080000Z
+DTEND:20261201T140000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:0ee9ebc724446745d3869dc5dafcc9c816336596@cike-events
