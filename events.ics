@@ -282,21 +282,6 @@ URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
 DTSTART;VALUE=DATE:20260625
 END:VEVENT
 BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -310,6 +295,21 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -477,19 +477,6 @@ URL:https://www.kosiceitvalley.sk/events/eduscrum-pre-pedagogov
 DTSTART;VALUE=DATE:20260602
 END:VEVENT
 BEGIN:VEVENT
-UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
-DTSTAMP:20251108T023138Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] MICE DAY Košice
-LOCATION:Boutique Hotel Slávia
-DESCRIPTION:Visit Košice\, pozýva odbornú verejnosť na podujatie MICE D
- ay Košice 2026\, ktoré otvorí diskusiu o budúcnosti biznis events sekt
- ora v Košiciach a jeho význame pre rozvoj regiónu.\n\nhttps://www.kosic
- eitvalley.sk/events/mice-day-kosice
-URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
-DTSTART;VALUE=DATE:20260528
-END:VEVENT
-BEGIN:VEVENT
 UID:fee27543a5bb92b00f028e05af338a5ea8363de0@cike-events
 DTSTAMP:20250721T204759Z
 CATEGORIES:ITVALLEY
@@ -501,6 +488,19 @@ DESCRIPTION:Dňa 28. mája 2026 sa v Košiciach uskutoční podujatie SARIO
  /events/sario-business-day-2026-v-kosiciach
 URL:https://www.kosiceitvalley.sk/events/sario-business-day-2026-v-kosiciac
  h
+DTSTART;VALUE=DATE:20260528
+END:VEVENT
+BEGIN:VEVENT
+UID:ed91deaf8f1c13581c0702fabcb6fc574c40e235@cike-events
+DTSTAMP:20251108T023138Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] MICE DAY Košice
+LOCATION:Boutique Hotel Slávia
+DESCRIPTION:Visit Košice\, pozýva odbornú verejnosť na podujatie MICE D
+ ay Košice 2026\, ktoré otvorí diskusiu o budúcnosti biznis events sekt
+ ora v Košiciach a jeho význame pre rozvoj regiónu.\n\nhttps://www.kosic
+ eitvalley.sk/events/mice-day-kosice
+URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
@@ -683,20 +683,6 @@ URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
 DTSTART;VALUE=DATE:20260415
 END:VEVENT
 BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -711,6 +697,20 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -1047,22 +1047,6 @@ URL:https://www.kosiceitvalley.sk/events/fail-fast-grow-smart
 DTSTART;VALUE=DATE:20251027
 END:VEVENT
 BEGIN:VEVENT
-UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
-DTSTAMP:20250725T223408Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
- systémy
-LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
-DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
- na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
- osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
- Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
- o-stavat-a-spravovat-ai-systemy
-URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
- spravovat-ai-systemy
-DTSTART;VALUE=DATE:20251022
-END:VEVENT
-BEGIN:VEVENT
 UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
 DTSTAMP:20251203T163550Z
 CATEGORIES:ITVALLEY
@@ -1077,6 +1061,22 @@ DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
  ntrepreneurship-as-a-possibility-for-data-analysts
 URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
  ity-for-data-analysts
+DTSTART;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
+UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
+DTSTAMP:20250725T223408Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
+ systémy
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
+ na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
+ osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
+ Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
+ o-stavat-a-spravovat-ai-systemy
+URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
+ spravovat-ai-systemy
 DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
@@ -1767,6 +1767,32 @@ DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3731/trustworthy
 URL:https://amcham.sk/events/3731/trustworthy-ai-in-the-age-of-cyber-resili
  ence
 DTSTART;VALUE=DATE:20261110
+END:VEVENT
+BEGIN:VEVENT
+UID:b72b7b637baeddf97b5c279125cde5affb193bcd@cike-events
+DTSTAMP:20250406T035603Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Tax Audits – Recent Developments and Experience
+LOCATION:online | Zoom
+DESCRIPTION:webcast organized by Deloitte\n\nhttps://amcham.sk/events/3739/
+ tax-audits-recent-developments-and-experience
+URL:https://amcham.sk/events/3739/tax-audits-recent-developments-and-experi
+ ence
+DTSTART;VALUE=DATE:20261111
+END:VEVENT
+BEGIN:VEVENT
+UID:f7d27112191502e4dfeb9dee211de1184a22d306@cike-events
+DTSTAMP:20251010T002049Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] EUDR 2026: The Postponement is Ending. How to Prepare
+  for the New Obligations?
+LOCATION:online | Zoom
+DESCRIPTION:webcast organized by Deloitte\n\nhttps://amcham.sk/events/3740/
+ eudr-2026-the-postponement-is-ending-how-to-prepare-for-the-new-obligation
+ s
+URL:https://amcham.sk/events/3740/eudr-2026-the-postponement-is-ending-how-
+ to-prepare-for-the-new-obligations
+DTSTART;VALUE=DATE:20261112
 END:VEVENT
 BEGIN:VEVENT
 UID:7f2cb0f80982931ac07c440889157c70b6387566@cike-events
@@ -2695,39 +2721,6 @@ DESCRIPTION:13th year of a unique event intended especially for women who w
  ladies-day
 URL:https://amcham.sk/events/3526/business-ladies-day
 DTSTART;VALUE=DATE:20251030
-END:VEVENT
-BEGIN:VEVENT
-UID:423837c674aac5426b71c787034f1afadb6d2620@cike-events
-DTSTAMP:20250326T170509Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: DUAL USE Kontrola vývozu položiek s dvojak
- ým použitím
-DESCRIPTION:Cieľ školenia: venuje sa položkám s dvojakým použitím\, 
- ktorými sú tovar\, vrátane softvéru a technológie\, ktoré možno pou
- žiť ako na civilné\, tak na vojenské účely. EÚ kontroluje vývoz\, 
- tranzit\, sprostredkovateľské služby [...] \\n\n\nhttps://www.sopk.sk/e
- vent/webinar-dual-use-kontrola-vyvozu-poloziek-s-dvojakym-pouzitim
-URL:https://www.sopk.sk/event/webinar-dual-use-kontrola-vyvozu-poloziek-s-d
- vojakym-pouzitim
-DTSTART:20261027T080000Z
-DTEND:20261027T140000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:20126207baf4e9047b54e5aa54eb6cdfb2bc219b@cike-events
-DTSTAMP:20250614T060312Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] E-FAKTURÁCIA OD ROKU 2027\, ČO SA MENÍ A AKO TO OVPL
- YVNÍ VAŠE PODNIKANIE
-LOCATION:ZRK SOPK\, Hálkova 31\, Žilina\, 01001
-DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na BEZPLATNÝ s
- eminár - E-FAKTURÁCIA OD R. 2027\, Čo sa mení a ako to ovplyvní vaš
- e podnikanie Od roku 2027 sa zásadne zmení spôsob vystavovania a [...] 
- \\n\n\nhttps://www.sopk.sk/event/e-fakturacia-od-roku-2027-co-sa-meni-a-ak
- o-to-ovplyvni-vase-podnikanie
-URL:https://www.sopk.sk/event/e-fakturacia-od-roku-2027-co-sa-meni-a-ako-to
- -ovplyvni-vase-podnikanie
-DTSTART:20261027T083000Z
-DTEND:20261027T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:bf97c6e76b49a6b858bc6b5cf492e8689d3c9d96@cike-events
