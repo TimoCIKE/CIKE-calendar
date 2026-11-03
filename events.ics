@@ -6,6 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
+UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
+DTSTAMP:20250123T002446Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
+DTSTART;VALUE=DATE:20261103
+END:VEVENT
+BEGIN:VEVENT
 UID:0a473b2dedfced3bf91864ecb99a12c5e1ce4145@cike-events
 DTSTAMP:20250602T201628Z
 CATEGORIES:ITVALLEY
@@ -16,21 +29,6 @@ DESCRIPTION:UX / Košice organizuje tradičné stretnutie komunity v podobe
  .sk/events/ux-pivo
 URL:https://www.kosiceitvalley.sk/events/ux-pivo
 DTSTART;VALUE=DATE:20261103
-END:VEVENT
-BEGIN:VEVENT
-UID:46f8f7eda441d06314f8fddc44840d8a911e335b@cike-events
-DTSTAMP:20250320T065634Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] BUDÚCNOSŤ NETECHNICKÝCH ROLÍ V ÉRE AI
-LOCATION:FPT Slovakia\, Južná trieda 6\, Košice
-DESCRIPTION:AI už dnes mení spôsob\, akým plánujeme projekty\, riadime
-  tímy či prijímame rozhodnutia. Čo to však znamená pre projektových
-  manažérov\, Scrum Masterov\, Product Ownerov a ďalšie netechnické ro
- ly v IT?\n\nhttps://www.kosiceitvalley.sk/events/buducnost-netechnickych-r
- oli-v-ere-ai
-URL:https://www.kosiceitvalley.sk/events/buducnost-netechnickych-roli-v-ere
- -ai
-DTSTART;VALUE=DATE:20261110
 END:VEVENT
 BEGIN:VEVENT
 UID:6c549c86719415a0c5f31262fc239310c16c3585@cike-events
@@ -48,6 +46,34 @@ DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
 END:VEVENT
 BEGIN:VEVENT
+UID:46f8f7eda441d06314f8fddc44840d8a911e335b@cike-events
+DTSTAMP:20250320T065634Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] BUDÚCNOSŤ NETECHNICKÝCH ROLÍ V ÉRE AI
+LOCATION:FPT Slovakia\, Južná trieda 6\, Košice
+DESCRIPTION:AI už dnes mení spôsob\, akým plánujeme projekty\, riadime
+  tímy či prijímame rozhodnutia. Čo to však znamená pre projektových
+  manažérov\, Scrum Masterov\, Product Ownerov a ďalšie netechnické ro
+ ly v IT?\n\nhttps://www.kosiceitvalley.sk/events/buducnost-netechnickych-r
+ oli-v-ere-ai
+URL:https://www.kosiceitvalley.sk/events/buducnost-netechnickych-roli-v-ere
+ -ai
+DTSTART;VALUE=DATE:20261110
+END:VEVENT
+BEGIN:VEVENT
+UID:45ec63d0b34feb4bc34c324bba268db8b31f1db1@cike-events
+DTSTAMP:20250721T064959Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup – SHIFT HAPPENS
+LOCATION:GESTO cafe&brunch\, Námestie L. Novomeského 13\, Košice
+DESCRIPTION:Ako môže umelá inteligencia pomôcť firmám rásť\, vytvá
+ rať nové príležitosti a uspieť na trhu? AI Community Meetup bude pln
+ ý praktických pohľadov\, diskusií a networkingu.\n\nhttps://www.kosice
+ itvalley.sk/events/ai-community-meetup-shift-happens
+URL:https://www.kosiceitvalley.sk/events/ai-community-meetup-shift-happens
+DTSTART;VALUE=DATE:20261112
+END:VEVENT
+BEGIN:VEVENT
 UID:07358ffd4083b270c09c1778a2ab94f64ff90055@cike-events
 DTSTAMP:20250115T152232Z
 CATEGORIES:ITVALLEY
@@ -61,19 +87,6 @@ DESCRIPTION:Ako sa môžu lídri posunúť od experimentovania s AI k jej z
  portunity-confidence-and-responsible-adoption
 URL:https://www.kosiceitvalley.sk/events/business-breakfast-ai-for-leaders-
  opportunity-confidence-and-responsible-adoption
-DTSTART;VALUE=DATE:20261112
-END:VEVENT
-BEGIN:VEVENT
-UID:45ec63d0b34feb4bc34c324bba268db8b31f1db1@cike-events
-DTSTAMP:20250721T064959Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup – SHIFT HAPPENS
-LOCATION:GESTO cafe&brunch\, Námestie L. Novomeského 13\, Košice
-DESCRIPTION:Ako môže umelá inteligencia pomôcť firmám rásť\, vytvá
- rať nové príležitosti a uspieť na trhu? AI Community Meetup bude pln
- ý praktických pohľadov\, diskusií a networkingu.\n\nhttps://www.kosice
- itvalley.sk/events/ai-community-meetup-shift-happens
-URL:https://www.kosiceitvalley.sk/events/ai-community-meetup-shift-happens
 DTSTART;VALUE=DATE:20261112
 END:VEVENT
 BEGIN:VEVENT
@@ -105,23 +118,6 @@ DESCRIPTION:Navštívte Industry 4.0 Showroom Mitsubishi Electric v Krakove
 URL:https://www.kosiceitvalley.sk/events/industry-4-0-showroom-mitsubishi-e
  lectric-inovacie-automatizacia-a-buducnost-priemyslu
 DTSTART;VALUE=DATE:20261124
-END:VEVENT
-BEGIN:VEVENT
-UID:66ced89e3f72a234f3353ec3513cb22e9ac0b497@cike-events
-DTSTAMP:20251229T083025Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Business Breakfast: Beyond Borders: Expanzia na zah
- raničné trhy
-LOCATION:UVP Technicom\, Němcovej 5
-DESCRIPTION:Ako nájsť nové obchodné príležitosti a uspieť v zahrani
- čí? Pozývame vás na podujatie v spolupráci s Chorvátskou obchodnou k
- omorou. Získate praktický pohľad na expanziu technologických firiem so
-  zameraním na Chorvátsko ako potenciálny trh pre IT spoločnosti a posk
- ytovateľov technologických riešení.\n\nhttps://www.kosiceitvalley.sk/e
- vents/business-breakfast-beyond-borders-expanzia-na-zahranicne-trhy
-URL:https://www.kosiceitvalley.sk/events/business-breakfast-beyond-borders-
- expanzia-na-zahranicne-trhy
-DTSTART;VALUE=DATE:20261126
 END:VEVENT
 BEGIN:VEVENT
 UID:b42c82dbd135da39d594296b88b4150efe48aa52@cike-events
@@ -194,19 +190,6 @@ DESCRIPTION:Dlhodobo pracujeme s témami rozvoja talentu\, vzdelávania\, i
 URL:https://www.kosiceitvalley.sk/events/liderky-2026
 DTSTART;VALUE=DATE:20261008
 DTEND;VALUE=DATE:20261010
-END:VEVENT
-BEGIN:VEVENT
-UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
-DTSTAMP:20250123T002446Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
-LOCATION:UVP Technicom
-DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
- ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
- etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
- ts/klubovna-pre-nadane-deti
-URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
-DTSTART;VALUE=DATE:20261006
 END:VEVENT
 BEGIN:VEVENT
 UID:e26a58f44a5aac9ab41860719edd88b47523000f@cike-events
@@ -358,22 +341,6 @@ DESCRIPTION:Je možné budovať úspešnú kariéru\, pracovať pre medzin
  lley.sk/events/lokalne-korene-globalne-moznosti
 URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
 DTSTART;VALUE=DATE:20260625
-END:VEVENT
-BEGIN:VEVENT
-UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
-DTSTAMP:20251012T075924Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Summer Night Out s Košice IT Valley
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
- t Out\, IT Valley Drinks\, či CEO Breakfast a v neposlednom rade vianočn
- é večierky s nezabudnuteľnou atmosférou. Vytvárame pre našich členo
- v a partnerov z ekosystému priestor pre vznik synapsií\, nových kontakt
- ov\, vzájomné zdieľanie úspechov\, myšlienok\, či nápadov.\n\nhttps
- ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
-URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
- y
-DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
 UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
@@ -582,6 +549,19 @@ URL:https://www.kosiceitvalley.sk/events/mice-day-kosice
 DTSTART;VALUE=DATE:20260528
 END:VEVENT
 BEGIN:VEVENT
+UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
+DTSTAMP:20251108T045302Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] CEO Breakfast
+LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
+DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
+ ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
+ nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
+ ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
+URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
+DTSTART;VALUE=DATE:20260527
+END:VEVENT
+BEGIN:VEVENT
 UID:9479fbd89ee6ba1417ec4766dcf6f056c55f2627@cike-events
 DTSTAMP:20250610T013952Z
 CATEGORIES:ITVALLEY
@@ -595,19 +575,6 @@ DESCRIPTION:Online meetup člena klastra bart.sk o praktickom využití AI
  zitie-ai-v-digitalnych-rieseniach
 URL:https://www.kosiceitvalley.sk/events/strategicke-vyuzitie-ai-v-digitaln
  ych-rieseniach
-DTSTART;VALUE=DATE:20260527
-END:VEVENT
-BEGIN:VEVENT
-UID:2e43054a13cfdea4b612eb4f733dcc3caf5340df@cike-events
-DTSTAMP:20251108T045302Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] CEO Breakfast
-LOCATION:DKC Veritas\, Dominikánske námestie 8\, Košice
-DESCRIPTION:Na CEO Breakfast privítame Hugo Gloss z DEKK Institute. Diskus
- ia sa zameria na ekonomickú neistotu\, podnikanie na Slovensku a spoloče
- nskú dôveru. Stretnutie lídrov sa uskutoční 27. mája o 9:00 v DKC Ve
- ritas.\n\nhttps://www.kosiceitvalley.sk/events/ceo-breakfast
-URL:https://www.kosiceitvalley.sk/events/ceo-breakfast
 DTSTART;VALUE=DATE:20260527
 END:VEVENT
 BEGIN:VEVENT
@@ -625,6 +592,22 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -639,22 +622,6 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -761,6 +728,20 @@ URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
 DTSTART;VALUE=DATE:20260415
 END:VEVENT
 BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -775,20 +756,6 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -1125,22 +1092,6 @@ URL:https://www.kosiceitvalley.sk/events/fail-fast-grow-smart
 DTSTART;VALUE=DATE:20251027
 END:VEVENT
 BEGIN:VEVENT
-UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
-DTSTAMP:20250725T223408Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
- systémy
-LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
-DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
- na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
- osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
- Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
- o-stavat-a-spravovat-ai-systemy
-URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
- spravovat-ai-systemy
-DTSTART;VALUE=DATE:20251022
-END:VEVENT
-BEGIN:VEVENT
 UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
 DTSTAMP:20251203T163550Z
 CATEGORIES:ITVALLEY
@@ -1155,6 +1106,22 @@ DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
  ntrepreneurship-as-a-possibility-for-data-analysts
 URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
  ity-for-data-analysts
+DTSTART;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
+UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
+DTSTAMP:20250725T223408Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
+ systémy
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
+ na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
+ osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
+ Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
+ o-stavat-a-spravovat-ai-systemy
+URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
+ spravovat-ai-systemy
 DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
@@ -2793,22 +2760,6 @@ URL:https://amcham.sk/events/3562/speed-business-meeting-in-banska-bystrica
 DTSTART;VALUE=DATE:20251104
 END:VEVENT
 BEGIN:VEVENT
-UID:414090a79393967d9f657697327121e9d2a42430@cike-events
-DTSTAMP:20251219T055232Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Webinár: Preferenčný pôvod tovaru v medzinárodnom 
- obchode
-DESCRIPTION:Cieľ webinára: prevedieme Vás krok za krokom problematikou p
- referenčného pôvodu tovaru s praktickými príkladmi riešenia prípado
- v z aplikačnej praxe. Naučíme Vás správne vystaviť dôkazy pôvodu v
-  EÚ\, dozviete sa o preferenčnom [...] \\n\n\nhttps://www.sopk.sk/event/
- webinar-preferencny-povod-tovaru-v-medzinarodnom-obchode
-URL:https://www.sopk.sk/event/webinar-preferencny-povod-tovaru-v-medzinarod
- nom-obchode
-DTSTART:20261103T080000Z
-DTEND:20261103T140000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:59e69bd4e1d5436047c221656616361c807cdd9c@cike-events
 DTSTAMP:20251031T151236Z
 CATEGORIES:SOPK
@@ -2820,41 +2771,6 @@ DESCRIPTION:Pozývame Vás na odborný vzdelávací webinár Colná problem
  .sk/event/webinar-colna-problematika-pre-logistiku-4
 URL:https://www.sopk.sk/event/webinar-colna-problematika-pre-logistiku-4
 DTSTART:20261103T080000Z
-DTEND:20261103T140000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:691166b808e3c53ea484f4258b1b5af99f5bb4d3@cike-events
-DTSTAMP:20250318T171713Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] RIZIKÁ A PRÍLEŽITOSTI AI – Ako efektívne implemen
- tovať umelú inteligenciu bez rizika pre vaše dáta
-DESCRIPTION:Žilinská regionálna komora SOPK si Vás dovoľuje pozvať na
-  seminár RIZIKÁ A PRÍLEŽITOSTI AI - Ako efektívne implementovať um
- elú inteligenciu bez rizika pre vaše dáta Termín: 3.11.2026 od 10:00 h
- od. Miesto: Žilinská regionálna [...] \\n\n\nhttps://www.sopk.sk/event/
- rizika-a-prilezitosti-ai-ako-efektivne-implementovat-umelu-inteligenciu-be
- z-rizika-pre-vase-data
-URL:https://www.sopk.sk/event/rizika-a-prilezitosti-ai-ako-efektivne-implem
- entovat-umelu-inteligenciu-bez-rizika-pre-vase-data
-DTSTART:20261103T090000Z
-DTEND:20261103T130000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:604a4e78604aa69eb03b40ea480f9ab3a085793b@cike-events
-DTSTAMP:20251103T141800Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Biznis klub SOPK : Umenie akvizície: od prvého kontak
- tu až po stretnutie
-LOCATION:TTSK\, Starohájska 10\, Trnava
-DESCRIPTION:Trnavská regionálna komora SOPK pozýva podnikateľov\, obcho
- dníkov a vedúcich obchodných tímov na ďalšie stretnutie v rámci Biz
- nis klubu podnikateľov. Tentokrát sa zameriame na jednu z najdôležitej
- ších tém obchodného rastu – akvizíciu [...] \\n\n\nhttps://www.sopk
- .sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-kontaktu-az-po-stret
- nutie-duplicate-1-2
-URL:https://www.sopk.sk/event/biznis-klub-sopk-umenie-akvizicie-od-prveho-k
- ontaktu-az-po-stretnutie-duplicate-1-2
-DTSTART:20261103T090000Z
 DTEND:20261103T140000Z
 END:VEVENT
 BEGIN:VEVENT
