@@ -6,21 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:46f8f7eda441d06314f8fddc44840d8a911e335b@cike-events
-DTSTAMP:20250320T065634Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] BUDÚCNOSŤ NETECHNICKÝCH ROLÍ V ÉRE AI
-LOCATION:FPT Slovakia\, Južná trieda 6\, Košice
-DESCRIPTION:AI už dnes mení spôsob\, akým plánujeme projekty\, riadime
-  tímy či prijímame rozhodnutia. Čo to však znamená pre projektových
-  manažérov\, Scrum Masterov\, Product Ownerov a ďalšie netechnické ro
- ly v IT?\n\nhttps://www.kosiceitvalley.sk/events/buducnost-netechnickych-r
- oli-v-ere-ai
-URL:https://www.kosiceitvalley.sk/events/buducnost-netechnickych-roli-v-ere
- -ai
-DTSTART;VALUE=DATE:20261110
-END:VEVENT
-BEGIN:VEVENT
 UID:6c549c86719415a0c5f31262fc239310c16c3585@cike-events
 DTSTAMP:20250721T184549Z
 CATEGORIES:ITVALLEY
@@ -34,6 +19,21 @@ DESCRIPTION:Programovanie. Mentoring. Zábava. Účastníkov čaká intenz
 URL:https://www.kosiceitvalley.sk/events/hackaton
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261112
+END:VEVENT
+BEGIN:VEVENT
+UID:46f8f7eda441d06314f8fddc44840d8a911e335b@cike-events
+DTSTAMP:20250320T065634Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] BUDÚCNOSŤ NETECHNICKÝCH ROLÍ V ÉRE AI
+LOCATION:FPT Slovakia\, Južná trieda 6\, Košice
+DESCRIPTION:AI už dnes mení spôsob\, akým plánujeme projekty\, riadime
+  tímy či prijímame rozhodnutia. Čo to však znamená pre projektových
+  manažérov\, Scrum Masterov\, Product Ownerov a ďalšie netechnické ro
+ ly v IT?\n\nhttps://www.kosiceitvalley.sk/events/buducnost-netechnickych-r
+ oli-v-ere-ai
+URL:https://www.kosiceitvalley.sk/events/buducnost-netechnickych-roli-v-ere
+ -ai
+DTSTART;VALUE=DATE:20261110
 END:VEVENT
 BEGIN:VEVENT
 UID:45ec63d0b34feb4bc34c324bba268db8b31f1db1@cike-events
@@ -65,6 +65,19 @@ URL:https://www.kosiceitvalley.sk/events/business-breakfast-ai-for-leaders-
 DTSTART;VALUE=DATE:20261112
 END:VEVENT
 BEGIN:VEVENT
+UID:66a17d068af7d49b9b28ad359a1ed435d36d17df@cike-events
+DTSTAMP:20250630T005310Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Od obchodu až po výrobu
+LOCATION:Bezplatný webinár
+DESCRIPTION:Naša členská spoločnosť Telegrafia\, a.s. pozýva na bezpl
+ atný online webinár Od obchodu po výrobu\, ktorý ukáže\, ako efektí
+ vne prepojiť obchod\, sklad a výrobu v jednom systéme.\n\nhttps://www.k
+ osiceitvalley.sk/events/od-obchodu-az-po-vyrobu
+URL:https://www.kosiceitvalley.sk/events/od-obchodu-az-po-vyrobu
+DTSTART;VALUE=DATE:20261119
+END:VEVENT
+BEGIN:VEVENT
 UID:306f1c377a7a82bd977c368ff1c4770ed56afc92@cike-events
 DTSTAMP:20250805T223722Z
 CATEGORIES:ITVALLEY
@@ -78,19 +91,6 @@ DESCRIPTION:Ako zabezpečiť kontinuitu firmy\, ochrániť jej majetok a za
  sa-firma-pripravena-fungovat-aj-bez-vas
 URL:https://www.kosiceitvalley.sk/events/je-vasa-firma-pripravena-fungovat-
  aj-bez-vas
-DTSTART;VALUE=DATE:20261119
-END:VEVENT
-BEGIN:VEVENT
-UID:66a17d068af7d49b9b28ad359a1ed435d36d17df@cike-events
-DTSTAMP:20250630T005310Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Od obchodu až po výrobu
-LOCATION:Bezplatný webinár
-DESCRIPTION:Naša členská spoločnosť Telegrafia\, a.s. pozýva na bezpl
- atný online webinár Od obchodu po výrobu\, ktorý ukáže\, ako efektí
- vne prepojiť obchod\, sklad a výrobu v jednom systéme.\n\nhttps://www.k
- osiceitvalley.sk/events/od-obchodu-az-po-vyrobu
-URL:https://www.kosiceitvalley.sk/events/od-obchodu-az-po-vyrobu
 DTSTART;VALUE=DATE:20261119
 END:VEVENT
 BEGIN:VEVENT
@@ -624,22 +624,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -654,6 +638,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1124,6 +1124,22 @@ URL:https://www.kosiceitvalley.sk/events/fail-fast-grow-smart
 DTSTART;VALUE=DATE:20251027
 END:VEVENT
 BEGIN:VEVENT
+UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
+DTSTAMP:20250725T223408Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
+ systémy
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
+ na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
+ osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
+ Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
+ o-stavat-a-spravovat-ai-systemy
+URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
+ spravovat-ai-systemy
+DTSTART;VALUE=DATE:20251022
+END:VEVENT
+BEGIN:VEVENT
 UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
 DTSTAMP:20251203T163550Z
 CATEGORIES:ITVALLEY
@@ -1138,22 +1154,6 @@ DESCRIPTION:Prednáška ukáže\, ako môžu dátoví analytici uplatniť p
  ntrepreneurship-as-a-possibility-for-data-analysts
 URL:https://www.kosiceitvalley.sk/events/dam-entrepreneurship-as-a-possibil
  ity-for-data-analysts
-DTSTART;VALUE=DATE:20251022
-END:VEVENT
-BEGIN:VEVENT
-UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
-DTSTAMP:20250725T223408Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
- systémy
-LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
-DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
- na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
- osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
- Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
- o-stavat-a-spravovat-ai-systemy
-URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
- spravovat-ai-systemy
 DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
@@ -1790,18 +1790,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:4e9e3529f19abb076dc3bbc9709552b8cd00b594@cike-events
-DTSTAMP:20250723T092929Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Trustworthy AI in the Age of Cyber Resilience
-LOCATION:Jurkovičova Tepláreň (Ground Floor)\, Bottova 1\, Bratislava
-DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3731/trustworthy
- -ai-in-the-age-of-cyber-resilience
-URL:https://amcham.sk/events/3731/trustworthy-ai-in-the-age-of-cyber-resili
- ence
-DTSTART;VALUE=DATE:20261110
-END:VEVENT
-BEGIN:VEVENT
 UID:b72b7b637baeddf97b5c279125cde5affb193bcd@cike-events
 DTSTAMP:20250406T035603Z
 CATEGORIES:AMCHAM
@@ -1888,6 +1876,17 @@ URL:https://amcham.sk/events/3725/open-day
 DTSTART;VALUE=DATE:20261121
 END:VEVENT
 BEGIN:VEVENT
+UID:7c86043d6980caf3c307a65f3a68e32c2ee407b4@cike-events
+DTSTAMP:20250429T033458Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Autumn Pharmaceutical Webinar
+LOCATION:online | Zoom
+DESCRIPTION:webinar organized by Deloitte\n\nhttps://amcham.sk/events/3743/
+ autumn-pharmaceutical-webinar
+URL:https://amcham.sk/events/3743/autumn-pharmaceutical-webinar
+DTSTART;VALUE=DATE:20261126
+END:VEVENT
+BEGIN:VEVENT
 UID:fd7a1849679f179129582b53d2359497e4ecbea7@cike-events
 DTSTAMP:20250501T021937Z
 CATEGORIES:AMCHAM
@@ -1947,6 +1946,18 @@ DESCRIPTION:organized by AIM Group Slovakia\n\nhttps://amcham.sk/events/374
 URL:https://amcham.sk/events/3741/longevity-leadership-summit
 DTSTART;VALUE=DATE:20260309
 DTEND;VALUE=DATE:20260311
+END:VEVENT
+BEGIN:VEVENT
+UID:4e9e3529f19abb076dc3bbc9709552b8cd00b594@cike-events
+DTSTAMP:20250723T092929Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Trustworthy AI in the Age of Cyber Resilience
+LOCATION:Jurkovičova Tepláreň (Ground Floor)\, Bottova 1\, Bratislava
+DESCRIPTION:Business Breakfast\n\nhttps://amcham.sk/events/3731/trustworthy
+ -ai-in-the-age-of-cyber-resilience
+URL:https://amcham.sk/events/3731/trustworthy-ai-in-the-age-of-cyber-resili
+ ence
+DTSTART;VALUE=DATE:20261110
 END:VEVENT
 BEGIN:VEVENT
 UID:561b88b0ecdc3967a5bba817e4b287e5040ab710@cike-events
@@ -2783,19 +2794,6 @@ DESCRIPTION:Proexportné networkingové stretnutie NCA na Velehrade Kedy: 1
 URL:https://www.sopk.sk/event/proexportne-networkingove-stretnutie-nca
 DTSTART:20261109T230000Z
 DTEND:20261110T225959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:f57ec463415863bdaa4f01702094e9224328eec8@cike-events
-DTSTAMP:20250418T220113Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] E-fakturácia
-DESCRIPTION:Trenčianska regionálna komora SOPK pozýva svojich členov\, 
- podnikateľov a partnerov na BUSINESS  BREAKFAST s témou E-fakturácia -
-  elektronická fakturácia a digitálne oznamovanie údajov z faktúr – 
- ako sa týka Vás a [...] \\n\n\nhttps://www.sopk.sk/event/e-fakturacia
-URL:https://www.sopk.sk/event/e-fakturacia
-DTSTART:20261110T080000Z
-DTEND:20261110T110000Z
 END:VEVENT
 BEGIN:VEVENT
 UID:d93b58f7848fa938cadcc6dd2c71659ce2191384@cike-events
