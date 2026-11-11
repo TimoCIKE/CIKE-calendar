@@ -6,36 +6,6 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
-UID:6c549c86719415a0c5f31262fc239310c16c3585@cike-events
-DTSTAMP:20250721T184549Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Hackathon | Code. Solve. Impact.
-LOCATION:UVP Technicom\, Němcovej 5
-DESCRIPTION:Programovanie. Mentoring. Zábava. Účastníkov čaká intenz
- ívne 24-hodinové podujatie\, počas ktorého budú riešiť technické v
- ýzvy\, konzultovať svoje nápady s mentormi a pracovať na funkčných a
-  inovatívnych riešeniach.\n\nhttps://www.kosiceitvalley.sk/events/hackat
- on
-URL:https://www.kosiceitvalley.sk/events/hackaton
-DTSTART;VALUE=DATE:20261110
-DTEND;VALUE=DATE:20261112
-END:VEVENT
-BEGIN:VEVENT
-UID:46f8f7eda441d06314f8fddc44840d8a911e335b@cike-events
-DTSTAMP:20250320T065634Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] BUDÚCNOSŤ NETECHNICKÝCH ROLÍ V ÉRE AI
-LOCATION:FPT Slovakia\, Južná trieda 6\, Košice
-DESCRIPTION:AI už dnes mení spôsob\, akým plánujeme projekty\, riadime
-  tímy či prijímame rozhodnutia. Čo to však znamená pre projektových
-  manažérov\, Scrum Masterov\, Product Ownerov a ďalšie netechnické ro
- ly v IT?\n\nhttps://www.kosiceitvalley.sk/events/buducnost-netechnickych-r
- oli-v-ere-ai
-URL:https://www.kosiceitvalley.sk/events/buducnost-netechnickych-roli-v-ere
- -ai
-DTSTART;VALUE=DATE:20261110
-END:VEVENT
-BEGIN:VEVENT
 UID:45ec63d0b34feb4bc34c324bba268db8b31f1db1@cike-events
 DTSTAMP:20250721T064959Z
 CATEGORIES:ITVALLEY
@@ -123,6 +93,36 @@ DESCRIPTION:Vykročme spoločne do vianočného obdobia! Večer je určený
 URL:https://www.kosiceitvalley.sk/events/crack-the-season-kosice-it-valley-
  christmas-gathering
 DTSTART;VALUE=DATE:20261209
+END:VEVENT
+BEGIN:VEVENT
+UID:6c549c86719415a0c5f31262fc239310c16c3585@cike-events
+DTSTAMP:20250721T184549Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Hackathon | Code. Solve. Impact.
+LOCATION:UVP Technicom\, Němcovej 5
+DESCRIPTION:Programovanie. Mentoring. Zábava. Účastníkov čaká intenz
+ ívne 24-hodinové podujatie\, počas ktorého budú riešiť technické v
+ ýzvy\, konzultovať svoje nápady s mentormi a pracovať na funkčných a
+  inovatívnych riešeniach.\n\nhttps://www.kosiceitvalley.sk/events/hackat
+ on
+URL:https://www.kosiceitvalley.sk/events/hackaton
+DTSTART;VALUE=DATE:20261110
+DTEND;VALUE=DATE:20261112
+END:VEVENT
+BEGIN:VEVENT
+UID:46f8f7eda441d06314f8fddc44840d8a911e335b@cike-events
+DTSTAMP:20250320T065634Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] BUDÚCNOSŤ NETECHNICKÝCH ROLÍ V ÉRE AI
+LOCATION:FPT Slovakia\, Južná trieda 6\, Košice
+DESCRIPTION:AI už dnes mení spôsob\, akým plánujeme projekty\, riadime
+  tímy či prijímame rozhodnutia. Čo to však znamená pre projektových
+  manažérov\, Scrum Masterov\, Product Ownerov a ďalšie netechnické ro
+ ly v IT?\n\nhttps://www.kosiceitvalley.sk/events/buducnost-netechnickych-r
+ oli-v-ere-ai
+URL:https://www.kosiceitvalley.sk/events/buducnost-netechnickych-roli-v-ere
+ -ai
+DTSTART;VALUE=DATE:20261110
 END:VEVENT
 BEGIN:VEVENT
 UID:0a473b2dedfced3bf91864ecb99a12c5e1ce4145@cike-events
@@ -624,6 +624,22 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -638,22 +654,6 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1790,18 +1790,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:b72b7b637baeddf97b5c279125cde5affb193bcd@cike-events
-DTSTAMP:20250406T035603Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Tax Audits – Recent Developments and Experience
-LOCATION:online | Zoom
-DESCRIPTION:webcast organized by Deloitte\n\nhttps://amcham.sk/events/3739/
- tax-audits-recent-developments-and-experience
-URL:https://amcham.sk/events/3739/tax-audits-recent-developments-and-experi
- ence
-DTSTART;VALUE=DATE:20261111
-END:VEVENT
-BEGIN:VEVENT
 UID:f7d27112191502e4dfeb9dee211de1184a22d306@cike-events
 DTSTAMP:20251010T002049Z
 CATEGORIES:AMCHAM
@@ -2782,37 +2770,6 @@ URL:https://amcham.sk/events/3570/social-dialogue-that-works-law-tactics-pr
 DTSTART;VALUE=DATE:20251120
 END:VEVENT
 BEGIN:VEVENT
-UID:b30c045b2140e2ecdc4cdec3dd77848befd4c2da@cike-events
-DTSTAMP:20250727T051529Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] Proexportné networkingové stretnutie NCA
-DESCRIPTION:Proexportné networkingové stretnutie NCA na Velehrade Kedy: 1
- 0. novembra 2026\, 15.00 – 18.00 h Kde: Hotel SKANZEN\, zasadacia miestn
- osť\, Modrá 227\, 687 06 Velehrad\, Česká republika Príďte načerpa
- ť praktické skúsenosti od [...] \\n\n\nhttps://www.sopk.sk/event/proexp
- ortne-networkingove-stretnutie-nca
-URL:https://www.sopk.sk/event/proexportne-networkingove-stretnutie-nca
-DTSTART:20261109T230000Z
-DTEND:20261110T225959Z
-END:VEVENT
-BEGIN:VEVENT
-UID:d93b58f7848fa938cadcc6dd2c71659ce2191384@cike-events
-DTSTAMP:20250223T013849Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] JOBSPOT TRNAVA 2026: Príležitosť predstaviť sa bud
- úcim zamestnancom
-LOCATION:Holiday Inn\, Hornopotočná 5\, Trnava
-DESCRIPTION:Trnavská regionálna komora SOPK ako spoluorganizátor v spolu
- práci s Národným kariérnym centrom pozýva zamestnávateľov na účas
- ť na veľtrhu práce JOBSPOT Trnava\, ktorý sa uskutoční 11. novembra 
- v Trnave. JOBSPOT je významné [...] \\n\n\nhttps://www.sopk.sk/event/job
- spot-trnava-2026-prilezitost-predstavit-sa-buducim-zamestnancom
-URL:https://www.sopk.sk/event/jobspot-trnava-2026-prilezitost-predstavit-sa
- -buducim-zamestnancom
-DTSTART:20261111T080000Z
-DTEND:20261111T123000Z
-END:VEVENT
-BEGIN:VEVENT
 UID:26a228900be1f42878d77133a4b49f6f4f415e05@cike-events
 DTSTAMP:20250611T115159Z
 CATEGORIES:SOPK
@@ -3015,6 +2972,21 @@ DTSTART:20261202T230000Z
 DTEND:20261204T225959Z
 END:VEVENT
 BEGIN:VEVENT
+UID:e6e9830aba44339e9de11770797e66030d1fdaa4@cike-events
+DTSTAMP:20250302T215415Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] SLOVENSKO – POĽSKÉ PODNIKATEĽSKÉ FÓRUM 2026
+LOCATION:AquaCity Poprad\, Športová 1397/1\, Poprad
+DESCRIPTION:Poľsko predstavuje obrovský a dynamicky sa rozvíjajúci trh 
+ s takmer 40 miliónmi spotrebiteľov. Naša geografická blízkoť a statu
+ s Poľska ako jedného z našich najväčších obchodných partnerov mini
+ malizujú náklady na logistiku a [...] \\n\n\nhttps://www.sopk.sk/event/s
+ lovensko-polske-podnikatelske-forum-2026
+URL:https://www.sopk.sk/event/slovensko-polske-podnikatelske-forum-2026
+DTSTART:20261203T070000Z
+DTEND:20261203T130000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:ceb7864765e11ea27863a0dbf11b4b2677f6c83d@cike-events
 DTSTAMP:20250329T220342Z
 CATEGORIES:SOPK
@@ -3062,6 +3034,20 @@ DTSTART:20261210T090000Z
 DTEND:20261210T120000Z
 END:VEVENT
 BEGIN:VEVENT
+UID:579f0eb9cb53538e856253df6ca83dfb6b5781ee@cike-events
+DTSTAMP:20250129T182029Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] Nový Colný kódex Únie (EÚ) 2026/2108
+DESCRIPTION:Banskobystrická regionálna komora SOPK Vás pozýva na semin
+ ár „Nový Colný kódex Únie (EÚ) 2026/2108“\, ktorý sa bude kona
+ ť  dňa 15.12 2026 od 8.30h do 15:00h. v zasadačke Banskobystrickej RK
+  SOPK\, Nám. Š. [...] \\n\n\nhttps://www.sopk.sk/event/novy-colny-kodex-
+ unie-eu-2026-2108
+URL:https://www.sopk.sk/event/novy-colny-kodex-unie-eu-2026-2108
+DTSTART:20261215T073000Z
+DTEND:20261215T140000Z
+END:VEVENT
+BEGIN:VEVENT
 UID:b832bf36d80a9ac5fe0cc025ac45829b1e39c188@cike-events
 DTSTAMP:20251109T050623Z
 CATEGORIES:SOPK
@@ -3076,6 +3062,23 @@ URL:https://www.sopk.sk/event/webinar-taric-colny-sadzobnik-a-zatriedenie-t
  ovaru
 DTSTART:20261215T080000Z
 DTEND:20261215T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:94b4dc84d44cee21968046a770d647b7373384b8@cike-events
+DTSTAMP:20251221T111907Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] STYL a KABO / BEAUTY DAYS PRO FEBRUÁR 2027- ZĽAVNENÉ
+  CENY PLOCHY DO 30.11.2026
+DESCRIPTION:Trenčianska regionálna komora SOPK - Sekcia textilného\, ode
+ vného\, kožiarskeho a obuvníckeho priemyslu v spolupráci s Veletrhy Br
+ no a.s.\, organizuje účasť slovenských subjektov na 68. B2B veľtrhoch
+  módy\, obuvi a koženého tovaru [...] \\n\n\nhttps://www.sopk.sk/event/
+ styl-a-kabo-beauty-days-pro-februar-2027-zlavnene-ceny-plochy-do-30-11-202
+ 6
+URL:https://www.sopk.sk/event/styl-a-kabo-beauty-days-pro-februar-2027-zlav
+ nene-ceny-plochy-do-30-11-2026
+DTSTART:20270211T230000Z
+DTEND:20270214T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:39122f5496a77c707a17b6dbcd4df8317b9cd09b@cike-events
