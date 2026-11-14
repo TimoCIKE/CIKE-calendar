@@ -359,6 +359,21 @@ URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
 DTSTART;VALUE=DATE:20260625
 END:VEVENT
 BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -372,21 +387,6 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -1888,6 +1888,31 @@ URL:https://amcham.sk/events/3738/leadership-2027-navigating-change-through
 DTSTART;VALUE=DATE:20261202
 END:VEVENT
 BEGIN:VEVENT
+UID:41b2e803aad9359f363c77fc577bf888939d4367@cike-events
+DTSTAMP:20250415T204451Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Christmas Speed Business Meeting in Pezinok
+LOCATION:Palace Art Hotel Pezinok\, Mladoboleslavská 5\, Pezinok
+DESCRIPTION:ChamCham Networking Event\n\nhttps://amcham.sk/events/3748/chri
+ stmas-speed-business-meeting-in-pezinok
+URL:https://amcham.sk/events/3748/christmas-speed-business-meeting-in-pezin
+ ok
+DTSTART;VALUE=DATE:20261203
+END:VEVENT
+BEGIN:VEVENT
+UID:c1e6a74923ea988cd602d39e808e80fc0f7f8084@cike-events
+DTSTAMP:20250923T073755Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] AI in Action: From Agentic AI to Secure Business Tran
+ sformation
+LOCATION:DoubleTree by Hilton\, Hlavná 1\, Košice
+DESCRIPTION:Business Seminar in Košice\n\nhttps://amcham.sk/events/3747/ai
+ -in-action-from-agentic-ai-to-secure-business-transformation
+URL:https://amcham.sk/events/3747/ai-in-action-from-agentic-ai-to-secure-bu
+ siness-transformation
+DTSTART;VALUE=DATE:20261208
+END:VEVENT
+BEGIN:VEVENT
 UID:6bd672e213c75676e210fe35deaeff71cb666ef1@cike-events
 DTSTAMP:20250104T221336Z
 CATEGORIES:AMCHAM
@@ -2939,19 +2964,6 @@ URL:https://www.sopk.sk/event/danove-a-nedanove-vydavky-v-praxi-ako-sa-vyhn
  ut-najcastejsim-chybam
 DTSTART:20261201T080000Z
 DTEND:20261201T140000Z
-END:VEVENT
-BEGIN:VEVENT
-UID:0ee9ebc724446745d3869dc5dafcc9c816336596@cike-events
-DTSTAMP:20251027T023339Z
-CATEGORIES:SOPK
-SUMMARY:🟧 [SOPK] FINANČÝ PLÁN. FORECAST. 2027.
-DESCRIPTION:PLÁN. FORECAST. 2027. Naplánujte financie firmy na rok 2027 u
- ž dnes Ako skončí vaša firma rok 2026? Budete mať v roku 2027 dostato
- k financií na plánovaný rast\, investície a úvery? Nespoliehajte [...
- ] \\n\n\nhttps://www.sopk.sk/event/plan-forecast-2027
-URL:https://www.sopk.sk/event/plan-forecast-2027
-DTSTART:20261202T230000Z
-DTEND:20261204T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e6e9830aba44339e9de11770797e66030d1fdaa4@cike-events
