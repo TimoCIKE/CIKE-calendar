@@ -6,6 +6,19 @@ METHOD:PUBLISH
 X-WR-CALNAME:CIKE Events
 X-WR-TIMEZONE:Europe/Bratislava
 BEGIN:VEVENT
+UID:66a17d068af7d49b9b28ad359a1ed435d36d17df@cike-events
+DTSTAMP:20250630T005310Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Od obchodu až po výrobu
+LOCATION:Bezplatný webinár
+DESCRIPTION:Naša členská spoločnosť Telegrafia\, a.s. pozýva na bezpl
+ atný online webinár Od obchodu po výrobu\, ktorý ukáže\, ako efektí
+ vne prepojiť obchod\, sklad a výrobu v jednom systéme.\n\nhttps://www.k
+ osiceitvalley.sk/events/od-obchodu-az-po-vyrobu
+URL:https://www.kosiceitvalley.sk/events/od-obchodu-az-po-vyrobu
+DTSTART;VALUE=DATE:20261119
+END:VEVENT
+BEGIN:VEVENT
 UID:306f1c377a7a82bd977c368ff1c4770ed56afc92@cike-events
 DTSTAMP:20250805T223722Z
 CATEGORIES:ITVALLEY
@@ -22,25 +35,12 @@ URL:https://www.kosiceitvalley.sk/events/je-vasa-firma-pripravena-fungovat-
 DTSTART;VALUE=DATE:20261119
 END:VEVENT
 BEGIN:VEVENT
-UID:66a17d068af7d49b9b28ad359a1ed435d36d17df@cike-events
-DTSTAMP:20250630T005310Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Od obchodu až po výrobu
-LOCATION:Bezplatný webinár
-DESCRIPTION:Naša členská spoločnosť Telegrafia\, a.s. pozýva na bezpl
- atný online webinár Od obchodu po výrobu\, ktorý ukáže\, ako efektí
- vne prepojiť obchod\, sklad a výrobu v jednom systéme.\n\nhttps://www.k
- osiceitvalley.sk/events/od-obchodu-az-po-vyrobu
-URL:https://www.kosiceitvalley.sk/events/od-obchodu-az-po-vyrobu
-DTSTART;VALUE=DATE:20261119
-END:VEVENT
-BEGIN:VEVENT
 UID:ca2116efa0980d6963b6b6dbad1f661fdcde2c8e@cike-events
 DTSTAMP:20251124T043147Z
 CATEGORIES:ITVALLEY
 SUMMARY:🔵 [ITVALLEY] Industry 4.0 Showroom Mitsubishi Electric: Inováci
  e\, automatizácia a budúcnosť priemyslu
-LOCATION:Krakov\, Polsko
+LOCATION:Krakov\, Poľsko
 DESCRIPTION:Navštívte Industry 4.0 Showroom Mitsubishi Electric v Krakove
   a spoznajte najnovšie riešenia v oblasti automatizácie\, robotiky\, di
  gitalizácie a smart manufacturing. Súčasťou návštevy bude aj diskusi
@@ -50,6 +50,33 @@ DESCRIPTION:Navštívte Industry 4.0 Showroom Mitsubishi Electric v Krakove
 URL:https://www.kosiceitvalley.sk/events/industry-4-0-showroom-mitsubishi-e
  lectric-inovacie-automatizacia-a-buducnost-priemyslu
 DTSTART;VALUE=DATE:20261124
+END:VEVENT
+BEGIN:VEVENT
+UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
+DTSTAMP:20250123T002446Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
+LOCATION:UVP Technicom\, Košice
+DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
+ ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
+ etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
+ ts/klubovna-pre-nadane-deti
+URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
+DTSTART;VALUE=DATE:20261201
+END:VEVENT
+BEGIN:VEVENT
+UID:0a9a64acb25e558a3a603a99c3a8a36084d6f107@cike-events
+DTSTAMP:20251109T195346Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Forbes Growclub & IT Valley Košice
+LOCATION:Textilná 7/A\, Košice
+DESCRIPTION:Prvé stretnutie s podnikateľskou komunitou Forbes Growclub! S
+ tretnutie podnikateľov je určené majiteľom firiem pôsobiacich v našo
+ m regióne\, ktorí riešia podobné výzvy.\n\nhttps://www.kosiceitvalley
+ .sk/events/forbes-growth-club-it-valley-kosice
+URL:https://www.kosiceitvalley.sk/events/forbes-growth-club-it-valley-kosic
+ e
+DTSTART;VALUE=DATE:20261202
 END:VEVENT
 BEGIN:VEVENT
 UID:b42c82dbd135da39d594296b88b4150efe48aa52@cike-events
@@ -134,19 +161,6 @@ DESCRIPTION:UX / Košice organizuje tradičné stretnutie komunity v podobe
   inšpiratívnych prednášok a networkingu.\n\nhttps://www.kosiceitvalley
  .sk/events/ux-pivo
 URL:https://www.kosiceitvalley.sk/events/ux-pivo
-DTSTART;VALUE=DATE:20261103
-END:VEVENT
-BEGIN:VEVENT
-UID:62d96164ecbf149d81fb428eb1ab5a4a42b8c115@cike-events
-DTSTAMP:20250123T002446Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Klubovňa pre nadané deti
-LOCATION:UVP Technicom\, Košice
-DESCRIPTION:Spoločenstvo Kempelena je komunita\, ktorá združuje intelekt
- ovo nadané deti a mladých ľudí a vytvára priestor na ich rozvoj\, str
- etávanie a vzájomnú inšpiráciu.\n\nhttps://www.kosiceitvalley.sk/even
- ts/klubovna-pre-nadane-deti
-URL:https://www.kosiceitvalley.sk/events/klubovna-pre-nadane-deti
 DTSTART;VALUE=DATE:20261103
 END:VEVENT
 BEGIN:VEVENT
@@ -359,21 +373,6 @@ URL:https://www.kosiceitvalley.sk/events/lokalne-korene-globalne-moznosti
 DTSTART;VALUE=DATE:20260625
 END:VEVENT
 BEGIN:VEVENT
-UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
-DTSTAMP:20250227T100732Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
-LOCATION:Hotel & Restaurant Resort Barca
-DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
- ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
- ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
- ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
- diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
- wards-2026
-URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
-DTSTART;VALUE=DATE:20260623
-END:VEVENT
-BEGIN:VEVENT
 UID:f2ed1b5d4dd669198f88f035c96d9b72fea864df@cike-events
 DTSTAMP:20251012T075924Z
 CATEGORIES:ITVALLEY
@@ -387,6 +386,21 @@ DESCRIPTION:Za posledné roky sme úspešne etablovali koncepty Summer Nigh
  ://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valley
 URL:https://www.kosiceitvalley.sk/events/summer-night-out-s-kosice-it-valle
  y
+DTSTART;VALUE=DATE:20260623
+END:VEVENT
+BEGIN:VEVENT
+UID:227c4211ebd28099caa8d7e30de9b693a8395072@cike-events
+DTSTAMP:20250227T100732Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] ESG Awards 2026
+LOCATION:Hotel & Restaurant Resort Barca
+DESCRIPTION:V Košice IT Valley otvárame druhý ročník ocenenia ESG Awar
+ ds\, iniciatívy\, ktorá oceňuje firmy a jednotlivcov významne prispiev
+ ajúcich k udržateľnému rozvoju východného Slovenska a prinášajúci
+ ch výnimočné výsledky v oblasti environmentálnych\, sociálnych a ria
+ diacich aspektov podnikania.\n\nhttps://www.kosiceitvalley.sk/events/esg-a
+ wards-2026
+URL:https://www.kosiceitvalley.sk/events/esg-awards-2026
 DTSTART;VALUE=DATE:20260623
 END:VEVENT
 BEGIN:VEVENT
@@ -1814,6 +1828,28 @@ URL:https://amcham.sk/events/3725/open-day
 DTSTART;VALUE=DATE:20261121
 END:VEVENT
 BEGIN:VEVENT
+UID:237ebadf75ad0a0db8903c3a03e729a7ff623d99@cike-events
+DTSTAMP:20250425T094124Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] SUVKO Leadership Bites
+LOCATION:The Spot\, Bratislava
+DESCRIPTION:oranized by SUVKO\n\nhttps://amcham.sk/events/3749/suvko-leader
+ ship-bites
+URL:https://amcham.sk/events/3749/suvko-leadership-bites
+DTSTART;VALUE=DATE:20261124
+END:VEVENT
+BEGIN:VEVENT
+UID:23f3120d0b9ecf423f15fa36e3807fec1ae5d5ac@cike-events
+DTSTAMP:20250316T001714Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Agile Day 2026
+LOCATION:Fakulta managementu UK
+DESCRIPTION:organized by the Faculty of Management\, Comenius University Br
+ atislava\n\nhttps://amcham.sk/events/3745/agile-day-2026
+URL:https://amcham.sk/events/3745/agile-day-2026
+DTSTART;VALUE=DATE:20261124
+END:VEVENT
+BEGIN:VEVENT
 UID:f93f2e0b87ccc8938ac37a9705203c76236aa8a6@cike-events
 DTSTAMP:20251003T024146Z
 CATEGORIES:AMCHAM
@@ -1911,6 +1947,17 @@ DESCRIPTION:Business Seminar in Košice\n\nhttps://amcham.sk/events/3747/ai
 URL:https://amcham.sk/events/3747/ai-in-action-from-agentic-ai-to-secure-bu
  siness-transformation
 DTSTART;VALUE=DATE:20261208
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c32a66c753b57a083b56910e6fd9928d7533b0@cike-events
+DTSTAMP:20250821T142556Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] ManpowerGroup Employment Outlook Survey
+LOCATION:Landererova 12\, Bratislava / Online via ZOOM
+DESCRIPTION:organized by Manpower\n\nhttps://amcham.sk/events/3750/manpower
+ group-employment-outlook-survey
+URL:https://amcham.sk/events/3750/manpowergroup-employment-outlook-survey
+DTSTART;VALUE=DATE:20261210
 END:VEVENT
 BEGIN:VEVENT
 UID:6bd672e213c75676e210fe35deaeff71cb666ef1@cike-events
@@ -2859,7 +2906,6 @@ UID:35ec0c7ed603be2e1b99e9a64cdc33320bd5443e@cike-events
 DTSTAMP:20251029T093632Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] AKO VÁM AI POMÔŽE PRITIAHNUŤ VIAC HOSTÍ
-LOCATION:Žilina\, Hálkova 31\, Hálkova 31\, Žilina\, 01001
 DESCRIPTION:Praktický sprievodca nástrojmi umelej inteligencie pre tvorbu
   marketingu\, balíčkov a ponúk\, ktoré hosťom nedovolia odísť ku ko
  nkurencii Termín: 25. november 2026 od 9:30 hod. Miesto: Žilinská regio
@@ -2986,7 +3032,6 @@ DTSTAMP:20250329T220342Z
 CATEGORIES:SOPK
 SUMMARY:🟧 [SOPK] AKO ZVÝŠIŤ OBRAT A ZISK FIRMY POMOCOU OBCHODNÝCH AK
  TIVÍT
-LOCATION:Žilina\, Hálkova 31\, Hálkova 31\, Žilina\, 01001
 DESCRIPTION:Žilinská regionálna komora SOPK Vás pozýva na odborný sem
  inár: AKO ZVÝŠIŤ OBRAT A ZISK FIRMY POMOCOU OBCHODNÝCH AKTIVÍT Term
  ín: 3.12.2026\, štvrtok  od 9.00 - 15.00 hod (prezentácia od 8:30) Mie
