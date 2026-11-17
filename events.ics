@@ -774,20 +774,6 @@ URL:https://www.kosiceitvalley.sk/events/dam-how-to-build-a-startup-as-a-st
 DTSTART;VALUE=DATE:20260415
 END:VEVENT
 BEGIN:VEVENT
-UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
-DTSTAMP:20250328T161828Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] AI Community Meetup
-LOCATION:Tabačka- kino\, Košice
-DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
- 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
-  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
- nadšencov umelej inteligencie – od študentov až po profesionálov z p
- raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
-URL:https://www.kosiceitvalley.sk/events/ai-meetup
-DTSTART;VALUE=DATE:20260409
-END:VEVENT
-BEGIN:VEVENT
 UID:75703ed0a09947b64a345e581e72fd20435a68a9@cike-events
 DTSTAMP:20250618T072022Z
 CATEGORIES:ITVALLEY
@@ -802,6 +788,20 @@ DESCRIPTION:Odborný online webinár zameraný na pripravovanú smernicu E
  novania-smernica-eu
 URL:https://www.kosiceitvalley.sk/events/odborny-webinar-transparentnost-od
  menovania-smernica-eu
+DTSTART;VALUE=DATE:20260409
+END:VEVENT
+BEGIN:VEVENT
+UID:b173e3f3433d4a0013dac03e352e5dd1029bf699@cike-events
+DTSTAMP:20250328T161828Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] AI Community Meetup
+LOCATION:Tabačka- kino\, Košice
+DESCRIPTION:Pozývame vás na AI Meetup\, ktorý sa uskutoční 9. apríla 
+ 2026 v Tabačke Kulturfabrik v Košiciach. Podujatie organizuje Košice IT
+  Valley v spolupráci so spoločnosťou AT&T a je určené pre všetkých 
+ nadšencov umelej inteligencie – od študentov až po profesionálov z p
+ raxe.\n\nhttps://www.kosiceitvalley.sk/events/ai-meetup
+URL:https://www.kosiceitvalley.sk/events/ai-meetup
 DTSTART;VALUE=DATE:20260409
 END:VEVENT
 BEGIN:VEVENT
@@ -1836,6 +1836,20 @@ LOCATION:The Spot\, Bratislava
 DESCRIPTION:oranized by SUVKO\n\nhttps://amcham.sk/events/3749/suvko-leader
  ship-bites
 URL:https://amcham.sk/events/3749/suvko-leadership-bites
+DTSTART;VALUE=DATE:20261124
+END:VEVENT
+BEGIN:VEVENT
+UID:96eaa74162216787c3c025290323a4b9c581c702@cike-events
+DTSTAMP:20250307T101813Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Burnout as a Manageable Risk: How to Identify the Cau
+ ses and Implement Prevention
+LOCATION:Online Webinar
+DESCRIPTION:webinar organized by Up Déjeuner\n\nhttps://amcham.sk/events/3
+ 751/burnout-as-a-manageable-risk-how-to-identify-the-causes-and-implement-
+ prevention
+URL:https://amcham.sk/events/3751/burnout-as-a-manageable-risk-how-to-ident
+ ify-the-causes-and-implement-prevention
 DTSTART;VALUE=DATE:20261124
 END:VEVENT
 BEGIN:VEVENT
@@ -3010,6 +3024,19 @@ URL:https://www.sopk.sk/event/danove-a-nedanove-vydavky-v-praxi-ako-sa-vyhn
  ut-najcastejsim-chybam
 DTSTART:20261201T080000Z
 DTEND:20261201T140000Z
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee9ebc724446745d3869dc5dafcc9c816336596@cike-events
+DTSTAMP:20251027T023339Z
+CATEGORIES:SOPK
+SUMMARY:🟧 [SOPK] FINANČÝ PLÁN. FORECAST. 2027.
+DESCRIPTION:PLÁN. FORECAST. 2027. Naplánujte financie firmy na rok 2027 u
+ ž dnes Ako skončí vaša firma rok 2026? Budete mať v roku 2027 dostato
+ k financií na plánovaný rast\, investície a úvery? Nespoliehajte [...
+ ] \\n\n\nhttps://www.sopk.sk/event/plan-forecast-2027
+URL:https://www.sopk.sk/event/plan-forecast-2027
+DTSTART:20261202T230000Z
+DTEND:20261204T225959Z
 END:VEVENT
 BEGIN:VEVENT
 UID:e6e9830aba44339e9de11770797e66030d1fdaa4@cike-events
