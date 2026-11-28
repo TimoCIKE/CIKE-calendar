@@ -489,6 +489,22 @@ URL:https://www.kosiceitvalley.sk/events/finale-lab-it-creativity-5
 DTSTART;VALUE=DATE:20260609
 END:VEVENT
 BEGIN:VEVENT
+UID:40130c11382592cee13a94bffeaa810837fece79@cike-events
+DTSTAMP:20250922T105630Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Focus Groups: Budúcnosť je automotive
+LOCATION:UVP Technicom
+DESCRIPTION:V spolupráci s Business Košice po konferencii dňa 9.6.2026 n
+ adviažeme na diskusiu pracovným stretnutím\, ktorého cieľom je premen
+ iť idey na konkrétne kroky. Formát troch facilitovaných workshopov pri
+ nesie priestor na hlbšiu spoluprácu\, výmenu skúseností a návrh rie
+ šení pre budúcnosť regiónu.\n\nhttps://www.kosiceitvalley.sk/events/f
+ ocus-groups-buducnost-je-automotive
+URL:https://www.kosiceitvalley.sk/events/focus-groups-buducnost-je-automoti
+ ve
+DTSTART;VALUE=DATE:20260609
+END:VEVENT
+BEGIN:VEVENT
 UID:79243f92998450556d36af5d241ff3c1e98452dd@cike-events
 DTSTAMP:20250919T121826Z
 CATEGORIES:ITVALLEY
@@ -622,22 +638,6 @@ URL:https://www.kosiceitvalley.sk/events/code-meets-industry
 DTSTART;VALUE=DATE:20260521
 END:VEVENT
 BEGIN:VEVENT
-UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
-DTSTAMP:20250824T052620Z
-CATEGORIES:ITVALLEY
-SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
- iadenie firiem v roku 2026
-LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
-DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
- že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
- lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
-  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
- -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
-URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
- a-ai-menia-riadenie-firiem-v-roku-2026
-DTSTART;VALUE=DATE:20260520
-END:VEVENT
-BEGIN:VEVENT
 UID:e66cd33bcf2f38fb5257e98deb8ab4bcc5d07967@cike-events
 DTSTAMP:20250827T084058Z
 CATEGORIES:ITVALLEY
@@ -652,6 +652,22 @@ DESCRIPTION:Konferencia prináša pohľad na automobilový priemysel ako k
  ferencia
 URL:https://www.kosiceitvalley.sk/events/region-buducnosti-automotive-konfe
  rencia
+DTSTART;VALUE=DATE:20260520
+END:VEVENT
+BEGIN:VEVENT
+UID:dee7e62ea588eceba08feef4ae8d9601de29b61a@cike-events
+DTSTAMP:20250824T052620Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] Seminár: Objavte\, ako digitalizácia a AI menia r
+ iadenie firiem v roku 2026
+LOCATION:Telegrafia\, a.s.\, Lomená 1\, Košice
+DESCRIPTION:Na seminári vám naša členská spoločnosť Telegrafia uká
+ že \, ako mať všetky kľúčové informácie na jednom mieste a robiť 
+ lepšie rozhodnutia pomocou moderného ERP systému Microsoft Dynamics 365
+  Business Central.\n\nhttps://www.kosiceitvalley.sk/events/seminar-objavte
+ -ako-digitalizacia-a-ai-menia-riadenie-firiem-v-roku-2026
+URL:https://www.kosiceitvalley.sk/events/seminar-objavte-ako-digitalizacia-
+ a-ai-menia-riadenie-firiem-v-roku-2026
 DTSTART;VALUE=DATE:20260520
 END:VEVENT
 BEGIN:VEVENT
@@ -1120,6 +1136,22 @@ DESCRIPTION:Neformálny večer pre podnikateľov\, freelancerov a startupis
  itvalley.sk/events/fail-fast-grow-smart
 URL:https://www.kosiceitvalley.sk/events/fail-fast-grow-smart
 DTSTART;VALUE=DATE:20251027
+END:VEVENT
+BEGIN:VEVENT
+UID:fe32f8a37640c009b52247787638be4e48dbdefa@cike-events
+DTSTAMP:20250725T223408Z
+CATEGORIES:ITVALLEY
+SUMMARY:🔵 [ITVALLEY] PROMPT TO PRODUCTION\, Ako stavať a spravovať AI 
+ systémy
+LOCATION:Kasárne/Kulturpark\, budova Bravo - 3. poschodie
+DESCRIPTION:Cassovia Code Meetup ukáže\, ako premeniť LLM z experimentu 
+ na spoľahlivý a efektívny prvok komplexných riešení. O svoje skúsen
+ osti sa podelia Martin Majerníček (Nordics) a Viktor Mitruk (First Line 
+ Software).\n\nhttps://www.kosiceitvalley.sk/events/prompt-to-production-ak
+ o-stavat-a-spravovat-ai-systemy
+URL:https://www.kosiceitvalley.sk/events/prompt-to-production-ako-stavat-a-
+ spravovat-ai-systemy
+DTSTART;VALUE=DATE:20251022
 END:VEVENT
 BEGIN:VEVENT
 UID:824a18c3e006d39aa962abc14ad77fefe8833374@cike-events
@@ -1772,18 +1804,6 @@ URL:https://www.kosiceitvalley.sk/events/workshop-pre-zeny-digitalny-market
 DTSTART;VALUE=DATE:20240516
 END:VEVENT
 BEGIN:VEVENT
-UID:fd7a1849679f179129582b53d2359497e4ecbea7@cike-events
-DTSTAMP:20250501T021937Z
-CATEGORIES:AMCHAM
-SUMMARY:🟢 [AMCHAM] Thanksgiving Gala Charity Dinner
-LOCATION:Bratislava Castle\, Bratislava
-DESCRIPTION:Dream. Dare. Do! Stories That Shine!\n\nhttps://amcham.sk/event
- s/3585/thanksgiving-gala-charity-dinner
-URL:https://amcham.sk/events/3585/thanksgiving-gala-charity-dinner
-DTSTART;VALUE=DATE:20261127
-DTEND;VALUE=DATE:20261129
-END:VEVENT
-BEGIN:VEVENT
 UID:15a0e9aed09bdd957511f7056402b38f10a9b5b8@cike-events
 DTSTAMP:20251013T075137Z
 CATEGORIES:AMCHAM
@@ -1902,6 +1922,18 @@ DESCRIPTION:Conference\n\nhttps://amcham.sk/events/3746/energy-digital-conf
  erence-2027
 URL:https://amcham.sk/events/3746/energy-digital-conference-2027
 DTSTART;VALUE=DATE:20260316
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7a1849679f179129582b53d2359497e4ecbea7@cike-events
+DTSTAMP:20250501T021937Z
+CATEGORIES:AMCHAM
+SUMMARY:🟢 [AMCHAM] Thanksgiving Gala Charity Dinner
+LOCATION:Bratislava Castle\, Bratislava
+DESCRIPTION:Dream. Dare. Do! Stories That Shine!\n\nhttps://amcham.sk/event
+ s/3585/thanksgiving-gala-charity-dinner
+URL:https://amcham.sk/events/3585/thanksgiving-gala-charity-dinner
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261129
 END:VEVENT
 BEGIN:VEVENT
 UID:6ddc2c3d5621d2bfea831561b3a3b056de5345ba@cike-events
